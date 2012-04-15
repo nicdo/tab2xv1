@@ -1,0 +1,53 @@
+ tab2xv1.py v0.1
+ Konwerter plików tab (tekstowy plik słownika w formacie "definicja\thasło\n")
+ (c) CC-BY Krzysztof Palka kpalka.vot.pl
+
+         "Gdy pisałem ten kod tylko Bóg i ja wiedzieliśmy o co w nim chodzi...
+          ... teraz wie tylko Bóg."
+
+Tym skryptem można przekonwertować pliki win programu Wielki Słownik
+PWN-Oxford do formatu Xlatora.
+
+Przy spadającej liczbie telefonów obsługujących MIDP2 oraz z systemem
+Symbian, w dobie Androida, może przydać się już nie wielu osobom :/
+
+Pliki win można przekonwertować do tab za pomocą skryptu pwn2dict
+[http://my.opera.com/mziab/blog/pwn2dict-2-4]
+
+otrzymane z tego skryptu piki xv1 można przekonwertować do formatu
+Xlatora (xv2) za pomocą konwertera ze strony
+[http://www.farbiszowie.is.net.pl/Xlator/]
+
+Przy pliku z konwerterem powinien znaleźć się plik z amerykańską
+wymową (tab-pronoun.txt), jeśli nie chcesz dodawać jej do definicji wykomentuj część "for AmE"
+
+pliki załadujesz zmieniając nazwę przy odpowiedniej funkcji "open()"
+
+Nie chce mi się już ulepszać tego kodu ani tworzyć ładnego interfejsu.
+Oddaję wam użytecznego śmiecia, od ponad roku leży zakurzony na dysku
+a nie chcę, żeby przy którymś formacie bezpowrotnie przepadł :)
+
+Plik 2colindex.xv2 colors.jpeg colors.html są wynikiem próby (udanej)
+uzyskania odpowiedzi na pytanie: jaki kod odpowiada za jaki kolor (w
+wersji Xlatora na Javę można kolorować tekst, na Symbianie chyba to
+nie działa). 
+
+Zamienione znaki IPA:
+ʌ - ^
+ɑ - a
+æ - @
+ə - ¤ 
+t̬ - t¸
+ɚ - ¤~
+ɜ - E
+з - E
+ε - E
+ɪ - î    
+ɒ - o
+ɔ - ©
+ʊ - U
+ʒ - 3
+ð - đ
+θ - 0
+ŋ - n¸'
+ʃ - §

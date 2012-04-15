@@ -1,0 +1,16 @@
+﻿00 - 03: 01 00 00 00
+04 - 13: nazwa (16 znaków)
+14 - 17: 2C 00 00 00
+18 - 1B: ilość definicji [int32]
+1C - 1F: 9A 02 00 00
+20 - 31: sms://+48666999666
+32 - 3F: null
+40 - 43: offset pierwszego pojęcia [int32]
+44 - 47: 4C 00 00 00
+
+{dane do T9(?)}
+
+offsety kolejnych pojęć [int32]
+
+definicje
+długość pojęcia [int8]; pojęcie; numer pojęcia [int32]; długość definicji [int16]; definicja
