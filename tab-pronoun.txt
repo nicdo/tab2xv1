@@ -5515,16 +5515,16 @@ haggard	/ˈhægɚd/
 haggle	/ˈhægəl/
 hail 1	/ˈheɪl/
 hailstone	/ˈheɪlˌstoːn/
-hair	/ˈhær/
-hairbrush	/ˈhærˌbrʌʃ/
-haircut	/ˈhærˌkʌt/
-hairdo	/ˈhærˌduː/
-hairdresser	/ˈhærˌdrεsɚ/
-hairless	/ˈhærləs/
-hairpin	/ˈhærˌpɪn/
-hair–raising	/ˈhærˌreɪzɪŋ/
-hairstyle	/ˈhærˌstaɪl/
-hairy	/ˈhæri/
+hair	/ˈhεər/
+hairbrush	/ˈhεərˌbrʌʃ/
+haircut	/ˈhεərˌkʌt/
+hairdo	/ˈhεərˌduː/
+hairdresser	/ˈhεərˌdrεsɚ/
+hairless	/ˈhεərləs/
+hairpin	/ˈhεərˌpɪn/
+hair–raising	/ˈhεərˌreɪzɪŋ/
+hairstyle	/ˈhεərˌstaɪl/
+hairy	/ˈhεəri/
 hale	/ˈheɪl/
 half	/ˈhæf, ˈhaf/
 halves	/ˈhævz, ˈhavz/
@@ -5593,10 +5593,10 @@ hard–hearted	/ˌhɑrdˈhɑrt̬əd/
 hardly	/ˈhɑrdli/
 hardness	/ˈhɑrdnəs/
 hardship	/ˈhɑrdˌʃɪp/
-hardware	/ˈhɑrdˌwær/
+hardware	/ˈhɑrdˌwεər/
 hardworking	/ˈhɑrdˈwɚkɪŋ/
 hardy	/ˈhɑrdi/
-hare	/ˈhær/
+hare	/ˈhεər/
 harm	/ˈhɑrm/
 harmful	/ˈhɑrmfəl/
 harmless	/ˈhɑrmləs/
@@ -5711,9 +5711,9 @@ hefty	/ˈhεfti/
 heifer	/ˈhεfɚ/
 height	/ˈhaɪt/
 heighten	/ˈhaɪtən/
-heir	/ˈær/
-heiress	/ˈærəs/
-heirloom	/ˈærˌluːm/
+heir	/ˈεər/
+heiress	/ˈεərəs/
+heirloom	/ˈεərˌluːm/
 helicopter	/ˈhεləˌkɑptɚ/
 hell	/ˈhεl/
 hellish	/ˈhεlɪʃ/
@@ -5791,7 +5791,7 @@ hijack	/ˈhaɪˌdƷæk/
 hijacker	/ˈhaɪˌdƷækɚ/
 hike	/ˈhaɪk/
 hiker	/ˈhaɪkɚ/
-hilarious	/hɪˈlæriəs, haɪˈ-/
+hilarious	/hɪˈlεəriəs, haɪˈ-/
 hilarity	/hɪˈlærət̬i, haɪ-/
 hill	/ˈhɪl/
 hillside	/ˈhɪlˌsaɪd/
@@ -5977,7 +5977,7 @@ hump	/ˈhʌmp/
 hunch	/ˈhʌntʃ/
 hundred	/ˈhʌndrəd/
 hundredth	/ˈhʌndrədθ/
-Hungarian	/hʌŋˈgæriən/
+Hungarian	/hʌŋˈgεəriən/
 hunger	/ˈhʌŋgɚ/
 hungry	/ˈhʌŋgri/
 hunk	/ˈhʌŋk/
@@ -6135,7 +6135,7 @@ immunization	/ˌɪmjʊnəˈzeɪʃən/
 immunize	/ˈɪmjʊˌnaɪz/
 imp	/ˈɪmp/
 impact	/ˈɪmˌpækt/
-impair	/ɪmˈpær/
+impair	/ɪmˈpεər/
 impart	/ɪmˈpɑrt/
 impartial	/ɪmˈpɑrʃəl/
 impartiality	/ɪmˌpɑrʃiˈælət̬i/
@@ -6685,7 +6685,7 @@ invade	/ɪnˈveɪd/
 invalid 1	/ɪnˈvæləd/
 invalid 2	/ˈɪnvələd/
 invaluable	/ɪnˈvæljəbəl, -ˈvæljʊə-/
-invariable	/ɪnˈværiəbəl/
+invariable	/ɪnˈvεəriəbəl/
 invasion	/ɪnˈveɪƷən/
 invent	/ɪnˈvεnt/
 invention	/ɪnˈvεntʃən/
@@ -7016,7 +7016,7 @@ ladylike	/ˈleɪdiˌlaɪk/
 lag	/ˈlæg/
 lager	/ˈlɑgɚ/
 lagoon	/ləˈguːn/
-lair	/ˈlær/
+lair	/ˈlεər/
 lake	/ˈleɪk/
 lamb	/ˈlæm/
 lame	/ˈleɪm/
@@ -7053,8 +7053,8 @@ lark	/ˈlɑrk/
 larva	/ˈlɑrvə/
 vae	/-ˌviː, -ˌvaɪ/
 larynx	/ˈlærɪŋks/
-rynges	/ləˈrɪnˌdƷiːz/
-ynxes	/ˈlærɪŋksəz/
+larynges	/ləˈrɪnˌdƷiːz/
+laynxes	/ˈlærɪŋksəz/
 laryngitis	/ˌlærənˈdƷaɪt̬əs/
 lasagna	/ləˈzɑnjə/
 laser	/ˈleɪzɚ/
@@ -7592,7 +7592,7 @@ marathon	/ˈmærəˌθɑn/
 marble	/ˈmɑrbəl/
 march	/ˈmɑrtʃ/
 March	/ˈmɑrtʃ/
-mare	/ˈmær/
+mare	/ˈmεər/
 margarine	/ˈmɑrdƷɚən/
 margin	/ˈmɑrdƷən/
 marginal	/ˈmɑrdƷənəl/
@@ -7828,7 +7828,7 @@ microscope	/ˈmaɪkrəˌskoːp/
 microscopic	/ˌmaɪkrəˈskɑpɪk/
 microwave	/ˈmaɪkrəˌweɪv/
 mid	/ˈmɪd/
-midair	/ˈmɪdˈær/
+midair	/ˈmɪdˈεər/
 midday	/ˈmɪdˈdeɪ/
 middle	/ˈmɪdəl/
 middle–aged	/ˌmɪdəlˈeɪdƷd/
@@ -7868,7 +7868,7 @@ miller	/ˈmɪlɚ/
 milligram	/ˈmɪləˌgræm/
 millimetre	/ˈmɪləˌmiːt̬ɚ/
 million	/ˈmɪljən/
-millionaire	/ˌmɪljəˈnær, ˈmɪljəˌnær/
+millionaire	/ˌmɪljəˈnεər, ˈmɪljəˌnεər/
 millionth	/ˈmɪljənθ/
 mime	/ˈmaɪm/
 mimic	/ˈmɪmɪk/
