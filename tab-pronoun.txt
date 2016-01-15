@@ -81,7 +81,7 @@ accelerate	/ɪkˈsεləˌreɪt, æk-/
 acceleration	/ɪkˌsεləˈreɪʃən, æk-/
 accent	/ˈækˌsεnt, ækˈsεnt/
 ~	/ˈækˌsεnt, sənt/
-accentuate	/ɪkˈsεntæʊˌeɪt, æk-/
+accentuate	/əkˈsεntʃʊˌeɪt, æk-/
 accept	/ɪkˈsεpt, æk-/
 acceptable	/ɪkˈsεptəbəl, æk-/
 acceptance	/ɪkˈsεptənts, æk-/
@@ -621,7 +621,7 @@ archeology	/ˌɑrkiˈɑlədƷi/
 archaeological	/ˌɑrkiəˈlɑdƷɪkəl/
 archaeologist	/ˌɑrkiˈɑlədƷɪst/
 archaic	/ɑrˈkeɪɪk/
-archbishop	/ɑrtæˈbɪʃəp/
+archbishop	/ɑrtʃˈbɪʃəp/
 archery	/ˈɑrtʃɚi/
 archipelago	/ˌɑrkəˈpεləˌgoː, ˌɑrtʃə-/
 gos	/-goːz/
