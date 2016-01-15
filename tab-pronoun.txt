@@ -2904,7 +2904,7 @@ currant	/ˈkɚənt/
 currency	/ˈkɚəntsi/
 current	/ˈkɚənt/
 curriculum	/kəˈrɪkjələm/
-la	/-lə/
+curricula	/kəˈrɪkjələ/
 curry	/ˈkɚi/
 curse	/ˈkɚs/
 cursor	/ˈkɚsɚ/
@@ -7673,8 +7673,8 @@ matinée	/ˌmætənˈeɪ/
 matrimony	/ˈmætrəˌmoːni/
 matrimonial	/ˌmætrəˈmoːniəl/
 matrix	/ˈmeɪtrɪks/
-trices	/ˈmeɪtrəˌsiːz, ˈmæ-/
-trixes	/ˈmeɪtrɪksəz/
+matrices	/ˈmeɪtrəˌsiːz, ˈmæ-/
+matrixes	/ˈmeɪtrɪksəz/
 matte	/ˈmæt/
 matter	/ˈmæt̬ɚ/
 mattress	/ˈmætrəs/
@@ -13639,7 +13639,7 @@ venerable	/ˈvεnɚəbəl/
 venerate	/ˈvεnəˌreɪt/
 veneration	/ˌvεnəˈreɪʃən/
 venereal	/vəˈnɪriəl/
-blind	/vəˈniːʃən-/
+venetian blind	/vəˌniːʃən ˈblaɪnd/
 Venezuelan	/ˌvεnəˈzweɪlən, -zʊˈeɪ-/
 vengeance	/ˈvεndƷənts/
 vengeful	/ˈvεndƷfəl/
@@ -13672,7 +13672,7 @@ versed	/ˈvɚst/
 version	/ˈvɚƷən/
 versus	/ˈvɚsəs/
 vertebra	/ˈvɚtəbrə/
-brae	/-ˌbreɪ, -ˌbriː/
+verterbrae	/ˈvɚtəbreɪ, -ˌbriː/
 vertical	/ˈvɚtɪkəl/
 vertigo	/ˈvɚtɪˌgoː/
 verve	/ˈvɚv/
@@ -14252,7 +14252,7 @@ wry	/ˈraɪ/
 wrier	/ˈraɪɚ/
 wriest	/ˈraɪəst/
 xs	/ˈεksəz/
-ray	/ˈεksˌreɪ/
+X-ray	/ˈεksˌreɪ/
 xenophobia	/ˌzεnəˈfoːbiə, ˌziː-/
 Xmas	/ˈkrɪsməs/
 xylophone	/ˈzaɪləˌfoːn/
