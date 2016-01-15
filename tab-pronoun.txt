@@ -3185,8 +3185,9 @@ deploy	/diˈplɔɪ/
 deport	/diˈport/
 deportation	/ˌdiˌporˈteɪʃən/
 depose	/diˈpoːz/
-deposit	/diˈpɑzət/
-depot	/in sense 1 usu ˈdεˌpoː, 2 usu ˈdiː-/
+deposit	/diˈpɑzə/
+depot (station) /ˈdεˌpoː, ˈdiː-/
+depot (storage place) /ˈdiːpoː/
 depreciate	/diˈpriːʃiˌeɪt/
 depreciation	/diˌpriːʃiˈeɪʃən/
 depress	/diˈprεs/
