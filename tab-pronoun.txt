@@ -9041,7 +9041,8 @@ pasty	/ˈpeɪsti/
 pat	/ˈpæt/
 patch	/ˈpætʃ/
 patchy	/ˈpætʃi/
-patent</span> <i>adj</i> <span class="pronunciation">[ˈpæt<i>ə</i>nt]</span> <span class="sensenumber">1</span> <i>or</i> <b>patented</b> <span class="pronunciation">[ˈpæt<i>ə</i>ntəd]</span> <b>:</b> patentado <span class="sensenumber">2	/ˈpætənt, ˈpeɪt-/
+patent /ˈpætənt/
+patent (adj) /ˈpætənt, ˈpeɪt-/
 patented	/ˈpætəntəd/
 paternal	/pəˈtɚnəl/
 paternity	/pəˈtɚnət̬i/
