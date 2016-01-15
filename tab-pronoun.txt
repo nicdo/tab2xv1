@@ -2953,7 +2953,7 @@ daffodil	/ˈdæfəˌdɪl/
 dagger	/ˈdægɚ/
 daily	/ˈdeɪli/
 dainty	/ˈdeɪnti/
-dairy	/ˈdæri/
+dairy	/ˈdεəri/
 daisy	/ˈdeɪzi/
 dam	/ˈdæm/
 damage	/ˈdæmɪdƷ/
@@ -2972,9 +2972,9 @@ dangerous	/ˈdeɪndƷɚəs/
 dangle	/ˈdæŋgəl/
 Danish	/ˈdeɪnɪʃ/
 dank	/ˈdæŋk/
-dare	/ˈdær/
-daredevil	/ˈdærˌdεvəl/
-daring	/ˈdærɪŋ/
+dare	/ˈdεər/
+daredevil	/ˈdεərˌdεvəl/
+daring	/ˈdεərɪŋ/
 dark	/ˈdɑrk/
 darken	/ˈdɑrkən/
 darkness	/ˈdɑrknəs/
@@ -3049,7 +3049,7 @@ decipher	/diˈsaɪfɚ/
 decision	/dɪˈsɪƷən/
 decisive	/dɪˈsaɪsɪv/
 deck	/ˈdεk/
-declare	/diˈklær/
+declare	/diˈklεər/
 declaration	/ˌdεkləˈreɪʃən/
 decline	/diˈklaɪn/
 decode	/diˈkoːd/
@@ -3224,7 +3224,7 @@ desire	/diˈzaɪr/
 desirable	/diˈzaɪrəbəl/
 desk	/ˈdεsk/
 desolate	/ˈdεsələt, -zə-/
-despair	/diˈspær/
+despair	/diˈspεər/
 desperate	/ˈdεspɚət/
 desperation	/ˌdεspəˈreɪʃən/
 despise	/diˈspaɪz/
@@ -3485,7 +3485,7 @@ dispute	/dɪsˈpjuːt/
 disqualification	/dɪsˌkwɑləfəˈkeɪʃən/
 disqualify	/dɪsˈkwɑləˌfaɪ/
 disregard	/ˌdɪsrɪˈgɑrd/
-disrepair	/ˌdɪsrɪˈpær/
+disrepair	/ˌdɪsrɪˈpεər/
 disreputable	/dɪsˈrεpjʊt̬əbəl/
 disrespect	/ˌdɪsrɪˈspεkt/
 disrespectful	/ˌdɪsrɪˈspεktfəl/
@@ -3626,8 +3626,8 @@ downhearted	/ˈdaʊnˌhɑrt̬əd/
 downhill	/ˈdaʊnˈhɪl/
 downpour	/ˈdaʊnˌpor/
 downright	/ˈdaʊnˌraɪt/
-downstairs	/ˈdaʊnˈstærz/
-~	/ˈdaʊnˌstærz/
+downstairs	/ˈdaʊnˈstεərz/
+~	/ˈdaʊnˌstεərz/
 downstream	/ˈdaʊnˈstriːm/
 down–to–earth	/ˌdaʊntuˈɚth/
 downtown	/ˌdaʊnˈtaʊn, ˈdaʊnˌtaʊn/
@@ -3783,7 +3783,7 @@ earphone	/ˈɪrˌfoːn/
 earring	/ˈɪrˌrɪŋ/
 earshot	/ˈɪrˌʃɑt/
 earth	/ˈɚθ/
-earthenware	/ˈɚθən ˌwær, -ðən-/
+earthenware	/ˈɚθən ˌwεər, -ðən-/
 earthly	/ˈɚθli/
 earthquake	/ˈɚθˌkweɪk/
 earthworm	/ˈɚθˌwɚm/
@@ -4375,10 +4375,10 @@ failure	/ˈfeɪljɚ/
 faint	/ˈfeɪnt/
 fainthearted	/ˈfeɪntˈhɑrt̬əd/
 faintly	/ˈfeɪntli/
-fair 1	/ˈfær/
-fairly	/ˈfærli/
-fairness	/ˈfærnəs/
-fairy	/ˈfæri/
+fair 1	/ˈfεər/
+fairly	/ˈfεərli/
+fairness	/ˈfεərnəs/
+fairy	/ˈfεəri/
 faith	/ˈfeɪθ/
 faiths	/ˈfeɪθs, ˈfeɪðz/
 faithful	/ˈfeɪθfəl/
@@ -4410,7 +4410,7 @@ fanatical	/-t̬ɪkəl/
 fanaticism	/fəˈnæt̬əˌsɪzəm/
 fancy	/ˈfæntsi/
 fanciful	/ˈfæntsɪfəl/
-fanfare	/ˈfænˌfær/
+fanfare	/ˈfænˌfεər/
 fang	/ˈfæŋ/
 fantasy	/ˈfæntəsi/
 fantasize	/ˈfæntəˌsaɪz/
@@ -4421,8 +4421,8 @@ further	/ˈfɚ-/
 furthest	/-ðəst/
 faraway	/ˈfɑrəˌweɪ/
 farce	/ˈfɑrs/
-fare	/ˈfær/
-farewell	/færˈwεl/
+fare	/ˈfεər/
+farewell	/fεərˈwεl/
 farm	/ˈfɑrm/
 farmer	/ˈfɑrmɚ/
 farmhand	/ˈfɑrmˌhænd/
@@ -4643,7 +4643,7 @@ flaccid	/ˈflæksəd, ˈflæsəd/
 flag 1	/ˈflæg/
 flagpole	/ˈflægˌpoːl/
 flagrant	/ˈfleɪgrənt/
-flair	/ˈflær/
+flair	/ˈflεər/
 flake	/ˈfleɪk/
 flamboyant	/flæmˈbɔɪənt/
 flame	/ˈfleɪm/
@@ -4653,7 +4653,7 @@ flank	/ˈflæŋk/
 flannel	/ˈflænəl/
 flap	/ˈflæp/
 flapjack	/ˈflæpˌdƷæk/
-flare	/ˈflær/
+flare	/ˈflεər/
 flash	/ˈflæʃ/
 flashlight	/ˈflæʃˌlaɪt/
 flashy	/ˈflæʃi/
@@ -4791,7 +4791,7 @@ footpath	/ˈfʊtˌpæθ/
 footprint	/ˈfʊtˌprɪnt/
 footstep	/ˈfʊtˌstεp/
 footstool	/ˈfʊtˌstuːl/
-footwear	/ˈfʊtˌwær/
+footwear	/ˈfʊtˌwεər/
 for	/ˈfɔr/
 forage	/ˈfɔrɪdƷ/
 foray	/ˈfɔrˌeɪ/
@@ -5091,7 +5091,7 @@ garden	/ˈgɑrdən/
 gardener	/ˈgɑrdənɚ/
 gardening	/ˈgɑrdənɪŋ/
 gargle	/ˈgɑrgəl/
-garish	/ˈgærɪʃ/
+garish	/ˈgεərɪʃ/
 garland	/ˈgɑrlənd/
 garlic	/ˈgɑrlɪk/
 garment	/ˈgɑrmənt/
@@ -5217,10 +5217,10 @@ glamour	/ˈglæmɚ/
 glamorous	/ˈglæmɚəs/
 glance	/ˈglænts/
 gland	/ˈglænd/
-glare	/ˈglær/
-glaring	/ˈglærɪŋ/
+glare	/ˈglεər/
+glaring	/ˈglεərɪŋ/
 glass	/ˈglæs/
-glassware	/ˈglæsˌwær/
+glassware	/ˈglæsˌwεər/
 glassy	/ˈglæsi/
 glaze	/ˈgleɪz/
 gleam	/ˈgliːm/
@@ -5276,7 +5276,7 @@ goddess	/ˈgɑdəs, ˈgɔ-/
 godchild	/ˈgɑdˌtʃaɪld, ˈgɔd-/
 godfather	/ˈgɑdˌfaðɚ, ˈgɔd-/
 godmother	/ˈgɑdˌmʌðɚ, ˈgɔd-/
-godparents	/ˈgɑdˌpærənt, ˈgɔd-/
+godparents	/ˈgɑdˌpεərənt, ˈgɔd-/
 godsend	/ˈgɑdˌsεnd, ˈgɔd-/
 goggles	/ˈgɑgəlz/
 goings–on	/ˌgoːɪŋzˈɑn, -ˈɔn/
@@ -5337,7 +5337,7 @@ grandeur	/ˈgrændƷɚ/
 grandfather	/ˈgrændˌfɑðɚ/
 grandiose	/ˈgrændiˌoːs, ˌgrændiˈ-/
 grandmother	/ˈgrændˌmʌðɚ/
-grandparents	/ˈgrændˌpærənt/
+grandparents	/ˈgrændˌpεərənt/
 grandson	/ˈgrændˌsʌn/
 grandstand	/ˈgrændˌstænd/
 granite	/ˈgrænɪt/
@@ -5388,7 +5388,7 @@ greenery	/ˈgriːnɚi/
 greenhouse	/ˈgriːnˌhaʊs/
 greet	/ˈgriːt/
 greeting	/ˈgriːt̬ɪŋ/
-gregarious	/grɪˈgæriəs/
+gregarious	/grɪˈgεəriəs/
 grenade	/grəˈneɪd/
 greyhound	/ˈgreɪˌhaʊnd/
 grid	/ˈgrɪd/
