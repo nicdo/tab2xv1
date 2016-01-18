@@ -317,7 +317,7 @@ ale	/ˈeɪl/
 alert	/əˈlɚt/
 alfalfa	/ælˈfælfə/
 alga	/ˈælgə/
-gae	/ˈælˌdƷiː/
+algae	/ˈælˌdƷiː/
 algebra	/ˈældƷəbrə/
 alias	/ˈeɪliəs/
 alibi	/ˈæləˌbaɪ/
@@ -434,7 +434,7 @@ amusement	/əˈmjuːzmənt/
 analogy	/əˈnælədƷi/
 analogous	/əˈnæləgəs/
 analysis	/əˈnæləsəs/
-yses	/-ˌsiːz/
+analyses	/əˈnæləˌsiːz/
 analytic	/ˌænəˈlɪt̬ɪk/
 analytical	/-t̬ɪkəl/
 analyze	/ˈænəˌlaɪz/
@@ -519,7 +519,7 @@ antiquity	/ænˈtɪkwə-t̬i/
 antiseptic	/ˌæntəˈsεptɪk/
 antisocial	/ˌæntiˈsoːʃəl, ˌæntaɪ-/
 antithesis	/ænˈtɪθəsɪs/
-eses	/-ˌsiːz/
+antitheses	/ænˈtɪθəˌsiːz/
 anti–Semitic	/ˌæntisəˈmɪt̬ɪk, ˌæntaɪ-/
 antlers	/ˈæntlɚz/
 antonym	/ˈæntəˌnɪm/
@@ -606,7 +606,7 @@ apropos	/ˌæprəˈpoː, ˈæprəˌpoː/
 apt	/ˈæpt/
 aptitude	/ˈæptəˌtuːd, -ˌtjuːd/
 aquarium	/əˈkwεəriəm/
-ia	/-iə/
+aquaria	/əˈkwεəriə/
 aquatic	/əˈkwɑt̬ɪk, -ˈkwæ-/
 aqueduct	/ˈækwəˌdʌkt/
 Arab	/ˈærəb/
@@ -624,7 +624,7 @@ archaic	/ɑrˈkeɪɪk/
 archbishop	/ɑrtʃˈbɪʃəp/
 archery	/ˈɑrtʃɚi/
 archipelago	/ˌɑrkəˈpεləˌgoː, ˌɑrtʃə-/
-gos	/-goːz/
+archipelagos	/-goːz/
 architecture	/ˈɑrkəˌtεktʃɚ/
 architect	/ˈɑrkəˌtεkt/
 architectural	/ˌɑrkəˈtεktʃɚəl/
@@ -649,7 +649,8 @@ arisen	/əˈrɪzən/
 aristocracy	/ˌærəˈstɑkrəsi/
 aristocrat	/əˈrɪstəˌkræt/
 aristocratic	/əˌrɪstəˈkræt̬ɪk/
-arithmetic	/əˈrɪθməˌtɪk/
+arithmetic (n.)	/əˈrɪθməˌtɪk/
+arithmetic (adj.) /ˌærɪθˈmɛtɪk/
 ark	/ˈɑrk/
 arm	/ˈɑrm/
 armament	/ˈɑrməmənt/
@@ -682,7 +683,7 @@ art	/ˈɑrt/
 artery	/ˈɑrt̬ɚi/
 artful	/ˈɑrtfəl/
 arthritis	/ɑrˈθraɪt̬əs/
-tides	/ɑrˈθrɪt̬əˌdiːz/
+arthritides	/ɑrˈθrɪt̬əˌdiːz/
 arthritic	/ɑrˈθrɪt̬ɪk/
 artichoke	/ˈɑrt̬əˌtʃoːk/
 article	/ˈɑrtɪkəl/
@@ -700,7 +701,7 @@ ascend	/əˈsεnd/
 ascent	/əˈsεnt/
 ascertain	/ˌæsɚˈteɪn/
 ascribe	/əˈskraɪb/
-ash 1	/ˈæʃ/
+ash	/ˈæʃ/
 ashamed	/əˈʃeɪmd/
 ashore	/əˈʃor/
 ashtray	/ˈæʃˌtreɪ/
@@ -812,7 +813,7 @@ audiovisual	/ˌɔdioˈvɪƷʊəl/
 audition	/ɔˈdɪʃən/
 auditor	/ˈɔdət̬ɚ/
 auditorium	/ˌɔdəˈtoriəm/
-ria	/-riæ/
+auditoria	/-riə/
 augment	/ɔgˈmεnt/
 augur	/ˈɔgɚ/
 August	/ˈɔgəst/
@@ -879,7 +880,7 @@ awry	/əˈraɪ/
 axe	/ˈæks/
 axiom	/ˈæksiəm/
 axis	/ˈæksɪs/
-axes	/-ˌsiːz/
+axes	/ˈækˌsiːz/
 axle	/ˈæksəl/
 b	/ˈbiː/
 bs	/ˈbiːz/
