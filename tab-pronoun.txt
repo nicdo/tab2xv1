@@ -8208,7 +8208,7 @@ nap 1	/ˈnæp/
 nape	/ˈneɪp, ˈnæp/
 napkin	/ˈnæpkən/
 narcotic	/nɑrˈkɑt̬ɪk/
-narrate	/ˈnærˌeɪt/
+narrate	/ˈnærˌeɪt, næˈreɪt/
 narration	/næˈreɪʃən/
 narrative	/ˈnærət̬ɪv/
 narrator	/ˈnærˌeɪt̬ɚ/
@@ -8339,7 +8339,7 @@ nightclub	/ˈnaɪtˌklʌb/
 nightfall	/ˈnaɪtˌfɔl/
 nightgown	/ˈnaɪtˌgaʊn/
 nightly	/ˈnaɪt/
-nightmare	/ˈnaɪtˌmær/
+nightmare	/ˈnaɪtˌmεər/
 nighttime	/ˈnaɪtˌtaɪm/
 nil	/ˈnɪl/
 nimble	/ˈnɪmbəl/
@@ -8622,7 +8622,7 @@ ooze	/ˈuːz/
 opal	/ˈoːpəl/
 opaque	/oˈpeɪk/
 open	/ˈoːpən/
-open–air	/ˈoːpənˈær/
+open–air	/ˈoːpənˈεər/
 opener	/ˈoːpənɚ/
 opening	/ˈoːpənɪŋ/
 openly	/ˈoːpənli/
@@ -8786,7 +8786,7 @@ oven	/ˈʌvən/
 over	/ˈoːvɚ/
 overall	/ˌoːvɚˈɔl/
 overalls	/ˈoːvɚˌɔlz/
-overbearing	/ˌoːvɚˈbærɪŋ/
+overbearing	/ˌoːvɚˈbεərɪŋ/
 overboard	/ˈoːvɚˌbord/
 overburden	/ˌoːvɚˈbɚdən/
 overcast	/ˌoːvɚˌkæst/
@@ -8904,7 +8904,7 @@ paint	/ˈpeɪnt/
 paintbrush	/ˈpeɪntˌbrʌʃ/
 painter	/ˈpeɪntɚ/
 painting	/ˈpeɪntɪŋ/
-pair	/ˈpær/
+pair	/ˈpεər/
 pajamas	/pəˈdƷɑməz, -ˈdƷæ-/
 Pakistani	/ˌpækɪˈstæni, ˌpɑkɪˈstɑni/
 pal	/ˈpæl/
@@ -8980,7 +8980,7 @@ parcel	/ˈpɑrsəl/
 parch	/ˈpɑrtʃ/
 parchment	/ˈpɑrtʃmənt/
 pardon	/ˈpɑrdən/
-parent	/ˈpærənt/
+parent	/ˈpεərənt, ˈpærənt/
 parental	/pəˈrεntəl/
 parenthesis	/pəˈrεnθəsɪs/
 theses	/-ˌsiːz/
@@ -9084,7 +9084,7 @@ peacock	/ˈpiːˌkɑk/
 peak	/ˈpiːk/
 peal	/ˈpiːl/
 peanut	/ˈpiːˌnʌt/
-pear	/ˈpær/
+pear	/ˈpεər/
 pearl	/ˈpɚl/
 peasant	/ˈpεzənt/
 peat	/ˈpiːt/
@@ -9563,7 +9563,7 @@ pray	/ˈpreɪ/
 prayer	/ˈprεr/
 preach	/ˈpriːtʃ/
 preacher	/ˈpriːtʃɚ/
-precarious	/priˈkæriəs/
+precarious	/priˈkεəriəs/
 precaution	/priˈkɔʃən/
 precede	/priˈsiːd/
 precedence	/ˈprεsədənts, prɪˈsiːdənts/
@@ -9612,7 +9612,7 @@ premiere	/prɪˈmjεr, -ˈmɪr/
 premise	/ˈprεmɪs/
 premium	/ˈpriːmiəm/
 preoccupied	/priˈɑkjəˌpaɪd/
-prepare	/priˈpær/
+prepare	/priˈpεər/
 preparation	/ˌprεpəˈreɪʃən/
 preparatory	/priˈpærəˌtori/
 prepay	/ˌpriːˈpeɪ/
@@ -9969,7 +9969,7 @@ query	/ˈkwɪri, ˈkwεr-/
 quest	/ˈkwεst/
 question	/ˈkwεstʃən/
 questionable	/ˈkwεstʃənəbəl/
-questionnaire	/ˌkwεstʃəˈnær/
+questionnaire	/ˌkwεstʃəˈnεər/
 queue	/ˈkjuː/
 quibble	/ˈkwɪbəl/
 quick	/ˈkwɪk/
