@@ -633,6 +633,7 @@ arctic	/ˈɑrktɪk, ˈɑrt̬-/
 ardent	/ˈɑrdənt/
 ardor	/ˈɑrdɚ/
 arduous	/ˈɑrdƷʊəs/
+are	/ˈɑr/
 area	/ˈεəriə/
 aren't	/ˈɑrnt, ˈɑrənt/
 arena	/əˈriːnə/
@@ -1032,12 +1033,8 @@ bay 1	/ˈbeɪ/
 bayonet	/ˌbeɪəˈnεt, ˈbeɪəˌnεt/
 bazaar	/bəˈzɑr/
 be	/ˈbiː/
-was	/ˈwəz, ˈwɑz/
-were	/ˈwɚ/
 been	/ˈbɪn/
 being; am	/ˈæm/
-is	/ˈɪz/
-are	/ˈɑr/
 beach	/ˈbiːtʃ/
 beacon	/ˈbiːkən/
 bead	/ˈbiːd/
@@ -6750,6 +6747,7 @@ irritable	/ˈɪrət̬əbəl/
 irritably	/ˈɪrət̬əbli/
 irritating	/ˈɪrəˌteɪt̬ɪŋ/
 irritation	/ˌɪrəˈteɪʃən/
+is	/ˈɪz/
 Islam	/ɪsˈlɑm, ɪz-, -ˈlæm; ˈɪsˌlɑm, ˈɪz-, -ˌlæm/
 Islamic	/ɪsˈlɑmɪk, ɪz-, -ˈlæ-/
 island	/ˈaɪlənd/
@@ -13871,6 +13869,7 @@ warship	/ˈwɔrˌʃɪp/
 wart	/ˈwɔrt/
 wartime	/ˈwɔrˌtaɪm/
 wary	/ˈwεəri/
+was	/ˈwəz, ˈwɑz/
 wash	/ˈwɔʃ, ˈwɑʃ/
 washable	/ˈwɔʃəbəl, ˈwɑ-/
 washcloth	/ˈwɔʃˌklɔθ, ˈwɑʃ-/
@@ -13970,6 +13969,7 @@ well–off	/ˈwεlˈɔf/
 well–rounded	/ˈwεlˈraʊndəd/
 well–to–do	/ˌwεltəˈduː/
 Welsh	/ˈwεlʃ/
+were	/ˈwɚ/
 weren't	/ˈwɚənt, ˈwɚnt/
 west	/ˈwεst/
 westerly	/ˈwεstɚli/
