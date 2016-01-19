@@ -13278,12 +13278,8 @@ underdeveloped	/ˌʌndɚdɪˈvεləpt/
 underestimate	/ˌʌndɚˈεstəˌmeɪt/
 underfoot	/ˌʌndɚˈfʊt/
 undergo	/ˌʌndɚˈgoː/
-went	/-ˈwεnt;/
-gone	/-ˈgɔn/
 undergraduate	/ˌʌndɚˈgrædƷʊət/
 underground	/ˌʌndɚˈgraʊnd/
-~	/ˈʌndɚˌgraʊnd/
-~	/ˈʌndɚˌgraʊnd/
 undergrowth	/ˈʌndɚˈgroːθ/
 underhanded	/ˌʌndɚˈhændəd/
 underline	/ˈʌndɚˌlaɪn/
@@ -13302,8 +13298,8 @@ understanding	/ˌʌndɚˈstændɪŋ/
 understatement	/ˌʌndɚˈsteɪtmənt/
 understudy	/ˈʌndɚˌstʌdi/
 undertake	/ˌʌndɚˈteɪk/
-took	/-ˈtʊk/
-taken	/-ˈteɪkən/
+undertook	/-ˈtʊk/
+undertaken	/-ˈteɪkən/
 undertaker	/ˈʌndɚˌteɪkɚ/
 undertaking	/ˈʌndɚˌteɪkɪŋ, ˌʌndɚˈ-/
 undertone	/ˈʌndɚˌtoːn/
@@ -13317,8 +13313,8 @@ undeveloped	/ˌʌndiˈvεləpt/
 undignified	/ˌʌnˈdɪgnəfaɪd/
 undisputed	/ˌʌndɪˈspjuːt̬əd/
 undo	/ˌʌnˈduː/
-did	/-ˈdɪd/
-done	/-ˈdʌn/
+undid	/-ˈdɪd/
+undone	/-ˈdʌn/
 undoubtedly	/ˌʌnˈdaʊt̬ədli/
 undress	/ˌʌnˈdrεs/
 undue	/ˌʌnˈduː, -ˈdjuː/
@@ -13489,7 +13485,7 @@ unwieldy	/ˌʌnˈwiːldi/
 unwilling	/ˌʌnˈwɪlɪŋ/
 unwillingly	/ˌʌnˈwɪlɪŋli/
 unwind	/ˌʌnˈwaɪnd/
-wound	/-ˈwaʊnd/
+unwound	/-ˈwaʊnd/
 unwise	/ˌʌnˈwaɪz/
 unworthy	/ˌʌnˈwɚði/
 unwrap	/ˌʌnˈræp/
@@ -13498,11 +13494,9 @@ upped	/ˈʌpt/
 upbringing	/ˈʌpˌbrɪŋɪŋ/
 upcoming	/ˌʌpˈkʌmɪŋ/
 update	/ˌʌpˈdeɪt/
-~	/ˈʌpˌdeɪt/
 upgrade	/ˈʌpˌgreɪd, ˌʌpˈ-/
 upheaval	/ˌʌpˈhiːvəl/
 uphill	/ˌʌpˈhɪl/
-~	/ˈʌpˌhɪl/
 uphold	/ˌʌpˈhoːld/
 upholstery	/ˌʌpˈhoːlstɚi/
 upkeep	/ˈʌpˌkiːp/
@@ -13541,9 +13535,9 @@ Uruguayan	/ˌʊrəˈgwaɪən, ˌjʊr-, -ˈgweɪ-/
 us	/ˈʌs/
 usage	/ˈjuːsɪdƷ, -zɪdƷ/
 use	/ˈjuːz/
-used	/ˈjuːzd, the phrase &#x201Cused to” is usually ˈjuːstuː/
-~	/ˈjuːs/
-used	/ˈjuːzd, in sense 2 usually ˈjuːst/
+used	/ˈjuːzd/
+used to usually /ˈjuːstuː/
+use	/ˈjuːs/
 useful	/ˈjuːsfəl/
 usefulness	/ˈjuːsfəlnəs/
 useless	/ˈjuːsləs/
@@ -13574,7 +13568,7 @@ vaccinate	/ˈvæksəˌneɪt/
 vaccine	/vækˈsiːn, ˈvækˌ-/
 vacuum	/ˈvæˌkjuːm, -kjəm/
 vagina	/vəˈdƷaɪnə/
-nae	/-ˌniː, -ˌnaɪ/
+vaginae	/-ˌniː, -ˌnaɪ/
 vagrant	/ˈveɪgrənt/
 vague	/ˈveɪg/
 vain	/ˈveɪn/
