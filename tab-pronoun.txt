@@ -9245,7 +9245,7 @@ pharmacy	/ˈfɑrməsi/
 pharmacist	/ˈfɑrməsɪst/
 phase	/ˈfeɪz/
 phenomenon	/fɪˈnɑməˌnɑn, -nən/
-na	/-nə/
+phenomena	/fɪˈnɑmənə/
 phenomenal	/fɪˈnɑmənəl/
 philanthropy	/fəˈlæntθrəpi/
 philanthropist	/fəˈlæntθrəpɪst/
@@ -10070,9 +10070,9 @@ rapist	/ˈreɪpɪst/
 rapport	/ræˈpor/
 rapt	/ˈræpt/
 rapture	/ˈræptʃɚ/
-rare	/ˈrær/
-rarely	/ˈrærli/
-rarity	/ˈrærə-t̬i/
+rare	/ˈrεər/
+rarely	/ˈrεərli/
+rarity	/ˈrεərət̬i/
 rascal	/ˈræskəl/
 rash 1	/ˈræʃ/
 rasp	/ˈræsp/
@@ -10392,7 +10392,7 @@ renunciation	/riˌnʌntsiˈeɪʃən/
 reopen	/ˌriːˈoːpən/
 reorganize	/ˌriːˈɔrgənˌaɪz/
 reorganization	/ˌriːˌɔrgənəˈzeɪʃən/
-repair	/riˈpær/
+repair	/riˈpεər/
 repay	/riˈpeɪ/
 repeal	/riˈpiːl/
 repeat	/riˈpiːt/
@@ -10946,7 +10946,7 @@ scary	/ˈskεri/
 scathing	/ˈskeɪðɪŋ/
 scatter	/ˈskæt̬ɚ/
 scavenger	/ˈskævəndƷɚ/
-scenario	/səˈnæriˌoː, -ˈnɑr-/
+scenario	/sɪˈnεəriˌoː, sɪˈnɑriˌoː/
 scene	/ˈsiːn/
 scenery	/ˈsiːnɚi/
 scenic	/ˈsiːnɪk/
@@ -11021,7 +11021,7 @@ scum	/ˈskʌm/
 scurry	/ˈskɚi/
 scuttle 1	/ˈskʌt̬əl/
 sea	/ˈsiː/
-seafarer	/ˈsiːˌfærɚ/
+seafarer	/ˈsiːˌfεərɚ/
 seafood	/ˈsiːˌfuːd/
 seagull	/ˈsiːˌgʌl/
 seal 1	/ˈsiːl/
@@ -11396,7 +11396,7 @@ sill	/ˈsɪl/
 silly	/ˈsɪli/
 silt	/ˈsɪlt/
 silver	/ˈsɪlvɚ/
-silverware	/ˈsɪlvɚˌwær/
+silverware	/ˈsɪlvɚˌwεər/
 silvery	/ˈsɪlvɚi/
 similar	/ˈsɪməlɚ/
 similarity	/ˌsɪməˈlærət̬i/
@@ -11597,7 +11597,7 @@ snake	/ˈsneɪk/
 snap	/ˈsnæp/
 snappy	/ˈsnæpi/
 snapshot	/ˈsnæpˌʃɑt/
-snare	/ˈsnær/
+snare	/ˈsnεər/
 snarl 1	/ˈsnɑrl/
 snatch	/ˈsnætʃ/
 sneak	/ˈsniːk/
@@ -11656,7 +11656,7 @@ soft	/ˈsɔft/
 softball	/ˈsɔftˌbɔl/
 soften	/ˈsɔfən/
 softly	/ˈsɔftli/
-software	/ˈsɔftˌwær/
+software	/ˈsɔftˌwεər/
 soggy	/ˈsɑgi/
 soil	/ˈsɔɪl/
 solace	/ˈsɑləs/
@@ -11751,8 +11751,8 @@ spaniel	/ˈspænjəl/
 Spanish	/ˈspænɪʃ/
 spank	/ˈspæŋk/
 spar	/ˈspɑr/
-spare	/ˈspær/
-sparing	/ˈspærɪŋ/
+spare	/ˈspεər/
+sparing	/ˈspεərɪŋ/
 spark	/ˈspɑrk/
 sparkle	/ˈspɑrkəl/
 sparrow	/ˈspæroː/
@@ -11901,8 +11901,8 @@ squalid	/ˈskwɑlɪd/
 squall	/ˈskwɔl/
 squalor	/ˈskwɑlɚ/
 squander	/ˈskwɑndɚ/
-square	/ˈskwær/
-squash 1	/ˈskwɑʃ, ˈskwɔʃ/
+square	/ˈskwεər/
+squash/ˈskwɑʃ, ˈskwɔʃ/
 squat	/ˈskwɑt/
 squawk	/ˈskwɔk/
 squeak	/ˈskwiːk/
@@ -11932,13 +11932,13 @@ stagnant	/ˈstægnənt/
 stagnate	/ˈstægˌneɪt/
 stain	/ˈsteɪn/
 stainless steel	/ˈsteɪnləs-/
-stair	/ˈstær/
-staircase	/ˈstærˌkeɪs/
-stairway	/ˈstærˌweɪ/
+stair	/ˈstεər/
+staircase	/ˈstεərˌkeɪs/
+stairway	/ˈstεərˌweɪ/
 stake	/ˈsteɪk/
 stale	/ˈsteɪl/
-stalk 1	/ˈstɔk/
-stall 1	/ˈstɔl/
+stalk	/ˈstɔk/
+stall	/ˈstɔl/
 stallion	/ˈstæljən/
 stalwart	/ˈstɔlwɚt/
 stamina	/ˈstæmənə/
@@ -11960,7 +11960,7 @@ star	/ˈstɑr/
 starboard	/ˈstɑrbɚd/
 starch	/ˈstɑrtʃ/
 stardom	/ˈstɑrdəm/
-stare	/ˈstær/
+stare	/ˈstεər/
 starfish	/ˈstɑrˌfɪʃ/
 stark	/ˈstɑrk/
 starlight	/ˈstɑrˌlaɪt/
@@ -12397,10 +12397,10 @@ swap	/ˈswɑp/
 swarm	/ˈswɔrm/
 swat	/ˈswɑt/
 sway	/ˈsweɪ/
-swear	/ˈswær/
+swear	/ˈswεər/
 swore	/ˈswor/
 sworn	/ˈsworn/
-swearword	/ˈswærˌwɚd/
+swearword	/ˈswεərˌwɚd/
 sweat	/ˈswεt/
 sweater	/ˈswεt̬ɚ/
 sweatshirt	/ˈswεtˌʃɚt/
