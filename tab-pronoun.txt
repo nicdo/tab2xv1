@@ -12569,7 +12569,7 @@ team	/ˈtiːm/
 teammate	/ˈtiːmˌmeɪt/
 teamwork	/ˈtiːmˌwɚk/
 teapot	/ˈtiːˌpɑt/
-tear 1	/ˈtær/
+tear 1	/ˈtεər/
 tore	/ˈtor/
 torn	/ˈtorn/
 tear 2	/ˈtɪr/
@@ -12700,18 +12700,18 @@ theory	/ˈθiːɚi, ˈθɪri/
 therapeutic	/ˌθεrəˈpjuːt̬ɪk/
 therapist	/ˈθεrəpɪst/
 therapy	/ˈθεrəpi/
-there	/ˈðær/
-thereabout	/ˌðærəˈbaʊts, -ˈbaʊt; ˈðærəˌ- /
-thereafter	/ðærˈæftɚ/
-thereby	/ðærˈbaɪ, ˈðærˌbaɪ/
-therefore	/ˈðærˌfor/
+there	/ˈðεər/
+thereabout	/ˌðεərəˈbaʊts, -ˈbaʊt; ˈðεərəˌ- /
+thereafter	/ðεərˈæftɚ/
+thereby	/ðεərˈbaɪ, ˈðεərˌbaɪ/
+thεərefore	/ˈðærˌfor/
 thermal	/ˈθɚməl/
 thermometer	/θɚˈmɑmət̬ɚ/
 thermos	/ˈθɚməs/
 thermostat	/ˈθɚməˌstæt/
 thesaurus	/θɪˈsɔrəs/
-sauri	/-ˈsɔrˌaɪ/
-sauruses	/-ˈsɔrəsəz/
+thesauri	/-ˈsɔrˌaɪ/
+thesauruses	/-ˈsɔrəsəz/
 thesis	/ˈθiːsɪs/
 theses	/ˈθiːˌsiːz/
 they	/ˈðeɪ/
@@ -12748,7 +12748,7 @@ thorn	/ˈθɔrn/
 thorny	/ˈθɔrni/
 thorough	/ˈθɚoː/
 thoroughbred	/ˈθɚoˌbrεd/
-thoroughfare	/ˈθɚoˌfær/
+thoroughfare	/ˈθɚoˌfεər/
 though	/ˈðoː/
 thought	/ˈθɔt/
 thoughtful	/ˈθɔtfəl/
@@ -12757,7 +12757,7 @@ thousand	/ˈθaʊzənd/
 thousandth	/ˈθaʊzəntθ/
 thrash	/ˈθræʃ/
 thread	/ˈθrεd/
-threadbare	/ˈθrεdˈbær/
+threadbare	/ˈθrεdˈbεər/
 threat	/ˈθrεt/
 threaten	/ˈθrεtən/
 threatening	/ˈθrεtənɪŋ/
@@ -13232,10 +13232,10 @@ unattractive	/ˌʌnəˈtræktɪv/
 unauthorized	/ˌʌnˈɔθəˌraɪzd/
 unavailable	/ˌʌnəˈveɪləbəl/
 unavoidable	/ˌʌnəˈvɔɪdəbəl/
-unaware	/ˌʌnəˈwær/
-unawares	/ˌʌnəˈwærz/
-unbalanced	/ˌʌnˈbæləntst/
-unbearable	/ˌʌnˈbærəbəl/
+unaware	/ˌʌnəˈwεər/
+unawares	/ˌʌnəˈwεərz/
+unbalanced	/ˌʌnˈbælənst/
+unbearable	/ˌʌnˈbεərəbəl/
 unbelievable	/ˌʌnbəˈliːvəbəl/
 unbending	/ˌʌnˈbεndɪŋ/
 unbiased	/ˌʌnˈbaɪəst/
@@ -13309,7 +13309,7 @@ undertaking	/ˈʌndɚˌteɪkɪŋ, ˌʌndɚˈ-/
 undertone	/ˈʌndɚˌtoːn/
 undertow	/ˈʌndɚˌtoː/
 underwater	/ˌʌndɚˈwɔt̬ɚ, -ˈwɑ-/
-underwear	/ˈʌndɚˌwær/
+underwear	/ˈʌndɚˌwεər/
 underworld	/ˈʌndɚˌwɚld/
 underwriter	/ˈʌndɚˌraɪt̬ɚ, ˌʌndɚˈ-/
 undesirable	/ˌʌndiˈzaɪrəbəl/
@@ -13338,9 +13338,9 @@ unethical	/ˌʌnˈεθɪkəl/
 uneven	/ˌʌnˈiːvən/
 unexpected	/ˌʌnɪkˈspεktəd/
 unfailing	/ˌʌnˈfeɪlɪŋ/
-unfair	/ˌʌnˈfær/
-unfairly	/ˌʌnˈfærli/
-unfairness	/ˌʌnˈfærnəs/
+unfair	/ˌʌnˈfεər/
+unfairly	/ˌʌnˈfεərli/
+unfairness	/ˌʌnˈfεərnəs/
 unfaithful	/ˌʌnˈfeɪθfəl/
 unfaithfulness	/ˌʌnˈfeɪθfəlnəs/
 unfamiliar	/ˌʌnfəˈmɪljɚ/
@@ -13425,7 +13425,7 @@ unplug	/ˌʌnˈplʌg/
 unpopular	/ˌʌnˈpɑpjəlɚ/
 unprecedented	/ˌʌnˈprεsəˌdεntəd/
 unpredictable	/ˌʌnpriˈdɪktəbəl/
-unprepared	/ˌʌnpriˈpærd/
+unprepared	/ˌʌnpriˈpεərd/
 unqualified	/ˌʌnˈkwɑləˌfaɪd/
 unquestionable	/ˌʌnˈkwεstʃənəbəl/
 unquestioning	/ˌʌnˈkwεstʃənɪŋ/
@@ -13519,9 +13519,7 @@ upset	/ˌʌpˈsεt/
 upshot	/ˈʌpˌʃɑt/
 down	/ˌʌpˌsaɪdˈdaʊn/
 upside–down	/ˌʌpˌsaɪdˈdaʊn/
-upstairs	/ˌʌpˈstærz/
-~	/ˈʌpˌstærz, ˌʌpˈ-/
-~	/ˈʌpˌstærz, ˌʌpˈ-/
+upstairs	/ˌʌpˈstεərz/
 upstart	/ˈʌpˌstɑrt/
 upstream	/ˈʌpˌstriːm/
 upswing	/ˈʌpˌswɪŋ/
