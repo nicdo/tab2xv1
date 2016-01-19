@@ -15,7 +15,7 @@ abbot	/ˈæbət/
 abbreviate	/əˈbriːviˌeɪt/
 abbreviation	/əˌbriːviˈeɪʃən/
 abdicate	/ˈæbdɪˌkeɪt/
-abdication	/ˌæbdɪˈkeɪæən/
+abdication	/ˌæbdɪˈkeɪʃən/
 abdomen	/ˈæbdəmən, æbˈdoːmən/
 abdominal	/æbˈdɑmənəl/
 abduct	/æbˈdʌkt/
@@ -148,7 +148,7 @@ activity	/ækˈtɪvət̬i/
 actor	/ˈæktɚ/
 actress	/ˈæktrəs/
 actual	/ˈæktʃʊəl/
-actually	/ˈæktʃʊəli, -æəli/
+actually	/ˈæktʃʊəli/
 acupuncture	/ˈækjʊˌpʌŋktʃɚ/
 acute	/əˈkjuːt/
 ad	/ˈæd/
@@ -197,7 +197,7 @@ adopt	/əˈdɑpt/
 adoption	/əˈdɑpʃən/
 adore	/əˈdor/
 adorable	/əˈdorəbəl/
-adoration	/ˌædəˈreɪæən/
+adoration	/ˌædəˈreɪʃən/
 adorn	/əˈdɔrn/
 adornment	/əˈdɔrnmənt/
 adrift	/əˈdrɪft/
@@ -323,7 +323,7 @@ alias	/ˈeɪliəs/
 alibi	/ˈæləˌbaɪ/
 alien	/ˈeɪliən/
 alienate	/ˈeɪliəˌneɪt/
-alienation	/ˌeɪliəˈneɪæən/
+alienation	/ˌeɪliəˈneɪʃən/
 alight	/əˈlaɪt/
 align	/əˈlaɪn/
 alignment	/əˈlaɪnmənt/
