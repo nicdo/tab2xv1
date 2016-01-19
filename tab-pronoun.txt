@@ -2678,7 +2678,7 @@ cosmic	/ˈkɑzmɪk/
 cosmopolitan	/ˌkɑzməˈpɑlətən/
 cosmos	/ˈkɑzməs, -ˌmoːs, -ˌmɑs/
 cost	/ˈkɔst/
-Rican	/ˌkɔstəˈriːkən/
+Costa Rican	/ˌkɔstəˈriːkən/
 costly	/ˈkɔstli/
 costume	/ˈkɑsˌtuːm, -ˌtjuːm/
 cot	/ˈkɑt/
@@ -8590,7 +8590,7 @@ ointment	/ˈɔɪntmənt/
 okay	/ˌoːˈkeɪ/
 ~	/ˌoːˈkeɪ/
 okayed	/ˌoːˈkeɪd/
-okra	/ˈoːkrə, South also -kri/
+okra	/ˈoːkrə/ South also /ˈoːkri/
 old	/ˈoːld/
 old–fashioned	/ˈoːldˈfæʃənd/
 olive	/ˈɑlɪv, -ləv/
@@ -9871,7 +9871,7 @@ pucker	/ˈpʌkɚ/
 pudding	/ˈpʊdɪŋ/
 puddle	/ˈpʌdəl/
 pudgy	/ˈpʌdƷi/
-Rican	/ˌpwεrt̬əˈriːkən, ˌport̬ə-/
+Puerto Rican	/ˌpwεrt̬əˈriːkən, ˌport̬ə-/
 puff	/ˈpʌf/
 puffy	/ˈpʌfi/
 pull	/ˈpʊl, ˈpʌl/
@@ -11725,7 +11725,7 @@ source	/ˈsors/
 south	/ˈsaʊθ/
 southeast	/saʊˈθiːst/
 southeastern	/saʊˈθiːstɚn/
-southeast  — southerly	/ˈsʌðɚli/
+southerly	/ˈsʌðɚli/
 southern	/ˈsʌðɚn/
 southwest	/saʊθˈwεst/
 southwestern	/saʊθˈwεstɚn/
@@ -11735,7 +11735,7 @@ sovereignty	/ˈsɑvɚənti/
 Soviet	/ˈsoːviˌεt, ˈsɑ-, -viət/
 sow 1	/ˈsaʊ/
 sow 2	/ˈsoː/
-sowed; sown	/ˈsoːn/
+sown	/ˈsoːn/
 soybean	/ˈsɔɪˌbiːn/
 so–called	/ˈsoːˈkɔld/
 so–so	/ˈsoːˈsoː/
@@ -11743,7 +11743,7 @@ spa	/ˈspɑ/
 space	/ˈspeɪs/
 spaceship	/ˈspeɪsˌʃɪp/
 spacious	/ˈspeɪʃəs/
-spade 1	/ˈspeɪd/
+spade  /ˈspeɪd/
 spaghetti	/spəˈgεt̬i/
 span	/ˈspæn/
 Spaniard	/ˈspænjɚd/
