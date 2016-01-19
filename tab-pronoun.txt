@@ -1876,9 +1876,9 @@ certificate	/sɚˈtɪfɪkət/
 chafe	/ˈtʃeɪf/
 chain	/ˈtʃeɪn/
 chair	/ˈtʃεr/
-chairman	/ˈtʃεrmən/
-men	/-mən, -ˌmεn/
-chairperson	/ˈtʃεrˌpɚsən/
+chairman	/ˈtʃεərmən/
+chairmen	/-mən, -ˌmεn/
+chairperson	/ˈtʃεərˌpɚsən/
 chalk	/ˈtʃɔk/
 challenge	/ˈtʃælɪndƷ/
 challenging	/ˈtʃæ-lɪndƷɪŋ/
@@ -6036,7 +6036,7 @@ I've	/ˈaɪv/
 ice	/ˈaɪs/
 iceberg	/ˈaɪsˌbɚg/
 icebox	/ˈaɪsˌbɑks/
-refrigerator  — ice–cold	/ˈaɪsˈkoːld/
+ice–cold	/ˈaɪsˈkoːld/
 ice–skate	/ˈaɪsˌskeɪt/
 icicle	/ˈaɪˌsɪkəl/
 icing	/ˈaɪsɪŋ/
@@ -6073,8 +6073,6 @@ ignorance	/ˌɪgnɚənts/
 ignorant	/ˈɪgnɚənt/
 ilk	/ˈɪlk/
 ill	/ˈɪl/
-worse	/ˈwɚs/
-worst	/ˈwɚst/
 ill–advised	/ˌɪlædˈvaɪzd, -əd-/
 illegal	/ɪlˈliːgəl/
 illegible	/ɪlˈlεdƷəbəl/
@@ -6239,9 +6237,9 @@ inanimate	/ɪnˈænəmət/
 inapplicable	/ɪnˈæplɪkəbəl, ˌɪnəˈplɪkəbəl/
 inappropriate	/ˌɪnəˈproːpriət/
 inarticulate	/ˌɪnɑrˈtɪkjələt/
-as	/ˌɪnæzˈmʌtʃæz/
+inasmuchas	/ˌɪnæzˈmʌtʃæz/
 inattentive	/ˌɪnəˈtεntɪv/
-inaudible	/ɪnˈodəbəl/
+inaudible	/ɪnˈɔdəbəl/
 inaugural	/ɪˈnɔgjɚəl, -gɚəl/
 inaugurate	/ɪˈnɔgjəˌreɪt, -gə-/
 inauguration	/ɪˌnɔgjəˈreɪʃən, -gə-/
@@ -6255,8 +6253,7 @@ incarcerate	/ɪnˈkɑrsəˌreɪt/
 incarnate	/ɪnˈkɑrnət, -ˌneɪt/
 incarnation	/ˌɪnˌkɑrˈneɪʃən/
 incendiary	/ɪnˈsεndiˌεri/
-incense 1	/ˈɪnˌsεnts/
-incense 2	/ɪnˈsεnts/
+incense	/ˈɪnˌsεns/
 incentive	/ɪnˈsεntɪv/
 inception	/ɪnˈsεpʃən/
 incessant	/ɪnˈsεsənt/
@@ -6272,7 +6269,6 @@ incinerator	/ɪnˈsɪnə-ˌreɪt̬ɚ/
 incision	/ɪnˈsɪƷən/
 incite	/ɪnˈsaɪt/
 incline	/ɪnˈklaɪn/
-~	/ˈɪnˌklaɪn/
 inclination	/ˌɪnkləˈneɪʃən/
 include	/ɪnˈkluːd/
 inclusion	/ɪnˈkluːƷən/
@@ -6418,7 +6414,7 @@ inflation	/ɪnˈfleɪʃən/
 inflationary	/ɪnˈfleɪʃəˌnεri/
 inflexible	/ɪnˈflεksɪbəl/
 inflict	/ɪnˈflɪkt/
-influence	/ˈɪnˌfluːənts, ɪnˈfluːənts/
+influence	/ˈɪnˌfluːəns, ɪnˈfluːəns/
 influential	/ˌɪnfluˈεntʃəl/
 influenza	/ˌɪnfluˈεnzə/
 influx	/ˈɪnˌflʌks/
@@ -6526,19 +6522,19 @@ insinuation	/ɪnˌsɪnjʊˈeɪʃən/
 insipid	/ɪnˈsɪpəd/
 insist	/ɪnˈsɪst/
 insistent	/ɪnˈsɪstənt/
-as	/ˌɪnsoˈfɑræz/
+insofar as	/ˌɪnsoˈfɑræz/
 insole	/ˈɪnˌsoːl/
-insolent	/ˈɪntsələnt/
-insolence	/ˈɪntsələnts/
+insolent	/ˈɪnsələnt/
+insolence	/ˈɪnsələnts/
 insolvent	/ɪnˈsɑlvənt/
 insomnia	/ɪnˈsɑmniə/
 inspect	/ɪnˈspεkt/
 inspection	/ɪnˈspεkʃən/
 inspector	/ɪnˈspεktɚ/
 inspire	/ɪnˈspaɪr/
-inspiration	/ˌɪntspəˈreɪʃən/
-inspirational	/ˌɪntspəˈreɪʃənəl/
-instability	/ˌɪntstəˈbɪlət̬i/
+inspiration	/ˌɪnspəˈreɪʃən/
+inspirational	/ˌɪnspəˈreɪʃənəl/
+instability	/ˌɪnstəˈbɪlət̬i/
 install	/ɪnˈstɔl/
 installation	/ˌɪntstəˈleɪʃən/
 installment	/ɪnˈstɔlmənt/
@@ -6742,7 +6738,7 @@ irreparable	/ɪˈrεpɚəbəl/
 irreplaceable	/ˌɪrɪˈpleɪsəbəl/
 irresistible	/ˌɪrɪˈzɪst̬əbəl/
 irresolute	/ɪˈrεzəˌluːt/
-of	/ˌɪrɪˈspεktɪvəv/
+irrespective	/ˌɪrɪˈspεktɪvəv/
 irresponsible	/ˌɪrɪˈspɑntsəbəl/
 irresponsibility	/ˌɪrɪˌspɑntsəˈbɪlət̬i/
 irreverent	/ɪˈrεvɚənt/
