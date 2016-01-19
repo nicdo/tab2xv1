@@ -22,7 +22,7 @@ abduct	/æbˈdʌkt/
 abduction	/æbˈdʌkʃən/
 aberration	/ˌæbəˈreɪʃən/
 abet	/əˈbεt/
-abeyance	/əˈbeɪənts/
+abeyance	/əˈbeɪəns/
 abhor	/əbˈhɔr, æb-/
 abide	/əˈbaɪd/
 abode	/əˈboːd/
@@ -50,7 +50,7 @@ abridge	/əˈbrɪdƷ/
 abroad	/əˈbrɔd/
 abrupt	/əˈbrʌpt/
 abscess	/ˈæbˌsεs/
-absence	/ˈæbsənts/
+absence	/ˈæbsəns/
 absent	/ˈæbsənt/
 absentee	/ˌæbsənˈtiː/
 absentminded	/ˌæbsəntˈmaɪndəd/
@@ -61,14 +61,14 @@ absorb	/əbˈzɔrb, æb-, -ˈsɔrb/
 absorbent	/əbˈzɔrbənt, æb-, -ˈsɔr-/
 absorption	/əbˈzɔrpʃən, æb-, -ˈsɔrp-/
 abstain	/əbˈsteɪn, æb-/
-abstinence	/ˈæbstənənts/
+abstinence	/ˈæbstənəns/
 abstract	/æbˈstrækt, ˈæbˌ-/
 ~	/ˈæbˌstrækt/
 abstraction	/æbˈstrækʃən/
 absurd	/əbˈsɚd, -ˈzɚd/
 absurdity	/əbˈsɚdət̬i, -ˈzɚdət̬i/
 abundant	/əˈbʌndənt/
-abundance	/əˈbʌndənts/
+abundance	/əˈbʌndəns/
 abuse	/əˈbjuːz/
 ~	/əˈbjuːs/
 abusive	/əˈbjuːsɪv/
@@ -84,7 +84,7 @@ accent	/ˈækˌsεnt, ækˈsεnt/
 accentuate	/əkˈsεntʃʊˌeɪt, æk-/
 accept	/ɪkˈsεpt, æk-/
 acceptable	/ɪkˈsεptəbəl, æk-/
-acceptance	/ɪkˈsεptənts, æk-/
+acceptance	/ɪkˈsεptəns, æk-/
 access	/ˈækˌsεs/
 accessible	/ɪkˈsεsəbəl, æk-/
 accident	/ˈæksədənt/
@@ -98,7 +98,7 @@ accompany	/əˈkʌmpəni, -ˈkɑm-/
 accomplice	/əˈkɑmpləs, -ˈkʌm-/
 accomplish	/əˈkɑmplɪʃ, -ˈkʌm-/
 accomplishment	/əˈkɑmplɪʃmənt, -ˈkʌm-/
-accordance	/əˈkɔrdənts/
+accordance	/əˈkɔrdəns/
 accordingly	/əˈkɔrdɪŋli/
 according to	/əˈkɔrdɪŋ/
 accordion	/əˈkɔrdiən/
@@ -128,7 +128,7 @@ acoustic	/əˈkuːstɪk/
 acoustical	/-stɪkəl/
 acoustics	/əˈkuːstɪks/
 acquaint	/əˈkweɪnt/
-acquaintance	/əˈkweɪntənts/
+acquaintance	/əˈkweɪntəns/
 acquire	/əˈkwaɪr/
 acquisition	/ˌækwəˈzɪʃən/
 acquit	/əˈkwɪt/
@@ -168,7 +168,7 @@ address	/əˈdrεs/
 adept	/əˈdεpt/
 adequate	/ˈædɪkwət/
 adhere	/ædˈhɪr, əd-/
-adherence	/ædˈhɪrənts, əd-/
+adherence	/ædˈhɪrəns, əd-/
 adhesive	/ædˈhiːsɪv, əd-, -zɪv/
 adjacent	/əˈdƷeɪsənt/
 adjective	/ˈædƷɪktɪv/
@@ -188,11 +188,11 @@ admiration	/ˌædməˈreɪʃən/
 admirer	/ædˈmaɪrɚ/
 admit	/ædˈmɪt, əd-/
 admission	/ædˈmɪʃən/
-admittance	/ædˈmɪtənts, əd-/
+admittance	/ædˈmɪtəns, əd-/
 admonish	/ædˈmɑnɪʃ, əd-/
 ado	/əˈduː/
 adolescent	/ˌædəlˈεsənt/
-adolescence	/ˌædəlˈεsənts/
+adolescence	/ˌædəlˈεsəns/
 adopt	/əˈdɑpt/
 adoption	/əˈdɑpʃən/
 adore	/əˈdor/
@@ -204,8 +204,8 @@ adrift	/əˈdrɪft/
 adroit	/əˈdrɔɪt/
 adult	/əˈdʌlt, ˈæˌdʌlt/
 adultery	/əˈdʌltɚi/
-advance	/ædˈvænts, əd-/
-advancement	/ædˈvæntsmənt, əd-/
+advance	/ædˈvæns, əd-/
+advancement	/ædˈvænsmənt, əd-/
 advantage	/ədˈvæntɪdƷ, æd-/
 advantageous	/ˌædˌvænˈteɪdƷəs, -vən-/
 advent	/ˈædˌvεnt/
@@ -258,9 +258,9 @@ afternoon	/ˌæftɚˈnuːn/
 afterward	/ˈæftɚwɚd/
 afterwards	/-wɚdz/
 again	/əˈgεn, -ˈgɪn/
-against	/əˈgεntst, -ˈgɪntst/
+against	/əˈgεnst, -ˈgɪnst/
 age	/ˈeɪdƷ/
-agency	/ˈeɪdƷəntsi/
+agency	/ˈeɪdƷənsi/
 agenda	/əˈdƷεndə/
 agent	/ˈeɪdƷənt/
 aggravate	/ˈægrəˌveɪt/
@@ -337,21 +337,21 @@ allege	/əˈlεdƷ/
 allegation	/ˌælɪˈgeɪʃən/
 alleged	/əˈlεdƷd, əˈlεdƷəd/
 allegedly	/əˈlεdƷədli/
-allegiance	/əˈliːdƷənts/
+allegiance	/əˈliːdƷəns/
 allegory	/ˈæləˌgori/
 allegorical	/ˌæləˈgɔrɪkəl/
 allergy	/ˈælɚdƷi/
 allergic	/əˈlɚdƷɪk/
 alleviate	/əˈliːviˌeɪt/
 alley	/ˈæli/
-alliance	/əˈlaɪənts/
+alliance	/əˈlaɪəns/
 alligator	/ˈæləˌgeɪt̬ɚ/
 allocate	/ˈæləˌkeɪt/
 allocation	/ˌæləˈkeɪʃən/
 allot	/əˈlɑt/
 allotment	/əˈlɑtmənt/
 allow	/əˈlaʊ/
-allowance	/əˈlaʊənts/
+allowance	/əˈlaʊəns/
 alloy	/ˈæˌlɔɪ, əˈlɔɪ/
 allude	/əˈluːd/
 allure	/əˈlʊr/
@@ -396,10 +396,10 @@ ambiguous	/æmˈbɪgjʊəs/
 ambiguity	/ˌæmbəˈgjuːət̬i/
 ambition	/æmˈbɪʃən/
 ambitious	/æmˈbɪʃəs/
-ambivalence	/æmˈbɪvələnts/
+ambivalence	/æmˈbɪvələns/
 ambivalent	/æmˈbɪvələnt/
 amble	/ˈæmbəl/
-ambulance	/ˈæmbjələnts/
+ambulance	/ˈæmbjələns/
 ambush	/ˈæmˌbʊʃ/
 amen	/ˈeɪˈmεn, ˈɑ-/
 amenable	/əˈmiːnəbəl, -ˈmε-/
@@ -479,11 +479,11 @@ annihilation	/əˌnaɪəˈleɪʃən/
 anniversary	/ˌænəˈvɚsɚi/
 annotate	/ˈænəˌteɪt/
 annotation	/ˌænəˈteɪʃən/
-announce	/əˈnaʊnts/
-announcement	/əˈnaʊntsmənt/
-announcer	/əˈnaʊntsɚ/
+announce	/əˈnaʊns/
+announcement	/əˈnaʊnsmənt/
+announcer	/əˈnaʊnsɚ/
 annoy	/əˈnɔɪ/
-annoyance	/əˈnɔɪənts/
+annoyance	/əˈnɔɪəns/
 annoying	/əˈnɔɪɪŋ/
 annual	/ˈænjʊəl/
 annuity	/əˈnuːət̬i/
@@ -494,7 +494,7 @@ anomaly	/əˈnɑməli/
 anonymous	/əˈnɑnəməs/
 anonymity	/ˌænəˈnɪmət̬i/
 another	/əˈnʌðɚ/
-answer	/ˈæntsɚ/
+answer	/ˈænsɚ/
 ant	/ˈænt/
 antagonize	/ænˈtægəˌnaɪz/
 antagonism	/ænˈtægəˌnɪzəm/
@@ -562,7 +562,7 @@ apparition	/ˌæpəˈrɪʃən/
 appeal	/əˈpiːl/
 appealing	/əˈpiːlɪŋ/
 appear	/əˈpɪr/
-appearance	/əˈpɪrənts/
+appearance	/əˈpɪrəns/
 appease	/əˈpiːz/
 appendix	/əˈpεndɪks/
 dices	/-dəˌsiːz/
@@ -573,7 +573,7 @@ appetizing	/ˈæpəˌtaɪzɪŋ/
 applaud	/əˈplɔd/
 applause	/əˈplɔz/
 apple	/ˈæpəl/
-appliance	/əˈplaɪənts/
+appliance	/əˈplaɪəns/
 apply	/əˈplaɪ/
 applicable	/ˈæplɪkəbəl, əˈplɪkə-/
 applicant	/ˈæplɪkənt/
@@ -588,7 +588,7 @@ appreciation	/əˌpriːʃiˈeɪʃən, -ˌprɪ-/
 appreciative	/əˈpriːʃət̬ɪv, -ˈprɪ-; əˈpriːʃiˌeɪ-/
 apprehend	/ˌæprɪˈhεnd/
 apprehension	/ˌæprɪˈhεntʃən/
-apprehensive	/ˌæprɪˈhεntsɪv/
+apprehensive	/ˌæprɪˈhεnsɪv/
 apprentice	/əˈprεntɪs/
 approach	/əˈproːtʃ/
 approachable	/əˈproːtʃəbəl/
@@ -672,7 +672,7 @@ arrears	/əˈrɪrz/
 arrest	/əˈrεst/
 arrive	/əˈraɪv/
 arrival	/əˈraɪvəl/
-arrogance	/ˈærəgənts/
+arrogance	/ˈærəgəns/
 arrogant	/ˈærəgənt/
 arrow	/ˈæro/
 arsenal	/ˈɑrsənəl/
@@ -707,7 +707,7 @@ ashtray	/ˈæʃˌtreɪ/
 Asian	/ˈeɪƷən, -ʃən/
 aside	/əˈsaɪd/
 ask	/ˈæsk/
-askance	/əˈskænts/
+askance	/əˈskæns/
 askew	/əˈskjuː/
 asleep	/əˈsliːp/
 asparagus	/əˈspærəgəs/
@@ -739,7 +739,7 @@ assign	/əˈsaɪn/
 assignment	/əˈsaɪnmənt/
 assimilate	/əˈsɪməˌleɪt/
 assist	/əˈsɪst/
-assistance	/əˈsɪstənts/
+assistance	/əˈsɪstəns/
 assistant	/əˈsɪstənt/
 associate	/əˈsoːʃiˌeɪt, -si-/
 ~	/əˈsoːʃiət, -siət/
@@ -749,7 +749,7 @@ assortment	/əˈsɔrtmənt/
 assume	/əˈsuːm/
 assumption	/əˈsʌmpʃən/
 assure	/əˈʃʊr/
-assurance	/əˈʃʊrənts/
+assurance	/əˈʃʊrəns/
 asterisk	/ˈæstəˌrɪsk/
 asthma	/ˈæzmə/
 astonish	/əˈstɑnɪʃ/
@@ -789,7 +789,7 @@ attain	/əˈteɪn/
 attainment	/əˈteɪnmənt/
 attempt	/əˈtεmpt/
 attend	/əˈtεnd/
-attendance	/əˈtεndənts/
+attendance	/əˈtεndəns/
 attention	/əˈtεntʃən/
 attentive	/əˈtεntɪv/
 attest	/əˈtεst/
@@ -807,7 +807,7 @@ auction	/ˈɔkʃən/
 audacious	/ɔˈdeɪʃəs/
 audacity	/ɔˈdæsət̬i/
 audible	/ˈɔdəbəl/
-audience	/ˈɔdiənts/
+audience	/ˈɔdiəns/
 audiovisual	/ˌɔdioˈvɪƷʊəl/
 audition	/ɔˈdɪʃən/
 auditor	/ˈɔdət̬ɚ/
@@ -924,7 +924,7 @@ bait	/ˈbeɪt/
 bake	/ˈbeɪk/
 baker	/ˈbeɪkɚ/
 bakery	/ˈbeɪkɚi/
-balance	/ˈbælənts/
+balance	/ˈbæləns/
 balcony	/ˈbælkəni/
 bald	/ˈbɔld/
 baleful	/ˈbeɪlfəl/
@@ -1387,7 +1387,7 @@ bough	/ˈbaʊ/
 bouillon	/ˈbuːˌjɑn; ˈbʊlˌjɑn, -jən/
 boulder	/ˈboːldɚ/
 boulevard	/ˈbʊləˌvɑrd, ˈbuː-/
-bounce	/ˈbaʊnts/
+bounce	/ˈbaʊns/
 bound 1	/ˈbaʊnd/
 boundary	/ˈbaʊndri, -dɚi/
 boundless	/ˈbaʊndləs/
@@ -1477,7 +1477,7 @@ briefly	/ˈbriːfli/
 bright	/ˈbraɪt/
 brighten	/ˈbraɪtən/
 brilliant	/ˈbrɪljənt/
-brilliance	/ˈbrɪljənts/
+brilliance	/ˈbrɪljəns/
 brim	/ˈbrɪm/
 brine	/ˈbraɪn/
 bring	/ˈbrɪŋ/
@@ -1649,7 +1649,7 @@ cable	/ˈkeɪbəl/
 cackle	/ˈkækəl/
 cactus	/ˈkæktəs/
 cacti	/-ˌtaɪ/
-cadence	/ˈkeɪdənts/
+cadence	/ˈkeɪdəns/
 cadet	/kəˈdεt/
 caffeine	/kæˈfiːn/
 café	/kæˈfeɪ, kə-/
@@ -1688,10 +1688,10 @@ can't	/ˈkænt, ˈkant/
 Canadian	/kəˈneɪdiən/
 canal	/kəˈnæl/
 canary	/kəˈnεri/
-cancel	/ˈkæntsəl/
-cancellation	/ˌkæntsəˈleɪʃən/
-cancer	/ˈkæntsɚ/
-cancerous	/ˈkæntsɚəs/
+cancel	/ˈkænsəl/
+cancellation	/ˌkænsəˈleɪʃən/
+cancer	/ˈkænsɚ/
+cancerous	/ˈkænsɚəs/
 candelabra	/ˌkændəˈlɑbrə, -ˈlæ-/
 candid	/ˈkændɪd/
 candidate	/ˈkændəˌdeɪt, -dət/
@@ -1850,10 +1850,10 @@ cello	/ˈtʃεˌloː/
 cellular	/ˈsεljəlɚ/
 cement	/sɪˈmεnt/
 cemetery	/ˈsεməˌtεri/
-censor	/ˈsεntsɚ/
-censorship	/ˈsεntsɚˌʃɪp/
+censor	/ˈsεnsɚ/
+censorship	/ˈsεnsɚˌʃɪp/
 censure	/ˈsεntʃɚ/
-census	/ˈsεntsəs/
+census	/ˈsεnsəs/
 cent	/ˈsεnt/
 centennial	/sεnˈtεniəl/
 centre	/ˈsεntɚ/
@@ -1887,7 +1887,7 @@ chambermaid	/ˈtʃeɪmbɚˌmeɪd/
 champagne	/ʃæmˈpeɪn/
 champion	/ˈtʃæmpiən/
 championship	/ˈtʃæmpiənˌʃɪp/
-chance	/ˈtʃænts/
+chance	/ˈtʃæns/
 chandelier	/ˌʃændəˈlɪr/
 change	/ˈtʃeɪndƷ/
 changeable	/ˈtʃeɪndƷəbəl/
@@ -2040,9 +2040,9 @@ circulate	/ˈsɚkjəˌleɪt/
 circulation	/ˌsɚkjəˈleɪʃən/
 circumcise	/ˈsɚkəmˌsaɪz/
 circumcision	/ˌsɚkəmˈsɪƷən, ˈsɚkəmˌ-/
-circumference	/sɚˈkʌmpfrənts/
+circumference	/sɚˈkʌmpfrəns/
 circumspect	/ˈsɚkəmˌspεkt/
-circumstance	/ˈsɚkəmˌstænts/
+circumstance	/ˈsɚkəmˌstæns/
 circus	/ˈsɚkəs/
 cistern	/ˈsɪstɚn/
 cite	/ˈsaɪt/
@@ -2093,14 +2093,14 @@ cleaner	/ˈkliːnɚ/
 cleanliness	/ˈklεnlinəs/
 cleanse	/ˈklεnz/
 clear	/ˈklɪr/
-clearance	/ˈklɪrənts/
+clearance	/ˈklɪrəns/
 clearing	/ˈklɪrɪŋ/
 clearly	/ˈklɪrli/
 cleaver	/ˈkliːvɚ/
 clef	/ˈklεf/
 cleft	/ˈklεft/
 clement	/ˈklεmənt/
-clemency	/ˈklεməntsi/
+clemency	/ˈklεmənsi/
 clench	/ˈklεntʃ/
 clergy	/ˈklɚdƷi/
 clergyman	/ˈklɚdƷimən/
@@ -2206,8 +2206,8 @@ coherent	/koˈhɪrənt/
 coil	/ˈkɔɪl/
 coin	/ˈkɔɪn/
 coincide	/ˌkoːɪnˈsaɪd, ˈkoːɪnˌsaɪd/
-coincidence	/koˈɪntsədənts/
-coincidental	/koˌɪntsəˈdεntəl/
+coincidence	/koˈɪnsədənts/
+coincidental	/koˌɪnsəˈdεntəl/
 coke	/ˈkoːk/
 colander	/ˈkɑləndɚ, ˈkʌ-/
 cold	/ˈkoːld/
@@ -2272,8 +2272,8 @@ commander	/kəˈmændɚ/
 commandment	/kəˈmændmənt/
 commemorate	/kəˈmεməˌreɪt/
 commemoration	/kəˌmεməˈreɪʃən/
-commence	/kəˈmεnts/
-commencement	/kəˈmεntsmənt/
+commence	/kəˈmεns/
+commencement	/kəˈmεnsmənt/
 commend	/kəˈmεnd/
 commendable	/kəˈmεndəbəl/
 comment	/ˈkɑˌmεnt/
@@ -2330,7 +2330,7 @@ competent	/ˈkɑmpət̬ənt/
 competition	/ˌkɑmpəˈtɪʃən/
 competitor	/kəmˈpεt̬ət̬ɚ/
 compile	/kəmˈpaɪl/
-complacency	/kəmˈpleɪsəntsi/
+complacency	/kəmˈpleɪsənsi/
 complacent	/kəmˈpleɪsənt/
 complain	/kəmˈpleɪn/
 complaint	/kəmˈpleɪnt/
@@ -2343,7 +2343,7 @@ complex	/kɑmˈplεks, kəm-; ˈkɑmˌplεks/
 ~	/ˈkɑmˌplεks/
 complexion	/kəmˈplεkʃən/
 complexity	/kəmˈplεksət̬i, kɑm-/
-compliance	/kəmˈplaɪənts/
+compliance	/kəmˈplaɪəns/
 compliant	/kəmˈplaɪənt/
 complicate	/ˈkɑmpləˌkeɪt/
 complicated	/ˈkɑmpləˌkeɪt̬əd/
@@ -2363,7 +2363,7 @@ compound 1	/kɑmˈpaʊnd, kəm-; ˈkɑmˌpaʊnd/
 compound 2	/ˈkɑmˌpaʊnd/
 comprehend	/ˌkɑmprɪˈhεnd/
 comprehension	/ˌkɑmprɪˈhεntʃən/
-comprehensive	/ˌkɑmprɪˈhεntsɪv/
+comprehensive	/ˌkɑmprɪˈhεnsɪv/
 compress	/kəmˈprεs/
 compression	/kəmˈprεʃən/
 comprise	/kəmˈpraɪz/
@@ -2383,8 +2383,8 @@ conceit	/kənˈsiːt/
 conceited	/kənˈsiːt̬əd/
 conceive	/kənˈsiːv/
 conceivable	/kənˈsiːvəbəl/
-concentrate	/ˈkɑntsənˌtreɪt/
-concentration	/ˌkɑntsənˈtreɪʃən/
+concentrate	/ˈkɑnsənˌtreɪt/
+concentration	/ˌkɑnsənˈtreɪʃən/
 concept	/ˈkɑnˌsεpt/
 conception	/kənˈsεpʃən/
 concern	/kənˈsɚn/
@@ -2406,13 +2406,13 @@ concur	/kənˈkɚ/
 concussion	/kənˈkʌʃən/
 condemn	/kənˈdεm/
 condemnation	/ˌkɑnˌdεmˈneɪʃən/
-condense	/kənˈdεnts/
+condense	/kənˈdεns/
 condensation	/ˌkɑnˌdεnˈseɪʃən, -dən-/
 condescending	/ˌkɑndɪˈsεndɪŋ/
 condiment	/ˈkɑndəmənt/
 condition	/kənˈdɪʃən/
 conditional	/kənˈdɪʃənəl/
-condolences	/kənˈdoːləntsəz/
+condolences	/kənˈdoːlənsəz/
 condom	/ˈkɑndəm/
 condominium	/ˌkɑndəˈmɪniəm/
 condone	/kənˈdoːn/
@@ -2424,12 +2424,12 @@ cone	/ˈkoːn/
 confection	/kənˈfεkʃən/
 confederation	/kənˌfεdəˈreɪʃən/
 confer	/kənˈfɚ/
-conference	/ˈkɑnfrənts, -fɚənts/
+conference	/ˈkɑnfrəns, -fɚəns/
 confess	/kənˈfεs/
 confession	/kənˈfεʃən/
 confetti	/kənˈfεt̬i/
 confide	/kənˈfaɪd/
-confidence	/ˈkɑnfədənts/
+confidence	/ˈkɑnfədəns/
 confident	/ˈkɑnfədənt/
 confidential	/ˌkɑnfəˈdεntʃəl/
 confine	/kənˈfaɪn/
@@ -2472,20 +2472,20 @@ connote	/kəˈnoːt/
 conquer	/ˈkɑŋkɚ/
 conqueror	/ˈkɑŋkɚɚ/
 conquest	/ˈkɑnˌkwεst, ˈkɑŋ-/
-conscience	/ˈkɑntʃənts/
+conscience	/ˈkɑntʃəns/
 conscientious	/ˌkɑntʃiˈεntʃəs/
 conscious	/ˈkɑntʃəs/
 consciousness	/ˈkɑntʃəsnəs/
-consecrate	/ˈkɑntsəˌkreɪt/
-consecration	/ˌkɑntsəˈkreɪʃən/
+consecrate	/ˈkɑnsəˌkreɪt/
+consecration	/ˌkɑnsəˈkreɪʃən/
 consecutive	/kənˈsεkjət̬iv/
-consensus	/kənˈsεntsəs/
+consensus	/kənˈsεnsəs/
 consent	/kənˈsεnt/
-consequence	/ˈkɑntsəˌkwεnts, -kwənts/
-consequent	/ˈkɑntsəkwənt, -ˌkwεnt/
-consequently	/ˈkɑntsəkwəntli, -ˌkwεnt-/
+consequence	/ˈkɑnsəˌkwεns, -kwəns/
+consequent	/ˈkɑnsəkwənt, -ˌkwεnt/
+consequently	/ˈkɑnsəkwəntli, -ˌkwεnt-/
 conserve	/kənˈsɚv/
-conservation	/ˌkɑntsɚˈveɪʃən/
+conservation	/ˌkɑnsɚˈveɪʃən/
 conservative	/kənˈsɚvət̬iv/
 conservatory	/kənˈsɚvəˌtori/
 consider	/kənˈsɪdɚ/
@@ -2496,36 +2496,36 @@ considering	/kənˈsɪdɚɪŋ/
 consign	/kənˈsaɪn/
 consignment	/kənˈsaɪnmənt/
 consist	/kənˈsɪst/
-consistency	/kənˈsɪstəntsi/
+consistency	/kənˈsɪstənsi/
 consistent	/kənˈsɪstənt/
 console	/kənˈsoːl/
-consolation	/ˌkɑntsəˈleɪʃən/
+consolation	/ˌkɑnsəˈleɪʃən/
 consolidate	/kənˈsɑləˌdeɪt/
 consolidation	/kənˌsɑləˈdeɪʃən/
-consonant	/ˈkɑntsənənt/
+consonant	/ˈkɑnsənənt/
 conspicuous	/kənˈspɪkjʊəs/
 conspicuously	/kənˈspɪkjʊəsli/
 conspire	/kənˈspaɪr/
 conspiracy	/kənˈspɪrəsi/
-constant	/ˈkɑntstənt/
-constantly	/ˈkɑntstəntli/
-constellation	/ˌkɑntstəˈleɪʃən/
-constipated	/ˈkɑntstəˌpeɪtəd/
-constipation	/ˌkɑntstəˈpeɪʃən/
+constant	/ˈkɑnstənt/
+constantly	/ˈkɑnstəntli/
+constellation	/ˌkɑnstəˈleɪʃən/
+constipated	/ˈkɑnstəˌpeɪtəd/
+constipation	/ˌkɑnstəˈpeɪʃən/
 constituent	/kənˈstɪtʃʊənt/
-constitute	/ˈkɑntstəˌtuːt, -ˌtjuːt/
-constitution	/ˌkɑntstəˈtuːʃən, -ˈtjuː-/
-constitutional	/ˌkɑntstəˈtuːʃənəl, -ˈtjuː-/
+constitute	/ˈkɑnstəˌtuːt, -ˌtjuːt/
+constitution	/ˌkɑnstəˈtuːʃən, -ˈtjuː-/
+constitutional	/ˌkɑnstəˈtuːʃənəl, -ˈtjuː-/
 constraint	/kənˈstreɪnt/
 construct	/kənˈstrʌkt/
 construction	/kənˈstrʌkʃən/
 constructive	/kənˈstrʌktɪv/
 construe	/kənˈstruː/
-consul	/ˈkɑntsəl/
-consulate	/ˈkɑntsələt/
+consul	/ˈkɑnsəl/
+consulate	/ˈkɑnsələt/
 consult	/kənˈsʌlt/
 consultant	/kənˈsʌltənt/
-consultation	/ˌkɑntsəlˈteɪʃən/
+consultation	/ˌkɑnsəlˈteɪʃən/
 consume	/kənˈsuːm/
 consumer	/kənˈsuːmɚ/
 consumption	/kənˈsʌmpʃən/
@@ -2556,7 +2556,7 @@ contestant	/kənˈtεstənt/
 context	/ˈkɑnˌtεkst/
 continent	/ˈkɑntənənt/
 continental	/ˌkɑntənˈεntəl/
-contingency	/kənˈtɪndƷəntsi/
+contingency	/kənˈtɪndƷənsi/
 continue	/kənˈtɪnjuː/
 continual	/kənˈtɪnjʊəl/
 continuation	/kənˌtɪnjʊˈeɪʃən/
@@ -2587,10 +2587,10 @@ contrive	/kənˈtraɪv/
 control	/kənˈtroːl/
 controversy	/ˈkɑntrəˌvɚsi/
 controversial	/ˌkɑntrəˈvɚʃəl, -siəl/
-convalescence	/ˌkɑnvəˈlεsənts/
+convalescence	/ˌkɑnvəˈlεsəns/
 convalescent	/ˌkɑnvəˈlεsənt/
 convene	/kənˈviːn/
-convenience	/kənˈviːnjənts/
+convenience	/kənˈviːnjəns/
 convenient	/kənˈviːnjənt/
 convent	/ˈkɑnvənt, -ˌvεnt/
 convention	/kənˈvεntʃən/
@@ -2609,8 +2609,8 @@ convey	/kənˈveɪ/
 convict	/kənˈvɪkt/
 ~	/ˈkɑnˌvɪkt/
 conviction	/kənˈvɪkʃən/
-convince	/kənˈvɪnts/
-convincing	/kənˈvɪntsɪŋ/
+convince	/kənˈvɪns/
+convincing	/kənˈvɪnsɪŋ/
 convoke	/kənˈvoːk/
 convoluted	/ˈkɑnvəˌluːt̬əd/
 convulsion	/kənˈvʌlʃən/
@@ -2663,7 +2663,7 @@ correct	/kəˈrεkt/
 correction	/kəˈrεkʃən/
 correlation	/ˌkɔrəˈleɪʃən/
 correspond	/ˌkɔrəˈspɑnd/
-correspondence	/ˌkɔrəˈspɑndənts/
+correspondence	/ˌkɔrəˈspɑndəns/
 corridor	/ˈkɔrədɚ, -ˌdɔr/
 corroborate	/kəˈrɑbəˌreɪt/
 corrode	/kəˈroːd/
@@ -2687,15 +2687,14 @@ cotton	/ˈkɑtən/
 couch	/ˈkaʊtʃ/
 cough	/ˈkɔf/
 could	/ˈkʊd/
-council	/ˈkaʊntsəl/
-councilor	/ˈkaʊntsəlɚ/
-~	/ˈkaʊntsəl/
+council	/ˈkaʊnsəl/
+councilor	/ˈkaʊnsəlɚ/
 counsellor	/ˈkaʊntsəlɚ/
-count 1	/ˈkaʊnt/
-counter 1	/ˈkaʊntɚ/
+count	/ˈkaʊnt/
+counter	/ˈkaʊntɚ/
 counteract	/ˌkaʊntɚˈækt/
 counterattack	/ˈkaʊntɚəˌtæk/
-counterbalance	/ˌkaʊntɚˈbælənts/
+counterbalance	/ˌkaʊntɚˈbæləns/
 counterclockwise	/ˌkaʊntɚˈklɑkˌwaɪz/
 counterfeit	/ˈkaʊntɚˌfɪt/
 counterpart	/ˈkaʊntɚˌpɑrt/
@@ -2777,7 +2776,7 @@ creation	/kriˈeɪʃən/
 creative	/kriˈeɪt̬ɪv/
 creator	/kriˈeɪt̬ɚ/
 creature	/ˈkriːtʃɚ/
-credence	/ˈkriːdənts/
+credence	/ˈkriːdəns/
 credentials	/krɪˈdεntʃəlz/
 credible	/ˈkrεdəbəl/
 credibility	/ˌkrεdə ˈbɪlət̬i/
@@ -2827,7 +2826,7 @@ crossbreed	/ˈkrɔsˌbriːd/
 bred	/-bred/
 cross–eyed	/ˈkrɔsˌaɪd/
 crossing	/ˈkrɔsɪŋ/
-cross–reference	/ˌkrɔsˈrεfrənts, -ˈrεfɚənts/
+cross–reference	/ˌkrɔsˈrεfrəns, -ˈrεfɚəns/
 crossroads	/ˈkrɔsˌroːdz/
 crosswalk	/ˈkrɔsˌwɔk/
 crossword puzzle	/ˈkrɔsˌwɚd/
@@ -2901,7 +2900,7 @@ curl	/ˈkɚl/
 curler	/ˈkɚlɚ/
 curly	/ˈkɚli/
 currant	/ˈkɚənt/
-currency	/ˈkɚəntsi/
+currency	/ˈkɚənsi/
 current	/ˈkɚənt/
 curriculum	/kəˈrɪkjələm/
 curricula	/kəˈrɪkjələ/
