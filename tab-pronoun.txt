@@ -13692,7 +13692,7 @@ vibrant	/ˈvaɪbrənt/
 vibrate	/ˈvaɪˌbreɪt/
 vibration	/vaɪˈbreɪʃən/
 vicar	/ˈvɪkɚ/
-vicarious	/vaɪˈkæriːəs, vɪ-/
+vicarious	/vaɪˈkεəriːəs, vɪ-/
 vice	/ˈvaɪs/
 versa	/ˌvaɪsɪˈvɚsə, ˌvaɪsˈvɚ-/
 vicinity	/vəˈsɪnət̬i/
@@ -13861,11 +13861,11 @@ war	/ˈwɔr/
 ward	/ˈwɔrd/
 warden	/ˈwɔrdən/
 wardrobe	/ˈwɔrdˌroːb/
-warehouse	/ˈwærˌhaʊs/
-wares	/ˈwærz/
-warfare	/ˈwɔrˌfær/
-warily	/ˈwærəli/
-warlike	/ˈwærˌlaɪk/
+warehouse	/ˈwεərˌhaʊs/
+wares	/ˈwεərz/
+warfare	/ˈwɔrˌfεər/
+warily	/ˈwεərəli/
+warlike	/ˈwɔrˌlaɪk/
 warm	/ˈwɔrm/
 warm–blooded	/ˈwɔrmˈblʌdəd/
 warmhearted	/ˈwɔrmˈhɑrt̬əd/
@@ -13880,7 +13880,7 @@ warrior	/ˈwɔriɚ/
 warship	/ˈwɔrˌʃɪp/
 wart	/ˈwɔrt/
 wartime	/ˈwɔrˌtaɪm/
-wary	/ˈwæri/
+wary	/ˈwεəri/
 wash	/ˈwɔʃ, ˈwɑʃ/
 washable	/ˈwɔʃəbəl, ˈwɑ-/
 washcloth	/ˈwɔʃˌklɔθ, ˈwɑʃ-/
@@ -13935,7 +13935,7 @@ wealth	/ˈwεlθ/
 wealthy	/ˈwεlθi/
 wean	/ˈwiːn/
 weapon	/ˈwεpən/
-wear	/ˈwær/
+wear	/ˈwεər/
 wore	/ˈwor/
 worn	/ˈworn/
 weary	/ˈwɪri/
@@ -13970,11 +13970,8 @@ weighty	/ˈweɪt̬i/
 weird	/ˈwɪrd/
 welcome	/ˈwεlkəm/
 weld	/ˈwεld/
-welfare	/ˈwεlˌfær/
+welfare	/ˈwεlˌfεər/
 well 1	/ˈwεl/
-better	/ˈbεt̬ɚ/
-best	/ˈbεst/
-well–being	/ˈwεlˈbiːɪŋ/
 well–bred	/ˈwεlˈbrεd/
 well–done	/ˈwεlˈdʌn/
 well–known	/ˈwεlˈnoːn/
@@ -14001,7 +13998,7 @@ wheat	/ˈhwiːt/
 wheedle	/ˈhwiːdəl/
 wheel	/ˈhwiːl/
 wheelbarrow	/ˈhwiːlˌbærˌoː/
-wheelchair	/ˈhwiːlˌtʃær/
+wheelchair	/ˈhwiːlˌtʃεər/
 wheeze	/ˈhwiːz/
 when	/ˈhwεn/
 whenever	/hwεnˈεvɚ/
