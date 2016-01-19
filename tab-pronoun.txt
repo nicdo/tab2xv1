@@ -2040,7 +2040,7 @@ circulate	/ˈsɚkjəˌleɪt/
 circulation	/ˌsɚkjəˈleɪʃən/
 circumcise	/ˈsɚkəmˌsaɪz/
 circumcision	/ˌsɚkəmˈsɪƷən, ˈsɚkəmˌ-/
-circumference	/sɚˈkʌmpfrəns/
+circumference	/sɚˈkʌmfrəns/
 circumspect	/ˈsɚkəmˌspεkt/
 circumstance	/ˈsɚkəmˌstæns/
 circus	/ˈsɚkəs/
@@ -2261,8 +2261,8 @@ comeback	/ˈkʌmˌbæk/
 comedy	/ˈkɑmədi/
 comedian	/kəˈmiːdiən/
 comet	/ˈkɑmət/
-comfort	/ˈkʌmpfɚt/
-comfortable	/ˈkʌmpfɚt̬əbəl, ˈkʌmpftə-/
+comfort	/ˈkʌmfɚt/
+comfortable	/ˈkʌmfɚt̬əbəl, ˈkʌpftə-/
 comic	/ˈkɑmɪk/
 comical	/ˈkɑmɪkəl/
 coming	/ˈkʌmɪŋ/
@@ -3662,8 +3662,8 @@ drawl	/ˈdrɔl/
 dread	/ˈdrεd/
 dreadful	/ˈdrεdfəl/
 dream	/ˈdriːm/
-dreamed	/ˈdrεmpt, ˈdriːmd/
-dreamt	/ˈdrεmpt/
+dreamed	/ˈdriːmd/
+dreamt	/ˈdrεmt/
 dreamer	/ˈdriːmɚ/
 dreamy	/ˈdriːmi/
 dreary	/ˈdrɪri/
@@ -5544,7 +5544,7 @@ hamburg	/-ˌbɚg/
 hammer	/ˈhæmɚ/
 hammock	/ˈhæmək/
 hamper 1	/ˈhæmpɚ/
-hamster	/ˈhæmpstɚ/
+hamster	/ˈhæmstɚ/
 hand	/ˈhænd/
 handbag	/ˈhændˌbæg/
 handbook	/ˈhændˌbʊk/
@@ -8474,7 +8474,7 @@ nutshell	/ˈnʌtˌʃεl/
 nutty	/ˈnʌt̬i/
 nuzzle	/ˈnʌzəl/
 nylon	/ˈnaɪˌlɑn/
-nymph	/ˈnɪmpf/
+nymph	/ˈnɪmf/
 o	/ˈoː/
 os	/ˈoːz/
 O	/ˈoː/
@@ -8922,7 +8922,7 @@ palpitate	/ˈpælpəˌteɪt/
 palpitation	/ˌpælpəˈteɪʃən/
 paltry	/ˈpɔltri/
 pamper	/ˈpæmpɚ/
-pamphlet	/ˈpæmpflət/
+pamphlet	/ˈpæmflət/
 pan	/ˈpæn/
 pancake	/ˈpænˌkeɪk/
 panda	/ˈpændə/
@@ -12452,7 +12452,7 @@ symmetrical	/səˈmεtrɪkəl/
 sympathy	/ˈsɪmpəθi/
 sympathize	/ˈsɪmpəˌθaɪz/
 sympathetic	/ˌsɪmpəˈθεt̬ɪk/
-symphony	/ˈsɪmpfəni/
+symphony	/ˈsɪmfəni/
 symposium	/sɪmˈpoːziəm/
 sia	/-ziə/
 symptom	/ˈsɪmptəm/
@@ -13067,9 +13067,9 @@ triplet	/ˈtrɪplət/
 triplicate	/ˈtrɪplɪkət/
 tripod	/ˈtraɪˌpɑd/
 trite	/ˈtraɪt/
-triumph	/ˈtraɪəmpf/
-triumphal	/traɪˈʌmpfəl/
-triumphant	/traɪˈʌmpfənt/
+triumph	/ˈtraɪəmf/
+triumphal	/traɪˈʌmfəl/
+triumphant	/traɪˈʌmfənt/
 trivial	/ˈtrɪviəl/
 trivia	/ˈtrɪviə/
 triviality	/ˌtrɪviˈælət̬i/
@@ -13255,7 +13255,7 @@ unchanging	/ˌʌnˈtʃeɪdƷɪŋ/
 uncivilized	/ˌʌnˈsɪvəˌlaɪzd/
 uncle	/ˈʌŋkəl/
 unclear	/ˌʌnˈklɪr/
-uncomfortable	/ˌʌnˈkʌmpfɚt̬əbəl/
+uncomfortable	/ˌʌnˈkʌmfɚt̬əbəl/
 uncommon	/ˌʌnˈkɑmən/
 uncompromising	/ˌʌnˈkɑmprəˌmaɪzɪŋ/
 unconcerned	/ˌʌnkənˈsɚnd/
