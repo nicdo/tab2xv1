@@ -1,0 +1,30 @@
+trap  /æ/
+bath  /æ, a/
+palm  /ɑ, a/
+start /ɑ/
+dress /ε/
+face  /eɪ/
+square  /εə/
+kit /ɪ/
+near  /ɪ/
+fleece  /iː/
+happy /i/
+lot /ɑ/
+cloth /ɔ/
+thought /ɔ/
+north /ɔ/
+goat  /oː/
+obey  /o/
+force /o/
+foot  /ʊ/
+cure  /ʊ/
+goose /uː/
+strut /ʌ/
+comma /ə/
+nurse /ɚ/
+letter  /ɚ/
+price /aɪ/
+mouth /aʊ/
+choice  /ɔɪ/
+which /hw/
+witch /w/
