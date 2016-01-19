@@ -657,9 +657,9 @@ armament	/ˈɑrməmənt/
 armchair	/ˈɑrmˌtʃεr/
 armed	/ˈɑrmd/
 armistice	/ˈɑrməstɪs/
-armour	/ˈɑrmɚ/
-armoured	/ˈɑrmɚd/
-armoury	/ˈɑrmri, ˈɑrmɚi/
+armor	/ˈɑrmɚ/
+armored	/ˈɑrmɚd/
+armory	/ˈɑrmri, ˈɑrmɚi/
 armpit	/ˈɑrmˌpɪt/
 army	/ˈɑrmi/
 aroma	/əˈroːmə/
@@ -1695,7 +1695,7 @@ candidate	/ˈkændəˌdeɪt, -dət/
 candidacy	/ˈkændədəsi/
 candle	/ˈkændəl/
 candlestick	/ˈkændəlˌstɪk/
-candour	/ˈkændɚ/
+candor	/ˈkændɚ/
 candy	/ˈkændi/
 cane	/ˈkeɪn/
 canine	/ˈkeɪˌnaɪn/
@@ -2234,11 +2234,11 @@ colonel	/ˈkɚnəl/
 colony	/ˈkɑləni/
 colonial	/kəˈloːniəl/
 colonize	/ˈkɑləˌnaɪz/
-colour	/ˈkʌlɚ/
-colour-blind	/ˈkʌlɚˌblaɪnd/
-coloured	/ˈkʌlɚd/
-colourful	/ˈkʌlɚfəl/
-colourless	/ˈkʌlɚləs/
+color	/ˈkʌlɚ/
+color-blind	/ˈkʌlɚˌblaɪnd/
+colored	/ˈkʌlɚd/
+colorful	/ˈkʌlɚfəl/
+colorless	/ˈkʌlɚləs/
 colossal	/kəˈlɑsəl/
 colt	/ˈkoːlt/
 column	/ˈkɑləm/
@@ -4457,10 +4457,10 @@ fault	/ˈfɔlt/
 faultless	/ˈfɔltləs/
 faulty	/ˈfɔlti/
 fauna	/ˈfɔnə/
-favour	/ˈfeɪvɚ/
-favourable	/ˈfeɪvɚəbəl/
-favourite	/ˈfeɪvɚət/
-favouritism	/ˈfeɪvɚəˌtɪzəm/
+favor	/ˈfeɪvɚ/
+favorable	/ˈfeɪvɚəbəl/
+favorite	/ˈfeɪvɚət/
+favoritism	/ˈfeɪvɚəˌtɪzəm/
 fawn 1	/ˈfɔn/
 fax	/ˈfæks/
 fear	/ˈfɪr/
@@ -4512,7 +4512,7 @@ fertility	/fɚˈtɪlət̬i/
 fertilize	/ˈfɚt̬əlˌaɪz/
 fertilizer	/ˈfɚt̬əlˌaɪzɚ/
 fervent	/ˈfɚvənt/
-fervour	/ˈfɚvɚ/
+fervor	/ˈfɚvɚ/
 fester	/ˈfεstɚ/
 festival	/ˈfεstəvəl/
 festive	/ˈfεstɪv/
@@ -4663,9 +4663,9 @@ flatterer	/ˈflæt̬ɚɚ/
 flattering	/ˈflæt̬ɚɪŋ/
 flattery	/ˈflæt̬ɚi/
 flaunt	/ˈflɔnt/
-flavour	/ˈfleɪvɚ/
-flavourful	/ˈfleɪvɚfəl/
-flavouring	/ˈfleɪvɚɪŋ/
+flavor	/ˈfleɪvɚ/
+flavorful	/ˈfleɪvɚfəl/
+flavoring	/ˈfleɪvɚɪŋ/
 flaw	/ˈflɔ/
 flawless	/ˈflɔləs/
 flax	/ˈflæks/
@@ -5209,7 +5209,7 @@ gladden	/ˈglædən/
 gladly	/ˈglædli/
 gladness	/ˈglædnəs/
 glade	/ˈgleɪd/
-glamour	/ˈglæmɚ/
+glamor, glamour	/ˈglæmɚ/
 glamorous	/ˈglæmɚəs/
 glance	/ˈglænts/
 gland	/ˈglænd/
@@ -5581,7 +5581,7 @@ happiness	/ˈhæpinəs/
 happy–go–lucky	/ˈhæpigoːˈlʌki/
 harass	/həˈræs, ˈhærəs/
 harassment	/həˈræsmənt, ˈhærəsmənt/
-harbour	/ˈhɑrbɚ/
+harbor	/ˈhɑrbɚ/
 hard	/ˈhɑrd/
 harden	/ˈhɑrdən/
 hardheaded	/ˌhɑrdˈhεdəd/
@@ -5865,8 +5865,8 @@ honey	/ˈhʌni/
 honeycomb	/ˈhʌniˌkoːm/
 honeymoon	/ˈhʌniˌmuːn/
 honk	/ˈhɑŋk, ˈhɔŋk/
-honour	/ˈɑnɚ/
-honourable	/ˈɑnɚəbəl/
+honor	/ˈɑnɚ/
+honorable	/ˈɑnɚəbəl/
 honorary	/ˈɑnəˌrεri/
 hood	/ˈhʊd/
 hoodlum	/ˈhʊdləm, ˈhuːd-/
@@ -5967,7 +5967,7 @@ humiliate	/hjuːˈmɪliˌeɪt, juː-/
 humiliating	/hjuːˈmɪliˌeɪt̬ɪŋ, juː-/
 humiliation	/hjuːˌmɪliˈeɪʃən, juː-/
 humility	/hjuːˈmɪlət̬i, juː-/
-humour	/ˈhjuːmɚ, ˈjuː-/
+humor	/ˈhjuːmɚ, ˈjuː-/
 humorous	/ˈhjuːmɚəs, ˈjuː-/
 hump	/ˈhʌmp/
 hunch	/ˈhʌntʃ/
@@ -8271,12 +8271,12 @@ negotiation	/nɪˌgoːʃiˈeɪʃən, -siˈeɪ-/
 negotiator	/nɪˈgoːʃiˌeɪt̬ɚ, -siˌeɪ-/
 Negro	/ˈniːˌgroː/
 neigh	/ˈneɪ/
-neighbour	/ˈneɪbɚ/
-neighbourhood	/ˈneɪbɚˌhʊd/
-neighbourly	/ˈneɪbɚli/
+neighbor	/ˈneɪbɚ/
+neighborhood	/ˈneɪbɚˌhʊd/
+neighborly	/ˈneɪbɚli/
 neither	/ˈniːðɚ, ˈnaɪ-/
 neon	/ˈniːˌɑn/
-nephew	/ˈnεˌfjuː, chiefly British ˈnεˌvjuː/
+nephew	/ˈnεˌfjuː/ chiefly British /ˈnεˌvjuː/
 Neptune	/ˈnεpˌtuːn, -ˌtjuːn/
 nerve	/ˈnɚv/
 nervous	/ˈnɚvəs/
@@ -8554,8 +8554,8 @@ oddly	/ˈɑdli/
 odds	/ˈɑdz/
 ode	/ˈoːd/
 odious	/ˈoːdiəs/
-odour	/ˈoːdɚ/
-odourless	/ˈoːdɚləs/
+odor	/ˈoːdɚ/
+odorless	/ˈoːdɚləs/
 of	/ˈʌv, ˈɑv/
 off	/ˈɔf/
 offend	/əˈfεnd/
@@ -8985,7 +8985,7 @@ parka	/ˈpɑrkə/
 parking	/ˈpɑrkɪŋ/
 parliament	/ˈpɑrləmənt, ˈpɑrljə-/
 parliamentary	/ˌpɑrləˈmεntɚi, ˌpɑrljə-/
-parlour	/ˈpɑrlɚ/
+parlor	/ˈpɑrlɚ/
 parochial	/pəˈroːkiəl/
 parody	/ˈpærədi/
 parole	/pəˈroːl/
@@ -10627,7 +10627,7 @@ right–handed	/ˈraɪtˈhændəd/
 rightly	/ˈraɪtli/
 right–wing	/ˈraɪtˈwɪŋ/
 rigid	/ˈrɪdƷɪd/
-rigour	/ˈrɪgɚ/
+rigor	/ˈrɪgɚ/
 rigorous	/ˈrɪgɚəs/
 rim	/ˈrɪm/
 rind	/ˈraɪnd/
@@ -13701,7 +13701,7 @@ viewpoint	/ˈvjuːˌpɔɪnt/
 vigil	/ˈvɪdƷəl/
 vigilance	/ˈvɪdƷələnts/
 vigilant	/ˈvɪdƷələnt/
-vigour	/ˈvɪgɚ/
+vigor	/ˈvɪgɚ/
 vigorous	/ˈvɪgɚəs/
 Viking	/ˈvaɪkɪŋ/
 vile	/ˈvaɪl/
