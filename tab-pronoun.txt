@@ -12710,9 +12710,9 @@ thesis	/ˈθiːsɪs/
 theses	/ˈθiːˌsiːz/
 they	/ˈðeɪ/
 they'd	/ˈðeɪd/
-have,  would  — they'll	/ˈðeɪl, ˈðεl/
-shall,  will  — they're	/ˈðεr/
-be  — they've	/ˈðeɪv/
+they'll	/ˈðeɪl, ˈðεl/
+they're	/ˈðεr/
+they've	/ˈðeɪv/
 thick	/ˈθɪk/
 thicken	/ˈθɪkən/
 thicket	/ˈθɪkət/
@@ -14272,7 +14272,7 @@ yoke	/ˈjoːk/
 yolk	/ˈjoːk/
 you	/ˈjuː/
 you'd	/ˈjuːd, ˈjʊd/
-have,  would  — you'll	/ˈjuːl, ˈjʊl/
+you'll	/ˈjuːl, ˈjʊl/
 you're	/ˈjʊr, ˈjoːr, ˈjɚ, ˈjuːɚ/
 you've	/ˈjuːv/
 young	/ˈjʌŋ/
