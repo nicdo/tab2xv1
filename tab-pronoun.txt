@@ -4,7 +4,7 @@ a 2	/ə, ˈeɪ/
 an	/ən, ˈæn/
 aback	/əˈbæk/
 abacus	/ˈæbəkəs/
-abaci	/ˈæbəˌsaɪ, -ˌkiː/
+abaci	/ˈæbəˌsaɪ, ˈæbəˌkiː/
 abandon	/əˈbændən/
 abandonment	/əˈbændənmənt/
 abashed	/əˈbæʃt/
@@ -23,11 +23,11 @@ abduction	/æbˈdʌkʃən/
 aberration	/ˌæbəˈreɪʃən/
 abet	/əˈbεt/
 abeyance	/əˈbeɪəns/
-abhor	/əbˈhɔr, æb-/
+abhor	/əbˈhɔr, æbˈhɔr/
 abide	/əˈbaɪd/
 abode	/əˈboːd/
 ability	/əˈbɪlət̬i/
-abject	/ˈæbˌdƷεkt, æbˈ-/
+abject	/ˈæbˌdƷεkt, æbˈdƷεkt/
 ablaze	/əˈbleɪz/
 able	/ˈeɪbəl/
 abnormal	/æbˈnɔrməl/
@@ -60,12 +60,12 @@ absolve	/əbˈzɑlv, æb-, -ˈsɑlv/
 absorb	/əbˈzɔrb, æb-, -ˈsɔrb/
 absorbent	/əbˈzɔrbənt, æb-, -ˈsɔr-/
 absorption	/əbˈzɔrpʃən, æb-, -ˈsɔrp-/
-abstain	/əbˈsteɪn, æb-/
+abstain	/əbˈsteɪn, æbˈsteɪn/
 abstinence	/ˈæbstənəns/
-abstract	/æbˈstrækt, ˈæbˌ-/
+abstract	/æbˈstrækt, ˈæbˌstrækt/
 ~	/ˈæbˌstrækt/
 abstraction	/æbˈstrækʃən/
-absurd	/əbˈsɚd, -ˈzɚd/
+absurd	/əbˈsɚd, əbˈzɚd/
 absurdity	/əbˈsɚdət̬i, -ˈzɚdət̬i/
 abundant	/əˈbʌndənt/
 abundance	/əˈbʌndəns/
