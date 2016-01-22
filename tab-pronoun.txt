@@ -56,10 +56,10 @@ absentee	/ˌæbsənˈtiː/
 absentminded	/ˌæbsəntˈmaɪndəd/
 absolute	/ˈæbsəˌluːt, ˌæbsəˈluːt/
 absolutely	/ˌæbsəˈluːtli/
-absolve	/əbˈzɑlv, æb-, -ˈsɑlv/
-absorb	/əbˈzɔrb, æb-, -ˈsɔrb/
-absorbent	/əbˈzɔrbənt, æb-, -ˈsɔr-/
-absorption	/əbˈzɔrpʃən, æb-, -ˈsɔrp-/
+absolve	/əbˈzɑlv, æbˈzɑlv, əbˈsɑlv, æbˈsɑlv/
+absorb	/əbˈzɔrb, æbˈzɔrb, əbˈsɔrb, æbˈsɔrb/
+absorbent	/əbˈzɔrbənt, æbˈzɔrbənt, əbˈsɔrbənt, æbˈsɔrbənt/
+absorption	/əbˈzɔrpʃən, æbˈzɔrpʃən, əbˈsɔrpʃən, æbˈsɔrpʃən/
 abstain	/əbˈsteɪn, æbˈsteɪn/
 abstinence	/ˈæbstənəns/
 abstract	/æbˈstrækt, ˈæbˌstrækt/
@@ -77,27 +77,27 @@ abyss	/əˈbɪs, ˈæbɪs/
 abysmal	/əˈbɪzməl/
 academy	/əˈkædəmi/
 academic	/ˌækəˈdεmɪk/
-accelerate	/ɪkˈsεləˌreɪt, æk-/
-acceleration	/ɪkˌsεləˈreɪʃən, æk-/
+accelerate	/ɪkˈsεləˌreɪt, ækˈsεləˌreɪt/
+acceleration	/ɪkˌsεləˈreɪʃən, ækˌsεləˈreɪʃən/
 accent	/ˈækˌsεnt, ækˈsεnt/
-~	/ˈækˌsεnt, sənt/
-accentuate	/əkˈsεntʃʊˌeɪt, æk-/
-accept	/ɪkˈsεpt, æk-/
-acceptable	/ɪkˈsεptəbəl, æk-/
-acceptance	/ɪkˈsεptəns, æk-/
+~	/ˈækˌsεnt, ˈæksənt/
+accentuate	/əkˈsεntʃʊˌeɪt, ækˈsεntʃʊˌeɪt/
+accept	/ɪkˈsεpt, ækˈsεpt/
+acceptable	/ɪkˈsεptəbəl, ækˈsεptəbəl/
+acceptance	/ɪkˈsεptəns, ækˈsεptəns/
 access	/ˈækˌsεs/
-accessible	/ɪkˈsεsəbəl, æk-/
+accessible	/ɪkˈsεsəbəl, ækˈsεsəbəl/
 accident	/ˈæksədənt/
 accidental	/ˌæksəˈdεntəl/
-accidentally	/ˌæksəˈdεntəli, -ˈdεntli/
+accidentally	/ˌæksəˈdεntəli, ˌæksəˈdεntli/
 acclaim	/əˈkleɪm/
 acclimatize	/əˈklaɪməˌtaɪz/
 accommodate	/əˈkɑməˌdeɪt/
 accomodation	/əˌkɑməˈdeɪʃən/
-accompany	/əˈkʌmpəni, -ˈkɑm-/
-accomplice	/əˈkɑmpləs, -ˈkʌm-/
-accomplish	/əˈkɑmplɪʃ, -ˈkʌm-/
-accomplishment	/əˈkɑmplɪʃmənt, -ˈkʌm-/
+accompany	/əˈkʌmpəni, əˈkɑmpəni
+accomplice	/əˈkɑmpləs, əˈkʌmpləs/
+accomplish	/əˈkɑmplɪʃ, əˈkʌmplɪʃ-/
+accomplishment	/əˈkɑmplɪʃmənt, əˈkʌmplɪʃmənt/
 accordance	/əˈkɔrdəns/
 accordingly	/əˈkɔrdɪŋli/
 according to	/əˈkɔrdɪŋ/
@@ -120,12 +120,12 @@ ache	/ˈeɪk/
 achieve	/əˈtʃiːv/
 achievement	/əˈtʃiːvmənt/
 acid	/ˈæsəd/
-acknowledge	/ɪkˈnɑlɪdƷ, æk-/
-acknowledgment	/ɪkˈnɑlɪdƷmənt, æk-/
+acknowledge	/ɪkˈnɑlɪdƷ, ækˈnɑlɪdƷ/
+acknowledgment	/ɪkˈnɑlɪdƷmənt, ækˈnɑlɪdƷmənt/
 acne	/ˈækni/
-acorn	/ˈeɪˌkɔrn, -kɚn/
+acorn	/ˈeɪˌkɔrn, ˈeɪkɚn/
 acoustic	/əˈkuːstɪk/
-acoustical	/-stɪkəl/
+acoustical	/əˈkuːstɪkəl/
 acoustics	/əˈkuːstɪks/
 acquaint	/əˈkweɪnt/
 acquaintance	/əˈkweɪntəns/
@@ -152,10 +152,10 @@ actually	/ˈæktʃʊəli/
 acupuncture	/ˈækjʊˌpʌŋktʃɚ/
 acute	/əˈkjuːt/
 ad	/ˈæd/
-adamant	/ˈædəmənt, -ˌmænt/
+adamant	/ˈædəmənt, ˈædəˌmænt/
 adapt	/əˈdæpt/
 adaptable	/əˈdæptəbəl/
-adaptation	/ˌæˌdæpˈteɪʃən, -dəp-/
+adaptation	/ˌæˌdæpˈteɪʃən, ˌædəpˈteɪʃən/
 adapter	/əˈdæptɚ/
 add	/ˈæd/
 addict	/ˈædɪkt/
@@ -168,7 +168,7 @@ address	/əˈdrεs/
 adept	/əˈdεpt/
 adequate	/ˈædɪkwət/
 adhere	/ædˈhɪr, əd-/
-adherence	/ædˈhɪrəns, əd-/
+adherence	/ædˈhɪrəns, ədˈhɪrəns/
 adhesive	/ædˈhiːsɪv, əd-, -zɪv/
 adjacent	/əˈdƷeɪsənt/
 adjective	/ˈædƷɪktɪv/
