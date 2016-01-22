@@ -1,4 +1,4 @@
-a 1	/ˈeɪ/
+a (letter)	/ˈeɪ/
 as	/ˈeɪz/
 a 2	/ə, ˈeɪ/
 an	/ən, ˈæn/
@@ -840,24 +840,24 @@ automation	/ˌɔt̬əˈmeɪʃən/
 automobile	/ˌɔt̬əmoˈbiːl, -ˈmoːˌbiːl/
 autonomy	/ɔˈtɑnəmi/
 autonomous	/ɔˈtɑnəməs/
-autopsy	/ˈɔˌtɑpsi, -təp-/
+autopsy	/ˈɔˌtɑpsi, ˈɔtəpsi/
 autumn	/ˈɔt̬əm/
-auxiliary	/ɔgˈzɪljɚi, -ˈzɪlɚi/
+auxiliary	/ɔgˈzɪljɚi, ɔgˈzɪlɚi/
 avail	/əˈveɪl/
 available	/əˈveɪləbəl/
 availability	/əˌveɪləˈbɪlət̬i/
 avalanche	/ˈævəˌlæntʃ/
 avarice	/ˈævɚəs/
 avenge	/əˈvεndƷ/
-avenue	/ˈævəˌnuː, -ˌnjuː/
-average	/ˈævrɪdƷ, ˈævə-/
+avenue	/ˈævəˌnuː, ˈævəˌnjuː/
+average	/ˈævrɪdƷ, ˈævərɪdƷ/
 averse	/əˈvɚs/
 aversion	/əˈvɚƷən/
 avert	/əˈvɚt/
 aviation	/ˌeɪviˈeɪʃən/
 aviator	/ˈeɪviˌeɪt̬ɚ/
 avid	/ˈævɪd/
-avocado	/ˌævəˈkɑdo, ˌɑvə-/
+avocado	/ˌævəˈkɑdo, ˌɑvəˈkɑdo/
 avoid	/əˈvɔɪd/
 avoidable	/əˈvɔɪdəbəl/
 await	/əˈweɪt/
@@ -889,7 +889,7 @@ baboon	/bæˈbuːn/
 baby	/ˈbeɪbi/
 babyish	/ˈbeɪbiɪʃ/
 baby–sit	/ˈbeɪbiˌsɪt/
-sat	/-ˌsæt/
+baby-sat	/ˈbeɪbiˌsæt/
 bachelor	/ˈbætʃəlɚ/
 back	/ˈbæk/
 backache	/ˈbækˌeɪk/
@@ -902,11 +902,11 @@ backing	/ˈbækɪŋ/
 backlash	/ˈbækˌlæʃ/
 backlog	/ˈbækˌlɔg/
 backpack	/ˈbækˌpæk/
-backstage	/ˌbækˈsteɪdƷ, ˈbækˌ-/
+backstage	/ˌbækˈsteɪdƷ, ˈbækˌsteɪdƷ/
 backtrack	/ˈbækˌtræk/
 backup	/ˈbækˌʌp/
 backward	/ˈbækwɚd/
-backwards	/-wɚdz/
+backwards	/ˈbækwɚdz/
 bacon	/ˈbeɪkən/
 bacteria	/bækˈtɪriə/
 bad	/ˈbæd/
@@ -936,9 +936,9 @@ ballerina	/ˌbæləˈriːnə/
 ballet	/bæˈleɪ, ˈbæˌleɪ/
 ballistic	/bəˈlɪstɪk/
 pen	/ˈbɔlˌpɔɪnt/
-ballroom	/ˈbɔlˌruːm, -ˌrʊm/
+ballroom	/ˈbɔlˌruːm, ˈbɔlˌrʊm/
 balm	/ˈbɑm, ˈbɑlm/
-balmy	/ˈbɑmi, ˈbɑl-/
+balmy	/ˈbɑmi, ˈbɑlmi/
 baloney	/bəˈloːni/
 bamboo	/bæmˈbuː/
 bamboozle	/bæmˈbuːzəl/
@@ -972,7 +972,7 @@ barber	/ˈbɑrbɚ/
 bare	/ˈbεər/
 barefaced	/ˈbεərˌfeɪst/
 barefoot	/ˈbεərˌfʊt/
-barefooted	/-ˌfʊt̬əd/
+barefooted	/ˈbεərˌfʊt̬əd/
 barely	/ˈbεərli/
 bargain	/ˈbɑrgən/
 barge	/ˈbɑrdƷ/
@@ -983,15 +983,15 @@ barn	/ˈbɑrn/
 barnyard	/ˈbɑrnˌjɑrd/
 barometer	/bəˈrɑmət̬ɚ/
 baron	/ˈbærən/
-baroness	/ˈbærənɪs, -nəs, -ˌnεs/
+baroness	/ˈbærənɪs, ˈbærənəs, ˈbærəˌnεs/
 barracks	/ˈbærəks/
-barrage	/bəˈrɑƷ, -ˈrɑdƷ/
+barrage	/bəˈrɑƷ, bəˈrɑdƷ/
 barrel	/ˈbærəl/
 barren	/ˈbærən/
-barricade	/ˈbærəˌkeɪd, ˌbærəˈ-/
+barricade	/ˈbærəˌkeɪd, ˌbærəˈkeɪd/
 barrier	/ˈbæriɚ/
 barring	/ˈbɑrɪŋ/
-barrio	/ˈbɑrio, ˈbær-/
+barrio	/ˈbɑrio, ˈbærio/
 bartender	/ˈbɑrˌtεndɚ/
 barter	/ˈbɑrt̬ɚ/
 base	/ˈbeɪs/
@@ -1004,13 +1004,13 @@ basically	/ˈbeɪsɪkli/
 basil	/ˈbeɪzəl, ˈbæzəl/
 basin	/ˈbeɪsən/
 basis	/ˈbeɪsəs/
-bases	/-ˌsiːz/
+bases	/ˈbeɪˌsiːz/
 bask	/ˈbæsk/
 basket	/ˈbæskət/
 basketball	/ˈbæskətˌbɔl/
 bass 1	/ˈbæs/
 bass 2	/ˈbeɪs/
-bassoon	/bəˈsuːn, bæ-/
+bassoon	/bəˈsuːn, bæˈsuːn/
 bastard	/ˈbæstɚd/
 baste	/ˈbeɪst/
 bat 1	/ˈbæt/
@@ -1019,7 +1019,7 @@ bath	/ˈbæθ, ˈbaθ/
 baths	/ˈbæðz, ˈbæθs, ˈbaðz, ˈbaθs/
 bathe	/ˈbeɪð/
 bathrobe	/ˈbæθˌroːb/
-bathroom	/ˈbæθˌruːm, -ˌrʊm/
+bathroom	/ˈbæθˌruːm, ˈbæθˌrʊm/
 bathtub	/ˈbæθˌtʌb/
 baton	/bəˈtɑn/
 battalion	/bəˈtæljən/
@@ -1057,13 +1057,13 @@ beautiful	/ˈbjuːt̬ɪfəl/
 beautifully	/ˈbjuːt̬ɪfəli/
 beautify	/ˈbjuːt̬ɪˌfaɪ/
 beaver	/ˈbiːvɚ/
-because	/bɪˈkʌz, -ˈkɔz/
+because	/bɪˈkʌz, bɪˈkɔz/
 beckon	/ˈbεkən/
 become	/bɪˈkʌm/
-came	/-ˈkeɪm/
+became	/bɪˈkeɪm/
 becoming	/bɪˈkʌmɪŋ/
 bed	/ˈbεd/
-bedclothes	/ˈbεdˌkloːz, -ˌkloːðz/
+bedclothes	/ˈbεdˌkloːz, ˈbεdˌkloːðz/
 bedlam	/ˈbεdləm/
 bedraggled	/bɪˈdrægəld/
 bedridden	/ˈbεdˌrɪdən/
