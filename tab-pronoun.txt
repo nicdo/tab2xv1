@@ -537,7 +537,7 @@ anyplace	/ˈεniˌpleɪs/
 anything	/ˈεniˌθɪŋ/
 anytime	/ˈεniˌtaɪm/
 anyway	/ˈεniˌweɪ/
-anywhere	/ˈεniˌhwεr/
+anywhere	/ˈεniˌhwεər/
 apart	/əˈpɑrt/
 apartment	/əˈpɑrtmənt/
 apathy	/ˈæpəθi/
@@ -654,7 +654,7 @@ arithmetic (adj.) /ˌærɪθˈmɛtɪk/
 ark	/ˈɑrk/
 arm	/ˈɑrm/
 armament	/ˈɑrməmənt/
-armchair	/ˈɑrmˌtʃεr/
+armchair	/ˈɑrmˌtʃεər/
 armed	/ˈɑrmd/
 armistice	/ˈɑrməstɪs/
 armor	/ˈɑrmɚ/
@@ -827,7 +827,7 @@ Australian	/ɔˈstreɪljən/
 authentic	/əˈθεntɪk, ɔ-/
 author	/ˈɔθɚ/
 authority	/əˈθɔrət̬i, ɔ-/
-authoritarian	/ɔˌθɔrəˈtεriən, ə-/
+authoritarian	/ɔˌθɔrəˈtεəriən, ə-/
 authoritative	/əˈθɔrəˌteɪt̬ɪv, ɔ-/
 authorization	/ˌɔθɚəˈzeɪʃən/
 authorize	/ˈɔθəˌraɪz/
@@ -1684,7 +1684,7 @@ can 2	/ˈkæn/
 can't	/ˈkænt, ˈkant/
 Canadian	/kəˈneɪdiən/
 canal	/kəˈnæl/
-canary	/kəˈnεri/
+canary	/kəˈnεəri/
 cancel	/ˈkænsəl/
 cancellation	/ˌkænsəˈleɪʃən/
 cancer	/ˈkænsɚ/
@@ -1872,7 +1872,7 @@ certify	/ˈsɚt̬əˌfaɪ/
 certificate	/sɚˈtɪfɪkət/
 chafe	/ˈtʃeɪf/
 chain	/ˈtʃeɪn/
-chair	/ˈtʃεr/
+chair	/ˈtʃεər/
 chairman	/ˈtʃεərmən/
 chairmen	/-mən, -ˌmεn/
 chairperson	/ˈtʃεərˌpɚsən/
@@ -3904,7 +3904,7 @@ elopement	/iˈloːpmənt/
 eloquence	/ˈεləkwəns/
 eloquent	/ˈεləkwənt/
 else	/ˈεls/
-elsewhere	/ˈεlsˌhwεr/
+elsewhere	/ˈεlsˌhwεər/
 elude	/iˈluːd/
 elusive	/iˈluːsɪv/
 emaciated	/iˈmeɪʃiˌeɪt̬əd/
@@ -4169,7 +4169,7 @@ everybody	/ˈεvriˌbʌdi, -ˌbɑ-/
 everyday	/ˌεvriˈdeɪ, ˈεvriˌ-/
 everyone	/ˈεvriˌwʌn/
 everybody  — everything	/ˈεvri ˌθɪŋ/
-everywhere	/ˈεvri ˌhwεr/
+everywhere	/ˈεvri ˌhwεər/
 evict	/ɪˈvɪkt/
 eviction	/ɪˈvɪkʃən/
 evidence	/ˈεvədəns/
@@ -4505,7 +4505,7 @@ fern	/ˈfɚn/
 ferocious	/fəˈroːʃəs/
 ferocity	/fəˈrɑsət̬i/
 ferret	/ˈfεrət/
-wheel	/ˈfεrɪs/
+Ferris wheel	/ˈfεrɪs wiːl/
 ferry	/ˈfεri/
 fertile	/ˈfɚt̬əl/
 fertility	/fɚˈtɪlət̬i/
@@ -5957,7 +5957,7 @@ hull	/ˈhʌl/
 hum	/ˈhʌm/
 human	/ˈhjuːmən, ˈjuː-/
 humane	/hjuːˈmeɪn, ˌjuː-/
-humanitarian	/hjuːˌmænəˈtεriən, juː-/
+humanitarian	/hjuːˌmænəˈtεəriən, juː-/
 humanity	/hjuːˈmænət̬i, juː-/
 humble	/ˈhʌmbəl/
 humdrum	/ˈhʌmˌdrʌm/
@@ -7200,7 +7200,7 @@ liberate	/ˈlɪbəˌreɪt/
 liberation	/ˌlɪbəˈreɪʃən/
 liberty	/ˈlɪbɚt̬i/
 library	/ˈlaɪˌbrεri/
-librarian	/laɪˈbrεriən/
+librarian	/laɪˈbrεəriən/
 licence	/ˈlaɪsəns/
 lick	/ˈlɪk/
 licorice	/ˈlɪkɚɪʃ, -rəs/
@@ -7514,7 +7514,7 @@ maker	/ˈmeɪkɚ/
 makeshift	/ˈmeɪkˌʃɪft/
 makeup	/ˈmeɪkˌʌp/
 maladjusted	/ˌmæləˈdƷʌstəd/
-malaria	/məˈlεriə/
+malaria	/məˈlεəriə/
 male	/ˈmeɪl/
 malevolent	/məˈlεvələnt/
 malfunction	/mælˈfʌŋkʃən/
@@ -7685,7 +7685,7 @@ May	/ˈmeɪ/
 maybe	/ˈmeɪbi/
 mayhem	/ˈmeɪˌhεm, ˈmeɪəm/
 mayonnaise	/ˈmeɪəˌneɪz/
-mayor	/ˈmeɪɚ, ˈmεr/
+mayor	/ˈmeɪɚ, ˈmεər/
 maze	/ˈmeɪz/
 me	/ˈmiː/
 meadow	/ˈmεdoː/
@@ -8432,7 +8432,7 @@ November	/noˈvεmbɚ/
 novice	/ˈnɑvɪs/
 now	/ˈnaʊ/
 nowadays	/ˈnaʊəˌdeɪz/
-nowhere	/ˈnoːˌhwεr/
+nowhere	/ˈnoːˌhwεər/
 nozzle	/ˈnɑzəl/
 nuance	/ˈnuːˌɑns, ˈnjuː-/
 nucleus	/ˈnuːkliəs, ˈnjuː-/
@@ -8908,7 +8908,7 @@ pale	/ˈpeɪl/
 paleness	/ˈpeɪlnəs/
 Palestinian	/ˌpæləˈstɪniən/
 palette	/ˈpælət/
-pallbearer	/ˈpɔlˌbεrɚ/
+pallbearer	/ˈpɔlˌbεərɚ/
 pallid	/ˈpæləd/
 pallor	/ˈpælɚ/
 palm 1	/ˈpɑm, ˈpɑlm/
