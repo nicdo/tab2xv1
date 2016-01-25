@@ -9546,14 +9546,14 @@ practically	/ˈpræktɪkli/
 practise	/ˈpræktəs/
 practitioner	/prækˈtɪʃənɚ/
 pragmatic	/prægˈmæt̬ɪk/
-prairie	/ˈprεri/
+prairie	/ˈprεəri/
 praise	/ˈpreɪz/
 praiseworthy	/ˈpreɪzˌwɚði/
 prance	/ˈpræns/
 prank	/ˈpræŋk/
 prawn	/ˈprɔn/
 pray	/ˈpreɪ/
-prayer	/ˈprεr/
+prayer	/ˈprεər/
 preach	/ˈpriːtʃ/
 preacher	/ˈpriːtʃɚ/
 precarious	/priˈkεəriəs/
@@ -9601,7 +9601,7 @@ premarital	/ˌpriːˈmærət̬əl/
 premature	/ˌpriːməˈtʊr, -ˈtjʊr, -ˈtʃʊr/
 premeditated	/priˈmεdəˌteɪt̬əd/
 premier	/priˈmɪr, -ˈmjɪr; ˈpriːmiɚ/
-premiere	/prɪˈmjεr, -ˈmɪr/
+premiere	/prɪˈmjɪər, -ˈmɪr/
 premise	/ˈprεmɪs/
 premium	/ˈpriːmiəm/
 preoccupied	/priˈɑkjəˌpaɪd/
@@ -10863,7 +10863,7 @@ sandpaper	/ˈsændˌpeɪpɚ/
 sandwich	/ˈsændˌwɪtʃ/
 sandy	/ˈsændi/
 sane	/ˈseɪn/
-sanitarium	/ˌsænəˈtεriəm/
+sanitarium	/ˌsænəˈtεəriəm/
 ia	/-iə/
 sanitary	/ˈsænətεri/
 sanitation	/ˌsænəˈteɪʃən/
@@ -10927,15 +10927,15 @@ Scandinavian	/ˌskændəˈneɪviən/
 scant	/ˈskænt/
 scapegoat	/ˈskeɪpˌgoːt/
 scar	/ˈskɑr/
-scarce	/ˈskεrs/
-scarcely	/ˈskεrsli/
-scarcity	/ˈskεrsət̬i/
-scare	/ˈskεr/
-scarecrow	/ˈskεrˌkroː/
+scarce	/ˈskεərs/
+scarcely	/ˈskεərsli/
+scarcity	/ˈskεərsət̬i/
+scare	/ˈskεər/
+scarecrow	/ˈskεərˌkroː/
 scarf	/ˈskɑrf/
 scarves	/ˈskɑrvz/
 scarlet	/ˈskɑrlət/
-scary	/ˈskεri/
+scary	/ˈskεəri/
 scathing	/ˈskeɪðɪŋ/
 scatter	/ˈskæt̬ɚ/
 scavenger	/ˈskævəndƷɚ/
@@ -11225,8 +11225,8 @@ shamrock	/ˈʃæmˌrɑk/
 shan't	/ˈʃænt/
 shape	/ˈʃeɪp/
 shapeless	/ˈʃeɪpləs/
-share	/ˈʃεr/
-shareholder	/ˈʃεrˌhoːldɚ/
+share	/ˈʃεər/
+shareholder	/ˈʃεərˌhoːldɚ/
 shark	/ˈʃɑrk/
 sharp	/ˈʃɑrp/
 sharpen	/ˈʃɑrpən/
@@ -11684,7 +11684,7 @@ something	/ˈsʌmθɪŋ/
 sometime	/ˈsʌmˌtaɪm/
 sometimes	/ˈsʌmˌtaɪmz/
 somewhat	/ˈsʌmˌhwʌt, -ˌhwɑt/
-somewhere	/ˈsʌmˌhwεr/
+somewhere	/ˈsʌmˌhwεər/
 son	/ˈsʌn/
 song	/ˈsɔŋ/
 sonnet	/ˈsɑnət/
