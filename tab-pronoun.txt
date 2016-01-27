@@ -565,7 +565,7 @@ appear	/əˈpɪr/
 appearance	/əˈpɪrəns/
 appease	/əˈpiːz/
 appendix	/əˈpεndɪks/
-dices	/-dəˌsiːz/
+appendices	/-dəˌsiːz/
 appendicitis	/əˌpεndəˈsaɪt̬əs/
 appetite	/ˈæpəˌtaɪt/
 appetizer	/ˈæpəˌtaɪzɚ/
@@ -3284,7 +3284,7 @@ diabetic	/ˌdaɪəˈbεt̬ɪk/
 diabolic	/ˌdaɪəˈbɑlɪk/
 diabolical	/-lɪkəl/
 diagnosis	/ˌdaɪɪgˈnoːsɪs/
-noses	/-ˈnoːˌsiːz/
+diagnoses	/-ˈnoːˌsiːz/
 diagnose	/ˈdaɪɪgˌnoːs, ˌdaɪɪgˈnoːs/
 diagnostic	/ˌdaɪɪgˈnɑstɪk/
 diagonal	/daɪˈægənəl/
@@ -3949,7 +3949,7 @@ emotion	/iˈmoːʃən/
 emotional	/iˈmoːʃənəl/
 emperor	/ˈεmpɚɚ/
 emphasis	/ˈεmfəsɪs/
-phases	/-ˌsiːz/
+emphases	/-ˌsiːz/
 emphasize	/ˈεmfəˌsaɪz/
 emphatic	/ɪmˈfætɪk, εm-/
 empire	/ˈεmˌpaɪr/
@@ -6010,7 +6010,7 @@ hymn	/ˈhɪm/
 hyperactive	/ˌhaɪpɚˈæktɪv/
 hyphen	/ˈhaɪfən/
 hypnosis	/hɪpˈnoːsɪs/
-noses	/-ˌsiːz/
+hypnoses	/-ˌsiːz/
 hypnotic	/hɪpˈnɑ-t̬ɪk/
 hypnotism	/ˈhɪpnəˌtɪzəm/
 hypnotize	/ˈhɪpnəˌtaɪz/
@@ -6019,7 +6019,7 @@ hypocrisy	/hɪpˈɑkrəsi/
 hypocrite	/ˈhɪpəˌkrɪt/
 hypocritical	/ˌhɪpəˈkrɪt̬ɪkəl/
 hypothesis	/haɪˈpɑθəsɪs/
-eses	/-ˌsiːz/
+hypotheses	/haɪˈpɑθəˌsiːz/
 hypothetical	/ˌhaɪpəˈθεt̬ɪkəl/
 hysteria	/hɪsˈtεriə, -tɪr-/
 hysterical	/hɪsˈtεrɪkəl/
@@ -6316,7 +6316,7 @@ independence	/ˌɪndəˈpεndəns/
 indescribable	/ˌɪndɪˈskraɪbəbəl/
 indestructible	/ˌɪndɪˈstrʌktəbəl/
 index	/ˈɪnˌdεks/
-dices	/ˈɪndəˌsiːz/
+indices	/ˈɪndəˌsiːz/
 Indian	/ˈɪndiən/
 indication	/ˌɪndəˈkeɪʃən/
 indicate	/ˈɪndəˌkeɪt/
@@ -7799,7 +7799,7 @@ metabolism	/məˈtæbəˌlɪzəm/
 metal	/ˈmεt̬əl/
 metallic	/məˈtælɪk/
 metamorphosis	/ˌmεt̬əˈmɔrfəsɪs/
-phoses	/-ˌsiːz/
+metamorphoses	/-ˌsiːz/
 metaphor	/ˈmεt̬əˌfɔr, -fɚ/
 meteor	/ˈmiːt̬iɚ, -t̬iːˌɔr/
 meteorological	/ˌmiːt̬iˌɔrəˈlɑdƷɪkəl/
@@ -8289,7 +8289,7 @@ nettle	/ˈnεt̬əl/
 network	/ˈnεtˌwɚk/
 neurology	/nʊˈrɑlədƷi, njʊ-/
 neurosis	/nʊˈroːsɪs, njʊ-/
-roses	/-ˌsiːz/
+neuroses	/-ˌsiːz/
 neurotic	/nʊ-ˈrɑt̬ɪk, njʊ-/
 neuter	/ˈnuːt̬ɚ, ˈnjuː-/
 neutral	/ˈnuːtrəl, ˈnjuː-/
@@ -8958,7 +8958,7 @@ Paraguayan	/ˌpærəˈgwaɪən, -ˈgweɪ-/
 parakeet	/ˈpærəˌkiːt/
 parallel	/ˈpærəˌlεl, -ləl/
 paralysis	/pəˈræləsɪs/
-yses	/-ˌsiːz/
+paralyses	/-ˌsiːz/
 paralise	/ˈpærəˌlaɪz/
 parameter	/pəˈræmət̬ɚ/
 paramount	/ˈpærəˌmaʊnt/
@@ -8976,7 +8976,7 @@ pardon	/ˈpɑrdən/
 parent	/ˈpεərənt, ˈpærənt/
 parental	/pəˈrεntəl/
 parenthesis	/pəˈrεnθəsɪs/
-theses	/-ˌsiːz/
+parentheses	/pəˈrεnθəˌsiːz/
 parish	/ˈpærɪʃ/
 parishioner	/pəˈrɪʃənɚ/
 parity	/ˈpærət̬i/
@@ -9697,7 +9697,7 @@ proceed	/proˈsiːd/
 proceedings	/proˈsiːdɪŋz/
 proceeds	/ˈproːˌsiːdz/
 process	/ˈprɑˌsεs, ˈproː-/
-cesses	/ˈprɑˌsεsəz, ˈproː-, -səsəz, -səˌsiːz/
+processes	/ˈprɑˌsεsəz, ˈproː-, -səsəz, -səˌsiːz/
 procession	/prəˈsεʃən/
 proclaim	/proˈkleɪm/
 proclamation	/ˌprɑkləˈmeɪʃən/
@@ -9726,7 +9726,7 @@ profound	/prəˈfaʊnd/
 profuse	/prəˈfjuːs/
 profusion	/prəˈfjuːƷən/
 prognosis	/prɑgˈnoːsɪs/
-noses	/-ˌsiːz/
+prognoses	/-ˌsiːz/
 program	/ˈproːˌgræm, -grəm/
 progress	/ˈprɑgrəs, -ˌgrεs/
 ~	/prəˈgrεs/
@@ -12457,10 +12457,10 @@ syndrome	/ˈsɪnˌdroːm/
 synonym	/ˈsɪnəˌnɪm/
 synonymous	/səˈnɑnəməs/
 synopsis	/səˈnɑpsɪs/
-opses	/-ˌsiːz/
+synopses	/səˈnɑpˌsiːz/
 syntax	/ˈsɪnˌtæks/
 synthesis	/ˈsɪnθəsɪs/
-theses	/-ˌsiːz/
+syntheses	/ˈsɪnθəˌsiːz/
 synthesize	/ˈsɪnθəˌsaɪz/
 synthetic	/sɪnˈθεt̬ɪk/
 syphilis	/ˈsɪfələs/
@@ -13109,7 +13109,7 @@ tub	/ˈtʌb/
 tuba	/ˈtuːbə, ˈtjuː-/
 tube	/ˈtuːb, ˈtjuːb/
 tuberculosis	/tʊˌbɚkjəˈloːsɪs, tjʊ-/
-loses	/-ˌsiːz/
+tuberculoses	/-ˌsiːz/
 tubing	/ˈtuːbɪŋ, ˈtjuː-/
 tubular	/ˈtuːbjəlɚ, ˈtjuː-/
 tuck	/ˈtʌk/
