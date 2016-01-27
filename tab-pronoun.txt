@@ -3550,7 +3550,8 @@ DNA	/ˌdiːˌεnˈeɪ/
 do	/ˈduː/
 did	/ˈdɪd/
 done	/ˈdʌn/
-doing; does	/ˈdʌz/
+doing
+does	/ˈdʌz/
 dock	/ˈdɑk/
 doctor	/ˈdɑktɚ/
 doctrine	/ˈdɑktrɪn/
@@ -8728,17 +8729,17 @@ outcome	/ˈaʊtˌkʌm/
 outcry	/ˈaʊtˌkraɪ/
 outdated	/ˌaʊtˈdeɪt̬əd/
 outdo	/ˌaʊtˈduː/
-did	/-ˈdɪd/
-done	/-ˈdʌn/
-does	/-ˈdʌz/
+outdid	/-ˈdɪd/
+outdone	/-ˈdʌn/
+outdoes	/-ˈdʌz/
 outdoor	/ˈaʊtˈdor/
 outdoors	/ˈaʊtˈdorz/
 outer	/ˈaʊt̬ɚ/
 outfit	/ˈaʊtˌfɪt/
 outgoing	/ˈaʊtˌgoːɪŋ/
 outgrow	/ˌaʊtˈgroː/
-grew	/-ˈgruː/
-grown	/-ˈgroːn/
+outgrew	/-ˈgruː/
+outgrown	/-ˈgroːn/
 outing	/ˈaʊt̬ɪŋ/
 outlandish	/aʊtˈlændɪʃ/
 outlast	/ˌaʊtˈlæst/
@@ -8790,25 +8791,26 @@ came	/-ˈkeɪm/
 overcook	/ˌoːvɚˈkʊk/
 overcrowded	/ˌoːvɚˈkraʊdəd/
 overdo	/ˌoːvɚˈduː/
-did	/-ˈdɪd/
-done	/-ˈdʌn/
-doing; -does	/-ˈdʌz/
+overdid	/-ˈdɪd/
+overdone	/-ˈdʌn/
+doing;
+overdoes	/-ˈdʌz/
 overdose	/ˈoːvɚˌdoːs/
 overdraw	/ˌoːvɚˈdrɔ/
-drew	/-ˈdruː/
-drawn	/-ˈdrɔn/
+overdrew	/-ˈdruː/
+overdrawn	/-ˈdrɔn/
 overdraft	/ˈoːvɚˌdræft/
 overdue	/ˌoːvɚˈduː/
 overeat	/ˌoːvɚˈiːt/
-ate	/-ˈeɪt/
-eaten	/-ˈeɪtən/
+overate	/-ˈeɪt/
+overeaten	/-ˈeɪtən/
 overestimate	/ˌoːvɚˈεstəˌmeɪt/
 overflow	/ˌoːvɚˈfloː/
 ~	/ˈoːvɚˌfloː/
 overgrown	/ˌoːvɚˈgroːn/
 overhand	/ˈoːvɚˌhænd/
 overhang	/ˌoːvɚˈhæŋ/
-hung	/-ˈhʌŋ/
+overhung	/-ˈhʌŋ/
 overhaul	/ˌoːvɚˈhɔl/
 overhead	/ˌoːvɚˈhεd/
 ~	/ˈoːvɚˌhεd/
@@ -8828,28 +8830,28 @@ overpopulated	/ˌoːvɚˈpɑpjəˌleɪt̬əd/
 overpower	/ˌoːvɚˈpaʊɚ/
 overrated	/ˌoːvɚˈreɪt̬əd/
 override	/ˌoːvɚˈraɪd/
-rode	/-ˈroːd/
-ridden	/-ˈrɪdən/
+overrode	/-ˈroːd/
+overridden	/-ˈrɪdən/
 overrule	/ˌoːvɚˈruːl/
 overrun	/ˌoːvɚˈrʌn/
-ran	/-ˈræn/
+overran	/-ˈræn/
 overseas	/ˌoːvɚˈsiːz/
 ~	/ˈoːvɚˌsiːz/
 oversee	/ˌoːvɚˈsiː/
-saw	/-ˈsɔ/
-seen	/-ˈsiːn/
+oversaw	/-ˈsɔ/
+overseen	/-ˈsiːn/
 overshadow	/ˌoːvɚˈʃæˌdoː/
 oversight	/ˈoːvɚˌsaɪt/
 oversleep	/ˌoːvɚˈsliːp/
-slept	/-ˈslεpt/
+overslept	/-ˈslεpt/
 overstep	/ˌoːvɚˈstεp/
 overt	/oˈvɚt, ˈoːˌvɚt/
 overtake	/ˌoːvɚˈteɪk/
-took	/-ˈtʊk/
-taken	/-ˈteɪkən/
+overtook	/-ˈtʊk/
+overtaken	/-ˈteɪkən/
 overthrow	/ˌoːvɚˈθroː/
-threw	/-ˈθruː/
-thrown	/-ˈθroːn/
+overthrew	/-ˈθruː/
+overthrown	/-ˈθroːn/
 overtime	/ˈoːvɚˌtaɪm/
 overtone	/ˈoːvɚˌtoːn/
 overture	/ˈoːvɚˌtʃʊr, -tʃɚ/
