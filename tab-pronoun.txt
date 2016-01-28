@@ -7048,7 +7048,7 @@ larva	/ˈlɑrvə/
 larvae	/-ˌviː, -ˌvaɪ/
 larynx	/ˈlærɪŋks/
 larynges	/ləˈrɪnˌdƷiːz/
-laynxes	/ˈlærɪŋksəz/
+larynxes	/ˈlærɪŋksəz/
 laryngitis	/ˌlærənˈdƷaɪt̬əs/
 lasagna	/ləˈzɑnjə/
 laser	/ˈleɪzɚ/
@@ -10910,7 +10910,8 @@ sawdust	/ˈsɔˌdʌst/
 saxophone	/ˈsæksəˌfoːn/
 say	/ˈseɪ/
 said	/ˈsεd/
-saying; says	/ˈsεz/
+saying; 
+says	/ˈsεz/
 says	/ˈseɪz/
 saying	/ˈseɪɪŋ/
 scab	/ˈskæb/
