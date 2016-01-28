@@ -1,6 +1,6 @@
 a (letter)	/ˈeɪ/
 as	/ˈeɪz/
-a 2	/ə, ˈeɪ/
+a (article)	/ə, ˈeɪ/
 an	/ən, ˈæn/
 aback	/əˈbæk/
 abacus	/ˈæbəkəs/
@@ -14121,17 +14121,17 @@ witch	/ˈwɪtʃ/
 witchcraft	/ˈwɪtʃˌkræft/
 with	/ˈwɪð, ˈwɪθ/
 withdraw	/wɪðˈdrɔ, wɪθ-/
-drew	/-ˈdruː/
-drawn	/-ˈdrɔn/
+withdrew	/-ˈdruː/
+witdrawn	/-ˈdrɔn/
 withdrawal	/wɪðˈdrɔəl, wɪθ-/
 withdrawn	/wɪðˈdrɔn, wɪθ-/
 wither	/ˈwɪðɚ/
 withhold	/wɪθˈhoːld, wɪð-/
-held	/-ˈhεld/
+withheld	/-ˈhεld/
 within	/wɪðˈɪn, wɪθ-/
 without	/wɪðˈaʊt, wɪθ-/
 withstand	/wɪθˈstænd, wɪð-/
-stood	/-ˈstʊd/
+withstood	/-ˈstʊd/
 witness	/ˈwɪtnəs/
 witticism	/ˈwɪt̬əˌsɪzəm/
 witty	/ˈwɪt̬i/
@@ -14170,9 +14170,9 @@ wrought	/ˈrɔt/
 worker	/ˈwɚkɚ/
 working	/ˈwɚkɪŋ/
 workingman	/ˈwɚkɪŋˌmæn/
-men	/-mən, -ˌmεn/
+workingmen	/-mən, -ˌmεn/
 workman	/ˈwɚkmən/
-men	/-mən, -ˌmεn/
+workmen	/-mən, -ˌmεn/
 workmanship	/ˈwɚkmənˌʃɪp/
 workout	/ˈwɚkˌaʊt/
 workshop	/ˈwɚkˌʃɑp/
@@ -14180,7 +14180,7 @@ world	/ˈwɚld/
 worldly	/ˈwɚldli/
 worldwide	/ˈwɚldˈwaɪd/
 worm	/ˈwɚm/
-wear  — worn–out	/ˈwornˈaʊt/
+worn–out	/ˈwornˈaʊt/
 worry	/ˈwɚi/
 worried	/ˈwɚid/
 worrisome	/ˈwɚisəm/
@@ -14196,8 +14196,8 @@ worthy	/ˈwɚði/
 would	/ˈwʊd/
 would–be	/ˈwʊdˈbiː/
 wouldn't	/ˈwʊdˈənt/
-wound 1	/ˈwuːnd/
-wound 2	/ˈwaʊnd/
+wound (injury)	/ˈwuːnd/
+wound (v. wind)	/ˈwaʊnd/
 wrangle	/ˈræŋgəl/
 wrap	/ˈræp/
 wrapper	/ˈræpɚ/
