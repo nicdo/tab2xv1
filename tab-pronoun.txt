@@ -5750,7 +5750,7 @@ herewith	/hɪrˈwɪθ/
 heritage	/ˈhεrət̬ɪdƷ/
 hermit	/ˈhɚmət/
 hernia	/ˈhɚniə/
-niae	/-niˌiː, -niˌaɪ/
+herniae	/-niˌiː, -niˌaɪ/
 hero	/ˈhiːˌroː, ˈhɪrˌoː/
 heroic	/hɪˈroːɪk/
 heroine	/ˈhεroən/
@@ -7045,7 +7045,7 @@ large	/ˈlɑrdƷ/
 largely	/ˈlɑrdƷli/
 lark	/ˈlɑrk/
 larva	/ˈlɑrvə/
-vae	/-ˌviː, -ˌvaɪ/
+larvae	/-ˌviː, -ˌvaɪ/
 larynx	/ˈlærɪŋks/
 larynges	/ləˈrɪnˌdƷiːz/
 laynxes	/ˈlærɪŋksəz/
@@ -10526,7 +10526,7 @@ retention	/riˈtεntʃən/
 reticence	/ˈrεt̬əsəns/
 reticent	/ˈrεt̬əsənt/
 retina	/ˈrεtənə/
-nae	/-əni, -ənˌaɪ/
+retinae	/-əni, -ənˌaɪ/
 retinue	/ˈrεtənˌuː, -ˌjuː/
 retire	/riˈtaɪr/
 retirement	/riˈtaɪrmənt/
