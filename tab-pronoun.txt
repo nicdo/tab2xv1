@@ -1608,9 +1608,9 @@ bushy	/ˈbʊʃi/
 busily	/ˈbɪzəli/
 business	/ˈbɪznəs, -nəz/
 businessman	/ˈbɪznəsˌmæn, -nəz-/
-men	/-mən, -ˌmεn/
+businessmen	/-mən, -ˌmεn/
 businesswoman	/ˈbɪznəsˌwʊmən, -nəz-/
-women	/-ˌwɪmən/
+businesswomen	/-ˌwɪmən/
 bust 1	/ˈbʌst/
 bustle	/ˈbʌsəl/
 busy	/ˈbɪzi/
@@ -2101,7 +2101,7 @@ clemency	/ˈklεmənsi/
 clench	/ˈklεntʃ/
 clergy	/ˈklɚdƷi/
 clergyman	/ˈklɚdƷimən/
-men	/-mən, -ˌmεn/
+clergymen	/-mən, -ˌmεn/
 clerical	/ˈklεrɪkəl/
 clerk	/ˈklɚk, Brit ˈklɑrk/
 clever	/ˈklεvɚ/
@@ -2455,7 +2455,7 @@ congregation	/ˌkɑŋgrɪˈgeɪʃən/
 congress	/ˈkɑŋgrəs/
 congressional	/kənˈgrεʃənəl, kɑn-/
 congressman	/ˈkɑŋgrəsmən/
-men	/-mən, -ˌmεn/
+congressmen	/-mən, -ˌmεn/
 conjecture	/kənˈdƷεktʃɚ/
 conjugal	/ˈkɑndƷɪgəl, kənˈdƷuː-/
 conjugate	/ˈkɑndƷəˌgeɪt/
@@ -2700,7 +2700,7 @@ countess	/ˈkaʊntɪs/
 countless	/ˈkaʊntləs/
 country	/ˈkʌntri/
 countryman	/ˈkʌntrimən/
-men	/-mən, -ˌmεn/
+countrymen	/-mən, -ˌmεn/
 countryside	/ˈkʌntriˌsaɪd/
 county	/ˈkaʊnti/
 coup	/ˈkuː/
@@ -2743,7 +2743,7 @@ crackle	/ˈkrækəl/
 cradle	/ˈkreɪdəl/
 craft	/ˈkræft/
 craftsman	/ˈkræftsmən/
-men	/-mən, -ˌmεn/
+craftsmen	/-mən, -ˌmεn/
 craftsmanship	/ˈkræftsmənˌʃɪp/
 crafty	/ˈkræfti/
 crag	/ˈkræg/
@@ -3593,7 +3593,7 @@ door	/ˈdor/
 doorbell	/ˈdorˌbεl/
 doorknob	/ˈdorˌnɑb/
 doorman	/ˈdormən/
-men	/-mən, -ˌmεn/
+doormen	/-mən, -ˌmεn/
 doormat	/ˈdorˌmæt/
 doorstep	/ˈdorˌstεp/
 doorway	/ˈdorˌweɪ/
@@ -4602,8 +4602,8 @@ firecracker	/ˈfaɪrˌkrækɚ/
 firefighter	/ˈfaɪrˌfaɪt̬ɚ/
 firefly	/ˈfaɪrˌflaɪ/
 fireman	/ˈfaɪrmən/
-men	/-mən, -ˌmεn/
-firefighter  — fireplace	/ˈfaɪrˌpleɪs/
+firemen	/-mən, -ˌmεn/
+fireplace	/ˈfaɪrˌpleɪs/
 fireproof	/ˈfaɪrˌpruːf/
 fireside	/ˈfaɪrˌsaɪd/
 firewood	/ˈfaɪrˌwʊd/
@@ -4619,7 +4619,7 @@ first–rate	/ˈfɚstˈreɪt/
 fiscal	/ˈfɪskəl/
 fish	/ˈfɪʃ/
 fisherman	/ˈfɪʃɚmən/
-men	/-mən, -ˌmεn/
+fishermen	/-mən, -ˌmεn/
 fishhook	/ˈfɪʃˌhʊk/
 fishing	/ˈfɪʃɪŋ/
 fishy	/ˈfɪʃi/
@@ -4817,7 +4817,7 @@ forehead	/ˈfɔrəd, ˈforˌhεd/
 foreign	/ˈfɔrən/
 foreigner	/ˈfɔrənɚ/
 foreman	/ˈformən/
-men	/-mən, -ˌmεn/
+foremen	/-mən, -ˌmεn/
 foremost	/ˈforˌmoːst/
 forensic	/fəˈrεnsɪk/
 forerunner	/ˈforˌrʌnɚ/
@@ -4945,7 +4945,7 @@ fresh	/ˈfrεʃ/
 freshen	/ˈfrεʃən/
 freshly	/ˈfrεʃli/
 freshman	/ˈfrεʃmən/
-men	/-mən, -ˌmεn/
+freshmen	/-mən, -ˌmεn/
 freshness	/ˈfrεʃnəs/
 fret	/ˈfrεt/
 fretful	/ˈfrεtfəl/
@@ -5144,7 +5144,7 @@ genocide	/ˈdƷεnəˌsaɪd/
 genteel	/dƷεnˈtiːl/
 gentle	/ˈdƷεntəl/
 gentleman	/ˈdƷεntəlmən/
-men	/-mən, -ˌmεn/
+gentlemen	/-mən, -ˌmεn/
 gentleness	/ˈdƷεntəlnəs/
 genuine	/ˈdƷεnjʊwən/
 geography	/dƷiˈɑgrəfi/
@@ -5475,7 +5475,7 @@ gun	/ˈgʌn/
 gunboat	/ˈgʌnˌboːt/
 gunfire	/ˈgʌnˌfaɪr/
 gunman	/ˈgʌnmən/
-men	/-mən, -ˌmεn/
+gunmen	/-mən, -ˌmεn/
 gunpowder	/ˈgʌnˌpaʊdɚ/
 gunshot	/ˈgʌnˌʃɑt/
 gurgle	/ˈgɚgəl/
@@ -5565,7 +5565,7 @@ handwriting	/ˈhændˌraɪt̬ɪŋ/
 handwritten	/ˈhændˌrɪtən/
 handy	/ˈhændi/
 handyman	/ˈhændimən/
-men	/-mən, -ˌmεn/
+handymen	/-mən, -ˌmεn/
 hang	/ˈhæŋ/
 hung	/ˈhʌŋ/
 hangar	/ˈhæŋɚ, ˈhæŋgɚ/
@@ -5901,13 +5901,13 @@ horse	/ˈhɔrs/
 horseback	/ˈhɔrsˌbæk/
 horsefly	/ˈhɔrsˌflaɪ/
 horseman	/ˈhɔrsmən/
-men	/-mən, -ˌmεn/
+horsemen	/-mən, -ˌmεn/
 horseplay	/ˈhɔrsˌpleɪ/
 horsepower	/ˈhɔrsˌpaʊɚ/
 horseradish	/ˈhɔrsˌrædɪʃ/
 horseshoe	/ˈhɔrsˌʃuː/
 horsewoman	/ˈhɔrsˌwʊmən/
-women	/-ˌwɪmən/
+horsewomen	/-ˌwɪmən/
 horticulture	/ˈhɔrt̬əˌkʌltʃɚ/
 hose	/ˈhoːz/
 hosiery	/ˈhoːƷɚi, ˈhoːzə-/
@@ -7467,7 +7467,7 @@ mesdames	/meɪˈdɑm/
 madden	/ˈmædən/
 madly	/ˈmædli/
 madman	/ˈmædˌmæn, -mən/
-men	/-mən, -ˌmεn/
+madmen	/-mən, -ˌmεn/
 madness	/ˈmædnəs/
 Mafia	/ˈmɑfiə/
 magazine	/ˈmægəˌziːn/
@@ -7493,7 +7493,7 @@ maiden	/ˈmeɪdən/
 mail	/ˈmeɪl/
 mailbox	/ˈmeɪlˌbɑks/
 mailman	/ˈmeɪlˌmæn, -mən/
-men	/-mən, -ˌmεn/
+mailmen	/-mən, -ˌmεn/
 maim	/ˈmeɪm/
 main	/ˈmeɪn/
 mainframe	/ˈmeɪnˌfreɪm/
@@ -7605,7 +7605,7 @@ market	/ˈmɑrkət/
 marketable	/ˈmɑrkət̬əbəl/
 marketplace	/ˈmɑrkətˌpleɪs/
 marksman	/ˈmɑrksmən/
-men	/-mən, -ˌmεn/
+marksmen	/-mən, -ˌmεn/
 marksmanship	/ˈmɑrksmənˌʃɪp/
 marmalade	/ˈmɑrməˌleɪd/
 maroon 1	/məˈruːn/
@@ -7827,7 +7827,7 @@ midday	/ˈmɪdˈdeɪ/
 middle	/ˈmɪdəl/
 middle–aged	/ˌmɪdəlˈeɪdƷd/
 middleman	/ˈmɪdəlˌmæn/
-men	/-mən, -ˌmεn/
+middlemen	/-mən, -ˌmεn/
 midget	/ˈmɪdƷət/
 midnight	/ˈmɪdˌnaɪt/
 midriff	/ˈmɪdˌrɪf/
@@ -9438,9 +9438,9 @@ polarize	/ˈpoːləˌraɪz/
 pole 1	/ˈpoːl/
 police	/pəˈliːs/
 policeman	/pəˈliːsmən/
-men	/-mən, -ˌmεn/
+policemen	/-mən, -ˌmεn/
 policewoman	/pəˈliːsˌwʊmən/
-women	/-ˌwɪmən/
+policewomen	/-ˌwɪmən/
 policy	/ˈpɑləsi/
 polio	/ˈpoːliˌoː/
 poliomyelitis	/ˌpoːliˌoːˌmaɪəˈlaɪt̬əs/
@@ -10835,9 +10835,9 @@ salami	/səˈlɑmi/
 salary	/ˈsælɚi/
 sale	/ˈseɪl/
 salesman	/ˈseɪlzmən/
-men	/-mən, -ˌmεn/
+salesmen	/-mən, -ˌmεn/
 saleswoman	/ˈseɪlzˌwʊmən/
-women	/-ˌwɪmən/
+saleswomen	/-ˌwɪmən/
 salient	/ˈseɪljənt/
 saliva	/səˈlaɪvə/
 sallow	/ˈsæloː/
@@ -11022,7 +11022,7 @@ seagull	/ˈsiːˌgʌl/
 seal 1	/ˈsiːl/
 seam	/ˈsiːm/
 seaman	/ˈsiːmən/
-men	/-mən, -ˌmεn/
+seamen	/-mən, -ˌmεn/
 seamy	/ˈsiːmi/
 seaplane	/ˈsiːˌpleɪn/
 seaport	/ˈsiːˌport/
@@ -11169,7 +11169,7 @@ serve	/ˈsɚv/
 server	/ˈsɚvɚ/
 service	/ˈsɚvəs/
 serviceman	/ˈsɚvəsˌmæn, -mən/
-men	/-mən, -ˌmεn/
+servicemen	/-mən, -ˌmεn/
 serving	/ˈsɚvɪŋ/
 session	/ˈsεʃən/
 set	/ˈsεt/
@@ -11836,9 +11836,9 @@ spoil	/ˈspɔɪl/
 spoilt	/ˈspɔɪlt/
 spoke 1	/ˈspoːk/
 spokesman	/ˈspoːksmən/
-men	/-mən, -ˌmεn/
+spokesmen	/-mən, -ˌmεn/
 spokeswoman	/ˈspoːksˌwʊmən/
-women	/-ˌwɪmən/
+spokeswomen	/-ˌwɪmən/
 sponge	/ˈspʌndƷ/
 spongy	/ˈspʌndƷi/
 sponsor	/ˈspɑnsɚ/
@@ -11853,9 +11853,9 @@ sporadic	/spəˈrædɪk/
 spore	/ˈspor/
 sport	/ˈsport/
 sportsman	/ˈsportsmən/
-men	/-mən, -ˌmεn/
+sportsmen	/-mən, -ˌmεn/
 sportswoman	/ˈsportsˌwʊmən/
-women	/-ˌwɪmən/
+sportswomen	/-ˌwɪmən/
 sporty	/ˈsport̬i/
 spot	/ˈspɑt/
 spotless	/ˈspɑtləs/
@@ -11971,7 +11971,7 @@ state	/ˈsteɪt/
 stately	/ˈsteɪtli/
 statement	/ˈsteɪtmənt/
 statesman	/ˈsteɪtsmən/
-men	/-mən, -ˌmεn/
+statesmen	/-mən, -ˌmεn/
 static	/ˈstæt̬ɪk/
 station	/ˈsteɪʃən/
 stationary	/ˈsteɪʃəˌnεri/
@@ -13888,7 +13888,7 @@ watch	/ˈwɑtʃ/
 watchdog	/ˈwɑtʃˌdɔg/
 watchful	/ˈwɑtʃfəl/
 watchman	/ˈwɑtʃmən/
-men	/-mən, -ˌmεn/
+watchmen	/-mən, -ˌmεn/
 watchword	/ˈwɑtʃˌwɚd/
 water	/ˈwɔt̬ɚ, ˈwɑ-/
 watercolor	/ˈwɔt̬ɚˌkʌlɚ, ˈwɑ-/
@@ -13936,7 +13936,7 @@ weasel	/ˈwiːzəl/
 weather	/ˈwεðɚ/
 weather–beaten	/ˈwεðɚˌbiːtən/
 weatherman	/ˈwεðɚˌmæn/
-men	/-mən, -ˌmεn/
+weathermen	/-mən, -ˌmεn/
 weave	/ˈwiːv/
 wove	/ˈwoːv/
 weaved; woven	/ˈwoːvən/
