@@ -501,7 +501,7 @@ antagonism	/ænˈtægəˌnɪzəm/
 antarctic	/æntˈɑrktɪk, -ˈɑrt̬ɪk/
 antelope	/ˈæntəlˌoːp/
 antenna	/ænˈtεnə/
-nae	/-ˌniː, -ˌnaɪ/
+antennae	/-ˌniː, -ˌnaɪ/
 anthem	/ˈænθəm/
 anthology	/ænˈθɑlədƷi/
 anthropology	/ˌænθrəˈpɑlədƷi/
@@ -4857,7 +4857,7 @@ former	/ˈfɔrmɚ/
 formerly	/ˈfɔrmɚli/
 formidable	/ˈfɔrmədəbəl, fɔrˈmɪdə-/
 formula	/ˈfɔrmjələ/
-lae	/-ˌliː, -ˌlaɪ/
+formulae	/-ˌliː, -ˌlaɪ/
 forsake	/fɚˈseɪk/
 sook	/-ˈsʊk/
 saken	/-ˈseɪkən/
