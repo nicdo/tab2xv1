@@ -4125,7 +4125,7 @@ espionage	/ˈεspiəˌnɑƷ, -ˌnɑdƷ/
 espresso	/εˈsprεˌsoː/
 essay	/ˈεˌseɪ/
 essence	/ˈεsəns/
-essential	/ɪˈsεntʃəl/
+essential	/ɪˈsεnʃəl/
 establish	/ɪˈstæblɪʃ, ε-/
 establishment	/ɪˈstæblɪʃmənt, ε-/
 estate	/ɪˈsteɪt, ε-/
@@ -4250,7 +4250,7 @@ exorbitant	/ɪgˈzɔrbətənt, εg-/
 exotic	/ɪgˈzɑtɪk, εg-/
 expand	/ɪkˈspænd, εk-/
 expanse	/ɪkˈspæns, εk-/
-expansion	/ɪkˈspæntʃən, εk-/
+expansion	/ɪkˈspænʃən, εk-/
 expatriate	/εksˈpeɪtriət, -ˌeɪt/
 expect	/ɪkˈspεkt, εk-/
 expectancy	/ɪkˈspεktənsi, εk-/
@@ -4298,7 +4298,7 @@ expressway	/ɪkˈsprεsˌweɪ, εk-/
 expulsion	/ɪkˈspʌlʃən, εk-/
 exquisite	/εkˈskwɪzət, ˈεkˌskwɪ-/
 extend	/ɪkˈstεnd, εk-/
-extension	/ɪkˈstεntʃən, εk-/
+extension	/ɪkˈstεnʃən, εk-/
 extensive	/ɪkˈstεnsɪv, εk-/
 extent	/ɪkˈstεnt, εk-/
 extenuating	/ɪkˈstεnjəˌweɪt̬ɪŋ, εk-/
@@ -4581,8 +4581,8 @@ finalist	/ˈfaɪnəlɪst/
 finalize	/ˈfaɪnəlˌaɪz/
 finally	/ˈfaɪnəli/
 finance	/fəˈnæns, ˈfaɪˌnæns/
-financial	/fəˈnæntʃəl, faɪ-/
-financially	/fəˈnæntʃəli, faɪ-/
+financial	/fəˈnænʃəl, faɪ-/
+financially	/fəˈnænʃəli, faɪ-/
 find	/ˈfaɪnd/
 found	/ˈfaʊnd/
 finding	/ˈfaɪndɪŋ/
@@ -6413,7 +6413,7 @@ inflationary	/ɪnˈfleɪʃəˌnεri/
 inflexible	/ɪnˈflεksɪbəl/
 inflict	/ɪnˈflɪkt/
 influence	/ˈɪnˌfluːəns, ɪnˈfluːəns/
-influential	/ˌɪnfluˈεntʃəl/
+influential	/ˌɪnfluˈεnʃəl/
 influenza	/ˌɪnfluˈεnzə/
 influx	/ˈɪnˌflʌks/
 inform	/ɪnˈfɔrm/
@@ -6589,8 +6589,8 @@ intensify	/ɪnˈtεnsəˌfaɪ/
 intensity	/ɪnˈtεnsət̬i/
 intensive	/ɪnˈtεnsɪv/
 intent	/ɪnˈtεnt/
-intention	/ɪnˈtεntʃən/
-intentional	/ɪnˈtεntʃənəl/
+intention	/ɪnˈtεnʃən/
+intentional	/ɪnˈtεnʃənəl/
 intently	/ɪnˈtεntli/
 interact	/ˌɪntɚˈækt/
 interaction	/ˌɪntɚˈækʃən/
@@ -6637,7 +6637,7 @@ interstate	/ˌɪntɚˈsteɪt/
 intertwine	/ˌɪntɚˈtwaɪn/
 interval	/ˈɪntɚvəl/
 intervene	/ˌɪntɚˈviːn/
-intervention	/ˌɪntɚˈvεntʃən/
+intervention	/ˌɪntɚˈvεnʃən/
 interview	/ˈɪntɚˌvjuː/
 interviewer	/ˈɪntɚˌvjuːɚ/
 intestine	/ɪnˈtεstən/
@@ -6681,7 +6681,7 @@ invaluable	/ɪnˈvæljəbəl, -ˈvæljʊə-/
 invariable	/ɪnˈvεəriəbəl/
 invasion	/ɪnˈveɪƷən/
 invent	/ɪnˈvεnt/
-invention	/ɪnˈvεntʃən/
+invention	/ɪnˈvεnʃən/
 inventive	/ɪnˈvεntɪv/
 inventor	/ɪnˈvεntɚ/
 inventory	/ˈɪnvənˌtɔri/
@@ -7566,7 +7566,7 @@ manner	/ˈmænɚ/
 mannerism	/ˈmænəˌrɪzəm/
 manor	/ˈmænɚ/
 manpower	/ˈmænˌpaʊɚ/
-mansion	/ˈmæntʃən/
+mansion	/ˈmænʃən/
 manslaughter	/ˈmænˌslɔt̬ɚ/
 mantel	/ˈmæntəl/
 mantelpiece	/ˈmæntəlˌpiːs/
@@ -7771,7 +7771,7 @@ menstruate	/ˈmεnstrʊˌeɪt/
 menstruation	/ˌmεnstrʊˈeɪʃən/
 mental	/ˈmεntəl/
 mentality	/mεnˈtælət̬i/
-mention	/ˈmεntʃən/
+mention	/ˈmεnʃən/
 menu	/ˈmεnˌjuː/
 meow	/miːˈaʊ/
 mercenary	/ˈmɚsənˌεri/
@@ -7900,7 +7900,7 @@ mirage	/mɪˈrɑƷ, ˈmɪrˌɑƷ/
 mire	/ˈmaɪr/
 mirror	/ˈmɪrɚ/
 mirth	/ˈmɚθ/
-misapprehension	/ˌmɪsˌæprəˈhεntʃən/
+misapprehension	/ˌmɪsˌæprəˈhεnʃən/
 misbehave	/ˌmɪsbiˈheɪv/
 misbehavior	/ˌmɪsbiˈheɪvjɚ/
 miscalculate	/mɪsˈkælkjəˌleɪt/
@@ -9123,15 +9123,15 @@ penetrating	/ˈpεnəˌtreɪ-t̬ɪŋ/
 penetration	/ˌpεnəˈtreɪʃən/
 penguin	/ˈpεŋgwɪn, ˈpεn-/
 penicillin	/ˌpεnəˈsɪlən/
-peninsula	/pəˈnɪnsələ, -ˈnɪntʃʊlə/
+peninsula	/pəˈnɪnsələ/
 penis	/ˈpiːnəs/
 nes	/-ˌniːz/
-penitentiary	/ˌpεnəˈtεntʃɚi/
+penitentiary	/ˌpεnəˈtεntɚi/
 pennant	/ˈpεnənt/
 penny	/ˈpεni/
 pence	/ˈpεns/
 penniless	/ˈpεniləs/
-pension	/ˈpεntʃən/
+pension	/ˈpεnʃən/
 pensive	/ˈpεnsɪv/
 pentagon	/ˈpεntəˌgɑn/
 penthouse	/ˈpεntˌhaʊs/
@@ -9527,7 +9527,7 @@ pot	/ˈpɑt/
 potassium	/pəˈtæsiəm/
 potato	/pəˈteɪt̬o/
 potent	/ˈpoːtənt/
-potential	/pəˈtεntʃəl/
+potential	/pəˈtεnʃəl/
 pothole	/ˈpɑtˌhoːl/
 potion	/ˈpoːʃən/
 pottery	/ˈpɑt̬ɚi/
@@ -9589,7 +9589,7 @@ preface	/ˈprεfəs/
 prefer	/priˈfɚ/
 preferable	/ˈprεfɚəbəl/
 preference	/ˈprεfrəns, ˈprεfɚ-/
-preferential	/ˌprεfəˈrεntʃəl/
+preferential	/ˌprεfəˈrεnʃəl/
 prefix	/ˈpriːˌfɪks/
 pregnancy	/ˈprεgnənsi/
 pregnant	/ˈprεgnənt/
@@ -9628,7 +9628,7 @@ preservation	/ˌprεzɚˈveɪʃən/
 preservative	/priˈzɚvə-t̬ɪv/
 president	/ˈprεzədənt/
 presidency	/ˈprεzədənsi/
-presidential	/ˌprεzəˈdεntʃəl/
+presidential	/ˌprεzəˈdεnʃəl/
 press	/ˈprεs/
 pressing	/ˈprεsɪŋ/
 pressure	/ˈprεʃɚ/
@@ -9640,14 +9640,14 @@ presumption	/priˈzʌmpʃən/
 presumptuous	/priˈzʌmptʃʊəs/
 pretend	/priˈtεnd/
 pretence	/ˈpriːˌtεns, priˈtεns/
-pretentious	/priˈtεntʃəs/
+pretentious	/priˈtεnʃəs/
 pretext	/ˈpriːˌtεkst/
 pretty	/ˈprɪt̬i/
 pretzel	/ˈprεtsəl/
 prevail	/priˈveɪl/
 prevalent	/ˈprεvələnt/
 prevent	/priˈvεnt/
-prevention	/priˈvεntʃən/
+prevention	/priˈvεnʃən/
 preventive	/priˈvεntɪv/
 preview	/ˈpriːˌvju/
 previous	/ˈpriːviəs/
@@ -9821,7 +9821,7 @@ provide	/prəˈvaɪd/
 provided	/prəˈvaɪdəd/
 providence	/ˈprɑvədəns/
 province	/ˈprɑvɪns/
-provincial	/prəˈvɪntʃəl/
+provincial	/prəˈvɪnʃəl/
 provision	/prəˈvɪƷən/
 provisional	/prəˈvɪƷənəl/
 proviso	/prəˈvaɪˌzoː/
@@ -10463,7 +10463,7 @@ reset	/ˌriːˈsεt/
 residence	/ˈrεzədəns/
 reside	/riˈzaɪd/
 resident	/ˈrεzədənt/
-residential	/ˌrεzəˈdεntʃəl/
+residential	/ˌrεzəˈdεnʃəl/
 residue	/ˈrεzəˌduː, -ˌdjuː/
 resign	/riˈzaɪn/
 resignation	/ˌrεzɪgˈneɪʃən/
@@ -10522,7 +10522,7 @@ retaliate	/riˈtæliˌeɪt/
 retaliation	/riˌtæliˈeɪʃən/
 retard	/riˈtɑrd/
 retarded	/riˈtɑrdəd/
-retention	/riˈtεntʃən/
+retention	/riˈtεnʃən/
 reticence	/ˈrεt̬əsəns/
 reticent	/ˈrεt̬əsənt/
 retina	/ˈrεtənə/
@@ -11094,7 +11094,7 @@ self–assured	/ˌsεlfəˈʃʊrd/
 self–centered	/ˌsεlfˈsεntɚd/
 self–confidence	/ˌsεlfˈkɑnfədəns/
 self–confident	/ˌsεlfˈkɑnfədənt/
-self–conscious	/ˌsεlfˈkɑntʃəs/
+self–conscious	/ˌsεlfˈkɑnʃəs/
 self–control	/ˌsεlfkənˈtroːl/
 self–defense	/ˌsεlfdɪˈfεns/
 self–employed	/ˌsεlfɪmˈplɔɪd/
@@ -11140,8 +11140,8 @@ sensible	/ˈsεnsəbəl/
 sensibility	/ˌsεnsəˈbɪlət̬i/
 sensitive	/ˈsεnsət̬ɪv/
 sensitivity	/ˌsεnsəˈtɪvət̬i/
-sensual	/ˈsεntʃʊəl/
-sensuous	/ˈsεntʃʊəs/
+sensual	/ˈsεnʃʊəl/
+sensuous	/ˈsεnʃʊəs/
 sentence	/ˈsεntəns, -ənz/
 sentiment	/ˈsεntəmənt/
 sentimental	/ˌsεntəˈmεntəl/
@@ -12196,7 +12196,7 @@ stylish	/ˈstaɪlɪʃ/
 stylist	/ˈstaɪlɪst/
 suave	/ˈswɑv/
 sub 1	/ˈsʌb/
-subconscious	/səbˈkɑntʃəs/
+subconscious	/səbˈkɑnʃəs/
 subdivide	/ˌsʌbdəˈvaɪd, ˈsʌbdəˌvaɪd/
 subdivision	/ˈsʌbdəˌvɪƷən/
 subdue	/səbˈduː, -ˈdjuː/
@@ -12227,8 +12227,8 @@ subsistence	/səbˈsɪstəns/
 subsist	/səbˈsɪst/
 substance	/ˈsʌbstəns/
 substandard	/ˌsʌbˈstændɚd/
-substantial	/səbˈstæntʃəl/
-substantially	/səbˈstæntʃəli/
+substantial	/səbˈstænʃəl/
+substantially	/səbˈstænʃəli/
 substitute	/ˈsʌbstəˌtuːt, -ˌtjuːt/
 substitution	/ˌsʌbstəˈtuːʃən, -ˈtjuː-/
 subterranean	/ˌsʌbtəˈreɪniən/
@@ -12380,7 +12380,7 @@ suspect	/ˈsʌsˌpεkt, səˈspεkt/
 ~	/səˈspεkt/
 suspend	/səˈspεnd/
 suspense	/səˈspεns/
-suspension	/səˈspεntʃən/
+suspension	/səˈspεnʃən/
 suspicion	/səˈspɪʃən/
 suspicious	/səˈspɪʃəs/
 sustain	/səˈsteɪn/
@@ -12629,7 +12629,7 @@ tenet	/ˈtεnət/
 tennis	/ˈtεnəs/
 tenor	/ˈtεnɚ/
 tense 1	/ˈtεns/
-tension	/ˈtεntʃən/
+tension	/ˈtεnʃən/
 tent	/ˈtεnt/
 tentacle	/ˈtεntɪkəl/
 tentative	/ˈtεntət̬ɪv/
@@ -12971,7 +12971,7 @@ transformation	/ˌtrænsfɚˈmeɪʃən/
 transfusion	/trænsˈfjuːƷən/
 transgression	/trænsˈgrεʃən, trænz-/
 transgress	/trænsˈgrεs, trænz-/
-transient	/ˈtræntʃənt, ˈtrænsiənt/
+transient	/ˈtrænʃənt, ˈtrænsiənt/
 transit	/ˈtrænsɪt, ˈtrænzɪt/
 transition	/trænˈsɪʃən, -ˈzɪʃ-/
 transitive	/ˈtrænsət̬ɪv, ˈtrænzə-/
@@ -13257,10 +13257,10 @@ uncommon	/ˌʌnˈkɑmən/
 uncompromising	/ˌʌnˈkɑmprəˌmaɪzɪŋ/
 unconcerned	/ˌʌnkənˈsɚnd/
 unconditional	/ˌʌnkənˈdɪʃənəl/
-unconscious	/ˌʌnˈkɑntʃəs/
+unconscious	/ˌʌnˈkɑnʃəs/
 unconstitutional	/ˌʌnˌkɑnstəˈtuːʃənəl, -ˈtjuː-/
 uncontrollable	/ˌʌnkənˈtroːləbəl/
-unconventional	/ˌʌnkənˈvεntʃənəl/
+unconventional	/ˌʌnkənˈvεnʃənəl/
 uncouth	/ˌʌnˈkuːθ/
 uncover	/ˌʌnˈkʌvɚ/
 undecided	/ˌʌndiˈsaɪdəd/
@@ -13373,7 +13373,7 @@ unimaginable	/ˌʌnɪˈmædƷənəbəl/
 unimportant	/ˌʌnɪmˈpɔrtənt/
 uninhabited	/ˌʌnɪnˈhæbət̬əd/
 uninjured	/ˌʌnˈindƷɚd/
-unintentional	/ˌʌnɪnˈtεntʃənəl/
+unintentional	/ˌʌnɪnˈtεnʃənəl/
 union	/ˈjuːnjən/
 unique	/jʊˈniːk/
 uniquely	/jʊˈniːkli/
