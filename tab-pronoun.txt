@@ -2011,7 +2011,7 @@ chronic	/ˈkrɑnɪk/
 chronicle	/ˈkrɑnɪkəl/
 chronology	/krəˈnɑlədƷi/
 chronological	/ˌkrɑnəlˈɑdƷɪkəl/
-chrysanthemum	/krɪˈsæntθəməm/
+chrysanthemum	/krɪˈsænθəməm/
 chubby	/ˈtʃʌbi/
 chuck	/ˈtʃʌk/
 chuckle	/ˈtʃʌkəl/
@@ -3626,7 +3626,7 @@ downright	/ˈdaʊnˌraɪt/
 downstairs	/ˈdaʊnˈstεərz/
 ~	/ˈdaʊnˌstεərz/
 downstream	/ˈdaʊnˈstriːm/
-down–to–earth	/ˌdaʊntuˈɚth/
+down–to–earth	/ˌdaʊntuˈɚθ/
 downtown	/ˌdaʊnˈtaʊn, ˈdaʊnˌtaʊn/
 ~	/ˌdaʊnˈtaʊn/
 downward	/ˈdaʊnwɚd/
@@ -3887,7 +3887,7 @@ elephant	/ˈεləfənt/
 elevate	/ˈεləˌveɪt/
 elevator	/ˈεləˌveɪt̬ɚ/
 eleven	/ɪˈlεvən/
-eleventh	/ɪˈlεvəntθ/
+eleventh	/ɪˈlεvənθ/
 elf	/ˈεlf/
 elves	/ˈεlvz/
 elicit	/ɪˈlɪsət/
@@ -9242,8 +9242,8 @@ phase	/ˈfeɪz/
 phenomenon	/fɪˈnɑməˌnɑn, -nən/
 phenomena	/fɪˈnɑmənə/
 phenomenal	/fɪˈnɑmənəl/
-philanthropy	/fəˈlæntθrəpi/
-philanthropist	/fəˈlæntθrəpɪst/
+philanthropy	/fəˈlænθrəpi/
+philanthropist	/fəˈlænθrəpɪst/
 philosophy	/fəˈlɑsəfi/
 philosopher	/fəˈlɑsəfɚ/
 phlegm	/ˈflεm/
@@ -12678,7 +12678,7 @@ that	/ˈðæt/
 those	/ˈðoːz/
 thatched	/ˈθætʃt/
 thaw	/ˈθɔ/
-the	/ðə, before vowel sounds usu ðiː/
+the	/ðə/, before vowel sounds usu /ðiː/
 theatre	/ˈθiːət̬ɚ/
 theatrical	/θiˈætrɪkəl/
 theft	/ˈθεft/
@@ -12751,7 +12751,7 @@ thought	/ˈθɔt/
 thoughtful	/ˈθɔtfəl/
 thoughtless	/ˈθɔtləs/
 thousand	/ˈθaʊzənd/
-thousandth	/ˈθaʊzəntθ/
+thousandth	/ˈθaʊzənθ/
 thrash	/ˈθræʃ/
 thread	/ˈθrεd/
 threadbare	/ˈθrεdˈbεər/
