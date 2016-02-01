@@ -2122,7 +2122,7 @@ clinic	/ˈklɪnɪk/
 clinical	/ˈklɪnɪkəl/
 clink	/ˈklɪŋk/
 clip	/ˈklɪp/
-paper clip  — clippers	/ˈklɪpɚz/
+clippers	/ˈklɪpɚz/
 cloak	/ˈkloːk/
 clock	/ˈklɑk/
 clockwise	/ˈklɑkˌwaɪz/
@@ -4169,7 +4169,7 @@ every	/ˈεvri/
 everybody	/ˈεvriˌbʌdi, -ˌbɑ-/
 everyday	/ˌεvriˈdeɪ, ˈεvriˌ-/
 everyone	/ˈεvriˌwʌn/
-everybody  — everything	/ˈεvri ˌθɪŋ/
+everything	/ˈεvri ˌθɪŋ/
 everywhere	/ˈεvri ˌhwεər/
 evict	/ɪˈvɪkt/
 eviction	/ɪˈvɪkʃən/
@@ -10587,7 +10587,7 @@ rhetorical	/rɪˈtɔrɪkəl/
 rheumatism	/ˈruːməˌtɪzəm, ˈrʊ-/
 rheumatic	/rʊˈmæt̬ɪk/
 rhino	/ˈraɪˌnoː/
-rhinoceros  — rhinoceros	/raɪˈnɑsɚəs/
+rhinoceros  /raɪˈnɑsɚəs/
 noceri	/-ˌraɪ/
 rhubarb	/ˈruːˌbɑrb/
 rhyme	/ˈraɪm/
@@ -10730,7 +10730,7 @@ roughly	/ˈrʌfli/
 roughness	/ˈrʌfnəs/
 roulette	/ruːˈlεt/
 round	/ˈraʊnd/
-around  — roundabout	/ˈraʊndəˌbaʊt/
+roundabout	/ˈraʊndəˌbaʊt/
 round–trip	/ˈraʊndˌtrɪp/
 roundup	/ˈraʊndˌʌp/
 rouse	/ˈraʊz/
@@ -11213,7 +11213,7 @@ shaggy	/ˈʃægi/
 shake	/ˈʃeɪk/
 shook	/ˈʃʊk/
 shaken	/ˈʃeɪkən/
-handshake  — shaker	/ˈʃeɪkɚ/
+shaker	/ˈʃeɪkɚ/
 shaky	/ˈʃeɪki/
 shall	/ˈʃæl/
 should	/ˈʃʊd/
@@ -11359,7 +11359,7 @@ sicken	/ˈsɪkən/
 sickening	/ˈsɪkənɪŋ/
 sickle	/ˈsɪkəl/
 sickly	/ˈsɪkli/
-sickening  — sickness	/ˈsɪknəs/
+sickness	/ˈsɪknəs/
 side	/ˈsaɪd/
 sideboard	/ˈsaɪdˌbord/
 sideburns	/ˈsaɪdˌbɚnz/
@@ -12046,7 +12046,7 @@ stimulate	/ˈstɪmjəˌleɪt/
 stimulant	/ˈstɪmjələnt/
 stimulation	/ˌstɪmjəˈleɪʃən/
 stimulus	/ˈstɪmjələs/
-li	/-ˌlaɪ/
+stimuli	/-ˌlaɪ/
 sting	/ˈstɪŋ/
 stung	/ˈstʌŋ/
 stinger	/ˈstɪŋɚ/
@@ -12171,7 +12171,7 @@ stub	/ˈstʌb/
 stubble	/ˈstʌbəl/
 stubborn	/ˈstʌbɚn/
 stucco	/ˈstʌkoː/
-stick  — stuck–up	/ˈstʌkˈʌp/
+stuck–up	/ˈstʌkˈʌp/
 stud 1	/ˈstʌd/
 student	/ˈstuːdənt, ˈstjuː-/
 studio	/ˈstuːdiˌoː, ˈstjuː-/
@@ -12304,7 +12304,7 @@ Sunday	/ˈsʌnˌdeɪ, -di/
 sundry	/ˈsʌndri/
 sunflower	/ˈsʌnˌflaʊɚ/
 sunglasses	/ˈsʌnˌglæsəz/
-sink  — sunken	/ˈsʌŋkən/
+sunken	/ˈsʌŋkən/
 sunlight	/ˈsʌnˌlaɪt/
 sunny	/ˈsʌni/
 sunrise	/ˈsʌnˌraɪz/
@@ -12590,7 +12590,7 @@ teenaged	/-ˌeɪdƷd/
 teenager	/ˈtiːnˌeɪdƷɚ/
 teens	/ˈtiːnz/
 teeter	/ˈtiːt̬ɚ/
-tooth  — teethe	/ˈtiːð/
+teethe	/ˈtiːð/
 telecommunication	/ˈtεləkəˌmjuːnəˈkeɪʃən/
 telegram	/ˈtεləˌgræm/
 telegraph	/ˈtεləˌgræf/
