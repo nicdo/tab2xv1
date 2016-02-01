@@ -447,7 +447,7 @@ ancestral	/ænˈsεstrəl/
 ancestry	/ˈænˌsεstri/
 anchor	/ˈæŋkɚ/
 anchovy	/ˈænˌtʃoːvi, ænˈtʃoː-/
-ancient	/ˈeɪntʃənt/
+ancient	/ˈeɪnʃənt/
 and	/ˈænd/
 anecdote	/ˈænɪkˌdoːt/
 anemia	/əˈniːmiə/
@@ -587,7 +587,7 @@ appreciate	/əˈpriːʃiˌeɪt, -ˈprɪ-/
 appreciation	/əˌpriːʃiˈeɪʃən, -ˌprɪ-/
 appreciative	/əˈpriːʃət̬ɪv, -ˈprɪ-; əˈpriːʃiˌeɪ-/
 apprehend	/ˌæprɪˈhεnd/
-apprehension	/ˌæprɪˈhεntʃən/
+apprehension	/ˌæprɪˈhεnʃən/
 apprehensive	/ˌæprɪˈhεnsɪv/
 apprentice	/əˈprεntɪs/
 approach	/əˈproːtʃ/
@@ -791,7 +791,7 @@ attainment	/əˈteɪnmənt/
 attempt	/əˈtεmpt/
 attend	/əˈtεnd/
 attendance	/əˈtεndəns/
-attention	/əˈtεntʃən/
+attention	/əˈtεnʃən/
 attentive	/əˈtεntɪv/
 attest	/əˈtεst/
 attic	/ˈæt̬ɪk/
@@ -1849,7 +1849,7 @@ cement	/sɪˈmεnt/
 cemetery	/ˈsεməˌtεri/
 censor	/ˈsεnsɚ/
 censorship	/ˈsεnsɚˌʃɪp/
-censure	/ˈsεntʃɚ/
+censure	/ˈsεnʃɚ/
 census	/ˈsεnsəs/
 cent	/ˈsεnt/
 centennial	/sεnˈtεniəl/
@@ -2359,7 +2359,7 @@ compound 1	/kɑmˈpaʊnd, kəm-; ˈkɑmˌpaʊnd/
 ~	/ˈkɑmˌpaʊnd/
 compound 2	/ˈkɑmˌpaʊnd/
 comprehend	/ˌkɑmprɪˈhεnd/
-comprehension	/ˌkɑmprɪˈhεntʃən/
+comprehension	/ˌkɑmprɪˈhεnʃən/
 comprehensive	/ˌkɑmprɪˈhεnsɪv/
 compress	/kəmˈprεs/
 compression	/kəmˈprεʃən/
@@ -2428,7 +2428,7 @@ confetti	/kənˈfεt̬i/
 confide	/kənˈfaɪd/
 confidence	/ˈkɑnfədəns/
 confident	/ˈkɑnfədənt/
-confidential	/ˌkɑnfəˈdεntʃəl/
+confidential	/ˌkɑnfəˈdεnʃəl/
 confine	/kənˈfaɪn/
 confines	/ˈkɑnˌfaɪnz/
 confirm	/kənˈfɚm/
@@ -2469,10 +2469,10 @@ connote	/kəˈnoːt/
 conquer	/ˈkɑŋkɚ/
 conqueror	/ˈkɑŋkɚɚ/
 conquest	/ˈkɑnˌkwεst, ˈkɑŋ-/
-conscience	/ˈkɑntʃəns/
-conscientious	/ˌkɑntʃiˈεntʃəs/
-conscious	/ˈkɑntʃəs/
-consciousness	/ˈkɑntʃəsnəs/
+conscience	/ˈkɑnʃəns/
+conscientious	/ˌkɑnʃiˈεnʃəs/
+conscious	/ˈkɑnʃəs/
+consciousness	/ˈkɑnʃəsnəs/
 consecrate	/ˈkɑnsəˌkreɪt/
 consecration	/ˌkɑnsəˈkreɪʃən/
 consecutive	/kənˈsεkjət̬iv/
@@ -2545,7 +2545,7 @@ contender	/kənˈtεndɚ/
 content 1	/ˈkɑnˌtεnt/
 content 2	/kənˈtεnt/
 contented	/kənˈtεntəd/
-contention	/kənˈtεntʃən/
+contention	/kənˈtεnʃən/
 contentment	/kənˈtεntmənt/
 contest	/kənˈtεst/
 ~	/ˈkɑnˌtεst/
@@ -2590,8 +2590,8 @@ convene	/kənˈviːn/
 convenience	/kənˈviːnjəns/
 convenient	/kənˈviːnjənt/
 convent	/ˈkɑnvənt, -ˌvεnt/
-convention	/kənˈvεntʃən/
-conventional	/kənˈvεntʃənəl/
+convention	/kənˈvεnʃən/
+conventional	/kənˈvεnʃənəl/
 converge	/kənˈvɚdƷ/
 converse 1	/kənˈvɚs/
 conversation	/ˌkɑnvɚˈseɪʃən/
@@ -2774,7 +2774,7 @@ creative	/kriˈeɪt̬ɪv/
 creator	/kriˈeɪt̬ɚ/
 creature	/ˈkriːtʃɚ/
 credence	/ˈkriːdəns/
-credentials	/krɪˈdεntʃəlz/
+credentials	/krɪˈdεnʃəlz/
 credible	/ˈkrεdəbəl/
 credibility	/ˌkrεdə ˈbɪlət̬i/
 credit	/ˈkrεdɪt/
@@ -3083,7 +3083,7 @@ defence	/diˈfεns, ˈdiːˌfεns/
 defensive	/diˈfεnsɪv/
 defer	/diˈfɚ/
 deference	/ˈdεfɚəns/
-deferential	/ˌdεfəˈrεntʃəl/
+deferential	/ˌdεfəˈrεnʃəl/
 defiance	/diˈfaɪəns/
 defiant	/diˈfaɪənt/
 deficiency	/diˈfɪʃənsi/
@@ -3242,7 +3242,7 @@ detain	/diˈteɪn/
 detect	/diˈtεkt/
 detection	/diˈtεkʃən/
 detective	/diˈtεktɪv/
-detention	/diˈtεntʃən/
+detention	/diˈtεnʃən/
 deter	/diˈtɚ/
 detergent	/diˈtɚdƷənt/
 deteriorate	/diˈtɪriəˌreɪt/
@@ -3315,7 +3315,7 @@ diet	/ˈdaɪət/
 differ	/ˈdɪfɚ/
 difference	/ˈdɪfrəns, ˈdɪfɚəns/
 different	/ˈdɪfrənt, ˈdɪfɚənt/
-differentiate	/ˌdɪfəˈrεntʃiˌeɪt/
+differentiate	/ˌdɪfəˈrεnʃiˌeɪt/
 differently	/ˈdɪfrəntli, ˈdɪfɚənt-/
 difficult	/ˈdɪfɪˌkʌlt/
 difficulty	/ˈdɪfɪˌkʌlti/
@@ -3342,7 +3342,7 @@ diligent	/ˈdɪlədƷənt/
 dilute	/daɪˈluːt, də-/
 dim	/ˈdɪm/
 dime	/ˈdaɪm/
-dimension	/dəˈmεntʃən, daɪ-/
+dimension	/dəˈmεnʃən, daɪ-/
 diminish	/dəˈmɪnɪʃ/
 diminutive	/dəˈmɪnjʊt̬ɪv/
 dimple	/ˈdɪmpəl/
