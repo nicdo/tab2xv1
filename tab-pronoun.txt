@@ -10826,7 +10826,7 @@ sage 1	/ˈseɪdƷ/
 sail	/ˈseɪl/
 sailboat	/ˈseɪlˌboːt/
 sailor	/ˈseɪlɚ/
-saint	/ˈseɪnt, before a name ˌseɪnt or sənt/
+saint	/ˈseɪnt/, before a name /ˌseɪnt/ or /sənt/
 saintly	/ˈseɪntli/
 sake	/ˈseɪk/
 salad	/ˈsæləd/
@@ -13589,7 +13589,7 @@ vanguard	/ˈvænˌgɑrd/
 vanilla	/vəˈnɪlə, -ˈnε-/
 vanish	/ˈvænɪʃ/
 vanity	/ˈvænət̬i/
-point	/ˈvæntɪdƷ/
+vantage point	/ˈvæntɪdƷ/
 vapor	/ˈveɪpɚ/
 variable	/ˈvεriəbəl/
 variance	/ˈvεriəns/
