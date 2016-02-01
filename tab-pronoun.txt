@@ -96,7 +96,7 @@ accommodate	/əˈkɑməˌdeɪt/
 accomodation	/əˌkɑməˈdeɪʃən/
 accompany	/əˈkʌmpəni, əˈkɑmpəni
 accomplice	/əˈkɑmpləs, əˈkʌmpləs/
-accomplish	/əˈkɑmplɪʃ, əˈkʌmplɪʃ-/
+accomplish	/əˈkɑmplɪʃ, əˈkʌmplɪʃ/
 accomplishment	/əˈkɑmplɪʃmənt, əˈkʌmplɪʃmənt/
 accordance	/əˈkɔrdəns/
 accordingly	/əˈkɔrdɪŋli/
@@ -167,18 +167,18 @@ address	/əˈdrεs/
 ~	/əˈdrεs, ˈæˌdrεs/
 adept	/əˈdεpt/
 adequate	/ˈædɪkwət/
-adhere	/ædˈhɪr, əd-/
+adhere	/ædˈhɪr, ədˈhɪr/
 adherence	/ædˈhɪrəns, ədˈhɪrəns/
-adhesive	/ædˈhiːsɪv, əd-, -zɪv/
+adhesive	/ædˈhiːsɪv, ədˈhiːsɪv, ædˈhiːzɪv, ədˈhiːzɪv/
 adjacent	/əˈdƷeɪsənt/
 adjective	/ˈædƷɪktɪv/
 adjoining	/əˈdƷɔɪnɪŋ/
 adjourn	/əˈdƷɚn/
 adjust	/əˈdƷʌst/
-adjustable	/əˈdƷʌstə-bəl/
+adjustable	/əˈdƷʌstəbəl/
 adjustment	/əˈdƷʌstmənt/
-administer	/ædˈmɪnəstɚ, əd-/
-administration	/ædˌmɪnəˈstreɪʃən, əd-/
+administer	/ædˈmɪnəstɚ, ədˈmɪnəstɚ/
+administration	/ædˌmɪnəˈstreɪʃən, ədˌmɪnəˈstreɪʃən/
 administrative	/ædˈmɪnəˌstreɪt̬ɪv, əd-/
 administrator	/ædˈmɪnəˌstreɪt̬ɚ, əd-/
 admirable	/ˈædmɚəbəl/
@@ -186,10 +186,10 @@ admiral	/ˈædmɚəl/
 admire	/ædˈmaɪr/
 admiration	/ˌædməˈreɪʃən/
 admirer	/ædˈmaɪrɚ/
-admit	/ædˈmɪt, əd-/
+admit	/ædˈmɪt, ədˈmɪt/
 admission	/ædˈmɪʃən/
-admittance	/ædˈmɪtəns, əd-/
-admonish	/ædˈmɑnɪʃ, əd-/
+admittance	/ædˈmɪtəns, ədˈmɪtəns/
+admonish	/ædˈmɑnɪʃ, ədˈmɑnɪʃ/
 ado	/əˈduː/
 adolescent	/ˌædəlˈεsənt/
 adolescence	/ˌædəlˈεsəns/
@@ -204,26 +204,26 @@ adrift	/əˈdrɪft/
 adroit	/əˈdrɔɪt/
 adult	/əˈdʌlt, ˈæˌdʌlt/
 adultery	/əˈdʌltɚi/
-advance	/ædˈvæns, əd-/
-advancement	/ædˈvænsmənt, əd-/
-advantage	/ədˈvæntɪdƷ, æd-/
-advantageous	/ˌædˌvænˈteɪdƷəs, -vən-/
+advance	/ædˈvæns, ədˈvæns/
+advancement	/ædˈvænsmənt, ədˈvænsmənt/
+advantage	/ədˈvæntɪdƷ, ædˈvæntɪdƷ/
+advantageous	/ˌædˌvænˈteɪdƷəs, ˌædvənˈteɪdƷəs/
 advent	/ˈædˌvεnt/
-adventure	/ædˈvεntʃɚ, əd-/
-adventurous	/ædˈvεntʃɚəs, əd-/
+adventure	/ædˈvεntʃɚ, ədˈvεntʃɚ/
+adventurous	/ædˈvεntʃɚəs, ədˈvεntʃɚəs/
 adverb	/ˈædˌvɚb/
 adversary	/ˈædvɚˌsεri/
-adverse	/ædˈvɚs, ˈæd-ˌ/
+adverse	/ædˈvɚs, ˈædˌvɚs/
 adversity	/ædˈvɚsət̬i, əd-/
 advertise	/ˈædvɚˌtaɪz/
 advertisement	/ˈædvɚˌtaɪzmənt/
 advertiser	/ˈædvɚˌtaɪzɚ/
 advertising	/ˈædvɚˌtaɪzɪŋ/
 advice	/ædˈvaɪs/
-advise	/ædˈvaɪz, əd-/
-advisable	/ædˈvaɪzəbəl, əd-/
-adviser	/ædˈvaɪzɚ, əd-/
-advisory	/ædˈvaɪzɚi, əd-/
+advise	/ædˈvaɪz, ədˈvaɪz/
+advisable	/ædˈvaɪzəbəl, ədˈvaɪzəbəl/
+adviser	/ædˈvaɪzɚ, ədˈvaɪzɚ/
+advisory	/ædˈvaɪzɚi, ədˈvaɪzɚi/
 advocate	/ˈædvəˌkeɪt/
 ~	/ˈædvəkət/
 ad–lib	/ˈædˈlɪb/
@@ -235,7 +235,7 @@ aesthetic	/εsˈθεt̬ɪk/
 afar	/əˈfɑr/
 affable	/ˈæfəbəl/
 affair	/əˈfεər/
-affect	/əˈfεkt, æ-/
+affect	/əˈfεkt, æˈfεkt/
 affection	/əˈfεkʃən/
 affectionate	/əˈfεkʃənət/
 affinity	/əˈfɪnət̬i/
@@ -244,7 +244,7 @@ affirmative	/əˈfɚmət̬ɪv/
 affix	/əˈfɪks/
 afflict	/əˈflɪkt/
 affliction	/əˈflɪkʃən/
-affluent	/ˈæˌfluːənt; æˈfluː-, ə-/
+affluent	/ˈæˌfluːənt; æˈfluːənt, əˈfluːənt/
 afford	/əˈford/
 affront	/əˈfrʌnt/
 afloat	/əˈfloːt/
