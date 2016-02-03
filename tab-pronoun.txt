@@ -6072,15 +6072,15 @@ ignorant	/ˈɪgnɚənt/
 ilk	/ˈɪlk/
 ill	/ˈɪl/
 ill–advised	/ˌɪlædˈvaɪzd, -əd-/
-illegal	/ɪlˈliːgəl/
-illegible	/ɪlˈlεdƷəbəl/
+illegal	/ɪˈliːgəl/
+illegible	/ɪˈlεdƷəbəl/
 illegitimate	/ˌɪlɪˈdƷɪt̬əmət/
 illegitimacy	/ˌɪlɪˈdƷɪt̬əməsi/
-illicit	/ɪlˈlɪsət/
-illiterate	/ɪlˈlɪt̬ɚət/
-illiteracy	/ɪlˈlɪt̬ɚəsi/
+illicit	/ɪˈlɪsət/
+illiterate	/ɪˈlɪt̬ɚət/
+illiteracy	/ɪˈlɪt̬ɚəsi/
 illness	/ˈɪlnəs/
-illogical	/ɪlˈlɑdƷɪkəl/
+illogical	/ɪˈlɑdƷɪkəl/
 illuminate	/ɪˈluːməˌneɪt/
 illumination	/ɪˌluːməˈneɪʃən/
 illusion	/ɪˈluːƷən/
@@ -13470,7 +13470,7 @@ untold	/ˌʌnˈtoːld/
 untoward	/ˌʌnˈtɔrd, -ˈtoːɚd, -təˈwɔrd/
 untroubled	/ˌʌnˈtrʌbəld/
 untrue	/ˌʌnˈtruː/
-unused	/ˌʌnˈjuːzd, in sense 2 usually -ˈjuːst/
+unused	/ˌʌnˈjuːzd/, in sense 2 usually /-ˈjuːst/
 unusual	/ˌʌnˈjuːƷʊəl/
 unusually	/ˌʌnˈjuːƷʊəl, -ˈjuːƷəli/
 unveil	/ˌʌnˈveɪl/
