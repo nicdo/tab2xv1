@@ -3429,7 +3429,7 @@ disguise	/dɪˈskaɪz/
 disgust	/dɪˈskʌst/
 disgusting	/dɪˈskʌstɪŋ/
 dish	/ˈdɪʃ/
-dishcloth	/ˈdɪʃˌklɔth/
+dishcloth	/ˈdɪʃˌklɔθ/
 dishearten	/dɪsˈhɑrtən/
 dishevelled	/dɪˈʃεvəld/
 dishonest	/dɪˈsɑnəst/
@@ -13652,7 +13652,7 @@ verge	/ˈvɚdƷ/
 verify	/ˈvεrəˌfaɪ/
 verification	/ˌvεrəfəˈkeɪʃən/
 vermin	/ˈvɚmən/
-vermouth	/vɚˈmuːth/
+vermouth	/vɚˈmuːθ/
 versatile	/ˈvɚsət̬əl/
 versatility	/ˌvɚsəˈtɪlət̬i/
 verse	/ˈvɚs/
