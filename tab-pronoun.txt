@@ -10703,7 +10703,7 @@ room	/ˈruːm, ˈrʊm/
 roommate	/ˈruːmˌmeɪt, ˈrʊm-/
 roomy	/ˈruːmi, ˈrʊmi/
 roost	/ˈruːst/
-rooster	/ˈruːstɚ, ˈrʊs-/
+rooster	/ˈruːstɚ/
 root 1	/ˈruːt, ˈrʊt/
 rope	/ˈroːp/
 rosary	/ˈroːzɚi/
@@ -13792,10 +13792,10 @@ voracious	/vɔˈreɪʃəs, və-/
 vote	/ˈvoːt/
 voter	/ˈvoːt̬ɚ/
 voting	/ˈvoːt̬ɪŋ/
-vouch	/ˈvæʊtʃ/
-voucher	/ˈvæʊtʃɚ/
-vow	/væʊ/
-vowel	/ˈvæʊəl/
+vouch	/ˈvaʊtʃ/
+voucher	/ˈvaʊtʃɚ/
+vow	/vaʊ/
+vowel	/ˈvaʊəl/
 voyage	/ˈvɔɪɪdƷ/
 vulgar	/ˈvʌlgɚ/
 vulgarity	/ˌvʌlˈgærət̬i/
