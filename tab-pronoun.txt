@@ -3227,7 +3227,7 @@ despise	/diˈspaɪz/
 despicable	/diˈspɪkəbəl, ˈdεspɪ-/
 despite	/dəˈspaɪt/
 despondent	/diˈspɑndənt/
-dessert	/diˈzɚt/
+dessert	/dɪˈzɚt/
 destination	/ˌdεstəˈneɪʃən/
 destined	/ˈdεstənd/
 destiny	/ˈdεstəni/
@@ -10602,10 +10602,10 @@ riches	/ˈrɪtʃəz/
 richness	/ˈrɪtʃnəs/
 rickety	/ˈrɪkət̬i/
 ricochet	/ˈrɪkəˌʃeɪ, -ˌʃεt/
-cheted	/-ˌʃeɪd/
-chetted	/-ˌʃεt̬əd/
-cheting	/-ˌʃeɪɪŋ/
-chetting	/-ˌʃεt̬ɪŋ/
+ricocheted	/-ˌʃeɪd/
+ricochetted	/-ˌʃεt̬əd/
+ricocheting	/-ˌʃeɪɪŋ/
+ricochetting	/-ˌʃεt̬ɪŋ/
 rid	/ˈrɪd/
 riddance	/ˈrɪdəns/
 riddle 1	/ˈrɪdəl/
@@ -10710,10 +10710,10 @@ rosary	/ˈroːzɚi/
 rose 2	/ˈroːz/
 rosebush	/ˈroːzˌbʊʃ/
 rosemary	/ˈroːzˌmεri/
-Hashanah	/ˌrɑʃhɑˈʃɑnə, ˌroːʃ-/
+Rosh Hashanah	/ˌrɑʃhɑˈʃɑnə, ˌroːʃ-/
 roster	/ˈrɑstɚ/
 rostrum	/ˈrɑstrəm/
-trums	/-trə/
+rostrums	/-trə/
 rosy	/ˈroːzi/
 rot	/ˈrɑt/
 rotary	/ˈroːt̬ɚi/
