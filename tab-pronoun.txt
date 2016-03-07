@@ -173,7 +173,7 @@ adhesive	/ædˈhiːsɪv, ədˈhiːsɪv, ædˈhiːzɪv, ədˈhiːzɪv/
 adjacent	/əˈdƷeɪsənt/
 adjective	/ˈædƷɪktɪv/
 adjoining	/əˈdƷɔɪnɪŋ/
-adjourn	/əˈdƷɚn/
+adjourn	/əˈdƷɝn/
 adjust	/əˈdƷʌst/
 adjustable	/əˈdƷʌstəbəl/
 adjustment	/əˈdƷʌstmənt/
@@ -1584,8 +1584,8 @@ bureaucrat	/ˈbjʊrəˌkræt/
 bureaucratic	/ˌbjʊrə-ˈkræt̬ɪk/
 burglar	/ˈbɝglɚ/
 burglarize	/ˈbɝgləˌraɪz/
-burglary	/ˈbɚglɚi/
-burgundy	/ˈbɚgəndi/
+burglary	/ˈbɝglɚi/
+burgundy	/ˈbɝgəndi/
 burial	/ˈbεriəl/
 burly	/ˈbɝli/
 burn	/ˈbɝn/
@@ -1865,17 +1865,17 @@ ceramics	/səˈræmɪks/
 cereal	/ˈsɪriəl/
 ceremony	/ˈsεrəˌmoːni/
 ceremonial	/ˌsεrəˈmoːniəl/
-certain	/ˈsɚtən/
-certainly	/ˈsɚtənli/
-certainty	/ˈsɚtənti/
-certify	/ˈsɚt̬əˌfaɪ/
+certain	/ˈsɝtən/
+certainly	/ˈsɝtənli/
+certainty	/ˈsɝtənti/
+certify	/ˈsɝt̬əˌfaɪ/
 certificate	/sɚˈtɪfɪkət/
 chafe	/ˈtʃeɪf/
 chain	/ˈtʃeɪn/
 chair	/ˈtʃεər/
 chairman	/ˈtʃεərmən/
 chairmen	/-mən, -ˌmεn/
-chairperson	/ˈtʃεərˌpɚsən/
+chairperson	/ˈtʃεərˌpɝsən/
 chalk	/ˈtʃɔk/
 challenge	/ˈtʃælɪndƷ/
 challenging	/ˈtʃæ-lɪndƷɪŋ/
@@ -1919,7 +1919,7 @@ chat	/ˈtʃæt/
 chatter	/ˈtʃæ-t̬ɚ/
 chatterbox	/ˈtʃæt̬ɚˌbɑks/
 chatty	/ˈtʃæt̬i/
-chauffeur	/ˈʃoːfɚ, ʃoˈfɚ/
+chauffeur	/ˈʃoːfɚ, ʃoˈfɝ/
 chauvinist	/ˈʃoːvənɪst/
 chauvinistic	/ˌʃoːvəˈnɪstɪk/
 cheap	/ˈtʃiːp/
@@ -1956,7 +1956,7 @@ chief	/ˈtʃiːf/
 chiefly	/ˈtʃiːfli/
 child	/ˈtʃaɪld/
 children	/ˈtʃɪldrən/
-childbirth	/ˈtʃaɪldˌbɚθ/
+childbirth	/ˈtʃaɪldˌbɝθ/
 childhood	/ˈtʃaɪldˌhʊd/
 childish	/ˈtʃaɪldɪʃ/
 childlike	/ˈtʃaɪldˌlaɪk/
@@ -1976,7 +1976,7 @@ chip	/ˈtʃɪp/
 chipmunk	/ˈtʃɪpˌmʌŋk/
 chiropodist	/kəˈrɑpədɪst, ʃə-/
 chiropractor	/ˈkaɪrəˌpræktɚ/
-chirp	/ˈtʃɚp/
+chirp	/ˈtʃɝp/
 chisel	/ˈtʃɪzəl/
 chit	/ˈtʃɪt/
 chitchat	/ˈtʃɪtˌtʃæt/
@@ -2018,8 +2018,8 @@ chuckle	/ˈtʃʌkəl/
 chum	/ˈtʃʌm/
 chummy	/ˈtʃʌmi/
 chunk	/ˈtʃʌnk/
-church	/ˈtʃɚtʃ/
-churn	/ˈtʃɚn/
+church	/ˈtʃɝtʃ/
+churn	/ˈtʃɝn/
 chute	/ˈʃuːt/
 cider	/ˈsaɪdɚ/
 cigar	/sɪˈgɑr/
@@ -2028,19 +2028,19 @@ cinch	/ˈsɪntʃ/
 cinema	/ˈsɪnəmə/
 cinnamon	/ˈsɪnəmən/
 cipher	/ˈsaɪfɚ/
-circa	/ˈsɚkə/
-circle	/ˈsɚkəl/
-circuit	/ˈsɚkət/
-circuitous	/ˌsɚˈkjuːət̬əs/
-circular	/ˈsɚkjəlɚ/
-circulate	/ˈsɚkjəˌleɪt/
-circulation	/ˌsɚkjəˈleɪʃən/
-circumcise	/ˈsɚkəmˌsaɪz/
-circumcision	/ˌsɚkəmˈsɪƷən, ˈsɚkəmˌ-/
+circa	/ˈsɝkə/
+circle	/ˈsɝkəl/
+circuit	/ˈsɝkət/
+circuitous	/ˌsɝˈkjuːət̬əs/
+circular	/ˈsɝkjəlɚ/
+circulate	/ˈsɝkjəˌleɪt/
+circulation	/ˌsɝkjəˈleɪʃən/
+circumcise	/ˈsɝkəmˌsaɪz/
+circumcision	/ˌsɝkəmˈsɪƷən, ˈsɝkəmˌ-/
 circumference	/sɚˈkʌmfrəns/
-circumspect	/ˈsɚkəmˌspεkt/
-circumstance	/ˈsɚkəmˌstæns/
-circus	/ˈsɚkəs/
+circumspect	/ˈsɝkəmˌspεkt/
+circumstance	/ˈsɝkəmˌstæns/
+circus	/ˈsɝkəs/
 cistern	/ˈsɪstɚn/
 cite	/ˈsaɪt/
 citation	/saɪˈteɪʃən/
@@ -2099,11 +2099,11 @@ cleft	/ˈklεft/
 clement	/ˈklεmənt/
 clemency	/ˈklεmənsi/
 clench	/ˈklεntʃ/
-clergy	/ˈklɚdƷi/
-clergyman	/ˈklɚdƷimən/
+clergy	/ˈklɝdƷi/
+clergyman	/ˈklɝdƷimən/
 clergymen	/-mən, -ˌmεn/
 clerical	/ˈklεrɪkəl/
-clerk	/ˈklɚk, Brit ˈklɑrk/
+clerk	/ˈklɝk/, Brit /ˈklɑrk/
 clever	/ˈklεvɚ/
 cleverly	/ˈklεvɚli/
 cleverness	/ˈklεvɚnəs/
@@ -2126,7 +2126,7 @@ clippers	/ˈklɪpɚz/
 cloak	/ˈkloːk/
 clock	/ˈklɑk/
 clockwise	/ˈklɑkˌwaɪz/
-clockwork	/ˈklɑkˌwɚk/
+clockwork	/ˈklɑkˌwɝk/
 clog	/ˈklɑg/
 cloister	/ˈklɔɪstɚ/
 close 1	/ˈkloːz/
@@ -2189,8 +2189,8 @@ cod	/ˈkɑd/
 coddle	/ˈkɑdəl/
 code	/ˈkoːd/
 coeducational	/ˌkoːˌεdƷəˈkeɪʃənəl/
-coerce	/koˈɚs/
-coercion	/koˈɚƷən, -ʃən/
+coerce	/koˈɝs/
+coercion	/koˈɝƷən, -ʃən/
 coffee	/ˈkɔfi/
 coffeepot	/ˈkɔfiˌpɑt/
 coffer	/ˈkɔfɚ/
@@ -2230,7 +2230,7 @@ cologne	/kəˈloːn/
 Colombian	/kəˈlʌmbiən/
 colon 1	/ˈkoːlən/
 cola	/-lə/
-colonel	/ˈkɚnəl/
+colonel	/ˈkɝnəl/
 colony	/ˈkɑləni/
 colonial	/kəˈloːniəl/
 colonize	/ˈkɑləˌnaɪz/
@@ -2277,8 +2277,8 @@ comment	/ˈkɑˌmεnt/
 commentary	/ˈkɑmənˌtεri/
 commentator	/ˈkɑmənˌteɪt̬ɚ/
 commerce	/ˈkɑmɚs/
-commercial	/kəˈmɚʃəl/
-commercialize	/kəˈmɚʃəˌlaɪz/
+commercial	/kəˈmɝʃəl/
+commercialize	/kəˈmɝʃəˌlaɪz/
 commiserate	/kəˈmɪzəˌreɪt/
 commission	/kəˈmɪʃən/
 commissioner	/kəˈmɪʃənɚ/
@@ -2384,11 +2384,11 @@ concentrate	/ˈkɑnsənˌtreɪt/
 concentration	/ˌkɑnsənˈtreɪʃən/
 concept	/ˈkɑnˌsεpt/
 conception	/kənˈsεpʃən/
-concern	/kənˈsɚn/
-concerned	/kənˈsɚnd/
-concerning	/kənˈsɚnɪŋ/
-concert	/ˈkɑnˌsɚt/
-concerted	/kənˈsɚt̬əd/
+concern	/kənˈsɝn/
+concerned	/kənˈsɝnd/
+concerning	/kənˈsɝnɪŋ/
+concert	/ˈkɑnˌsɝt/
+concerted	/kənˈsɝt̬əd/
 concession	/kənˈsεʃən/
 concise	/kənˈsaɪs/
 conclude	/kənˈkluːd/
@@ -2399,7 +2399,7 @@ concoction	/kənˈkɑkʃən/
 concourse	/ˈkɑnˌkors/
 concrete	/kɑnˈkriːt, ˈkɑnˌkriːt/
 ~	/ˈkɑnˌkriːt, kɑnˈkriːt/
-concur	/kənˈkɚ/
+concur	/kənˈkɝ/
 concussion	/kənˈkʌʃən/
 condemn	/kənˈdεm/
 condemnation	/ˌkɑnˌdεmˈneɪʃən/
@@ -2420,7 +2420,7 @@ conductor	/kənˈdʌktɚ/
 cone	/ˈkoːn/
 confection	/kənˈfεkʃən/
 confederation	/kənˌfεdəˈreɪʃən/
-confer	/kənˈfɚ/
+confer	/kənˈfɝ/
 conference	/ˈkɑnfrəns, -fɚəns/
 confess	/kənˈfεs/
 confession	/kənˈfεʃən/
@@ -2431,7 +2431,7 @@ confident	/ˈkɑnfədənt/
 confidential	/ˌkɑnfəˈdεnʃəl/
 confine	/kənˈfaɪn/
 confines	/ˈkɑnˌfaɪnz/
-confirm	/kənˈfɚm/
+confirm	/kənˈfɝm/
 confirmation	/ˌkɑnfɚˈmeɪʃən/
 confiscate	/ˈkɑnfəˌskeɪt/
 conflict	/ˈkɑnˌflɪkt/
@@ -2464,7 +2464,7 @@ conjunction	/kənˈdƷʌŋkʃən/
 conjure	/ˈkɑndƷɚ, ˈkʌn-/
 connect	/kəˈnεkt/
 connection	/kəˈnεkʃən/
-connoisseur	/ˌkɑnəˈsɚ, -ˈsʊr/
+connoisseur	/ˌkɑnəˈsɝ, -ˈsʊr/
 connote	/kəˈnoːt/
 conquer	/ˈkɑŋkɚ/
 conqueror	/ˈkɑŋkɚɚ/
@@ -2481,10 +2481,10 @@ consent	/kənˈsεnt/
 consequence	/ˈkɑnsəˌkwεns, -kwəns/
 consequent	/ˈkɑnsəkwənt, -ˌkwεnt/
 consequently	/ˈkɑnsəkwəntli, -ˌkwεnt-/
-conserve	/kənˈsɚv/
+conserve	/kənˈsɝv/
 conservation	/ˌkɑnsɚˈveɪʃən/
-conservative	/kənˈsɚvət̬iv/
-conservatory	/kənˈsɚvəˌtori/
+conservative	/kənˈsɝvət̬iv/
+conservatory	/kənˈsɝvəˌtori/
 consider	/kənˈsɪdɚ/
 considerable	/kənˈsɪdɚəbəl/
 considerate	/kənˈsɪdɚət/
@@ -2582,8 +2582,8 @@ contributor	/kənˈtrɪbjət̬ɚ/
 contrite	/ˈkɑnˌtraɪt, kənˈtraɪt/
 contrive	/kənˈtraɪv/
 control	/kənˈtroːl/
-controversy	/ˈkɑntrəˌvɚsi/
-controversial	/ˌkɑntrəˈvɚʃəl, -siəl/
+controversy	/ˈkɑntrəˌvɝsi/
+controversial	/ˌkɑntrəˈvɝʃəl, -siəl/
 convalescence	/ˌkɑnvəˈlεsəns/
 convalescent	/ˌkɑnvəˈlεsənt/
 convene	/kənˈviːn/
@@ -2592,15 +2592,15 @@ convenient	/kənˈviːnjənt/
 convent	/ˈkɑnvənt, -ˌvεnt/
 convention	/kənˈvεnʃən/
 conventional	/kənˈvεnʃənəl/
-converge	/kənˈvɚdƷ/
-converse 1	/kənˈvɚs/
+converge	/kənˈvɝdƷ/
+converse 1	/kənˈvɝs/
 conversation	/ˌkɑnvɚˈseɪʃən/
 conversational	/ˌkɑnvɚˈseɪʃənəl/
-converse 2	/kənˈvɚs, ˈkɑnˌvɚs/
-conversely	/kənˈvɚsli, ˈkɑnˌvɚs-/
-conversion	/kənˈvɚƷən/
-convert	/kənˈvɚt/
-convertible	/kənˈvɚt̬əbəl/
+converse 2	/kənˈvɝs, ˈkɑnˌvɝs/
+conversely	/kənˈvɝsli, ˈkɑnˌvɝs-/
+conversion	/kənˈvɝƷən/
+convert	/kənˈvɝt/
+convertible	/kənˈvɝt̬əbəl/
 convex	/kɑnˈvεks, ˈkɑnˌ-, kənˈ-/
 convey	/kənˈveɪ/
 convict	/kənˈvɪkt/
@@ -2707,13 +2707,13 @@ coup	/ˈkuː/
 coups	/ˈkuːz/
 couple	/ˈkʌpəl/
 coupon	/ˈkuːˌpɑn, ˈkjuː-/
-courage	/ˈkɚɪdƷ/
+courage	/ˈkɝɪdƷ/
 courageous	/kəˈreɪdƷəs/
-courier	/ˈkʊriɚ, ˈkɚiɚ/
+courier	/ˈkʊriɚ, ˈkɝiɚ/
 course	/ˈkors/
 court	/ˈkort/
-courteous	/ˈkɚt̬iəs/
-courtesy	/ˈkɚt̬əsi/
+courteous	/ˈkɝt̬iəs/
+courtesy	/ˈkɝt̬əsi/
 courthouse	/ˈkortˌhaʊs/
 courtroom	/ˈkortˌruːm/
 courtship	/ˈkortˌʃɪp/
@@ -2723,7 +2723,7 @@ cove	/ˈkoːv/
 covenant	/ˈkʌvənənt/
 cover	/ˈkʌvɚ/
 coverage	/ˈkʌvɚɪdƷ/
-covert	/ˈkoːˌvɚt, ˈkʌvɚt/
+covert	/ˈkoːˌvɝt, ˈkʌvɚt/
 cover–up	/ˈkʌvɚˌʌp/
 covet	/ˈkʌvət/
 covetous	/ˈkʌvət̬əs/
@@ -2826,7 +2826,7 @@ crossing	/ˈkrɔsɪŋ/
 cross–reference	/ˌkrɔsˈrεfrəns, -ˈrεfɚəns/
 crossroads	/ˈkrɔsˌroːdz/
 crosswalk	/ˈkrɔsˌwɔk/
-crossword puzzle	/ˈkrɔsˌwɚd/
+crossword puzzle	/ˈkrɔsˌwɝd/
 crotch	/ˈkrɑtʃ/
 crouch	/ˈkraʊtʃ/
 crouton	/ˈkruːˌtɑn/
@@ -2886,30 +2886,30 @@ cunning	/ˈkʌnɪŋ/
 cup	/ˈkʌp/
 cupboard	/ˈkʌbɚd/
 curator	/ˈkjʊrˌeɪt̬ɚ, kjʊˈreɪt̬ɚ/
-curb	/ˈkɚb/
-curdle	/ˈkɚdəl/
+curb	/ˈkɝb/
+curdle	/ˈkɝdəl/
 cure	/ˈkjʊr/
-curfew	/ˈkɚˌfjuː/
+curfew	/ˈkɝˌfjuː/
 curious	/ˈkjʊriəs/
 curio	/ˈkjʊriˌoː/
 curiosity	/ˌkjʊriˈɑsət̬i/
-curl	/ˈkɚl/
-curler	/ˈkɚlɚ/
-curly	/ˈkɚli/
-currant	/ˈkɚənt/
-currency	/ˈkɚənsi/
-current	/ˈkɚənt/
+curl	/ˈkɝl/
+curler	/ˈkɝlɚ/
+curly	/ˈkɝli/
+currant	/ˈkɝənt/
+currency	/ˈkɝənsi/
+current	/ˈkɝənt/
 curriculum	/kəˈrɪkjələm/
 curricula	/kəˈrɪkjələ/
-curry	/ˈkɚi/
-curse	/ˈkɚs/
-cursor	/ˈkɚsɚ/
-cursory	/ˈkɚsɚi/
-curt	/ˈkɚt/
+curry	/ˈkɝi/
+curse	/ˈkɝs/
+cursor	/ˈkɝsɚ/
+cursory	/ˈkɝsɚi/
+curt	/ˈkɝt/
 curtail	/kɚˈteɪl/
-curtain	/ˈkɚtən/
-curtsy	/ˈkɚtsi/
-curve	/ˈkɚv/
+curtain	/ˈkɝtən/
+curtsy	/ˈkɝtsi/
+curve	/ˈkɝv/
 cushion	/ˈkʊʃən/
 custard	/ˈkʌstɚd/
 custody	/ˈkʌstədi/
