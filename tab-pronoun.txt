@@ -65,8 +65,8 @@ abstinence	/ˈæbstənəns/
 abstract	/æbˈstrækt, ˈæbˌstrækt/
 ~	/ˈæbˌstrækt/
 abstraction	/æbˈstrækʃən/
-absurd	/əbˈsɚd, əbˈzɚd/
-absurdity	/əbˈsɚdət̬i, -ˈzɚdət̬i/
+absurd	/əbˈsɝd, əbˈzɝd/
+absurdity	/əbˈsɝdət̬i, -ˈɝɚdət̬i/
 abundant	/əˈbʌndənt/
 abundance	/əˈbʌndəns/
 abuse	/əˈbjuːz/
@@ -211,10 +211,10 @@ advantageous	/ˌædˌvænˈteɪdƷəs, ˌædvənˈteɪdƷəs/
 advent	/ˈædˌvεnt/
 adventure	/ædˈvεntʃɚ, ədˈvεntʃɚ/
 adventurous	/ædˈvεntʃɚəs, ədˈvεntʃɚəs/
-adverb	/ˈædˌvɚb/
+adverb	/ˈædˌvɝb/
 adversary	/ˈædvɚˌsεri/
-adverse	/ædˈvɚs, ˈædˌvɚs/
-adversity	/ædˈvɚsət̬i, əd-/
+adverse	/ædˈvɝs, ˈædˌvɝs/
+adversity	/ædˈvɝsət̬i, əd-/
 advertise	/ˈædvɚˌtaɪz/
 advertisement	/ˈædvɚˌtaɪzmənt/
 advertiser	/ˈædvɚˌtaɪzɚ/
@@ -239,8 +239,8 @@ affect	/əˈfεkt, æˈfεkt/
 affection	/əˈfεkʃən/
 affectionate	/əˈfεkʃənət/
 affinity	/əˈfɪnət̬i/
-affirm	/əˈfɚm/
-affirmative	/əˈfɚmət̬ɪv/
+affirm	/əˈfɝm/
+affirmative	/əˈfɝmət̬ɪv/
 affix	/əˈfɪks/
 afflict	/əˈflɪkt/
 affliction	/əˈflɪkʃən/
@@ -314,7 +314,7 @@ alcoholic	/ˌælkəˈhɔlɪk/
 alcoholism	/ˈælkəhɔˌlɪzəm/
 alcove	/ˈælˌkoːv/
 ale	/ˈeɪl/
-alert	/əˈlɚt/
+alert	/əˈlɝt/
 alfalfa	/ælˈfælfə/
 alga	/ˈælgə/
 algae	/ˈælˌdƷiː/
@@ -341,7 +341,7 @@ allegiance	/əˈliːdƷəns/
 allegory	/ˈæləˌgori/
 allegorical	/ˌæləˈgɔrɪkəl/
 allergy	/ˈælɚdƷi/
-allergic	/əˈlɚdƷɪk/
+allergic	/əˈlɝdƷɪk/
 alleviate	/əˈliːviˌeɪt/
 alley	/ˈæli/
 alliance	/əˈlaɪəns/
@@ -379,7 +379,7 @@ alter	/ˈɔltɚ/
 alteration	/ˌɔltəˈreɪʃən/
 alternate	/ˈɔltɚnət/
 ~	/ˈɔltɚˌneɪt/
-alternative	/ɔlˈtɚnət̬ɪv/
+alternative	/ɔlˈtɝnət̬ɪv/
 although	/ɔlˈðoː/
 altitude	/ˈæltəˌtuːd, -ˌtjuːd/
 altogether	/ˌɔltəˈgεðɚ/
@@ -476,7 +476,7 @@ annex	/əˈnεks, ˈæˌnεks/
 ~	/ˈæˌnεks, -nɪks/
 annihilate	/əˈnaɪəˌleɪt/
 annihilation	/əˌnaɪəˈleɪʃən/
-anniversary	/ˌænəˈvɚsɚi/
+anniversary	/ˌænəˈvɝsɚi/
 annotate	/ˈænəˌteɪt/
 annotation	/ˌænəˈteɪʃən/
 announce	/əˈnaʊns/
@@ -729,9 +729,9 @@ assault	/əˈsɔlt/
 assemble	/əˈsεmbəl/
 assembly	/əˈsεmbli/
 assent	/əˈsεnt/
-assert	/əˈsɚt/
-assertion	/əˈsɚʃən/
-assertive	/əˈsɚt̬ɪv/
+assert	/əˈsɝt/
+assertion	/əˈsɝʃən/
+assertive	/əˈsɝt̬ɪv/
 assess	/əˈsεs/
 assessment	/əˈsεsmənt/
 asset	/ˈæˌsεt/
@@ -797,7 +797,7 @@ attest	/əˈtεst/
 attic	/ˈæt̬ɪk/
 attire	/əˈtaɪr/
 attitude	/ˈæt̬əˌtuːd, -ˌtjuːd/
-attorney	/əˈtɚni/
+attorney	/əˈtɝni/
 attract	/əˈtrækt/
 attraction	/əˈtrækʃən/
 attractive	/əˈtræktɪv/
@@ -851,9 +851,9 @@ avarice	/ˈævɚəs/
 avenge	/əˈvεndƷ/
 avenue	/ˈævəˌnuː, ˈævəˌnjuː/
 average	/ˈævrɪdƷ, ˈævərɪdƷ/
-averse	/əˈvɚs/
-aversion	/əˈvɚƷən/
-avert	/əˈvɚt/
+averse	/əˈvɝs/
+aversion	/əˈvɝƷən/
+avert	/əˈvɝt/
 aviation	/ˌeɪviˈeɪʃən/
 aviator	/ˈeɪviˌeɪt̬ɚ/
 avid	/ˈævɪd/
@@ -910,8 +910,8 @@ backwards	/ˈbækwɚdz/
 bacon	/ˈbeɪkən/
 bacteria	/bækˈtɪriə/
 bad	/ˈbæd/
-worse	/ˈwɚs/
-worst	/ˈwɚst/
+worse	/ˈwɝs/
+worst	/ˈwɝst/
 badge	/ˈbædƷ/
 badger	/ˈbædƷɚ/
 badly	/ˈbædli/
@@ -1136,10 +1136,10 @@ berate	/bɪˈreɪt/
 bereaved	/bɪˈriːvd/
 beret	/bəˈreɪ/
 berry	/ˈbεri/
-berserk	/bɚˈsɚk, -ˈzɚk/
-berth	/ˈbɚθ/
+berserk	/bɚˈsɝk, -ˈzɝk/
+berth	/ˈbɝθ/
 beseech	/bɪˈsiːtʃ/
-sought	/-ˈsɔt/
+bisought	/-ˈsɔt/
 beset	/bɪˈsεt/
 beside	/bɪˈsaɪd/
 besides	/bɪˈsaɪdz/
@@ -1204,13 +1204,13 @@ biographical	/ˌbaɪəˈgræfɪkəl/
 biology	/baɪˈɑlədƷi/
 biological	/-dƷɪkəl/
 biologist	/baɪˈɑlədƷɪst/
-birch	/ˈbɚtʃ/
-bird	/ˈbɚd/
-birth	/ˈbɚθ/
-birthday	/ˈbɚθˌdeɪ/
-birthmark	/ˈbɚθˌmɑrk/
-birthplace	/ˈbɚθˌpleɪs/
-birthrate	/ˈbɚθˌreɪt/
+birch	/ˈbɝtʃ/
+bird	/ˈbɝd/
+birth	/ˈbɝθ/
+birthday	/ˈbɝθˌdeɪ/
+birthmark	/ˈbɝθˌmɑrk/
+birthplace	/ˈbɝθˌpleɪs/
+birthrate	/ˈbɝθˌreɪt/
 biscuit	/ˈbɪskət/
 bisect	/ˈbaɪˌsεkt, ˌbaɪˈ-/
 bisexual	/ˌbaɪˈsεkʃəwəl, -ˈsεkʃəl/
@@ -1227,7 +1227,7 @@ bizarre	/bəˈzɑr/
 black	/ˈblæk/
 black–and–blue	/ˌblækənˈbluː/
 blackberry	/ˈblækˌbεri/
-blackbird	/ˈblækˌbɚd/
+blackbird	/ˈblækˌbɝd/
 blackboard	/ˈblækˌbɔrd/
 blacken	/ˈblækən/
 blackmail	/ˈblækˌmeɪl/
@@ -1301,15 +1301,15 @@ blubber	/ˈblʌbɚ/
 bludgeon	/ˈblʌdƷən/
 blue	/ˈbluː/
 blueberry	/ˈbluːˌbεri/
-bluebird	/ˈbluːˌbɚd/
+bluebird	/ˈbluːˌbɝd/
 blueprint	/ˈbluːˌprɪnt/
 blues	/ˈbluːz/
 bluff	/ˈblʌf/
 blunder	/ˈblʌndɚ/
 blunt	/ˈblʌnt/
-blur	/ˈblɚ/
-blurb	/ˈblɚb/
-blurt	/ˈblɚt/
+blur	/ˈblɝ/
+blurb	/ˈblɝb/
+blurt	/ˈblɝt/
 blush	/ˈblʌʃ/
 blustery	/ˈblʌstəri/
 boar	/ˈbor/
@@ -1365,7 +1365,7 @@ bore 1	/ˈbor/
 boredom	/ˈbordəm/
 boring	/ˈborɪŋ/
 born	/ˈbɔrn/
-borough	/ˈbɚo/
+borough	/ˈbɝo/
 borrow	/ˈbɑro/
 Bosnian	/ˈbɑzniən, ˈbɔz-/
 bosom	/ˈbʊzəm, ˈbuː-/
@@ -1576,28 +1576,28 @@ bunk	/ˈbʌŋk/
 bunny	/ˈbʌni/
 buoy	/ˈbuːi, ˈbɔɪ/
 buoyant	/ˈbɔɪənt, ˈbuːjənt/
-burden	/ˈbɚdən/
-burdensome	/ˈbɚdənsəm/
+burden	/ˈbɝdən/
+burdensome	/ˈbɝdənsəm/
 bureau	/ˈbjʊro/
 bureaucracy	/bjʊˈrɑkrəsi/
 bureaucrat	/ˈbjʊrəˌkræt/
 bureaucratic	/ˌbjʊrə-ˈkræt̬ɪk/
-burglar	/ˈbɚglɚ/
-burglarize	/ˈbɚgləˌraɪz/
+burglar	/ˈbɝglɚ/
+burglarize	/ˈbɝgləˌraɪz/
 burglary	/ˈbɚglɚi/
 burgundy	/ˈbɚgəndi/
 burial	/ˈbεriəl/
-burly	/ˈbɚli/
-burn	/ˈbɚn/
-burned	/ˈbɚnd, ˈbɚnt/
-burnt	/ˈbɚnt/
-burner	/ˈbɚnɚ/
-burnish	/ˈbɚnɪʃ/
-burp	/ˈbɚp/
-burro	/ˈbɚo, ˈbʊr-/
-burrow	/ˈbɚo/
-bursar	/ˈbɚsɚ/
-burst	/ˈbɚst/
+burly	/ˈbɝli/
+burn	/ˈbɝn/
+burned	/ˈbɝnd/
+burnt	/ˈbɝnt/
+burner	/ˈbɝnɚ/
+burnish	/ˈbɝnɪʃ/
+burp	/ˈbɝp/
+burro	/ˈbɝo, ˈbʊr-/
+burrow	/ˈbɝo/
+bursar	/ˈbɝsɚ/
+burst	/ˈbɝst/
 bury	/ˈbεri/
 bus	/ˈbʌs/
 bussed	/ˈbʌst/
@@ -1635,7 +1635,7 @@ bygone	/ˈbaɪˌgɔn/
 bypass	/ˈbaɪˌpæs/
 bystander	/ˈbaɪˌstændɚ/
 byte	/ˈbaɪt/
-byword	/ˈbaɪˌwɚd/
+byword	/ˈbaɪˌwɝd/
 by–product	/ˈbaɪˌprɑdəkt/
 c	/ˈsiː/
 cab	/ˈkæb/
@@ -8782,7 +8782,7 @@ overall	/ˌoːvɚˈɔl/
 overalls	/ˈoːvɚˌɔlz/
 overbearing	/ˌoːvɚˈbεərɪŋ/
 overboard	/ˈoːvɚˌbord/
-overburden	/ˌoːvɚˈbɚdən/
+overburden	/ˌoːvɚˈbɝdən/
 overcast	/ˌoːvɚˌkæst/
 overcharge	/ˌoːvɚˈtʃɑrdƷ/
 overcoat	/ˈoːvɚˌkoːt/
@@ -8845,7 +8845,7 @@ oversight	/ˈoːvɚˌsaɪt/
 oversleep	/ˌoːvɚˈsliːp/
 overslept	/-ˈslεpt/
 overstep	/ˌoːvɚˈstεp/
-overt	/oˈvɚt, ˈoːˌvɚt/
+overt	/oˈvɝt, ˈoːˌvɝt/
 overtake	/ˌoːvɚˈteɪk/
 overtook	/-ˈtʊk/
 overtaken	/-ˈteɪkən/
@@ -8855,7 +8855,7 @@ overthrown	/-ˈθroːn/
 overtime	/ˈoːvɚˌtaɪm/
 overtone	/ˈoːvɚˌtoːn/
 overture	/ˈoːvɚˌtʃʊr, -tʃɚ/
-overturn	/ˌoːvɚˈtɚn/
+overturn	/ˌoːvɚˈtɝn/
 overweight	/ˌoːvɚˈweɪt/
 overwhelm	/ˌoːvɚˈhwεlm/
 overwhelming	/ˌoːvɚˈhwεlmɪŋ/
