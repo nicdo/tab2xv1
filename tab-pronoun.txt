@@ -3247,10 +3247,10 @@ deter	/dɪˈtɝ/
 detergent	/dɪˈtɝdƷənt/
 deteriorate	/diˈtɪriəˌreɪt/
 deterioration	/diˌtɪriəˈreɪʃən/
-determine	/dɪˈtɚmən/
-determined	/dɪˈtɚmənd/
-determination	/dɪˌtɚməˈneɪʃən/
-deterrent	/dɪˈtɚənt/
+determine	/dɪˈtɝmən/
+determined	/dɪˈtɝmənd/
+determination	/dɪˌtɝməˈneɪʃən/
+deterrent	/dɪˈtɝənt/
 detest	/dɪˈtεst/
 detestable	/dɪˈtεstəbəl/
 detonate	/ˈdεtənˌeɪt/
@@ -3364,8 +3364,8 @@ direction	/dəˈrεkʃən, daɪ-/
 directly	/dəˈrεktli, daɪ-/
 director	/dəˈrεktɚ, daɪ-/
 directory	/dəˈrεktɚi, daɪ-/
-dirt	/ˈdɚt/
-dirty	/ˈdɚt̬i/
+dirt	/ˈdɝt/
+dirty	/ˈdɝt̬i/
 disability	/ˌdɪsəˈbɪlət̬i/
 disable	/dɪsˈeɪbəl/
 disabled	/dɪsˈeɪbəld/
@@ -3386,8 +3386,8 @@ disaster	/dɪˈzæstɚ/
 disastrous	/dɪˈzæstrəs/
 disbelief	/ˌdɪsbɪˈliːf/
 discard	/dɪsˈkɑrd, ˈdɪsˌkɑrd/
-discern	/dɪˈsɚn, -ˈzɚn/
-discernible	/dɪˈsɚnəbəl, -ˈzɚ-/
+discern	/dɪˈsɝn, dɪˈzɝn/
+discernible	/dɪˈsɝnəbəl, dɪˈzɝnəbəl/
 discharge	/dɪsˈtʃɑrdƷ, ˈdɪsˌ-/
 ~	/ˈdɪsˌtʃɑrdƷ, dɪsˈ-/
 disciple	/dɪˈsaɪpəl/
@@ -3396,14 +3396,14 @@ disclaim	/dɪsˈkleɪm/
 disclose	/dɪsˈkloːz/
 disclosure	/dɪsˈkloːƷɚ/
 discomfort	/dɪsˈkʌmfɚt/
-disconcert	/ˌdɪskənˈsɚt/
+disconcert	/ˌdɪskənˈsɝt/
 disconnect	/ˌdɪskəˈnεkt/
 disconsolate	/dɪsˈkɑnsələt/
 discontented	/ˌdɪskənˈtεntəd/
 discontinue	/ˌdɪskənˈtɪnˌjuː/
 discount	/ˈdɪsˌkaʊnt, dɪsˈ-/
-discourage	/dɪsˈkɚɪdƷ/
-discouragement	/dɪsˈkɚɪdƷmənt/
+discourage	/dɪsˈkɝɪdƷ/
+discouragement	/dɪsˈkɝɪdƷmənt/
 discover	/dɪsˈkʌvɚ/
 discovery	/dɪsˈkʌvɚi/
 discredit	/dɪsˈkrεdət/
@@ -3467,7 +3467,7 @@ dispatch	/dɪsˈpætʃ/
 dispel	/dɪsˈpεl/
 dispensation	/ˌdɪspεnˈseɪʃən/
 dispense	/dɪsˈpεns/
-disperse	/dɪsˈpɚs/
+disperse	/dɪsˈpɝs/
 displace	/dɪsˈpleɪs/
 display	/dɪsˈpleɪ/
 displease	/dɪsˈpliːz/
@@ -3493,7 +3493,7 @@ dissect	/dɪˈsεkt/
 disseminate	/dɪˈsεməˌneɪt/
 dissent	/dɪˈsεnt/
 dissertation	/ˌdɪsɚˈteɪʃən/
-disservice	/dɪsˈsɚvɪs/
+disservice	/dɪsˈsɝvɪs/
 dissident	/ˈdɪsədənt/
 dissimilar	/dɪˈsɪməlɚ/
 dissipate	/ˈdɪsəˌpeɪt/
@@ -3522,20 +3522,20 @@ distribution	/ˌdɪstrəˈbjuːʃən/
 distributor	/dɪˈstrɪbjʊt̬ɚ/
 district	/ˈdɪsˌtrɪkt/
 distrust	/dɪsˈtrʌst/
-disturb	/dɪˈstɚb/
-disturbance	/dɪˈstɚbəns/
+disturb	/dɪˈstɝb/
+disturbance	/dɪˈstɝbəns/
 disuse	/dɪsˈjuːs/
 ditch	/ˈdɪtʃ/
 ditto	/ˈdɪt̬oː/
 dive	/ˈdaɪv/
 dove	/ˈdoːv/
 diver	/ˈdaɪvɚ/
-diverge	/dəˈvɚdƷ, daɪ-/
-diverse	/daɪˈvɚs, də-, ˈdaɪˌvɚs/
-diversify	/daɪˈvɚsəˌfaɪ, də-/
-diversion	/daɪˈvɚƷən, də-/
-diversity	/daɪˈvɚsət̬i, də-/
-divert	/dəˈvɚt, daɪ-/
+diverge	/dəˈvɝdƷ, daɪˈvɝdƷ/
+diverse	/daɪˈvɝs, də-, ˈdaɪˌvɝs/
+diversify	/daɪˈvɝsəˌfaɪ, də-/
+diversion	/daɪˈvɝƷən, də-/
+diversity	/daɪˈvɝsət̬i, də-/
+divert	/dəˈvɝt, daɪ-/
 divide	/dəˈvaɪd/
 dividend	/ˈdɪvəˌdεnd, -dənd/
 divine	/dəˈvaɪn/
@@ -3626,7 +3626,7 @@ downright	/ˈdaʊnˌraɪt/
 downstairs	/ˈdaʊnˈstεərz/
 ~	/ˈdaʊnˌstεərz/
 downstream	/ˈdaʊnˈstriːm/
-down–to–earth	/ˌdaʊntuˈɚθ/
+down–to–earth	/ˌdaʊntuˈɝθ/
 downtown	/ˌdaʊnˈtaʊn, ˈdaʊnˌtaʊn/
 ~	/ˌdaʊnˈtaʊn/
 downward	/ˈdaʊnwɚd/
@@ -3769,22 +3769,22 @@ eagerness	/ˈiːgɚnəs/
 eagle	/ˈiːgəl/
 ear	/ˈɪr/
 eardrum	/ˈɪrˌdrʌm/
-earl	/ˈɚl/
+earl	/ˈɝl/
 earlobe	/ˈɪrˌloːb/
-early	/ˈɚli/
-earmark	/ˈirˌmɑrk/
-earn	/ˈɚn/
-earnest	/ˈɚnəst/
-earnings	/ˈɚnɪŋz/
+early	/ˈɝli/
+earmark	/ˈɪrˌmɑrk/
+earn	/ˈɝn/
+earnest	/ˈɝnəst/
+earnings	/ˈɝnɪŋz/
 earphone	/ˈɪrˌfoːn/
 earring	/ˈɪrˌrɪŋ/
 earshot	/ˈɪrˌʃɑt/
-earth	/ˈɚθ/
-earthenware	/ˈɚθən ˌwεər, -ðən-/
-earthly	/ˈɚθli/
-earthquake	/ˈɚθˌkweɪk/
-earthworm	/ˈɚθˌwɚm/
-earthy	/ˈɚθi/
+earth	/ˈɝθ/
+earthenware	/ˈɝθənˌwεər, ˈɝðənˌwεər/
+earthly	/ˈɝθli/
+earthquake	/ˈɝθˌkweɪk/
+earthworm	/ˈɝθˌwɝm/
+earthy	/ˈɝθi/
 ease	/ˈiːz/
 easel	/ˈiːzəl/
 easily	/ˈiːzəli/
@@ -3935,9 +3935,9 @@ embroider	/ɪmˈbrɔɪdɚ, εm-/
 embroidery	/ɪmˈbrɔɪdɚi, εm-/
 embryo	/ˈεmbriˌoː/
 emerald	/ˈεmrəld, ˈεmə-/
-emerge	/iˈmɚdƷ/
-emergence	/iˈmɚdƷəns/
-emergency	/iˈmɚdƷənsi/
+emerge	/iˈmɝdƷ/
+emergence	/iˈmɝdƷəns/
+emergency	/iˈmɝdƷənsi/
 emery	/ˈεmɚi/
 emigrant	/ˈεmɪgrənt/
 emigrate	/ˈεməˌgreɪt/
@@ -3971,14 +3971,14 @@ encase	/ɪnˈkeɪs, εn-/
 enchant	/ɪnˈtʃænt, εn-/
 enchanting	/ɪnˈtʃæntɪŋ, εn-/
 enchantment	/ɪnˈtʃæntmənt, εn-/
-encircle	/ɪnˈsɚkəl, εn-/
+encircle	/ɪnˈsɝkəl, εn-/
 enclose	/ɪnˈkloːz, εn-/
 enclosure	/ɪnˈkloːƷɚ, εn-/
 encompass	/ɪnˈkʌmpəs, εn-, -ˈkɑm-/
 encore	/ˈɑnˌkor/
 encounter	/ɪnˈkaʊntɚ, εn-/
-encourage	/ɪnˈkɚɪdƷ, εn-/
-encouragement	/ɪnˈkɚɪdƷmənt, εn-/
+encourage	/ɪnˈkɝɪdƷ, εn-/
+encouragement	/ɪnˈkɝɪdƷmənt, εn-/
 encroach	/ɪnˈkroːtʃ, εn-/
 encyclopedia	/ɪnˌsaɪkləˈpiːdiə, εn-/
 end	/ˈεnd/
@@ -4057,7 +4057,7 @@ entrance 1	/ɪnˈtræns, εn-/
 entrance 2	/ˈεntrəns/
 entrant	/ˈεntrənt/
 entreat	/ɪnˈtriːt, εn-/
-entrepreneur	/ˌɑntrəprəˈnɚ, -ˈnjʊr/
+entrepreneur	/ˌɑntrəprəˈnɝ, -ˈnjʊr/
 entrust	/ɪnˈtrʌst, εn-/
 entry	/ˈεntri/
 entree	/ˈɑnˌtreɪ, ˌɑnˈ-/
@@ -4105,7 +4105,7 @@ erection	/ɪˈrεkʃən/
 erode	/ɪˈroːd/
 erosion	/ɪˈroːƷən/
 erotic	/ɪˈrɑt̬ɪk/
-err	/ˈεr, ˈɚ/
+err	/ˈεr, ˈɝ/
 errand	/ˈεrənd/
 erratic	/ɪˈræt̬ɪk/
 error	/ˈεrɚ/
@@ -4135,8 +4135,8 @@ estimate	/ˈεstəˌmeɪt/
 ~	/ˈεstəmət/
 estimation	/ˌεstəˈmeɪʃən/
 estuary	/ˈεstʃʊˌwεri/
-eternal	/ɪˈtɚnəl, iː-/
-eternity	/ɪˈtɚnət̬i, iː-/
+eternal	/ɪˈtɝnəl, iː-/
+eternity	/ɪˈtɝnət̬i, iː-/
 ether	/ˈiːθɚ/
 ethical	/ˈεθɪkəl/
 ethics	/ˈεθɪks/
@@ -4201,7 +4201,7 @@ excellent	/ˈεksələnt/
 except	/ɪkˈsεpt/
 exception	/ɪkˈsεpʃən/
 exceptional	/ɪkˈsεpʃənəl/
-excerpt	/ˈεkˌsɚpt, ˈεgˌzɚpt/
+excerpt	/ˈεkˌsɝpt, ˈεgˌzɝpt/
 excess	/ɪkˈsεs, ˈεkˌsεs/
 ~	/ˈεkˌsεs, ɪkˈsεs/
 excessive	/ɪkˈsεsɪv, εk-/
@@ -4218,7 +4218,7 @@ exclusion	/ɪksˈkluːƷən, εks-/
 exclusive	/ɪksˈkluːsɪv, εks-/
 excrement	/ˈεkskrəmənt/
 excruciating	/ɪkˈskruːʃiˌeɪt̬ɪŋ, εk-/
-excursion	/ɪkˈskɚƷən, εk-/
+excursion	/ɪkˈskɝƷən, εk-/
 excuse	/ɪkˈskjuːz, εk-/
 ~	/ɪkˈskjuːs, εk-/
 execute	/ˈεksɪˌkjuːt/
@@ -4230,8 +4230,8 @@ exemplary	/ɪgˈzεmplɚi, εg-/
 exempt	/ɪgˈzεmpt, εg-/
 exemption	/ɪgˈzεmpʃən, εg-/
 exercise	/ˈεksɚˌsaɪz/
-exert	/ɪgˈzɚt, εg-/
-exertion	/ɪgˈzɚʃən, εg-/
+exert	/ɪgˈzɝt, εg-/
+exertion	/ɪgˈzɝʃən, εg-/
 exhale	/εksˈheɪl/
 exhaust	/ɪgˈzɔst, εg-/
 exhaustion	/ɪgˈzɔstʃən, εg-/
@@ -4268,7 +4268,7 @@ experience	/ɪkˈspɪriəns, εk-/
 experienced	/ɪkˈspɪriənst, εk-/
 experiment	/ɪkˈspεrəmənt, εk-, -ˈspɪr-/
 experimental	/ɪkˌspεrəˈmεntəl, εk-, -ˌspɪr-/
-expert	/ˈεkˌspɚt, ɪkˈspɚt/
+expert	/ˈεkˌspɝt, ɪkˈspɝt/
 expertise	/ˌεkspɚˈtiːz/
 expire	/ɪkˈspaɪr, εk-/
 expiration	/ˌεkspəˈreɪʃən/
@@ -4303,10 +4303,10 @@ extensive	/ɪkˈstεnsɪv, εk-/
 extent	/ɪkˈstεnt, εk-/
 extenuating	/ɪkˈstεnjəˌweɪt̬ɪŋ, εk-/
 exterior	/εkˈstɪriɚ/
-exterminate	/ɪkˈstɚməˌneɪt, εk-/
-extermination	/ɪkˌstɚməˈneɪʃən, εk-/
-external	/ɪkˈstɚnəl, εk-/
-externally	/ɪkˈstɚnəli, εk-/
+exterminate	/ɪkˈstɝməˌneɪt, εk-/
+extermination	/ɪkˌstɝməˈneɪʃən, εk-/
+external	/ɪkˈstɝnəl, εk-/
+externally	/ɪkˈstɝnəli, εk-/
 extinct	/ɪkˈstɪŋkt, εk-/
 extinction	/ɪkˈstɪŋkʃən, εk-/
 extinguish	/ɪkˈstɪŋgwɪʃ, εk-/
@@ -4328,8 +4328,8 @@ extreme	/ɪkˈstriːm, εk-/
 extremely	/ɪkˈstriːmli, εk-/
 extremity	/ɪkˈstrεmət̬i, εk-/
 extricate	/ˈεkstrəˌkeɪt/
-extrovert	/ˈεkstrəˌvɚt/
-extroverted	/ˈεkstrəˌvɚt̬əd/
+extrovert	/ˈεkstrəˌvɝt/
+extroverted	/ˈεkstrəˌvɝt̬əd/
 exuberant	/ɪgˈzuːbɚənt, εg-/
 exuberance	/ɪgˈzuːbɚəns, εg-/
 exult	/ɪgˈzʌlt, εg-/
