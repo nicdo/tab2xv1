@@ -7067,7 +7067,7 @@ lateral	/ˈlæt̬ɚəl/
 latest	/ˈleɪtəst/
 lathe	/ˈleɪð/
 lather	/ˈlæðɚ/
-Latin–American	/ˈlætənəˈmεrikən/
+Latin–American	/ˈlætənəˈmεrɪkən/
 latitude	/ˈlæt̬əˌtuːd, -ˌtjuːd/
 latter	/ˈlæt̬ɚ/
 lattice	/ˈlæt̬əs/
@@ -9558,35 +9558,36 @@ pray	/ˈpreɪ/
 prayer	/ˈprεər/
 preach	/ˈpriːtʃ/
 preacher	/ˈpriːtʃɚ/
-precarious	/priˈkεəriəs/
-precaution	/priˈkɔʃən/
-precede	/priˈsiːd/
+precarious	/prɪˈkεəriəs/
+precaution	/prɪˈkɔʃən/
+precede	/prɪˈsiːd/
 precedence	/ˈprεsədəns, prɪˈsiːdəns/
 precedent	/ˈprεsədənt/
 precinct	/ˈpriːˌsɪŋkt/
 precious	/ˈprεʃəs/
 precipice	/ˈprεsəpəs/
-precipitate	/priˈsɪpəˌteɪt/
-precipitation	/priˌsɪpəˈteɪʃən/
-precise	/priˈsaɪs/
-precision	/priˈsɪƷən/
-preclude	/priˈkluːd/
-precocious	/priˈkoːʃəs/
+precipitate	(v., n.) /prɪˈsɪpəˌteɪt/
+precipitate (adj.) /prɪˈsɪpətɪt/
+precipitation	/prɪˌsɪpəˈteɪʃən/
+precise	/prɪˈsaɪs/
+precision	/prɪˈsɪƷən/
+preclude	/prɪˈkluːd/
+precocious	/prɪˈkoːʃəs/
 preconceived	/ˌpriːkənˈsiːv/
 predator	/ˈprεdət̬ɚ/
 predecessor	/ˈprεdəˌsεsɚ, ˈpriː-/
-predicament	/priˈdɪkəmənt/
-predict	/priˈdɪkt/
-predictable	/priˈdɪktəbəl/
-prediction	/priˈdɪkʃən/
+predicament	/prɪˈdɪkəmənt/
+predict	/prɪˈdɪkt/
+predictable	/prɪˈdɪktəbəl/
+prediction	/prɪˈdɪkʃən/
 predispose	/ˌpriːdɪˈspoːz/
-predominant	/priˈdɑmənənt/
+predominant	/prɪˈdɑmənənt/
 preeminent	/priˈεmənənt/
 preempt	/priˈεmpt/
 preen	/ˈpriːn/
 prefabricated	/ˌpriːˈfæbrəˌkeɪt̬əd/
 preface	/ˈprεfəs/
-prefer	/priˈfɚ/
+prefer	/prɪˈfɚ/
 preferable	/ˈprεfɚəbəl/
 preference	/ˈprεfrəns, ˈprεfɚ-/
 preferential	/ˌprεfəˈrεnʃəl/
@@ -9597,35 +9598,35 @@ prehistoric	/ˌpriːhɪsˈtɔrɪk/
 prehistorical	/-ɪkəl/
 prejudice	/ˈprεdƷədəs/
 prejudiced	/ˈprεdƷədəst/
-preliminary	/priˈlɪməˌnεri/
+preliminary	/prɪˈlɪməˌnεri/
 prelude	/ˈprεˌluːd, ˈprεlˌjuːd; ˈpreɪˌluːd, ˈpriː-/
 premarital	/ˌpriːˈmærət̬əl/
 premature	/ˌpriːməˈtʊr, -ˈtjʊr, -ˈtʃʊr/
 premeditated	/priˈmεdəˌteɪt̬əd/
-premier	/priˈmɪr, -ˈmjɪr; ˈpriːmiɚ/
+premier	/prɪˈmɪr, -ˈmjɪr; ˈpriːmiɚ/
 premiere	/prɪˈmjɪər, -ˈmɪr/
 premise	/ˈprεmɪs/
 premium	/ˈpriːmiəm/
 preoccupied	/priˈɑkjəˌpaɪd/
-prepare	/priˈpεər/
+prepare	/prɪˈpεər/
 preparation	/ˌprεpəˈreɪʃən/
-preparatory	/priˈpærəˌtori/
+preparatory	/prɪˈpærəˌtori/
 prepay	/ˌpriːˈpeɪ/
 preposition	/ˌprεpəˈzɪʃən/
-preposterous	/priˈpɑstɚəs/
+preposterous	/prɪˈpɑstɚəs/
 prerequisite	/priˈrεkwəzət/
-prerogative	/priˈrɑgət̬ɪv/
-prescribe	/priˈskraɪb/
-prescription	/priˈskrɪpʃən/
+prerogative	/prɪˈrɑgət̬ɪv/
+prescribe	/prɪˈskraɪb/
+prescription	/prɪˈskrɪpʃən/
 presence	/ˈprεzəns/
 present 1	/ˈprεzənt/
 present 2	/ˈprεzənt/
-~	/priˈzεnt/
+~	/prɪˈzεnt/
 presentation	/ˌpriːˌzεnˈteɪʃən, ˌprεzən-/
 presently	/ˈprεzəntli/
-preserve	/priˈzɚv/
+preserve	/prɪˈzɚv/
 preservation	/ˌprεzɚˈveɪʃən/
-preservative	/priˈzɚvə-t̬ɪv/
+preservative	/prɪˈzɚvə-t̬ɪv/
 president	/ˈprεzədənt/
 presidency	/ˈprεzədənsi/
 presidential	/ˌprεzəˈdεnʃəl/
@@ -9634,21 +9635,21 @@ pressing	/ˈprεsɪŋ/
 pressure	/ˈprεʃɚ/
 prestige	/prεˈstiːƷ, -ˈstiːdƷ/
 prestigious	/prεˈstɪdƷəs/
-presume	/priˈzuːm/
-presumably	/priˈzuːməbli/
-presumption	/priˈzʌmpʃən/
-presumptuous	/priˈzʌmptʃʊəs/
-pretend	/priˈtεnd/
-pretence	/ˈpriːˌtεns, priˈtεns/
-pretentious	/priˈtεnʃəs/
+presume	/prɪˈzuːm/
+presumably	/prɪˈzuːməbli/
+presumption	/prɪˈzʌmpʃən/
+presumptuous	/prɪˈzʌmptʃʊəs/
+pretend	/prɪˈtεnd/
+pretence	/ˈpriːˌtεns, prɪˈtεns/
+pretentious	/prɪˈtεnʃəs/
 pretext	/ˈpriːˌtεkst/
 pretty	/ˈprɪt̬i/
 pretzel	/ˈprεtsəl/
-prevail	/priˈveɪl/
+prevail	/prɪˈveɪl/
 prevalent	/ˈprεvələnt/
-prevent	/priˈvεnt/
-prevention	/priˈvεnʃən/
-preventive	/priˈvεntɪv/
+prevent	/prɪˈvεnt/
+prevention	/prɪˈvεnʃən/
+preventive	/prɪˈvεntɪv/
 preview	/ˈpriːˌvju/
 previous	/ˈpriːviəs/
 previously	/ˈpriːviəsli/
