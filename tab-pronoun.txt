@@ -2310,7 +2310,7 @@ companionship	/kəmˈpænjənˌʃɪp/
 company	/ˈkʌmpəni/
 compare	/kəmˈpεər/
 comparable	/ˈkɑmpɚəbəl/
-comparative	/kəmˈpærət̬iv/
+comparative	/kəmˈpærət̬ɪv/
 comparison	/kəmˈpærəsən/
 compartment	/kəmˈpɑrtmənt/
 compass	/ˈkʌmpəs, ˈkɑm-/
@@ -2475,7 +2475,7 @@ conscious	/ˈkɑnʃəs/
 consciousness	/ˈkɑnʃəsnəs/
 consecrate	/ˈkɑnsəˌkreɪt/
 consecration	/ˌkɑnsəˈkreɪʃən/
-consecutive	/kənˈsεkjət̬iv/
+consecutive	/kənˈsεkjət̬ɪv/
 consensus	/kənˈsεnsəs/
 consent	/kənˈsεnt/
 consequence	/ˈkɑnsəˌkwεns, -kwəns/
@@ -2483,7 +2483,7 @@ consequent	/ˈkɑnsəkwənt, -ˌkwεnt/
 consequently	/ˈkɑnsəkwəntli, -ˌkwεnt-/
 conserve	/kənˈsɝv/
 conservation	/ˌkɑnsɚˈveɪʃən/
-conservative	/kənˈsɝvət̬iv/
+conservative	/kənˈsɝvət̬ɪv/
 conservatory	/kənˈsɝvəˌtori/
 consider	/kənˈsɪdɚ/
 considerable	/kənˈsɪdɚəbəl/
@@ -2621,7 +2621,7 @@ coolness	/ˈkuːlnəs/
 coop	/ˈkuːp, ˈkʊp/
 cooperate	/koˈɑpəˌreɪt/
 cooperation	/koˌɑpəˈreɪʃən/
-cooperative	/koˈɑpɚət̬iv, -ˈɑpəˌreɪt̬iv/
+cooperative	/koˈɑpɚət̬ɪv, koˈɑpəˌreɪt̬ɪv/
 coordinate	/koˈɔrdənˌeɪt/
 coordination	/koˌɔrdənˈeɪʃən/
 cop	/ˈkɑp/
@@ -2881,7 +2881,7 @@ culture	/ˈkʌltʃɚ/
 cultural	/ˈkʌltʃɚəl/
 cultured	/ˈkʌltʃɚd/
 cumbersome	/ˈkʌmbɚsəm/
-cumulative	/ˈkjuːmjələt̬iv, -ˌleɪt̬ɪv/
+cumulative	/ˈkjuːmjələt̬ɪv, -ˌleɪt̬ɪv/
 cunning	/ˈkʌnɪŋ/
 cup	/ˈkʌp/
 cupboard	/ˈkʌbɚd/
@@ -3247,36 +3247,36 @@ deter	/dɪˈtɝ/
 detergent	/dɪˈtɝdƷənt/
 deteriorate	/diˈtɪriəˌreɪt/
 deterioration	/diˌtɪriəˈreɪʃən/
-determine	/diˈtɚmən/
-determined	/diˈtɚmənd/
+determine	/dɪˈtɚmən/
+determined	/dɪˈtɚmənd/
 determination	/dɪˌtɚməˈneɪʃən/
-deterrent	/diˈtɚənt/
-detest	/diˈtεst/
-detestable	/diˈtεstəbəl/
+deterrent	/dɪˈtɚənt/
+detest	/dɪˈtεst/
+detestable	/dɪˈtεstəbəl/
 detonate	/ˈdεtənˌeɪt/
 detonation	/ˌdεtəˈneɪʃən, ˈdεtəˌ -/
 detour	/ˈdiːˌtʊr, diˈtʊr/
-detract	/diˈtrækt/
+detract	/dɪˈtrækt/
 detrimental	/ˌdεtrəˈmεntəl/
 devalue	/diˈvælˌjuː/
 devastate	/ˈdεvəˌsteɪt/
 devastation	/ˌdεvəˈsteɪʃən/
-develop	/diˈvεləp/
-development	/diˈvεləpmənt/
+develop	/dɪˈvεləp/
+development	/dɪˈvεləpmənt/
 deviate	/ˈdiːviˌeɪt/
 deviation	/ˌdiːviˈeɪʃən/
-device	/diˈvaɪs/
+device	/dɪˈvaɪs/
 devil	/ˈdεvəl/
 devilish	/ˈdεvəlɪʃ/
 devious	/ˈdiːviəs/
-devise	/diˈvaɪz/
-devoid	/diˈvɔɪd/
-devote	/diˈvoːt/
-devoted	/diˈvoːt̬əd/
+devise	/dɪˈvaɪz/
+devoid	/dɪˈvɔɪd/
+devote	/dɪˈvoːt/
+devoted	/dɪˈvoːt̬əd/
 devotee	/ˌdεvəˈtiː, -ˈteɪ/
-devotion	/diˈvoːʃən/
-devour	/diˈvaʊɚ/
-devout	/diˈvaʊt/
+devotion	/dɪˈvoːʃən/
+devour	/dɪˈvaʊɚ/
+devout	/dɪˈvaʊt/
 dew	/ˈduː, ˈdjuː/
 dexterity	/dεkˈstεrət̬i/
 diabetes	/ˌdaɪəˈbiːt̬iz/
@@ -3859,26 +3859,26 @@ eject	/iˈdƷεkt/
 eke	/ˈiːk/
 elaborate	/iˈlæbɚət/
 ~	/iˈlæbəˌreɪt/
-elapse	/iˈlæps/
-elastic	/iˈlæstɪk/
-elasticity	/iˌlæsˈtɪsət̬i, ˌiːˌlæs-/
+elapse	/ɪˈlæps/
+elastic	/ɪˈlæstɪk/
+elasticity	/ɪˌlæsˈtɪsət̬i, ˌiːˌlæs-/
 elated	/iˈleɪt̬əd/
 elbow	/ˈεlˌboː/
 elder	/ˈεldɚ/
 elderly	/ˈεldɚli/
-elect	/iˈlεkt/
-election	/iˈlεkʃən/
-electoral	/iˈlεktɚəl/
-electorate	/iˈlεktɚət/
-electricity	/iˌlεkˈtrɪsət̬i/
-electric	/iˈlεktrɪk/
+elect	/ɪˈlεkt/
+election	/ɪˈlεkʃən/
+electoral	/ɪˈlεktɚəl/
+electorate	/ɪˈlεktɚət/
+electricity	/ɪˌlεkˈtrɪsət̬i/
+electric	/ɪˈlεktrɪk/
 electrical	/-trɪkəl/
-electrician	/iˌlεkˈtrɪʃən/
-electrify	/iˈlεktrəˌfaɪ/
-electrocute	/iˈlεktrəˌkjuːt/
-electron	/iˈlεkˌtrɑn/
-electronic	/iˌlεkˈtrɑnɪk/
-electronics	/iˌlεkˈtrɑnɪks/
+electrician	/ɪˌlεkˈtrɪʃən/
+electrify	/ɪˈlεktrəˌfaɪ/
+electrocute	/ɪˈlεktrəˌkjuːt/
+electron	/ɪˈlεkˌtrɑn/
+electronic	/ɪˌlεkˈtrɑnɪk/
+electronics	/ɪˌlεkˈtrɑnɪks/
 elegant	/ˈεlɪgənt/
 elegance	/ˈεlɪgəns/
 element	/ˈεləmənt/
@@ -3899,7 +3899,7 @@ elk	/ˈεlk/
 elliptical	/ɪˈlɪptɪkəl, ε-/
 elliptic	/-tɪk/
 elm	/ˈεlm/
-elongate	/iˈlɔŋˌgeɪt/
+elongate	/ɪˈlɔŋˌgeɪt/
 elope	/iˈloːp/
 elopement	/iˈloːpmənt/
 eloquence	/ˈεləkwəns/
@@ -3910,8 +3910,8 @@ elude	/iˈluːd/
 elusive	/iˈluːsɪv/
 emaciated	/iˈmeɪʃiˌeɪt̬əd/
 emanate	/ˈεməˌneɪt/
-emancipate	/iˈmænsəˌpeɪt/
-emancipation	/iˌmænsəˈpeɪʃən/
+emancipate	/ɪˈmænsəˌpeɪt/
+emancipation	/ɪˌmænsəˈpeɪʃən/
 embalm	/ɪmˈbɑm, εm-, -ˈbɑlm/
 embankment	/ɪmˈbæŋkmənt, εm-/
 embargo	/ɪmˈbɑrgo, εm-/
@@ -3946,8 +3946,8 @@ eminence	/ˈεmənəns/
 eminent	/ˈεmənənt/
 emission	/iˈmɪʃən/
 emit	/iˈmɪt/
-emotion	/iˈmoːʃən/
-emotional	/iˈmoːʃənəl/
+emotion	/ɪˈmoːʃən/
+emotional	/ɪˈmoːʃənəl/
 emperor	/ˈεmpɚɚ/
 emphasis	/ˈεmfəsɪs/
 emphases	/-ˌsiːz/
@@ -4169,15 +4169,15 @@ every	/ˈεvri/
 everybody	/ˈεvriˌbʌdi, -ˌbɑ-/
 everyday	/ˌεvriˈdeɪ, ˈεvriˌ-/
 everyone	/ˈεvriˌwʌn/
-everything	/ˈεvri ˌθɪŋ/
-everywhere	/ˈεvri ˌhwεər/
+everything	/ˈεvriˌθɪŋ/
+everywhere	/ˈεvriˌhwεər/
 evict	/ɪˈvɪkt/
 eviction	/ɪˈvɪkʃən/
 evidence	/ˈεvədəns/
-evident	/ˈεvidənt/
-evidently	/ˈεvidəntli, ˌεviˈdεntli/
+evident	/ˈεvɪdənt/
+evidently	/ˈεvɪdəntli, ˌεvɪˈdεntli/
 evil	/ˈiːvəl, -vɪl/
-evoke	/iˈvoːk/
+evoke	/ɪˈvoːk/
 evolution	/ˌεvəˈluːʃən, ˌiː-/
 evolve	/iˈvɑlv/
 exact	/ɪgˈzækt, εg-/
@@ -4958,9 +4958,9 @@ friendly	/ˈfrεndli/
 friendship	/frεndˌʃɪp/
 frigate	/ˈfrɪgət/
 fright	/ˈfraɪt/
-frighten	/ˈfraitən/
-frightened	/ˈfraitənd/
-frightening	/ˈfraitənɪŋ/
+frighten	/ˈfraɪtən/
+frightened	/ˈfraɪtənd/
+frightening	/ˈfraɪtənɪŋ/
 frightful	/ˈfraɪtfəl/
 frigid	/ˈfrɪdƷɪd/
 frill	/ˈfrɪl/
@@ -5460,7 +5460,7 @@ guild	/ˈgɪld/
 guile	/ˈgaɪl/
 guilt	/ˈgɪlt/
 guilty	/ˈgɪlti/
-pig	/ˈgɪni-/
+guinea pig	/ˈgɪni-/
 guise	/ˈgaɪz/
 guitar	/gəˈtɑr, gɪ-/
 gulf	/ˈgʌlf/
@@ -5625,9 +5625,9 @@ haul	/ˈhɔl/
 haunch	/ˈhɔntʃ/
 haunt	/ˈhɔnt/
 haunted	/ˈhɔntəd/
-have	/ˈhæv, in sense 3 as an auxiliary verb usu ˈhæf/
+have	/ˈhæv/, as an auxiliary verb usu /ˈhæf/
 had	/ˈhæd/
-having; has	/ˈhæz, in sense 3 as an auxiliary verb usu ˈhæs/
+having; has	/ˈhæz/, as an auxiliary verb usu /ˈhæs/
 haven	/ˈheɪvən/
 havoc	/ˈhævək/
 hawk 1	/ˈhɔk/
@@ -7836,7 +7836,7 @@ midsummer	/ˈmɪdˈsʌmɚ, -ˌsʌ-/
 midway	/ˈmɪdˌweɪ/
 midwife	/ˈmɪdˌwaɪf/
 wives	/-ˌwaɪvz/
-midwinter	/ˈmɪdˈwɪntɚ, -ˌwin-/
+midwinter	/ˈmɪdˈwɪntɚ, -ˌwɪn-/
 miff	/ˈmɪf/
 might 1	/ˈmaɪt/
 mighty	/ˈmaɪt̬i/
@@ -10148,23 +10148,23 @@ recall	/riˈkɔl/
 recant	/riˈkænt/
 recapitulate	/ˌriːkəˈpɪtʃəˌleɪt/
 recapture	/ˌriːˈkæptʃɚ/
-recede	/riˈsiːd/
-receipt	/riˈsiːt/
-receive	/riˈsiːv/
-receiver	/riˈsiːvɚ/
+recede	/rɪˈsiːd/
+receipt	/rɪˈsiːt/
+receive	/rɪˈsiːv/
+receiver	/rɪˈsiːvɚ/
 recent	/ˈriːsənt/
 recently	/-li/
-receptacle	/riˈsεptɪkəl/
-reception	/riˈsεpʃən/
-receptionist	/riˈsεpʃənɪst/
+receptacle	/rɪˈsεptɪkəl/
+reception	/rɪˈsεpʃən/
+receptionist	/rɪˈsεpʃənɪst/
 receptive	/riˈsεptɪv/
 recess	/ˈriːˌsεs, rɪˈsεs/
 recession	/riˈsεʃən/
 recharge	/ˌriːˈtʃɑrdƷ/
 rechargeable	/ˌriːˈtʃɑrdƷəbəl/
 recipe	/ˈrεsəˌpiː/
-recipient	/riˈsɪpiənt/
-reciprocal	/riˈsɪprəkəl/
+recipient	/rɪˈsɪpiənt/
+reciprocal	/rɪˈsɪprəkəl/
 recite	/riˈsaɪt/
 recital	/riˈsaɪt̬əl/
 reckless	/ˈrεkləs/
