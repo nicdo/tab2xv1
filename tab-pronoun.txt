@@ -4414,8 +4414,8 @@ fantasize	/ˈfæntəˌsaɪz/
 fantastic	/fænˈtæstɪk/
 far	/ˈfɑr/
 farther	/ˈfɑrðɚ/
-further	/ˈfɚ-/
-furthest	/-ðəst/
+further	/ˈfɝðɚ/
+furthest	/ˈfɝðəst/
 faraway	/ˈfɑrəˌweɪ/
 farce	/ˈfɑrs/
 fare	/ˈfεər/
@@ -4501,19 +4501,19 @@ fend	/ˈfεnd/
 fender	/ˈfεndɚ/
 fennel	/ˈfεnəl/
 ferment	/fɚˈmεnt/
-fermentation	/ˌfɚmənˈteɪʃən, -ˌmεn-/
-fern	/ˈfɚn/
+fermentation	/ˌfɝmənˈteɪʃən, -ˌmεn-/
+fern	/ˈfɝn/
 ferocious	/fəˈroːʃəs/
 ferocity	/fəˈrɑsət̬i/
 ferret	/ˈfεrət/
 Ferris wheel	/ˈfεrɪs wiːl/
 ferry	/ˈfεri/
-fertile	/ˈfɚt̬əl/
+fertile	/ˈfɝt̬əl/
 fertility	/fɚˈtɪlət̬i/
-fertilize	/ˈfɚt̬əlˌaɪz/
-fertilizer	/ˈfɚt̬əlˌaɪzɚ/
-fervent	/ˈfɚvənt/
-fervor	/ˈfɚvɚ/
+fertilize	/ˈfɝt̬əlˌaɪz/
+fertilizer	/ˈfɝt̬əlˌaɪzɚ/
+fervent	/ˈfɝvənt/
+fervor	/ˈfɝvɚ/
 fester	/ˈfεstɚ/
 festival	/ˈfεstəvəl/
 festive	/ˈfεstɪv/
@@ -4595,7 +4595,7 @@ fingertip	/ˈfɪŋgɚˌtɪp/
 finicky	/ˈfɪnɪki/
 finish	/ˈfɪnɪʃ/
 finite	/ˈfaɪˌnaɪt/
-fir	/ˈfɚ/
+fir	/ˈfɝ/
 fire	/ˈfaɪr/
 firearm	/ˈfaɪrˌɑrm/
 firecracker	/ˈfaɪrˌkrækɚ/
@@ -4607,15 +4607,15 @@ fireplace	/ˈfaɪrˌpleɪs/
 fireproof	/ˈfaɪrˌpruːf/
 fireside	/ˈfaɪrˌsaɪd/
 firewood	/ˈfaɪrˌwʊd/
-fireworks	/ˈfaɪrˌwɚk/
-firm 1	/ˈfɚm/
-firmly	/ˈfɚmli/
-firmness	/ˈfɚmnəs/
-first	/ˈfɚst/
-first–class	/ˈfɚstˈklæs/
-firsthand	/ˈfɚstˈhænd/
-firstly	/ˈfɚstli/
-first–rate	/ˈfɚstˈreɪt/
+fireworks	/ˈfaɪrˌwɝk/
+firm	/ˈfɝm/
+firmly	/ˈfɝmli/
+firmness	/ˈfɝmnəs/
+first	/ˈfɝst/
+first–class	/ˈfɝstˈklæs/
+firsthand	/ˈfɝstˈhænd/
+firstly	/ˈfɝstli/
+first–rate	/ˈfɝstˈreɪt/
 fiscal	/ˈfɪskəl/
 fish	/ˈfɪʃ/
 fisherman	/ˈfɪʃɚmən/
@@ -4695,8 +4695,8 @@ flint	/ˈflɪnt/
 flip	/ˈflɪp/
 flippant	/ˈflɪpənt/
 flipper	/ˈflɪpɚ/
-flirt	/ˈflɚt/
-flirtatious	/ˌflɚˈteɪʃəs/
+flirt	/ˈflɝt/
+flirtatious	/ˌflɝˈteɪʃəs/
 flit	/ˈflɪt/
 float	/ˈfloːt/
 flock	/ˈflɑk/
@@ -4714,8 +4714,8 @@ florist	/ˈflorɪst/
 floss	/ˈflɔs/
 flounder 1	/ˈflaʊndɚ/
 flour	/ˈflaʊɚ/
-flourish	/ˈflɚɪʃ/
-flourishing	/ˈflɚɪʃɪŋ/
+flourish	/ˈflɝɪʃ/
+flourishing	/ˈflɝɪʃɪŋ/
 flout	/ˈflaʊt/
 flow	/ˈfloː/
 flower	/ˈflaʊɚ/
@@ -4734,7 +4734,7 @@ fluid	/ˈfluːɪd/
 flunk	/ˈflʌŋk/
 fluorescence	/ˌflʊrˈεsəns, ˌflɔr-/
 fluorescent	/ˌflʊrˈεsənt, ˌflɔr-/
-flurry	/ˈflɚi/
+flurry	/ˈflɝi/
 flush	/ˈflʌʃ/
 fluster	/ˈflʌstɚ/
 flute	/ˈfluːt/
@@ -4903,13 +4903,13 @@ fragrant	/ˈfreɪgrənt/
 fragrance	/ˈfreɪgrəns/
 frail	/ˈfreɪl/
 frame	/ˈfreɪm/
-framework	/ˈfreɪmˌwɚk/
+framework	/ˈfreɪmˌwɝk/
 franc	/ˈfræŋk/
 frank	/ˈfræŋk/
 frankness	/ˈfræŋknəs/
 frantic	/ˈfræntɪk/
-fraternal	/frəˈtɚnəl/
-fraternity	/frəˈtɚnət̬i/
+fraternal	/frəˈtɝnəl/
+fraternity	/frəˈtɝnət̬i/
 fraternize	/ˈfræt̬ɚˌnaɪz/
 fraud	/ˈfrɔd/
 fraudulent	/ˈfrɔdƷələnt/
@@ -5019,18 +5019,18 @@ fungi	/ˈfʌnˌdƷaɪ, ˈfʌŋˌgaɪ/
 funnel	/ˈfʌnəl/
 funny	/ˈfʌni/
 funnies	/ˈfʌniz/
-fur	/ˈfɚ/
+fur	/ˈfɝ/
 furious	/ˈfjʊriəs/
-furnace	/ˈfɚnəs/
-furnish	/ˈfɚnɪʃ/
-furnishings	/ˈfɚnɪʃɪŋz/
-furniture	/ˈfɚnɪtʃɚ/
-furrow	/ˈfɚoː/
-furry	/ˈfɚi/
-further	/ˈfɚðɚ/
-furthermore	/ˈfɚðɚˌmor/
-furthest	/ˈfɚðəst/
-furtive	/ˈfɚt̬ɪv/
+furnace	/ˈfɝnəs/
+furnish	/ˈfɝnɪʃ/
+furnishings	/ˈfɝnɪʃɪŋz/
+furniture	/ˈfɝnɪtʃɚ/
+furrow	/ˈfɝoː/
+furry	/ˈfɝi/
+further	/ˈfɝðɚ/
+furthermore	/ˈfɝðɚˌmor/
+furthest	/ˈfɝðəst/
+furtive	/ˈfɝt̬ɪv/
 fury	/ˈfjʊri/
 fuze	/ˈfjuːz/
 fusion	/ˈfjuːƷən/
@@ -5159,9 +5159,9 @@ geometrical	/-trɪkəl/
 geranium	/dƷəˈreɪniəm/
 geriatric	/ˌdƷεriˈætrɪk/
 geriatrics	/ˌdƷεriˈætrɪks/
-germ	/ˈdƷɚm/
-German	/ˈdƷɚmən/
-germinate	/ˈdƷɚməˌneɪt/
+germ	/ˈdƷɝm/
+German	/ˈdƷɝmən/
+germinate	/ˈdƷɝməˌneɪt/
 gestation	/dƷεˈsteɪʃən/
 gesture	/ˈdƷεstʃɚ/
 get	/ˈgεt/
@@ -5194,11 +5194,11 @@ ginger	/ˈdƷɪndƷɚ/
 gingerbread	/ˈdƷɪndƷɚˌbrεd/
 gingerly	/ˈdƷɪndƷɚli/
 giraffe	/dƷəˈræf/
-girder	/ˈgɚdɚ/
-girdle	/ˈgɚdəl/
-girl	/ˈgɚl/
-girlfriend	/ˈgɚlˌfrεnd/
-girth	/ˈgɚθ/
+girder	/ˈgɝdɚ/
+girdle	/ˈgɝdəl/
+girl	/ˈgɝl/
+girlfriend	/ˈgɝlˌfrεnd/
+girth	/ˈgɝθ/
 gist	/ˈdƷɪst/
 give	/ˈgɪv/
 gave	/ˈgeɪv/
@@ -5425,7 +5425,7 @@ grouchy	/ˈgraʊtʃi/
 ground 1	/ˈgraʊnd/
 groundhog	/ˈgraʊndˌhɔg/
 groundless	/ˈgraʊndləs/
-groundwork	/ˈgraʊndˌwɚk/
+groundwork	/ˈgraʊndˌwɝk/
 group	/ˈgruːp/
 grove	/ˈgroːv/
 grovel	/ˈgrɑvəl, ˈgrʌ-/
@@ -5478,7 +5478,7 @@ gunman	/ˈgʌnmən/
 gunmen	/-mən, -ˌmεn/
 gunpowder	/ˈgʌnˌpaʊdɚ/
 gunshot	/ˈgʌnˌʃɑt/
-gurgle	/ˈgɚgəl/
+gurgle	/ˈgɝgəl/
 gush	/ˈgʌʃ/
 gust	/ˈgʌst/
 gusto	/ˈgʌsˌtoː/
@@ -5537,8 +5537,8 @@ halo	/ˈheɪˌloː/
 halt	/ˈhɔlt/
 halve	/ˈhæv, ˈhav/
 ham	/ˈhæm/
-hamburger	/ˈhæmˌbɚgɚ/
-hamburg	/-ˌbɚg/
+hamburger	/ˈhæmˌbɝgɚ/
+hamburg	/ˈhæmˌbɝg/
 hammer	/ˈhæmɚ/
 hammock	/ˈhæmək/
 hamper 1	/ˈhæmpɚ/
@@ -5552,7 +5552,7 @@ handgun	/ˈhændˌgʌn/
 handicap	/ˈhændiˌkæp/
 handicapped	/ˈhændiˌkæpt/
 handicrafts	/ˈhændiˌkræfts/
-handiwork	/ˈhændiˌwɚk/
+handiwork	/ˈhændiˌwɝk/
 handkerchief	/ˈhæŋkɚtʃəf, -ˌtʃiːf/
 handle	/ˈhændəl/
 handlebars	/ˈhændəlˌbɑrz/
@@ -5591,7 +5591,7 @@ hardly	/ˈhɑrdli/
 hardness	/ˈhɑrdnəs/
 hardship	/ˈhɑrdˌʃɪp/
 hardware	/ˈhɑrdˌwεər/
-hardworking	/ˈhɑrdˈwɚkɪŋ/
+hardworking	/ˈhɑrdˈwɝkɪŋ/
 hardy	/ˈhɑrdi/
 hare	/ˈhεər/
 harm	/ˈhɑrm/
@@ -5648,7 +5648,7 @@ head	/ˈhεd/
 headache	/ˈhεdˌeɪk/
 headband	/ˈhεdˌbænd/
 headdress	/ˈhεdˌdrεs/
-headfirst	/ˈhεdˈfɚst/
+headfirst	/ˈhεdˈfɝst/
 heading	/ˈhεdɪŋ/
 headland	/ˈhεdlənd, -ˌlænd/
 headlight	/ˈhεdˌlaɪt/
@@ -5668,16 +5668,16 @@ health	/ˈhεlθ/
 healthy	/ˈhεlθi/
 heap	/ˈhiːp/
 hear	/ˈhɪr/
-heard	/ˈhɚd/
+heard	/ˈhɝd/
 hearing	/ˈhɪrɪŋ/
 hearsay	/ˈhɪrˌseɪ/
-hearse	/ˈhɚs/
+hearse	/ˈhɝs/
 heart	/ˈhɑrt/
 heartache	/ˈhɑrt̬ˌeɪk/
 heartbeat	/ˈhɑrtˌbiːt/
 heartbreak	/ˈhɑrtˌbreɪk/
 heartbroken	/ˈhɑrtˌbroːkən/
-heartburn	/ˈhɑrtˌbɚn/
+heartburn	/ˈhɑrtˌbɝn/
 hearth	/ˈhɑrθ/
 heartily	/ˈhɑrt̬əli/
 heartless	/ˈhɑrtləs/
@@ -5733,11 +5733,11 @@ henceforth	/ˈhεnsˌforθ, ˌhεnsˈ-/
 henpeck	/ˈhεnˌpεk/
 hepatitis	/ˌhεpəˈtaɪt̬əs/
 titides	/-ˈtɪt̬əˌdiːz/
-her	/ˈhɚ/
-~	/ˈhɚ, ɚ/
+her	/ˈhɝ/
+~	/ˈhɝ, ɚ/
 herald	/ˈhεrəld/
-herb	/ˈɚb, ˈhɚb/
-herd	/ˈhɚd/
+herb	/ˈɝb, ˈhɝb/
+herd	/ˈhɝd/
 here	/ˈhɪr/
 hereabouts	/ˈhɪrəˌbaʊts/
 hereabout	/-ˌbaʊt/
@@ -5748,8 +5748,8 @@ heredity	/həˈrεdət̬i/
 heresy	/ˈhεrəsi/
 herewith	/hɪrˈwɪθ/
 heritage	/ˈhεrət̬ɪdƷ/
-hermit	/ˈhɚmət/
-hernia	/ˈhɚniə/
+hermit	/ˈhɝmət/
+hernia	/ˈhɝniə/
 herniae	/-niˌiː, -niˌaɪ/
 hero	/ˈhiːˌroː, ˈhɪrˌoː/
 heroic	/hɪˈroːɪk/
@@ -5757,8 +5757,8 @@ heroine	/ˈhεroən/
 heroism	/ˈhεroˌɪzəm/
 heron	/ˈhεrən/
 herring	/ˈhεrɪŋ/
-hers	/ˈhɚz/
-herself	/hɚˈsεlf/
+hers	/ˈhɝz/
+herself	/hɝˈsεlf, hɚˈsεlf/
 hesitant	/ˈhεzət̬ənt/
 hesitate	/ˈhεzəˌteɪt/
 hesitation	/ˌhεzəˈteɪʃən/
@@ -5854,7 +5854,7 @@ homemade	/ˈhoːmˈmeɪd/
 homemaker	/ˈhoːmˌmeɪkɚ/
 homesick	/ˈhoːmˌsɪk/
 homeward	/ˈhoːmwɚd/
-homework	/ˈhoːmˌwɚk/
+homework	/ˈhoːmˌwɝk/
 homey	/ˈhoːmi/
 homicide	/ˈhɑməˌsaɪd, ˈhoː-/
 homogeneous	/ˌhoːməˈdƷiːniəs, -njəs/
@@ -5895,8 +5895,8 @@ horrendous	/hɔˈrεndəs/
 horrible	/ˈhɔrəbəl/
 horrid	/ˈhɔrɪd/
 horrify	/ˈhɔrəˌfaɪ/
-d'oeuvre	/ɔrˈdɚv/
-hors d'oeuvres	/-ˈdɚvz/
+hors d'oeuvre	/ɔrˈdɝv/
+hors d'oeuvres	/-ˈdɝvz/
 horse	/ˈhɔrs/
 horseback	/ˈhɔrsˌbæk/
 horsefly	/ˈhɔrsˌflaɪ/
@@ -5939,7 +5939,7 @@ housekeeper	/ˈhaʊsˌkiːpɚ/
 housekeeping	/ˈhaʊsˌkiːpɪŋ/
 housewarming	/ˈhaʊsˌwɔrmɪŋ/
 housewife	/ˈhaʊsˌwaɪf/
-housework	/ˈhaʊsˌwɚk/
+housework	/ˈhaʊsˌwɝk/
 housing	/ˈhaʊzɪŋ/
 hovel	/ˈhʌvəl, ˈhɑ-/
 hover	/ˈhʌvɚ, ˈhɑ-/
@@ -5981,16 +5981,16 @@ hunk	/ˈhʌŋk/
 hunt	/ˈhʌnt/
 hunter	/ˈhʌntɚ/
 hunting	/ˈhʌntɪŋ/
-hurdle	/ˈhɚdəl/
-hurl	/ˈhɚl/
+hurdle	/ˈhɝdəl/
+hurl	/ˈhɝl/
 hurrah	/hʊˈrɑ, -ˈrɔ/
-hurricane	/ˈhɚəˌkeɪn/
-hurry	/ˈhɚi/
-hurried	/ˈhɚid/
-hurriedly	/ˈhɚədli/
-hurt	/ˈhɚt/
-hurtful	/ˈhɚtfəl/
-hurtle	/ˈhɚt̬əl/
+hurricane	/ˈhɝəˌkeɪn/
+hurry	/ˈhɝi/
+hurried	/ˈhɝid/
+hurriedly	/ˈhɝədli/
+hurt	/ˈhɝt/
+hurtful	/ˈhɝtfəl/
+hurtle	/ˈhɝt̬əl/
 husband	/ˈhʌzbənd/
 hush	/ˈhʌʃ/
 husk	/ˈhʌsk/
