@@ -356,7 +356,7 @@ alloy	/ˈæˌlɔɪ, əˈlɔɪ/
 allude	/əˈluːd/
 allure	/əˈlʊr/
 alluring	/əˈlʊrɪŋ/
-allusion	/əˈluːƷən/
+allusion	/əˈluːʒən/
 ally	/əˈlaɪ, ˈæˌlaɪ/
 ~	/ˈæˌlaɪ, əˈlaɪ/
 almanac	/ˈɔlməˌnæk, ˈæl-/
@@ -416,7 +416,7 @@ amidst	/əˈmɪdst/
 amiss	/əˈmɪs/
 ammonia	/əˈmoːnjə/
 ammunition	/ˌæmjəˈnɪʃən/
-amnesia	/æmˈniːƷə/
+amnesia	/æmˈniːʒə/
 amnesty	/ˈæmnəsti/
 among	/əˈmʌŋ/
 amorous	/ˈæmɚəs/
@@ -452,7 +452,7 @@ and	/ˈænd/
 anecdote	/ˈænɪkˌdoːt/
 anemia	/əˈniːmiə/
 anemic	/əˈniːmɪk/
-anesthesia	/ˌænəsˈθiːƷə/
+anesthesia	/ˌænəsˈθiːʒə/
 anesthetic	/ˌænəsˈθεt̬ɪk/
 anew	/əˈnuː, -ˈnjuː/
 angel	/ˈeɪndƷəl/
@@ -705,7 +705,7 @@ ash	/ˈæʃ/
 ashamed	/əˈʃeɪmd/
 ashore	/əˈʃor/
 ashtray	/ˈæʃˌtreɪ/
-Asian	/ˈeɪƷən, -ʃən/
+Asian	/ˈeɪʒən, ˈeɪʃən/
 aside	/əˈsaɪd/
 ask	/ˈæsk/
 askance	/əˈskæns/
@@ -809,7 +809,7 @@ audacious	/ɔˈdeɪʃəs/
 audacity	/ɔˈdæsət̬i/
 audible	/ˈɔdəbəl/
 audience	/ˈɔdiəns/
-audiovisual	/ˌɔdioˈvɪƷʊəl/
+audiovisual	/ˌɔdioˈvɪʒʊəl/
 audition	/ɔˈdɪʃən/
 auditor	/ˈɔdət̬ɚ/
 auditorium	/ˌɔdəˈtoriəm/
@@ -852,7 +852,7 @@ avenge	/əˈvεndƷ/
 avenue	/ˈævəˌnuː, ˈævəˌnjuː/
 average	/ˈævrɪdƷ, ˈævərɪdƷ/
 averse	/əˈvɝs/
-aversion	/əˈvɝƷən/
+aversion	/əˈvɝʒən/
 avert	/əˈvɝt/
 aviation	/ˌeɪviˈeɪʃən/
 aviator	/ˈeɪviˌeɪt̬ɚ/
@@ -985,7 +985,7 @@ barometer	/bəˈrɑmət̬ɚ/
 baron	/ˈbærən/
 baroness	/ˈbærənɪs, ˈbærənəs, ˈbærəˌnεs/
 barracks	/ˈbærəks/
-barrage	/bəˈrɑƷ, bəˈrɑdƷ/
+barrage	/bəˈrɑʒ, bəˈrɑdƷ/
 barrel	/ˈbærəl/
 barren	/ˈbærən/
 barricade	/ˈbærəˌkeɪd, ˌbærəˈkeɪd/
@@ -1096,7 +1096,7 @@ behave	/bɪˈheɪv/
 behavior	/bɪˈheɪvjɚ/
 behind	/bɪˈhaɪnd/
 behold	/bɪˈhoːld/
-beige	/ˈbeɪƷ/
+beige	/ˈbeɪʒ/
 being	/ˈbiːɪŋ/
 belated	/bɪˈleɪt̬əd/
 belch	/ˈbεltʃ/
@@ -1389,7 +1389,7 @@ bound 1	/ˈbaʊnd/
 boundary	/ˈbaʊndri, -dɚi/
 boundless	/ˈbaʊndləs/
 bouquet	/boːˈkeɪ, buː-/
-bourgeois	/ˈbʊrƷˌwɑ, bʊrƷˈwɑ/
+bourgeois	/ˈbʊrʒˌwɑ, bʊrʒˈwɑ/
 bout	/ˈbaʊt/
 bow 1	/ˈbaʊ/
 ~	/ˈbaʊː/
@@ -1673,7 +1673,7 @@ calmly	/ˈkɑmli, ˈkɑlm-/
 calorie	/ˈkælɚi/
 camel	/ˈkæməl/
 camera	/ˈkæmrə, ˈkæmɚə/
-camouflage	/ˈkæməˌflɑƷ, -ˌflɑdƷ/
+camouflage	/ˈkæməˌflɑʒ, ˈkæməˌflɑdƷ/
 camp	/ˈkæmp/
 campaign	/kæmˈpeɪn/
 camping	/ˈkæmpɪŋ/
@@ -1783,7 +1783,7 @@ carve	/ˈkɑrv/
 cash	/ˈkæʃ/
 cashew	/ˈkæˌʃuː, kəˈʃuː/
 cashier	/kæˈʃɪr/
-cashmere	/ˈkæƷˌmɪr, ˈkæʃ-/
+cashmere	/ˈkæʒˌmɪr, ˈkæʃˌmɪr/
 casino	/kəˈsiːˌnoː/
 cask	/ˈkæsk/
 casket	/ˈkæskət/
@@ -1794,9 +1794,9 @@ castanets	/ˌkæstəˈnεts/
 castaway	/ˈkæstəˌweɪ/
 castle	/ˈkæsəl/
 castrate	/ˈkæsˌtreɪt/
-casual	/ˈkæƷʊəl/
-casually	/ˈkæƷʊəli, ˈkæƷəli/
-casualty	/ˈkæƷʊəlti, ˈkæƷəl-/
+casual	/ˈkæʒʊəl/
+casually	/ˈkæʒʊəli, ˈkæʒəli/
+casualty	/ˈkæʒʊəlti, ˈkæʒəlti/
 cat	/ˈkæt/
 catalogue	/ˈkæt̬əˌlɔg/
 catapult	/ˈkæt̬əˌpʌlt, -ˌpʊlt/
@@ -2036,7 +2036,7 @@ circular	/ˈsɝkjəlɚ/
 circulate	/ˈsɝkjəˌleɪt/
 circulation	/ˌsɝkjəˈleɪʃən/
 circumcise	/ˈsɝkəmˌsaɪz/
-circumcision	/ˌsɝkəmˈsɪƷən, ˈsɝkəmˌ-/
+circumcision	/ˌsɝkəmˈsɪʒən, ˈsɝkəmˌ-/
 circumference	/sɚˈkʌmfrəns/
 circumspect	/ˈsɝkəmˌspεkt/
 circumstance	/ˈsɝkəmˌstæns/
@@ -2134,7 +2134,7 @@ close 2	/ˈkloːs/
 closely	/ˈkloːsli/
 closeness	/ˈkloːsnəs/
 closet	/ˈklɑzət/
-closure	/ˈkloːƷɚ/
+closure	/ˈkloːʒɚ/
 clot	/ˈklɑt/
 cloth	/ˈklɔθ/
 cloths	/ˈklɔðz, ˈklɔθs/
@@ -2190,7 +2190,7 @@ coddle	/ˈkɑdəl/
 code	/ˈkoːd/
 coeducational	/ˌkoːˌεdƷəˈkeɪʃənəl/
 coerce	/koˈɝs/
-coercion	/koˈɝƷən, -ʃən/
+coercion	/koˈɝʒən, -ʃən/
 coffee	/ˈkɔfi/
 coffeepot	/ˈkɔfiˌpɑt/
 coffer	/ˈkɔfɚ/
@@ -2224,7 +2224,7 @@ collective	/kəˈlεktɪv/
 collector	/kəˈlεktɚ/
 college	/ˈkɑlɪdƷ/
 collide	/kəˈlaɪd/
-collision	/kəˈlɪƷən/
+collision	/kəˈlɪʒən/
 colloquial	/kəˈloːkwiəl/
 cologne	/kəˈloːn/
 Colombian	/kəˈlʌmbiən/
@@ -2353,7 +2353,7 @@ component	/kəmˈpoːnənt, ˈkɑmˌpoː-/
 compose	/kəmˈpoːz/
 composer	/kəmˈpoːzɚ/
 composition	/ˌkɑmpəˈzɪʃən/
-composure	/kəmˈpoːƷɚ/
+composure	/kəmˈpoːʒɚ/
 compound 1	/kɑmˈpaʊnd, kəm-; ˈkɑmˌpaʊnd/
 ~	/ˈkɑmˌpaʊnd; kɑmˈpaʊnd, kəm-/
 ~	/ˈkɑmˌpaʊnd/
@@ -2392,7 +2392,7 @@ concerted	/kənˈsɝt̬əd/
 concession	/kənˈsεʃən/
 concise	/kənˈsaɪs/
 conclude	/kənˈkluːd/
-conclusion	/kənˈkluːƷən/
+conclusion	/kənˈkluːʒən/
 conclusive	/kənˈkluːsɪv/
 concoct	/kənˈkɑkt, kɑn-/
 concoction	/kənˈkɑkʃən/
@@ -2443,7 +2443,7 @@ confront	/kənˈfrʌnt/
 confrontation	/ˌkɑnfrənˈteɪʃən/
 confuse	/kənˈfjuːz/
 confusing	/kənˈfjuːzɪŋ/
-confusion	/kənˈfjuːƷən/
+confusion	/kənˈfjuːʒən/
 congeal	/kənˈdƷiːl/
 congenial	/kənˈdƷiːniəl/
 congested	/kənˈdƷεstəd/
@@ -2598,7 +2598,7 @@ conversation	/ˌkɑnvɚˈseɪʃən/
 conversational	/ˌkɑnvɚˈseɪʃənəl/
 converse 2	/kənˈvɝs, ˈkɑnˌvɝs/
 conversely	/kənˈvɝsli, ˈkɑnˌvɝs-/
-conversion	/kənˈvɝƷən/
+conversion	/kənˈvɝʒən/
 convert	/kənˈvɝt/
 convertible	/kənˈvɝt̬əbəl/
 convex	/kɑnˈvεks, ˈkɑnˌ-, kənˈ-/
@@ -2664,7 +2664,7 @@ correspondence	/ˌkɔrəˈspɑndəns/
 corridor	/ˈkɔrədɚ, -ˌdɔr/
 corroborate	/kəˈrɑbəˌreɪt/
 corrode	/kəˈroːd/
-corrosion	/kəˈroːƷən/
+corrosion	/kəˈroːʒən/
 corrosive	/kəˈroːsɪv/
 corrugated	/ˈkɔrəˌgeɪt̬əd/
 corrupt	/kəˈrʌpt/
