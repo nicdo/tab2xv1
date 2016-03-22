@@ -6033,7 +6033,7 @@ I'll	/ˈaɪl/
 I'm	/ˈaɪm/
 I've	/ˈaɪv/
 ice	/ˈaɪs/
-iceberg	/ˈaɪsˌbɚg/
+iceberg	/ˈaɪsˌbˌg/
 icebox	/ˈaɪsˌbɑks/
 ice–cold	/ˈaɪsˈkoːld/
 ice–skate	/ˈaɪsˌskeɪt/
@@ -6112,8 +6112,8 @@ immediate	/ɪˈmiːdiət/
 immediately	/ɪˈmiːdiətli/
 immense	/ɪˈmεns/
 immensity	/ɪˈmεnsət̬i/
-immerse	/ɪˈmɚs/
-immersion	/ɪˈmɚƷən/
+immerse	/ɪˈmɝs/
+immersion	/ɪˈmɝƷən/
 immigrate	/ˈɪməˌgreɪt/
 immigrant	/ˈɪmɪgrənt/
 immigration	/ˌɪməˈgreɪʃən/
@@ -6150,18 +6150,18 @@ impending	/ɪmˈpεndɪŋ/
 impenetrable	/ɪmˈpεnətrəbəl/
 imperative	/ɪmˈpεrət̬ɪv/
 imperceptible	/ˌɪmpɚˈsεptəbəl/
-imperfection	/ɪmˌpɚˈfεkʃən/
-imperfect	/ɪmˈpɚfɪkt/
+imperfection	/ɪmpɚˈfεkʃən/
+imperfect	/ɪmˈpɝfɪkt/
 imperial	/ɪmˈpɪriəl/
 imperialism	/ɪmˈpɪriəˌlɪzəm/
 imperious	/ɪmˈpɪriəs/
-impersonal	/ɪmˈpɚsənəl/
-impersonate	/ɪmˈpɚsənˌeɪt/
-impersonation	/ɪmˌpɚsənˈeɪʃən/
-impersonator	/ɪmˈpɚsənˌeɪt̬ɚ/
-impertinent	/ɪmˈpɚtənənt/
-impertinence	/ɪmˈpɚtənəns/
-impervious	/ɪmˈpɚviəs/
+impersonal	/ɪmˈpɝsənəl/
+impersonate	/ɪmˈpɝsənˌeɪt/
+impersonation	/ɪmˌpɝsənˈeɪʃən/
+impersonator	/ɪmˈpɝsənˌeɪt̬ɚ/
+impertinent	/ɪmˈpɝtənənt/
+impertinence	/ɪmˈpɝtənəns/
+impervious	/ɪmˈpɝviəs/
 impetuous	/ɪmˈpεtʃʊəs/
 impetus	/ˈɪmpət̬əs/
 impinge	/ɪmˈpɪndƷ/
@@ -6229,7 +6229,7 @@ inaccurate	/ɪnˈækjɚət/
 inactive	/ɪnˈæktɪv/
 inactivity	/ˌɪnˌækˈtɪvət̬i/
 inadequate	/ɪnˈædɪkwət/
-inadvertently	/ˌɪnədˈvɚtəntli/
+inadvertently	/ˌɪnədˈvɝtəntli/
 inadvisable	/ˌɪnædˈvaɪzəbəl/
 inane	/ɪˈneɪn/
 inanimate	/ɪnˈænəmət/
@@ -6301,7 +6301,7 @@ incredulous	/ɪnˈkrεdƷələs/
 incriminate	/ɪnˈkrɪməˌneɪt/
 incubator	/ˈɪŋkjʊˌbeɪt̬ɚ, ˈɪn-/
 incumbent	/ɪnˈkʌmbənt/
-incur	/ɪnˈkɚ/
+incur	/ɪnˈkɝ/
 incurable	/ɪnˈkjʊrəbəl/
 indebted	/ɪnˈdεt̬əd/
 indecent	/ɪnˈdiːsənt/
@@ -6367,8 +6367,8 @@ inefficiency	/ˌɪnɪˈfɪʃənsi/
 ineligible	/ɪˈnεlədƷəbəl/
 inept	/ɪˈnεpt/
 inequality	/ˌɪnɪˈkwɑlət̬i/
-inert	/ɪˈnɚt/
-inertia	/ɪˈnɚʃə/
+inert	/ɪˈnɝt/
+inertia	/ɪˈnɝʃə/
 inescapable	/ˌɪnɪˈskeɪpəbəl/
 inevitable	/ɪˈnεvət̬əbəl/
 inevitably	/-bli/
@@ -6387,13 +6387,13 @@ infatuation	/ɪnˌfætʃʊˈeɪʃən/
 infect	/ɪnˈfεkt/
 infection	/ɪnˈfεkʃən/
 infectious	/ɪnˈfεkʃəs/
-infer	/ɪnˈfɚ/
+infer	/ɪnˈfɝ/
 inference	/ˈɪnfɚəns/
 inferior	/ɪnˈfɪriɚ/
 inferiority	/ɪnˌfɪriˈɔrət̬i/
-infernal	/ɪnˈfɚnəl/
-inferno	/ɪnˈfɚˌnoː/
-infertile	/ɪnˈfɚt̬əl, -ˌtaɪl/
+infernal	/ɪnˈfɝnəl/
+inferno	/ɪnˈfɝˌnoː/
+infertile	/ɪnˈfɝt̬əl, -ˌtaɪl/
 infertility	/ˌɪnfɚˈtɪlət̬i/
 infest	/ɪnˈfεst/
 infidelity	/ˌɪnfəˈdεlət̬i, -faɪ-/
@@ -6401,9 +6401,9 @@ infiltrate	/ɪnˈfɪlˌtreɪt, ˈɪnfɪl-/
 infinite	/ˈɪnfənət/
 infinitive	/ɪnˈfɪnət̬ɪv/
 infinity	/ɪnˈfɪnət̬i/
-infirm	/ɪnˈfɚm/
-infirmary	/ɪnˈfɚmɚi/
-infirmity	/ɪnˈfɚmət̬i/
+infirm	/ɪnˈfɝm/
+infirmary	/ɪnˈfɝmɚi/
+infirmity	/ɪnˈfɝmət̬i/
 inflame	/ɪnˈfleɪm/
 inflammable	/ɪnˈflæməbəl/
 inflammation	/ˌɪnfləˈmeɪʃən/
@@ -6508,7 +6508,7 @@ insecurity	/ˌɪnsɪˈkjʊrət̬i/
 insensitive	/ɪnˈsεnsət̬ɪv/
 insensitivity	/ɪnˌsεnsəˈtɪvət̬i/
 inseparable	/ɪnˈsεpɚəbəl/
-insert	/ɪnˈsɚt/
+insert	/ɪnˈsɝt/
 inside	/ɪnˈsaɪd, ˈɪnˌsaɪd/
 insidious	/ɪnˈsɪdiəs/
 insight	/ˈɪnˌsaɪt/
@@ -6616,16 +6616,16 @@ interloper	/ˌɪntɚˈloːpɚ/
 interlude	/ˈɪntɚˌluːd/
 intermediate	/ˌɪntɚˈmiːdiət/
 intermediary	/ˌɪntɚˈmiːdiˌεri/
-interminable	/ɪnˈtɚmənəbəl/
+interminable	/ɪnˈtɝmənəbəl/
 intermission	/ˌɪntɚˈmɪʃən/
 intermittent	/ˌɪntɚˈmɪtənt/
-intern 1	/ˈɪnˌtɚn, ɪnˈtɚn/
-intern 2	/ˈɪnˌtɚn/
-internal	/ɪnˈtɚnəl/
+intern (v)	/ɪnˈtɝn/
+intern (n)	/ˈɪnˌtɝn/
+internal	/ɪnˈtɝnəl/
 international	/ˌɪntɚˈnæʃənəl/
-interpret	/ɪnˈtɚprət/
-interpretation	/ɪnˌtɚprəˈteɪʃən/
-interpreter	/ɪnˈtɚprə-t̬ɚ/
+interpret	/ɪnˈtɝprət/
+interpretation	/ɪnˌtɝprəˈteɪʃən/
+interpreter	/ɪnˈtɝprət̬ɚ/
 interrogate	/ɪnˈtεrəˌgeɪt/
 interrogation	/ɪnˌtεrəˈgeɪʃən/
 interrogative	/ˌɪntəˈrɑgət̬ɪv/
@@ -6633,7 +6633,7 @@ interrupt	/ˌɪntəˈrʌpt/
 interruption	/ˌɪntəˈrʌpʃən/
 intersect	/ˌɪntɚˈsεkt/
 intersection	/ˌɪntɚˈsεkʃən/
-intersperse	/ˌɪntɚˈspɚs/
+intersperse	/ˌɪntɚˈspɝs/
 interstate	/ˌɪntɚˈsteɪt/
 intertwine	/ˌɪntɚˈtwaɪn/
 interval	/ˈɪntɚvəl/
@@ -6666,8 +6666,8 @@ intrinsic	/ɪnˈtrɪnzɪk, -ˈtrɪnsɪk/
 introduce	/ˌɪntrəˈduːs, -ˈdjuːs/
 introduction	/ˌɪntrəˈdʌkʃən/
 introductory	/ˌɪntrəˈdʌktɚi/
-introvert	/ˈɪntrəˌvɚt/
-introverted	/ˈɪntrəˌvɚt̬əd/
+introvert	/ˈɪntrəˌvɝt/
+introverted	/ˈɪntrəˌvɝt̬əd/
 intrude	/ɪnˈtruːd/
 intruder	/ɪnˈtruːdɚ/
 intrusion	/ɪnˈtruːƷən/
@@ -6686,8 +6686,8 @@ invention	/ɪnˈvεnʃən/
 inventive	/ɪnˈvεntɪv/
 inventor	/ɪnˈvεntɚ/
 inventory	/ˈɪnvənˌtɔri/
-invert	/ɪnˈvɚt/
-invertebrate	/ɪnˈvɚt̬əbrət, -ˌbreɪt/
+invert	/ɪnˈvɝt/
+invertebrate	/ɪnˈvɝt̬əbrət, -ˌbreɪt/
 invest	/ɪnˈvεst/
 investigate	/ɪnˈvεstəˌgeɪt/
 investigation	/ɪnˌvεstəˈgeɪʃən/
@@ -6722,7 +6722,7 @@ irate	/aɪˈreɪt/
 iris	/ˈaɪrəs/
 irides	/ˈaɪrəˌdiːz, ˈɪr-/
 Irish	/ˈaɪrɪʃ/
-irksome	/ˈɚksəm/
+irksome	/ˈɝksəm/
 iron	/ˈaɪɚn/
 ironic	/aɪˈrɑnɪk/
 ironical	/-nɪkəl/
@@ -6741,7 +6741,7 @@ irrespective	/ˌɪrɪˈspεktɪvəv/
 irresponsible	/ˌɪrɪˈspɑnsəbəl/
 irresponsibility	/ˌɪrɪˌspɑnsəˈbɪlət̬i/
 irreverent	/ɪˈrεvɚənt/
-irreversible	/ˌɪrɪˈvɚsəbəl/
+irreversible	/ˌɪrɪˈvɝsəbəl/
 irrigate	/ˈɪrəˌgeɪt/
 irrigation	/ˌɪrəˈgeɪʃən/
 irritate	/ˈɪrəˌteɪt/
@@ -6816,8 +6816,8 @@ jelly	/ˈdƷεli/
 jellyfish	/ˈdƷεliˌfɪʃ/
 jeopardy	/ˈdƷεpɚdi/
 jeopardize	/ˈdƷεpɚˌdaɪz/
-jerk	/ˈdƷɚk/
-jersey	/ˈdƷɚzi/
+jerk	/ˈdƷɝk/
+jersey	/ˈdƷɝzi/
 jest	/ˈdƷεst/
 jester	/ˈdƷεstɚ/
 Jesus	/ˈdƷiːzəs, -zəz/
@@ -6850,10 +6850,10 @@ jolly	/ˈdƷɑli/
 jolt	/ˈdƷoːlt/
 jostle	/ˈdƷɑsəl/
 jot	/ˈdƷɑt/
-journal	/ˈdƷɚnəl/
-journalism	/ˈdƷɚnəlˌɪzəm/
-journalist	/ˈdƷɚnəlɪst/
-journey	/ˈdƷɚni/
+journal	/ˈdƷɝnəl/
+journalism	/ˈdƷɝnəlˌɪzəm/
+journalist	/ˈdƷɝnəlɪst/
+journey	/ˈdƷɝni/
 jovial	/ˈdƷoːviəl/
 joy	/ˈdƷɔɪ/
 joyful	/ˈdƷɔɪfəl/
@@ -6910,8 +6910,8 @@ keeping	/ˈkiːpɪŋ/
 keepsake	/ˈkiːpˌseɪk/
 keg	/ˈkεg/
 kennel	/ˈkεnəl/
-kerchief	/ˈkɚtʃəf, -ˌtʃiːf/
-kernel	/ˈkɚnəl/
+kerchief	/ˈkɝtʃəf, -ˌtʃiːf/
+kernel	/ˈkɝnəl/
 kerosine	/ˈkεrəˌsiːn, ˌkεrəˈ-/
 ketchup	/ˈkεtʃəp, ˈkæ-/
 kettle	/ˈkεt̬əl/
