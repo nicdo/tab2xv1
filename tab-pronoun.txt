@@ -3654,7 +3654,8 @@ draw	/ˈdrɔ/
 drew	/ˈdruː/
 drawn	/ˈdrɔn/
 drawback	/ˈdrɔˌbæk/
-drawer	/ˈdrɔr, ˈdrɔɚ/
+drawer (furniture)	/ˈdrɔr/
+drawer (person)	/ˈdrɔɚ/
 drawing	/ˈdrɔɪŋ/
 drawl	/ˈdrɔl/
 dread	/ˈdrεd/
