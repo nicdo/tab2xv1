@@ -7114,11 +7114,12 @@ leaning	/ˈliːnɪŋ/
 leanness	/ˈliːnnəs/
 leap	/ˈliːp/
 leaped	/ˈliːpt, ˈlεpt/
-learn	/ˈlɚn/
-learned	/ˈlɚnd, ˈlɚnt/
-learned	/ˈlɚnəd/
-learner	/ˈlɚnɚ/
-learning	/ˈlɚnɪŋ/
+learn	/ˈlɝn/
+learned	/ˈlɝnd/
+learned	/ˈlɝnəd/
+learner	/ˈlɝnɚ/
+learning	/ˈlɝnɪŋ/
+learnt	/ˈlɝnt/
 lease	/ˈliːs/
 leash	/ˈliːʃ/
 least	/ˈliːst/
@@ -7280,7 +7281,7 @@ lion	/ˈlaɪən/
 lioness	/ˈlaɪənɪs/
 lip	/ˈlɪp/
 lipstick	/ˈlɪpˌstɪk/
-liqueur	/lɪˈkʊr, -ˈkɚ, -ˈkjʊr/
+liqueur	/lɪˈkʊr, lɪˈkɝ, lɪˈkjʊr/
 liquid	/ˈlɪkwəd/
 liquidate	/ˈlɪkwəˌdeɪt/
 liquidation	/ˌlɪkwəˈdeɪʃən/
@@ -7308,7 +7309,7 @@ least	/ˈliːst/
 less	/ˈlεs/
 least	/ˈliːst/
 liturgy	/ˈlɪt̬ɚdƷi/
-liturgical	/ləˈtɚdƷɪkəl/
+liturgical	/ləˈtɝdƷɪkəl/
 live	/ˈlɪv/
 ~	/ˈlaɪv/
 livelihood	/ˈlaɪvliˌhʊd/
@@ -7437,10 +7438,10 @@ lunch	/ˈlʌntʃ/
 luncheon	/ˈlʌntʃən/
 lung	/ˈlʌŋ/
 lunge	/ˈlʌndƷ/
-lurch 1	/ˈlɚtʃ/
+lurch 1	/ˈlɝtʃ/
 lure	/ˈlʊr/
 lurid	/ˈlʊrəd/
-lurk	/ˈlɚk/
+lurk	/ˈlɝk/
 luscious	/ˈlʌʃəs/
 lush	/ˈlʌʃ/
 lust	/ˈlʌst/
@@ -7641,8 +7642,8 @@ mass	/ˈmæs/
 Mass	/ˈmæs/
 massacre	/ˈmæsɪkɚ/
 massage	/məˈsɑƷ, -ˈsɑdƷ/
-masseur	/mæˈsɚ/
-masseuse	/mæˈsəz, -ˈsɚz, -ˈsuːz/
+masseur	/mæˈsɝ/
+masseuse	/mæˈsəz, mæˈsɝz, mæˈsuːz/
 massive	/ˈmæsɪv/
 mast	/ˈmæst/
 master	/ˈmæstɚ/
@@ -7658,8 +7659,8 @@ mate	/ˈmeɪt/
 material	/məˈtɪriəl/
 materialistic	/məˌtɪriəˈlɪstɪk/
 materialize	/məˈtɪriəˌlaɪz/
-maternal	/məˈtɚnəl/
-maternity	/məˈtɚnət̬i/
+maternal	/məˈtɝnəl/
+maternity	/məˈtɝnət̬i/
 math	/ˈmæθ/
 mathematics	/ˌmæθəˈmæt̬ɪks/
 mathematical	/ˌmæθəˈmæt̬ɪkəl/
@@ -7775,19 +7776,19 @@ mentality	/mεnˈtælət̬i/
 mention	/ˈmεnʃən/
 menu	/ˈmεnˌjuː/
 meow	/miːˈaʊ/
-mercenary	/ˈmɚsənˌεri/
-merchant	/ˈmɚtʃənt/
-merchandise	/ˈmɚtʃənˌdaɪz, -ˌdaɪs/
-merciful	/ˈmɚsɪfəl/
-merciless	/ˈmɚsɪləs/
-mercury	/ˈmɚkjɚi/
-mercy	/ˈmɚsi/
+mercenary	/ˈmɝsənˌεri/
+merchant	/ˈmɝtʃənt/
+merchandise	/ˈmɝtʃənˌdaɪz, ˈmɝtʃənˌdaɪs/
+merciful	/ˈmɝsɪfəl/
+merciless	/ˈmɝsɪləs/
+mercury	/ˈmɝkjɚi/
+mercy	/ˈmɝsi/
 mere	/ˈmɪr/
 merely	/ˈmɪrli/
-merge	/ˈmɚdƷ/
-merger	/ˈmɚdƷɚ/
+merge	/ˈmɝdƷ/
+merger	/ˈmɝdƷɚ/
 merit	/ˈmεrət/
-mermaid	/ˈmɚˌmeɪd/
+mermaid	/ˈmɝˌmeɪd/
 merry	/ˈmεri/
 merry–go–round	/ˈmεrigoˌraʊnd/
 mesa	/ˈmeɪsə/
@@ -7900,7 +7901,7 @@ miraculous	/məˈrækjələs/
 mirage	/mɪˈrɑƷ, ˈmɪrˌɑƷ/
 mire	/ˈmaɪr/
 mirror	/ˈmɪrɚ/
-mirth	/ˈmɚθ/
+mirth	/ˈmɝθ/
 misapprehension	/ˌmɪsˌæprəˈhεnʃən/
 misbehave	/ˌmɪsbiˈheɪv/
 misbehavior	/ˌmɪsbiˈheɪvjɚ/
@@ -7924,7 +7925,7 @@ misgiving	/mɪsˈgɪvɪŋ/
 misguided	/mɪsˈgaɪdəd/
 mishap	/ˈmɪsˌhæp/
 misinform	/ˌmɪsɪnˈfɔrm/
-misinterpret	/ˌmɪsɪnˈtɚprət/
+misinterpret	/ˌmɪsɪnˈtɝprət/
 misjudge	/mɪsˈdƷʌdƷ/
 mislay	/mɪsˈleɪ/
 laid	/-leɪd/
@@ -8069,7 +8070,7 @@ mother	/ˈmʌðɚ/
 motherhood	/ˈmʌðɚˌhʊd/
 mother–in–law	/ˈmʌðɚɪnˌlɔ/
 motherly	/ˈmʌðɚli/
-mother–of–pearl	/ˌmʌðɚəvˈpɚl/
+mother–of–pearl	/ˌmʌðɚəvˈpɝl/
 motif	/moˈtiːf/
 motion	/ˈmoːʃən/
 motionless	/ˈmoːʃənləs/
@@ -8144,11 +8145,11 @@ municipal	/mjʊˈnɪsəpəl/
 municipality	/mjʊˌnɪsəˈpælət̬i/
 munitions	/mjʊˈnɪʃənz/
 mural	/ˈmjʊrəl/
-murder	/ˈmɚdɚ/
-murderer	/ˈmɚdɚɚ/
-murderous	/ˈmɚdɚəs/
-murky	/ˈmɚki/
-murmur	/ˈmɚmɚ/
+murder	/ˈmɝdɚ/
+murderer	/ˈmɝdɚɚ/
+murderous	/ˈmɝdɚəs/
+murky	/ˈmɝki/
+murmur	/ˈmɝmɚ/
 muscle	/ˈmʌsəl/
 muscular	/ˈmʌskjəlɚ/
 muse 1	/ˈmjuːz/
@@ -8258,7 +8259,7 @@ nectarine	/ˌnεktəˈriːn/
 need	/ˈniːd/
 needle	/ˈniːdəl/
 needless	/ˈniːdləs/
-needlework	/ˈniːdəlˌwɚk/
+needlework	/ˈniːdəlˌwɝk/
 needn't	/ˈniːdənt/
 needy	/ˈniːdi/
 negative	/ˈnεgət̬ɪv/
@@ -8280,15 +8281,15 @@ neither	/ˈniːðɚ, ˈnaɪ-/
 neon	/ˈniːˌɑn/
 nephew	/ˈnεˌfjuː/ chiefly British /ˈnεˌvjuː/
 Neptune	/ˈnεpˌtuːn, -ˌtjuːn/
-nerve	/ˈnɚv/
-nervous	/ˈnɚvəs/
-nervousness	/ˈnɚvəsnəs/
-nervy	/ˈnɚvi/
+nerve	/ˈnɝv/
+nervous	/ˈnɝvəs/
+nervousness	/ˈnɝvəsnəs/
+nervy	/ˈnɝvi/
 nest	/ˈnεst/
 nestle	/ˈnεsəl/
 net 1	/ˈnεt/
 nettle	/ˈnεt̬əl/
-network	/ˈnεtˌwɚk/
+network	/ˈnεtˌwɝk/
 neurology	/nʊˈrɑlədƷi, njʊ-/
 neurosis	/nʊˈroːsɪs, njʊ-/
 neuroses	/-ˌsiːz/
@@ -8353,7 +8354,7 @@ nos	/ˈnoːz/
 noble	/ˈnoːbəl/
 nobility	/noˈbɪlə-t̬i/
 nobody	/ˈnoːbədi, -ˌbɑdi/
-nocturnal	/nɑkˈtɚnəl/
+nocturnal	/nɑkˈtɝnəl/
 nod	/ˈnɑd/
 noise	/ˈnɔɪz/
 noisily	/ˈnɔɪzəli/
@@ -8411,7 +8412,7 @@ notch	/ˈnɑtʃ/
 note	/ˈnoːt/
 notebook	/ˈnoːtˌbʊk/
 noted	/ˈnoːt̬əd/
-noteworthy	/ˈnoːtˌwɚði/
+noteworthy	/ˈnoːtˌwɝði/
 nothing	/ˈnʌθɪŋ/
 notice	/ˈnoːt̬ɪs/
 noticeable	/ˈnoːt̬ɪsəbəl/
@@ -8424,9 +8425,9 @@ notwithstanding	/ˌnɑtwɪθˈstændɪŋ, -wɪð-/
 nougat	/ˈnuːgət/
 nought	/ˈnɔt, ˈnɑt/
 noun	/ˈnaʊn/
-nourish	/ˈnɚɪʃ/
-nourishing	/ˈnɚɪʃɪŋ/
-nourishment	/ˈnɚɪʃmənt/
+nourish	/ˈnɝɪʃ/
+nourishing	/ˈnɝɪʃɪŋ/
+nourishment	/ˈnɝɪʃmənt/
 novel	/ˈnɑvəl/
 novelist	/ˈnɑvəlɪst/
 novelty	/ˈnɑvəlt̬i/
@@ -8454,10 +8455,10 @@ numerical	/nʊˈmεrɪkəl, njʊ-/
 numerous	/ˈnuːmɚəs, ˈnjuː-/
 nun	/ˈnʌn/
 nuptial	/ˈnʌpʃəl/
-nurse	/ˈnɚs/
-nursemaid	/ˈnɚsˌmeɪd/
-nursery	/ˈnɚsɚi/
-nurture	/ˈnɚtʃɚ/
+nurse	/ˈnɝs/
+nursemaid	/ˈnɝsˌmeɪd/
+nursery	/ˈnɝsɚi/
+nurture	/ˈnɝtʃɚ/
 nut	/ˈnʌt/
 nutcracker	/ˈnʌtˌkrækɚ/
 nutmeg	/ˈnʌtˌmεg/
