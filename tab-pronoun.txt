@@ -977,7 +977,7 @@ barely	/ˈbεərli/
 bargain	/ˈbɑrgən/
 barge	/ˈbɑrdƷ/
 baritone	/ˈbærəˌtoːn/
-bark 1	/ˈbɑrk/
+bark	/ˈbɑrk/
 barley	/ˈbɑrli/
 barn	/ˈbɑrn/
 barnyard	/ˈbɑrnˌjɑrd/
@@ -1013,7 +1013,7 @@ bass 2	/ˈbeɪs/
 bassoon	/bəˈsuːn, bæˈsuːn/
 bastard	/ˈbæstɚd/
 baste	/ˈbeɪst/
-bat 1	/ˈbæt/
+bat	/ˈbæt/
 batch	/ˈbætʃ/
 bath	/ˈbæθ, ˈbaθ/
 baths	/ˈbæðz, ˈbæθs, ˈbaðz, ˈbaθs/
@@ -1029,7 +1029,7 @@ battle	/ˈbæt̬əl/
 battlefield	/ˈbæt̬əlˌfiːld/
 battleship	/ˈbæt̬əlˌʃɪp/
 bawl	/ˈbɔl/
-bay 1	/ˈbeɪ/
+bay	/ˈbeɪ/
 bayonet	/ˌbeɪəˈnεt, ˈbeɪəˌnεt/
 bazaar	/bəˈzɑr/
 be	/ˈbiː/
@@ -1041,7 +1041,7 @@ bead	/ˈbiːd/
 beak	/ˈbiːk/
 beam	/ˈbiːm/
 bean	/ˈbiːn/
-bear 1	/ˈbεər/
+bear	/ˈbεər/
 bore	/ˈbor/
 borne	/ˈbɔrn/
 bearable	/ˈbεərəbəl/
@@ -1216,7 +1216,7 @@ bisect	/ˈbaɪˌsεkt, ˌbaɪˈ-/
 bisexual	/ˌbaɪˈsεkʃəwəl, -ˈsεkʃəl/
 bishop	/ˈbɪʃəp/
 bison	/ˈbaɪzən, -sən/
-bit 1	/ˈbɪt/
+bit	/ˈbɪt/
 bitch	/ˈbɪtʃ/
 bite	/ˈbaɪt/
 bit	/ˈbɪt/
@@ -1361,7 +1361,7 @@ booths	/ˈbuːðz, ˈbuːθs/
 booty	/ˈbuːt̬i/
 booze	/ˈbuːz/
 border	/ˈbɔrdɚ/
-bore 1	/ˈbor/
+bore	/ˈbor/
 boredom	/ˈbordəm/
 boring	/ˈborɪŋ/
 born	/ˈbɔrn/
@@ -1385,7 +1385,7 @@ bouillon	/ˈbuːˌjɑn; ˈbʊlˌjɑn, -jən/
 boulder	/ˈboːldɚ/
 boulevard	/ˈbʊləˌvɑrd, ˈbuː-/
 bounce	/ˈbaʊns/
-bound 1	/ˈbaʊnd/
+bound	/ˈbaʊnd/
 boundary	/ˈbaʊndri, -dɚi/
 boundless	/ˈbaʊndləs/
 bouquet	/boːˈkeɪ, buː-/
@@ -1396,9 +1396,9 @@ bow 1	/ˈbaʊ/
 bow 2	/ˈboː/
 bow 3	/ˈbaʊ/
 bowels	/ˈbaʊəls/
-bowl 1	/ˈboːl/
+bowl	/ˈboːl/
 bowling	/ˈboːlɪŋ/
-box 1	/ˈbɑks/
+box	/ˈbɑks/
 boxer	/ˈbɑksɚ/
 boxing	/ˈbɑksɪŋ/
 boy	/ˈbɔɪ/
@@ -1611,7 +1611,7 @@ businessman	/ˈbɪznəsˌmæn, -nəz-/
 businessmen	/-mən, -ˌmεn/
 businesswoman	/ˈbɪznəsˌwʊmən, -nəz-/
 businesswomen	/-ˌwɪmən/
-bust 1	/ˈbʌst/
+bust	/ˈbʌst/
 bustle	/ˈbʌsəl/
 busy	/ˈbɪzi/
 but	/ˈbʌt/
@@ -1662,7 +1662,7 @@ calculating	/ˈkælkjəˌleɪ-t̬ɪŋ/
 calculation	/ˌkælkjəˈleɪʃən/
 calculator	/ˈkælkjəˌleɪt̬ɚ/
 calendar	/ˈkæləndɚ/
-calf 1	/ˈkæf, ˈkaf/
+calf	/ˈkæf, ˈkaf/
 calves	/ˈkævz, ˈkavz/
 calibre	/ˈkæləbɚ/
 call	/ˈkɔl/
@@ -1719,8 +1719,8 @@ canyon	/ˈkænjən/
 capable	/ˈkeɪpəbəl/
 capability	/ˌkeɪpəˈbɪlət̬i/
 capacity	/kəˈpæsət̬i/
-cape 1	/ˈkeɪp/
-caper 1	/ˈkeɪpɚ/
+cape	/ˈkeɪp/
+caper	/ˈkeɪpɚ/
 capital	/ˈkæpət̬əl/
 capitalism	/ˈkæpət̬əlˌɪzəm/
 capitalist	/ˈkæpət̬əlɪst/
@@ -1892,7 +1892,7 @@ channel	/ˈtʃænəl/
 chant	/ˈtʃænt/
 chaos	/ˈkeɪˌɑs/
 chaotic	/keɪˈɑt̬ɪk/
-chap 1	/ˈtʃæp/
+chap	/ˈtʃæp/
 chapel	/ˈtʃæpəl/
 chaperone	/ˈʃæpəˌroːn/
 chaplain	/ˈtʃæplɪn/
@@ -2228,7 +2228,7 @@ collision	/kəˈlɪʒən/
 colloquial	/kəˈloːkwiəl/
 cologne	/kəˈloːn/
 Colombian	/kəˈlʌmbiən/
-colon 1	/ˈkoːlən/
+colon	/ˈkoːlən/
 cola	/-lə/
 colonel	/ˈkɝnəl/
 colony	/ˈkɑləni/
@@ -2866,8 +2866,8 @@ cuckoo	/ˈkuːˌkuː, ˈkʊ-/
 cucumber	/ˈkjuːˌkʌmbɚ/
 cuddle	/ˈkʌdəl/
 cudgel	/ˈkʌdƷəl/
-cue 1	/ˈkjuː/
-cuff 1	/ˈkʌf/
+cue	/ˈkjuː/
+cuff	/ˈkʌf/
 cuisine	/kwɪˈziːn/
 culinary	/ˈkʌləˌnεri, ˈkjuːlə-/
 cull	/ˈkʌl/
