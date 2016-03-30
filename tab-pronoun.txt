@@ -3042,7 +3042,7 @@ decided	/dɪˈsaɪdəd/
 decidedly	/dɪˈsaɪdədli/
 decimal	/ˈdεsəməl/
 decipher	/dɪˈsaɪfɚ/
-decision	/dɪˈsɪƷən/
+decision	/dɪˈsɪʒən/
 decisive	/dɪˈsaɪsɪv/
 deck	/ˈdεk/
 declare	/dɪˈklεər/
@@ -3133,8 +3133,8 @@ delirium	/dɪˈlɪriəm/
 deliver	/dɪˈlɪvɚ/
 delivery	/dɪˈlɪvɚi/
 delude	/dɪˈluːd/
-deluge	/ˈdεlˌjuːdƷ, -ˌjuːƷ/
-delusion	/dɪˈluːƷən/
+deluge	/ˈdεlˌjuːdƷ, -ˌjuːʒ/
+delusion	/dɪˈluːʒən/
 deluxe	/dɪˈlʌks, -ˈlʊks/
 delve	/ˈdεlv/
 demand	/dɪˈmænd/
@@ -3198,7 +3198,7 @@ derail	/dɪˈreɪl/
 deranged	/dɪˈreɪndƷd/
 derelict	/ˈdεrəˌlɪkt/
 deride	/dɪˈraɪd/
-derision	/dɪˈrɪƷən/
+derision	/dɪˈrɪʒən/
 derive	/dɪˈraɪv/
 derivation	/ˌdεrəˈveɪʃən/
 derogatory	/dɪˈrɑgəˌtori/
@@ -3394,7 +3394,7 @@ disciple	/dɪˈsaɪpəl/
 discipline	/ˈdɪsəplən/
 disclaim	/dɪsˈkleɪm/
 disclose	/dɪsˈkloːz/
-disclosure	/dɪsˈkloːƷɚ/
+disclosure	/dɪsˈkloːʒɚ/
 discomfort	/dɪsˈkʌmfɚt/
 disconcert	/ˌdɪskənˈsɝt/
 disconnect	/ˌdɪskəˈnεkt/
@@ -3437,8 +3437,8 @@ dishonesty	/dɪˈsɑnəsti/
 dishonor	/dɪˈsɑnɚ/
 dishonorable	/dɪˈsɑnɚəbəl/
 dishwasher	/ˈdɪʃˌwɔʃɚ/
-disillusion	/ˌdɪsəˈluːƷən/
-disillusionment	/ˌdɪsəˈluːƷənmənt/
+disillusion	/ˌdɪsəˈluːʒən/
+disillusionment	/ˌdɪsəˈluːʒənmənt/
 disinfect	/ˌdɪsɪnˈfεkt/
 disinfectant	/ˌdɪsɪnˈfεktənt/
 disintegrate	/dɪsˈɪntəˌgreɪt/
@@ -3471,7 +3471,7 @@ disperse	/dɪsˈpɝs/
 displace	/dɪsˈpleɪs/
 display	/dɪsˈpleɪ/
 displease	/dɪsˈpliːz/
-displeasure	/dɪsˈplεƷɚ/
+displeasure	/dɪsˈplεʒɚ/
 dispose	/dɪsˈpoːz/
 disposable	/dɪsˈpoːzəbəl/
 disposal	/dɪsˈpoːzəl/
@@ -3533,14 +3533,14 @@ diver	/ˈdaɪvɚ/
 diverge	/dəˈvɝdƷ, daɪˈvɝdƷ/
 diverse	/daɪˈvɝs, də-, ˈdaɪˌvɝs/
 diversify	/daɪˈvɝsəˌfaɪ, də-/
-diversion	/daɪˈvɝƷən, də-/
+diversion	/daɪˈvɝʒən, də-/
 diversity	/daɪˈvɝsət̬i, də-/
 divert	/dəˈvɝt, daɪ-/
 divide	/dəˈvaɪd/
 dividend	/ˈdɪvəˌdεnd, -dənd/
 divine	/dəˈvaɪn/
 divinity	/dəˈvɪnət̬i/
-division	/dɪˈvɪƷən/
+division	/dɪˈvɪʒən/
 divorce	/dəˈvors/
 divorcée	/dɪˌvorˈseɪ, -ˈsiː; -ˈvorˌ-/
 divulge	/dəˈvʌldƷ, daɪ-/
@@ -3974,7 +3974,7 @@ enchanting	/ɪnˈtʃæntɪŋ, εn-/
 enchantment	/ɪnˈtʃæntmənt, εn-/
 encircle	/ɪnˈsɝkəl, εn-/
 enclose	/ɪnˈkloːz, εn-/
-enclosure	/ɪnˈkloːƷɚ, εn-/
+enclosure	/ɪnˈkloːʒɚ, εn-/
 encompass	/ɪnˈkʌmpəs, εn-, -ˈkɑm-/
 encore	/ˈɑnˌkor/
 encounter	/ɪnˈkaʊntɚ, εn-/
@@ -4070,7 +4070,7 @@ envious	/ˈεnviəs/
 environment	/ɪnˈvaɪrənmənt, εn-, -ˈvaɪɚn-/
 environmental	/ɪnˌvaɪrənˈmεntəl, εn-, -ˌvaɪɚn-/
 environmentalist	/ɪnˌvaɪrənˈmεntəlɪst, εn-, -ˌvaɪɚn-/
-envision	/ɪnˈvɪƷən, εn-/
+envision	/ɪnˈvɪʒən, εn-/
 envoy	/ˈεnˌvɔɪ, ˈɑn-/
 envy	/ˈεnvi/
 enzyme	/ˈεnˌzaɪm/
@@ -4088,7 +4088,7 @@ equality	/ɪˈkwɑlət̬i/
 equalize	/ˈiːkwəˌlaɪz/
 equally	/ˈiːkwəli/
 equate	/ɪˈkweɪt/
-equation	/ɪˈkweɪƷən/
+equation	/ɪˈkweɪʒən/
 equator	/ɪˈkweɪt̬ɚ/
 equilibrium	/ˌiːkwəˈlɪbriəm, ˌε-/
 ria	/-briə/
@@ -4104,7 +4104,7 @@ eraser	/ɪˈreɪsɚ/
 erect	/ɪˈrεkt/
 erection	/ɪˈrεkʃən/
 erode	/ɪˈroːd/
-erosion	/ɪˈroːƷən/
+erosion	/ɪˈroːʒən/
 erotic	/ɪˈrɑt̬ɪk/
 err	/ˈεr, ˈɝ/
 errand	/ˈεrənd/
@@ -4122,7 +4122,7 @@ escort	/ˈεsˌkɔrt/
 ~	/ɪˈskɔrt, ε-/
 Eskimo	/ˈεskəˌmoː/
 especially	/ɪˈspεʃəli/
-espionage	/ˈεspiəˌnɑƷ, -ˌnɑdƷ/
+espionage	/ˈεspiəˌnɑʒ, -ˌnɑdƷ/
 espresso	/εˈsprεˌsoː/
 essay	/ˈεˌseɪ/
 essence	/ˈεsəns/
@@ -4153,7 +4153,7 @@ evacuation	/ɪˌvækjʊˈeɪʃən/
 evade	/ɪˈveɪd/
 evaluate	/ɪˈvæljʊˌeɪt/
 evaporate	/ɪˈvæpəˌreɪt/
-evasion	/ɪˈveɪƷən/
+evasion	/ɪˈveɪʒən/
 evasive	/ɪˈveɪsɪv/
 eve	/ˈiːv/
 even	/ˈiːvən/
@@ -4215,11 +4215,11 @@ exclaim	/ɪksˈkleɪm, εk-/
 exclamation	/ˌεkskləˈmeɪʃən/
 exclude	/ɪksˈkluːd, εks-/
 excluding	/ɪksˈkluːdɪŋ, εks-/
-exclusion	/ɪksˈkluːƷən, εks-/
+exclusion	/ɪksˈkluːʒən, εks-/
 exclusive	/ɪksˈkluːsɪv, εks-/
 excrement	/ˈεkskrəmənt/
 excruciating	/ɪkˈskruːʃiˌeɪt̬ɪŋ, εk-/
-excursion	/ɪkˈskɝƷən, εk-/
+excursion	/ɪkˈskɝʒən, εk-/
 excuse	/ɪkˈskjuːz, εk-/
 ~	/ɪkˈskjuːs, εk-/
 execute	/ˈεksɪˌkjuːt/
@@ -4284,13 +4284,13 @@ exploitation	/ˌεkˌsplɔɪˈteɪʃən/
 exploration	/ˌεkspləˈreɪʃən/
 explore	/ɪkˈsplor, εk-/
 explorer	/ɪkˈsplorɚ, εk-/
-explosion	/ɪkˈsploːƷən, εk-/
+explosion	/ɪkˈsploːʒən, εk-/
 explosive	/ɪkˈsploːsɪv, εk-/
 export	/εkˈsport, ˈεkˌsport/
 ~	/ˈεkˌsport/
 expose	/ɪkˈspoːz, εk-/
 exposed	/ɪkˈspoːzd, εk-/
-exposure	/ɪkˈspoːƷɚ, εk-/
+exposure	/ɪkˈspoːʒɚ, εk-/
 express	/ɪkˈsprεs, εk-/
 expression	/ɪkˈsprεʃən, εk-/
 expressive	/ɪkˈsprεsɪv, εk-/
