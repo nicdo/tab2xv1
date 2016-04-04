@@ -8511,11 +8511,11 @@ obscene	/ɑbˈsiːn, əb-/
 obscenity	/ɑbˈsεnət̬i, əb-/
 obscurity	/ɑbˈskjʊrət̬i, əb-/
 obscure	/ɑbˈskjʊr, əb-/
-observe	/əbˈzɚv/
-observance	/əbˈzɚvəns/
-observant	/əbˈzɚvənt/
+observe	/əbˈzɝv/
+observance	/əbˈzɝvəns/
+observant	/əbˈzɝvənt/
 observation	/ˌɑbsɚˈveɪʃən, -zɚ-/
-observatory	/əbˈzɚvəˌtori/
+observatory	/əbˈzɝvəˌtori/
 obsess	/əbˈsεs/
 obsession	/ɑbˈsεʃən, əb-/
 obsessive	/ɑbˈsεsɪv, əb-/
@@ -8540,8 +8540,8 @@ occupancy	/ˈɑkjəpənsi/
 occupant	/ˈɑkjəpənt/
 occupation	/ˌɑkjəˈpeɪʃən/
 occupational	/ˌɑkjəˈpeɪʃənəl/
-occur	/əˈkɚ/
-occurrence	/əˈkɚəns/
+occur	/əˈkɝ/
+occurrence	/əˈkɝəns/
 ocean	/ˈoːʃən/
 ochre	/ˈoːkɚ/
 octagon	/ˈɑktəˌgɑn/
@@ -8725,7 +8725,7 @@ out–of–door	/ˌaʊt̬əvˈdor/
 out–of–doors	/-ˈdorz/
 motor	/ˈaʊtˌbord/
 outbreak	/ˈaʊtˌbreɪk/
-outburst	/ˈaʊtˌbɚst/
+outburst	/ˈaʊtˌbɝst/
 outcast	/ˈaʊtˌkæst/
 outcome	/ˈaʊtˌkʌm/
 outcry	/ˈaʊtˌkraɪ/
@@ -8764,7 +8764,7 @@ outright	/ˌaʊtˈraɪt/
 outset	/ˈaʊtˌsεt/
 outside	/ˌaʊtˈsaɪd, ˈaʊtˌ-/
 outsider	/ˌaʊtˈsaɪdɚ/
-outskirts	/ˈaʊtˌskɚts/
+outskirts	/ˈaʊtˌskɝts/
 outspoken	/ˌaʊtˈspoːkən/
 outstanding	/ˌaʊtˈstændɪŋ/
 outstretched	/ˌaʊtˈstrεtʃt/
@@ -8861,7 +8861,7 @@ overturn	/ˌoːvɚˈtɝn/
 overweight	/ˌoːvɚˈweɪt/
 overwhelm	/ˌoːvɚˈhwεlm/
 overwhelming	/ˌoːvɚˈhwεlmɪŋ/
-overwork	/ˌoːvɚˈwɚk/
+overwork	/ˌoːvɚˈwɝk/
 overwrought	/ˌoːvɚˈrɔt/
 owe	/ˈoː/
 owl	/ˈaʊl/
@@ -8947,7 +8947,7 @@ papaya	/pəˈpaɪə/
 paper	/ˈpeɪpɚ/
 paperback	/ˈpeɪpɚˌbæk/
 paperweight	/ˈpeɪpɚˌweɪt/
-paperwork	/ˈpeɪpɚˌwɚk/
+paperwork	/ˈpeɪpɚˌwɝk/
 paprika	/pəˈpriːkə, pæ-/
 par	/ˈpɑr/
 parable	/ˈpærəbəl/
@@ -9024,7 +9024,7 @@ passionate	/ˈpæʃənət/
 passive	/ˈpæsɪv/
 Passover	/ˈpæsˌoːvɚ/
 passport	/ˈpæsˌport/
-password	/ˈpæsˌwɚd/
+password	/ˈpæsˌwɝd/
 past	/ˈpæst/
 pasta	/ˈpɑstə, ˈpæs-/
 paste	/ˈpeɪst/
@@ -9041,8 +9041,8 @@ patchy	/ˈpætʃi/
 patent /ˈpætənt/
 patent (adj) /ˈpætənt, ˈpeɪt-/
 patented	/ˈpætəntəd/
-paternal	/pəˈtɚnəl/
-paternity	/pəˈtɚnət̬i/
+paternal	/pəˈtɝnəl/
+paternity	/pəˈtɝnət̬i/
 path	/ˈpæθ, ˈpaθ/
 pathetic	/pəˈθεt̬ɪk/
 pathology	/pəˈθɑlədƷi/
@@ -9082,7 +9082,7 @@ peak	/ˈpiːk/
 peal	/ˈpiːl/
 peanut	/ˈpiːˌnʌt/
 pear	/ˈpεər/
-pearl	/ˈpɚl/
+pearl	/ˈpɝl/
 peasant	/ˈpεzənt/
 peat	/ˈpiːt/
 pebble	/ˈpεbəl/
@@ -9142,26 +9142,26 @@ people	/ˈpiːpəl/
 pep	/ˈpεp/
 pepper	/ˈpεpɚ/
 peppermint	/ˈpεpɚˌmɪnt/
-per	/ˈpɚ/
+per	/ˈpɝ/
 perceive	/pɚˈsiːv/
 percent	/pɚˈsεnt/
 percentage	/pɚˈsεntɪdƷ/
 perception	/pɚˈsεpʃən/
 perceptive	/pɚˈsεptɪv/
-perch 1	/ˈpɚtʃ/
-percolate	/ˈpɚkəˌleɪt/
-percolator	/ˈpɚkəˌleɪt̬ɚ/
+perch 1	/ˈpɝtʃ/
+percolate	/ˈpɝkəˌleɪt/
+percolator	/ˈpɝkəˌleɪt̬ɚ/
 percussion	/pɚˈkʌʃən/
 perennial	/pəˈrεniəl/
-perfect	/ˈpɚfɪkt/
+perfect	/ˈpɝfɪkt/
 ~	/pɚˈfεkt/
 perfection	/pɚˈfεkʃən/
 perfectionist	/pɚˈfεkʃənɪst/
-perforate	/ˈpɚfəˌreɪt/
+perforate	/ˈpɝfəˌreɪt/
 perform	/pɚˈfɔrm/
 performance	/pɚˈfɔrməns/
 performer	/pɚˈfɔrmɚ/
-perfume	/ˈpɚˌfjuːm, pɚˈ-/
+perfume	/ˈpɝˌfjuːm, pɚˈ-/
 perhaps	/pɚˈhæps/
 peril	/ˈpεrəl/
 perilous	/ˈpεrələs/
@@ -9173,33 +9173,33 @@ peripheral	/pəˈrɪfɚəl/
 perish	/ˈpεrɪʃ/
 perishable	/ˈpεrɪʃəbəl/
 perishables	/ˈpεrɪʃəbəlz/
-perjury	/ˈpɚdƷɚi/
-perk	/ˈpɚk/
-perky	/ˈpɚki/
-permanence	/ˈpɚmənəns/
-permanent	/ˈpɚmənənt/
-permeate	/ˈpɚmiˌeɪt/
-permission	/pɚˈmɪʃən/
+perjury	/ˈpɝdƷɚi/
+perk	/ˈpɝk/
+perky	/ˈpɝki/
+permanence	/ˈpɝmənəns/
+permanent	/ˈpɝmənənt/
+permeate	/ˈpɝmiˌeɪt/
+permission	/pɝˈmɪʃən/
 permissible	/pɚˈmɪsəbəl/
 permissive	/pɚˈmɪsɪv/
 permit	/pɚˈmɪt/
-~	/ˈpɚˌmɪt, pɚˈ-/
+~	/ˈpɝˌmɪt, pɚˈ-/
 peroxide	/pəˈrɑkˌsaɪd/
-perpendicular	/ˌpɚpənˈdɪkjəlɚ/
-perpetrate	/ˈpɚpəˌtreɪt/
-perpetrator	/ˈpɚpəˌtreɪt̬ɚ/
+perpendicular	/ˌpɝpənˈdɪkjəlɚ/
+perpetrate	/ˈpɝpəˌtreɪt/
+perpetrator	/ˈpɝpəˌtreɪt̬ɚ/
 perpetual	/pɚˈpεtʃʊəl/
 perplex	/pɚˈplεks/
 perplexing	/pɚˈplεksɪŋ/
 perplexity	/pɚˈplεksət̬i/
-persecute	/ˈpɚsɪˌkjuːt/
-persecution	/ˌpɚsɪˈkjuːʃən/
-persevere	/ˌpɚsəˈvɪr/
-perseverance	/ˌpɚsəˈvɪrəns/
+persecute	/ˈpɝsɪˌkjuːt/
+persecution	/ˌpɝsɪˈkjuːʃən/
+persevere	/ˌpɝsəˈvɪr/
+perseverance	/ˌpɝsəˈvɪrəns/
 persist	/pɚˈsɪst/
 persistence	/pɚˈsɪstəns/
 persistent	/pɚˈsɪstənt/
-person	/ˈpɚsən/
+person	/ˈpɝsən/
 personal	/ˈpɚsənəl/
 personality	/ˌpɚsənˈælət̬i/
 personally	/ˈpɚsənəli/
