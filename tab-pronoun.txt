@@ -10962,7 +10962,7 @@ scholarly	/ˈskɑlɚli/
 scholarship	/ˈskɑlɚˌʃɪp/
 school 1	/ˈskuːl/
 schoolboy	/ˈskuːlˌbɔɪ/
-schoolgirl	/ˈskuːlˌgɚl/
+schoolgirl	/ˈskuːlˌgɝl/
 schoolteacher	/ˈskuːlˌtiːtʃɚ/
 science	/ˈsaɪəns/
 scientific	/ˌsaɪənˈtɪfɪk/
@@ -10984,7 +10984,7 @@ Scotch	/ˈskɑtʃ/
 Scottish	/ˈskɑt̬ɪʃ/
 scoundrel	/ˈskaʊndrəl/
 scour	/ˈskaʊɚ/
-scourge	/ˈskɚdƷ/
+scourge	/ˈskɝdƷ/
 scout	/ˈskaʊt/
 scowl	/ˈskaʊl/
 scram	/ˈskræm/
@@ -11017,8 +11017,8 @@ sculpture	/ˈskʌlptʃɚ/
 sculpt	/ˈskʌlpt/
 sculptor	/ˈskʌlptɚ/
 scum	/ˈskʌm/
-scurry	/ˈskɚi/
-scuttle 1	/ˈskʌt̬əl/
+scurry	/ˈskɝi/
+scuttle	/ˈskʌt̬əl/
 sea	/ˈsiː/
 seafarer	/ˈsiːˌfεərɚ/
 seafood	/ˈsiːˌfuːd/
@@ -11030,8 +11030,8 @@ seamen	/-mən, -ˌmεn/
 seamy	/ˈsiːmi/
 seaplane	/ˈsiːˌpleɪn/
 seaport	/ˈsiːˌport/
-search	/ˈsɚtʃ/
-searchlight	/ˈsɚtʃˌlaɪt/
+search	/ˈsɝtʃ/
+searchlight	/ˈsɝtʃˌlaɪt/
 seashell	/ˈsiːˌʃεl/
 seashore	/ˈsiːˌʃor/
 seasick	/ˈsiːˌsɪk/
@@ -11113,7 +11113,7 @@ self–pity	/ˌsεlfˈpɪt̬i/
 self–portrait	/ˌsεlfˈpɔrtrət/
 self–respect	/ˌsεlfriˈspεkt/
 self–righteous	/ˌsεlfˈraɪtʃəs/
-self–service	/ˌsεlfˈsɚvɪs/
+self–service	/ˌsεlfˈsɝvɪs/
 self–sufficient	/ˌsεlfsəˈfɪʃənt/
 self–taught	/ˌsεlfˈtɔt/
 sell	/ˈsεl/
@@ -11157,8 +11157,8 @@ separately	/ˈsεprətli, ˈsεpə-/
 September	/sεpˈtεmbɚ/
 sequel	/ˈsiːkwəl/
 sequence	/ˈsiːkwəns/
-Serb	/ˈsɚb/
-Serbian	/ˈsɚbiən/
+Serb	/ˈsɝb/
+Serbian	/ˈsɝbiən/
 serene	/səˈriːn/
 serenity	/səˈrεnət̬i/
 sergeant	/ˈsɑrdƷənt/
@@ -11166,15 +11166,15 @@ serial	/ˈsɪriəl/
 series	/ˈsɪrˌiːz/
 serious	/ˈsɪriəs/
 seriously	/ˈsɪriəsli/
-sermon	/ˈsɚmən/
-serpent	/ˈsɚpənt/
-servant	/ˈsɚvənt/
-serve	/ˈsɚv/
-server	/ˈsɚvɚ/
-service	/ˈsɚvəs/
-serviceman	/ˈsɚvəsˌmæn, -mən/
+sermon	/ˈsɝmən/
+serpent	/ˈsɝpənt/
+servant	/ˈsɝvənt/
+serve	/ˈsɝv/
+server	/ˈsɝvɚ/
+service	/ˈsɝvəs/
+serviceman	/ˈsɝvəsˌmæn, -mən/
 servicemen	/-mən, -ˌmεn/
-serving	/ˈsɚvɪŋ/
+serving	/ˈsɝvɪŋ/
 session	/ˈsεʃən/
 set	/ˈsεt/
 setback	/ˈsεtˌbæk/
@@ -11267,7 +11267,7 @@ shellfish	/ˈʃεlˌfɪʃ/
 shelter	/ˈʃεltɚ/
 shelve	/ˈʃεlv/
 shepherd	/ˈʃεpɚd/
-sherbet	/ˈʃɚbət/
+sherbet	/ˈʃɝbət/
 sheriff	/ˈʃεrɪf/
 sherry	/ˈʃεri/
 shield	/ˈʃiːld/
@@ -11288,8 +11288,8 @@ shipping	/ˈʃɪpɪŋ/
 shipshape	/ˈʃɪpˈʃeɪp/
 shipwreck	/ˈʃɪpˌrεk/
 shipyard	/ˈʃɪpˌjɑrd/
-shirk	/ˈʃɚk/
-shirt	/ˈʃɚt/
+shirk	/ˈʃɝk/
+shirt	/ˈʃɝt/
 shiver	/ˈʃɪvɚ/
 shoal	/ˈʃoːl/
 shock	/ˈʃɑk/
@@ -11365,7 +11365,7 @@ sickly	/ˈsɪkli/
 sickness	/ˈsɪknəs/
 side	/ˈsaɪd/
 sideboard	/ˈsaɪdˌbord/
-sideburns	/ˈsaɪdˌbɚnz/
+sideburns	/ˈsaɪdˌbɝnz/
 sideline	/ˈsaɪdˌlaɪn/
 sidestep	/ˈsaɪdˌstεp/
 sidetrack	/ˈsaɪdˌtræk/
@@ -11426,9 +11426,9 @@ sunk	/ˈsʌŋk/
 sinner	/ˈsɪnɚ/
 sip	/ˈsɪp/
 siphon	/ˈsaɪfən/
-sir	/ˈsɚ/
+sir	/ˈsɝ/
 siren	/ˈsaɪrən/
-sirloin	/ˈsɚˌlɔɪn/
+sirloin	/ˈsɝˌlɔɪn/
 sissy	/ˈsɪsi/
 sister	/ˈsɪstɚ/
 sister–in–law	/ˈsɪstɚɪnˌlɔ/
@@ -11471,8 +11471,8 @@ skin	/ˈskɪn/
 skinny	/ˈskɪni/
 skip	/ˈskɪp/
 skipper	/ˈskɪpɚ/
-skirmish	/ˈskɚmɪʃ/
-skirt	/ˈskɚt/
+skirmish	/ˈskɝmɪʃ/
+skirt	/ˈskɝt/
 skull	/ˈskʌl/
 skunk	/ˈskʌŋk/
 sky	/ˈskaɪ/
@@ -11547,18 +11547,18 @@ slow	/ˈsloː/
 slowly	/ˈsloːli/
 slowness	/ˈsloːnəs/
 sludge	/ˈslʌdƷ/
-slug 1	/ˈslʌg/
+slug	/ˈslʌg/
 sluggish	/ˈslʌgɪʃ/
 slum	/ˈslʌm/
 slumber	/ˈslʌmbɚ/
 slump	/ˈslʌmp/
-slur 1	/ˈslɚ/
-slurp	/ˈslɚp/
+slur	/ˈslɝ/
+slurp	/ˈslɝp/
 slush	/ˈslʌʃ/
 sly	/ˈslaɪ/
 slier	/ˈslaɪɚ/
 sliest	/ˈslaɪəst/
-smack 1	/ˈsmæk/
+smack	/ˈsmæk/
 small	/ˈsmɔl/
 smallpox	/ˈsmɔlˌpɑks/
 smart	/ˈsmɑrt/
@@ -11571,7 +11571,7 @@ smelt	/ˈsmεlt/
 smelly	/ˈsmεli/
 smelt	/ˈsmεlt/
 smile	/ˈsmaɪl/
-smirk	/ˈsmɚk/
+smirk	/ˈsmɝk/
 smith	/ˈsmɪθ/
 smitten	/ˈsmɪtən/
 smock	/ˈsmɑk/
@@ -11797,7 +11797,7 @@ spellbound	/ˈspεlˌbaʊnd/
 spelling	/ˈspεlɪŋ/
 spend	/ˈspεnd/
 spent	/ˈspεnt/
-sperm	/ˈspɚm/
+sperm	/ˈspɝm/
 spew	/ˈspjuː/
 sphere	/ˈsfɪr/
 spherical	/ˈsfɪrɪkəl, ˈsfεr-/
@@ -11835,7 +11835,7 @@ splendid	/ˈsplεndəd/
 splint	/ˈsplɪnt/
 splinter	/ˈsplɪntɚ/
 split	/ˈsplɪt/
-splurge	/ˈsplɚdƷ/
+splurge	/ˈsplɝdƷ/
 spoil	/ˈspɔɪl/
 spoilt	/ˈspɔɪlt/
 spoke 1	/ˈspoːk/
@@ -11885,13 +11885,13 @@ sprinkle	/ˈsprɪŋkəl/
 sprinkler	/ˈsprɪŋkəlɚ/
 sprint	/ˈsprɪnt/
 sprout	/ˈspraʊt/
-spruce 1	/ˈspruːs/
+spruce	/ˈspruːs/
 spry	/ˈspraɪ/
 spryer	/ˈspraɪɚ/
 spryest	/ˈspraɪəst/
-spur	/ˈspɚ/
-spurn	/ˈspɚn/
-spurt 1	/ˈspɚt/
+spur	/ˈspɝ/
+spurn	/ˈspɝn/
+spurt	/ˈspɝt/
 spy	/ˈspaɪ/
 squabble	/ˈskwɑbəl/
 squad	/ˈskwɑd/
@@ -11911,9 +11911,9 @@ squeamish	/ˈskwiːmɪʃ/
 squeeze	/ˈskwiːz/
 squid	/ˈskwɪd/
 squint	/ˈskwɪnt/
-squirm	/ˈskwɚm/
-squirrel	/ˈskwɚəl/
-squirt	/ˈskwɚt/
+squirm	/ˈskwɝm/
+squirrel	/ˈskwɝəl/
+squirt	/ˈskwɝt/
 stab	/ˈstæb/
 stable	/ˈsteɪbəl/
 stability	/stəˈbɪlət̬i/
@@ -12024,13 +12024,13 @@ sterile	/ˈstεrəl/
 sterility	/stəˈrɪlət̬i/
 sterilization	/ˌstεrələˈzeɪʃən/
 sterilize	/ˈstεrəˌlaɪz/
-sterling	/ˈstɚlɪŋ/
-stern 1	/ˈstɚn/
+sterling	/ˈstɝlɪŋ/
+stern	/ˈstɝn/
 stethoscope	/ˈstεθəˌskoːp/
 stew	/ˈstuː, ˈstjuː/
 steward	/ˈstuːɚd, ˈstjuː-/
 stewardess	/ˈstuːɚdəs, ˈstjuː-/
-stick 1	/ˈstɪk/
+stick	/ˈstɪk/
 stuck	/ˈstʌk/
 sticker	/ˈstɪkɚ/
 stickler	/ˈstɪklɚ/
@@ -12060,8 +12060,8 @@ stank	/ˈstæŋk/
 stunk	/ˈstʌŋk/
 stint	/ˈstɪnt/
 stipulate	/ˈstɪpjəˌleɪt/
-stir	/ˈstɚ/
-stirrup	/ˈstɚəp, ˈstɪr-/
+stir	/ˈstɝ/
+stirrup	/ˈstɝəp, ˈstɪr-/
 stitch	/ˈstɪtʃ/
 stock	/ˈstɑk/
 stockbroker	/ˈstɑkˌbroːkɚ/
@@ -12073,7 +12073,7 @@ stoic	/ˈstoːɪk/
 stoical	/-ɪkəl/
 stoicism	/ˈstoːəˌsɪzəm/
 stoke	/ˈstoːk/
-stole 1	/ˈstoːl/
+stole	/ˈstoːl/
 stomach	/ˈstʌmɪk/
 stomachache	/ˈstʌmɪkˌeɪk/
 stone	/ˈstoːn/
@@ -12191,14 +12191,14 @@ stunt 1	/ˈstʌnt/
 stupendous	/stʊˈpεndəs, stjʊ-/
 stupid	/ˈstuːpəd, ˈstjuː-/
 stupidity	/stʊˈpɪdət̬i, stjʊ-/
-sturdy	/ˈstɚdi/
+sturdy	/ˈstɝdi/
 stutter	/ˈstʌt̬ɚ/
 sty	/ˈstaɪ/
 style	/ˈstaɪl/
 stylish	/ˈstaɪlɪʃ/
 stylist	/ˈstaɪlɪst/
 suave	/ˈswɑv/
-sub 1	/ˈsʌb/
+sub	/ˈsʌb/
 subconscious	/səbˈkɑnʃəs/
 subdivide	/ˌsʌbdəˈvaɪd, ˈsʌbdəˌvaɪd/
 subdivision	/ˈsʌbdəˌvɪƷən/
@@ -12209,7 +12209,7 @@ subjective	/səbˈdƷεktɪv/
 subjunctive	/səbˈdƷʌŋktɪv/
 sublime	/səˈblaɪm/
 submarine	/ˈsʌbməˌriːn, ˌsʌbməˈ-/
-submerge	/səbˈmɚdƷ/
+submerge	/səbˈmɝdƷ/
 submit	/səbˈmɪt/
 submission	/səbˈmɪʃən/
 submissive	/səbˈmɪsɪv/
@@ -12221,7 +12221,7 @@ subscriber	/səbˈskraɪbɚ/
 subscription	/səbˈskrɪpʃən/
 subsequent	/ˈsʌbsɪkwənt, -səˌkwεnt/
 subsequently	/ˈsʌbˌkwεntli, -kwənt-/
-subservient	/səbˈsɚviənt/
+subservient	/səbˈsɝviənt/
 subside	/səbˈsaɪd/
 subsidiary	/səbˈsɪdiˌεri/
 subsidy	/ˈsʌbsədi/
@@ -12240,10 +12240,10 @@ subtle	/ˈsʌt̬əl/
 subtlety	/ˈsʌt̬əlti/
 subtraction	/səbˈtrækʃən/
 subtract	/səbˈtrækt/
-suburb	/ˈsʌˌbɚb/
-suburban	/səˈbɚbən/
-subversion	/səbˈvɚƷən/
-subversive	/səbˈvɚsɪv/
+suburb	/ˈsʌˌbɝb/
+suburban	/səˈbɝbən/
+subversion	/səbˈvɝƷən/
+subversive	/səbˈvɝsɪv/
 subway	/ˈsʌbˌweɪ/
 succeed	/səkˈsiːd/
 success	/səkˈsεs/
@@ -12302,7 +12302,7 @@ sumptuous	/ˈsʌmptʃʊəs/
 sun	/ˈsʌn/
 sunbathe	/ˈsʌnˌbeɪð/
 sunbeam	/ˈsʌnˌbiːm/
-sunburn	/ˈsʌnˌbɚn/
+sunburn	/ˈsʌnˌbɝn/
 Sunday	/ˈsʌnˌdeɪ, -di/
 sundry	/ˈsʌndri/
 sunflower	/ˈsʌnˌflaʊɚ/
@@ -12315,14 +12315,14 @@ sunset	/ˈsʌnˌsεt/
 sunshine	/ˈsʌnˌʃaɪn/
 suntan	/ˈsʌnˌtæn/
 super	/ˈsuːpɚ/
-superb	/sʊˈpɚb/
+superb	/sʊˈpɝb/
 superficial	/ˌsuːpɚˈfɪʃəl/
-superfluous	/sʊˈpɚflʊəs/
+superfluous	/sʊˈpɝflʊəs/
 superimpose	/ˌsuːpɚɪmˈpoːz/
 superintendent	/ˌsuːpɚɪnˈtεndənt/
 superior	/sʊˈpɪriɚ/
 superiority	/sʊˌpɪriˈɔrət̬i/
-superlative	/sʊˈpɚlət̬ɪv/
+superlative	/sʊˈpɝlət̬ɪv/
 supermarket	/ˈsuːpɚˌmɑrkət/
 supernatural	/ˌsuːpɚˈnætʃɚəl/
 superpower	/ˈsuːpɚˌpaʊɚ/
@@ -12351,28 +12351,28 @@ supreme	/sʊˈpriːm/
 supremacy	/sʊˈprεməsi/
 sure	/ˈʃʊr/
 surely	/ˈʃʊrli/
-surface	/ˈsɚfəs/
-surfeit	/ˈsɚfət/
-surfing	/ˈsɚfɪŋ/
-surfing	/ˈsɚfɪŋ/
-surge	/ˈsɚdƷ/
-surgeon	/ˈsɚdƷən/
-surgery	/ˈsɚdƷɚi/
-surgical	/ˈsɚdƷɪkəl/
-surly	/ˈsɚli/
+surf	/ˈsɝf/
+surface	/ˈsɝfəs/
+surfeit	/ˈsɝfət/
+surfing	/ˈsɝfɪŋ/
+surge	/ˈsɝdƷ/
+surgeon	/ˈsɝdƷən/
+surgery	/ˈsɝdƷɚi/
+surgical	/ˈsɝdƷɪkəl/
+surly	/ˈsɝli/
 surmount	/sɚˈmaʊnt/
-surname	/ˈsɚˌneɪm/
+surname	/ˈsɝˌneɪm/
 surpass	/sɚˈpæs/
-surplus	/ˈsɚˌplʌs/
+surplus	/ˈsɝˌplʌs/
 surprise	/səˈpraɪz, sɚ-/
 surprising	/səˈpraɪzɪŋ, sɚ-/
 surrender	/səˈrεndɚ/
-surrogate	/ˈsɚəgət, -ˌgeɪt/
+surrogate	/ˈsɝəgət, -ˌgeɪt/
 surround	/səˈraʊnd/
 surroundings	/səˈraʊndɪŋz/
 surveillance	/sɚˈveɪləns, -ˈveɪljəns, -ˈveɪəns/
 survey	/sɚˈveɪ/
-~	/ˈsɚˌveɪ/
+~	/ˈsɝˌveɪ/
 surveyor	/sɚˈveɪɚ/
 survive	/sɚˈvaɪv/
 survival	/sɚˈvaɪvəl/
@@ -12399,10 +12399,10 @@ sway	/ˈsweɪ/
 swear	/ˈswεər/
 swore	/ˈswor/
 sworn	/ˈsworn/
-swearword	/ˈswεərˌwɚd/
+swearword	/ˈswεərˌwɝd/
 sweat	/ˈswεt/
 sweater	/ˈswεt̬ɚ/
-sweatshirt	/ˈswεtˌʃɚt/
+sweatshirt	/ˈswεtˌʃɝt/
 sweaty	/ˈswεt̬i/
 Swedish	/ˈswiːdɪʃ/
 sweep	/ˈswiːp/
@@ -12418,7 +12418,7 @@ swell	/ˈswεl/
 swollen	/ˈswoːlən, ˈswʌl-/
 swelling	/ˈswεlɪŋ/
 sweltering	/ˈswεltɚɪŋ/
-swerve	/ˈswɚv/
+swerve	/ˈswɝv/
 swift	/ˈswɪft/
 swig	/ˈswɪg/
 swim	/ˈswɪm/
@@ -12430,7 +12430,7 @@ swine	/ˈswaɪn/
 swing	/ˈswɪŋ/
 swung	/ˈswʌŋ/
 swipe	/ˈswaɪp/
-swirl	/ˈswɚl/
+swirl	/ˈswɝl/
 swish	/ˈswɪʃ/
 Swiss	/ˈswɪs/
 switch	/ˈswɪtʃ/
@@ -12472,7 +12472,7 @@ synthetic	/sɪnˈθεt̬ɪk/
 syphilis	/ˈsɪfələs/
 Syrian	/ˈsɪriən/
 syringe	/səˈrɪndƷ, ˈsɪrɪndƷ/
-syrup	/ˈsɚəp, ˈsɪrəp/
+syrup	/ˈsɝəp, ˈsɪrəp/
 system	/ˈsɪstəm/
 systematic	/ˌsɪstəˈmæt̬ɪk/
 t	/ˈtiː/
@@ -14314,4 +14314,4 @@ zone	/ˈzoːn/
 zoo	/ˈzuː/
 zoology	/zoˈɑlədƷi, zuː-/
 zoom	/ˈzuːm/
-zucchini	/zʊˈkiːni/
+zucchini	/zuˈkiːni/
