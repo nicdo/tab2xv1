@@ -9211,12 +9211,12 @@ persuade	/pɚˈsweɪd/
 persuasion	/pɚˈsweɪƷən/
 pertain	/pɚˈteɪn/
 pertinent	/ˈpɝtənənt/
-perturb	/pɚˈtɚb/
+perturb	/pɚˈtɝb/
 Peruvian	/pəˈruːviən/
 pervade	/pɚˈveɪd/
 pervasive	/pɚˈveɪsɪv, -zɪv/
-perverse	/pɚˈvɚs/
-pervert	/ˈpɝˌvɚt/
+perverse	/pɚˈvɝs/
+pervert	/ˈpɝˌvɝt/
 peso	/ˈpeɪˌsoː/
 pessimism	/ˈpεsəˌmɪzəm/
 pessimist	/ˈpεsəmɪst/
@@ -10138,7 +10138,7 @@ rebel	/ˈrεbəl/
 ~	/rɪˈbεl/
 rebellion	/rɪˈbεljən/
 rebellious	/rɪˈbεljəs/
-rebirth	/ˌriːˈbɚθ/
+rebirth	/ˌriːˈbɝθ/
 rebound	/ˈriːˌbaʊnd, ˌriːˈbaʊnd/
 rebuff	/riˈbʌf/
 rebuild	/ˌriːˈbɪld/
@@ -10212,9 +10212,9 @@ rectum	/ˈrεktəm/
 ta	/-tə/
 recuperate	/riˈkuːpəˌreɪt, -ˈkjuː-/
 recuperation	/riˌkuːpəˈreɪʃən, -ˌkjuː-/
-recur	/riˈkɚ/
-recurrence	/riˈkɚəns/
-recurrent	/riˈkɚənt/
+recur	/riˈkɝ/
+recurrence	/riˈkɝəns/
+recurrent	/riˈkɝənt/
 recycle	/riˈsaɪkəl/
 red	/ˈrεd/
 redden	/ˈrεdən/
@@ -10238,7 +10238,7 @@ reef	/ˈriːf/
 reek	/ˈriːk/
 reel	/ˈriːl/
 reestablish	/ˌriːɪˈstæblɪʃ/
-refer	/riˈfɚ/
+refer	/riˈfɝ/
 referee	/ˌrεfəˈriː/
 reference	/ˈrεfrəns, ˈrεfə-/
 refill	/ˌriːˈfɪl/
@@ -10265,7 +10265,7 @@ refuge	/ˈrεˌfjuːdƷ/
 refugee	/ˌrεfjʊˈdƷiː/
 refund	/riˈfʌnd, ˈriːˌfʌnd/
 ~	/ˈriːˌfʌnd/
-refurbish	/riˈfɚbɪʃ/
+refurbish	/riˈfɝbɪʃ/
 refuse 1	/riˈfjuːz/
 refusal	/riˈfjuːzəl/
 refuse 2	/ˈrεˌfjuːs, -ˌfjuːz/
@@ -10295,11 +10295,11 @@ regulate	/ˈrεgjəˌleɪt/
 regulation	/ˌrεgjəˈleɪʃən/
 rehabilitate	/ˌriːhəˈbɪləˌteɪt, ˌriːə-/
 rehabilitation	/ˌriːhəˌbɪləˈteɪʃən, ˌriːə-/
-rehearse	/riˈhɚs/
-rehearsal	/riˈhɚsəl/
+rehearse	/riˈhɝs/
+rehearsal	/riˈhɝsəl/
 reign	/ˈreɪn/
-reimburse	/ˌriːəmˈbɚs/
-reimbursement	/ˌriːəmˈbɚsmənt/
+reimburse	/ˌriːəmˈbɝs/
+reimbursement	/ˌriːəmˈbɝsmənt/
 rein	/ˈreɪn/
 reincarnation	/ˌriːɪnˌkɑrˈneɪʃən/
 reindeer	/ˈreɪnˌdɪr/
@@ -10451,16 +10451,16 @@ resale	/ˈriːˌseɪl, ˌriːˈseɪl/
 rescind	/riˈsɪnd/
 rescue	/ˈrεsˌkjuː/
 rescuer	/ˈrεskjuɚ/
-research	/riˈsɚtʃ, ˈriːˌsɚtʃ/
-researcher	/riˈsɚtʃɚ, ˈriːˌ-/
+research	/riˈsɝtʃ, ˈriːˌsɝtʃ/
+researcher	/riˈsɝtʃɚ, ˈriːˌ-/
 resemble	/riˈzεmbəl/
 resemblance	/riˈzεmbləns/
 resent	/riˈzεnt/
 resentful	/riˈzεntfəl/
 resentment	/riˈzεntmənt/
-reserve	/riˈzɚv/
+reserve	/riˈzɝv/
 reservation	/ˌrεzɚˈveɪʃən/
-reserved	/riˈzɚvd/
+reserved	/riˈzɝvd/
 reservoir	/ˈrεzɚˌvwɑr, -ˌvwɔr, -ˌvɔr/
 reset	/ˌriːˈsεt/
 residence	/ˈrεzədəns/
@@ -10514,7 +10514,7 @@ restrictive	/riˈstrɪktɪv/
 result	/riˈzʌlt/
 resume	/riˈzuːm/
 resumption	/riˈzʌmpʃən/
-resurgence	/riˈsɚdƷəns/
+resurgence	/riˈsɝdƷəns/
 resurrection	/ˌrεzəˈrεkʃən/
 resurrect	/ˌrεzəˈrεkt/
 resuscitate	/riˈsʌsəˌteɪt/
@@ -10546,7 +10546,7 @@ retriever	/riˈtriːvɚ/
 retroactive	/ˌrεtroˈæktɪv/
 retrospect	/ˈrεtrəˌspεkt/
 retrospective	/ˌrεtrəˈspεktɪv/
-return	/riˈtɚn/
+return	/riˈtɝn/
 reunite	/ˌriːjʊˈnaɪt/
 reunion	/riˈjuːnjən/
 revamp	/ˌriˈvæmp/
@@ -10556,16 +10556,16 @@ revelation	/ˌrεvəˈleɪʃən/
 revelry	/ˈrεvəlri/
 revenge	/riˈvεndƷ/
 revenue	/ˈrεvəˌnuː, -ˌnjuː/
-reverberate	/riˈvɚbəˌreɪt/
+reverberate	/riˈvɝbəˌreɪt/
 reverence	/ˈrεvɚəns/
 revere	/riˈvɪr/
 reverend	/ˈrεvɚənd/
 reverent	/ˈrεvɚənt/
 reverie	/ˈrεvɚi/
-reverse	/riˈvɚs/
-reversible	/riˈvɚsəbəl/
-reversal	/ˈrεvɚsəl/
-revert	/riˈvɚt/
+reverse	/riˈvɝs/
+reversible	/riˈvɝsəbəl/
+reversal	/riˈvɝsəl/
+revert	/riˈvɝt/
 review	/riˈvjuː/
 reviewer	/riˈvjuːɚ/
 revile	/riˈvaɪl/
