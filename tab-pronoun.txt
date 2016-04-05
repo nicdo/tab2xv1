@@ -9200,23 +9200,23 @@ persist	/pɚˈsɪst/
 persistence	/pɚˈsɪstəns/
 persistent	/pɚˈsɪstənt/
 person	/ˈpɝsən/
-personal	/ˈpɚsənəl/
-personality	/ˌpɚsənˈælət̬i/
-personally	/ˈpɚsənəli/
-personnel	/ˌpɚsənˈεl/
+personal	/ˈpɝsənəl/
+personality	/ˌpɝsənˈælət̬i/
+personally	/ˈpɝsənəli/
+personnel	/ˌpɝsənˈεl/
 perspective	/pɚˈspεktɪv/
-perspiration	/ˌpɚspəˈreɪʃən/
+perspiration	/ˌpɝspəˈreɪʃən/
 perspire	/pɚˈspaɪr/
 persuade	/pɚˈsweɪd/
 persuasion	/pɚˈsweɪƷən/
 pertain	/pɚˈteɪn/
-pertinent	/ˈpɚtənənt/
+pertinent	/ˈpɝtənənt/
 perturb	/pɚˈtɚb/
 Peruvian	/pəˈruːviən/
 pervade	/pɚˈveɪd/
 pervasive	/pɚˈveɪsɪv, -zɪv/
 perverse	/pɚˈvɚs/
-pervert	/ˈpɚˌvɚt/
+pervert	/ˈpɝˌvɚt/
 peso	/ˈpeɪˌsoː/
 pessimism	/ˈpεsəˌmɪzəm/
 pessimist	/ˈpεsəmɪst/
@@ -9552,7 +9552,7 @@ practitioner	/prækˈtɪʃənɚ/
 pragmatic	/prægˈmæt̬ɪk/
 prairie	/ˈprεəri/
 praise	/ˈpreɪz/
-praiseworthy	/ˈpreɪzˌwɚði/
+praiseworthy	/ˈpreɪzˌwɝði/
 prance	/ˈpræns/
 prank	/ˈpræŋk/
 prawn	/ˈprɔn/
@@ -9589,7 +9589,7 @@ preempt	/priˈεmpt/
 preen	/ˈpriːn/
 prefabricated	/ˌpriːˈfæbrəˌkeɪt̬əd/
 preface	/ˈprεfəs/
-prefer	/prɪˈfɚ/
+prefer	/prɪˈfɝ/
 preferable	/ˈprεfɚəbəl/
 preference	/ˈprεfrəns, ˈprεfɚ-/
 preferential	/ˌprεfəˈrεnʃəl/
@@ -9626,9 +9626,9 @@ present 2	/ˈprεzənt/
 ~	/prɪˈzεnt/
 presentation	/ˌpriːˌzεnˈteɪʃən, ˌprεzən-/
 presently	/ˈprεzəntli/
-preserve	/prɪˈzɚv/
+preserve	/prɪˈzɝv/
 preservation	/ˌprεzɚˈveɪʃən/
-preservative	/prɪˈzɚvə-t̬ɪv/
+preservative	/prɪˈzɝvə-t̬ɪv/
 president	/ˈprεzədənt/
 presidency	/ˈprεzədənsi/
 presidential	/ˌprεzəˈdεnʃəl/
@@ -9818,8 +9818,8 @@ protégé	/ˈproːt̬əˌƷeɪ/
 proud	/ˈpraʊd/
 prove	/ˈpruːv/
 proven	/ˈpruːvən/
-proverb	/ˈprɑˌvɚb/
-proverbial	/prəˈvɚbiəl/
+proverb	/ˈprɑˌvɝb/
+proverbial	/prəˈvɝbiəl/
 provide	/prəˈvaɪd/
 provided	/prəˈvaɪdəd/
 providence	/ˈprɑvədəns/
@@ -9900,23 +9900,23 @@ pup	/ˈpʌp/
 pupil 1	/ˈpjuːpəl/
 puppet	/ˈpʌpət/
 puppy	/ˈpʌpi/
-purchase	/ˈpɚtʃəs/
+purchase	/ˈpɝtʃəs/
 pure	/ˈpjʊr/
 puree	/pjʊˈreɪ, -ˈriː/
 purely	/ˈpjʊrli/
-purgatory	/ˈpɚgəˌtori/
-purge	/ˈpɚdƷ/
+purgatory	/ˈpɝgəˌtori/
+purge	/ˈpɝdƷ/
 purify	/ˈpjʊrəˌfaɪ/
 purification	/ˌpjʊrəfəˈkeɪʃən/
 puritanical	/ˌpjuːrəˈtænɪkəl/
 purity	/ˈpjʊrət̬i/
-purple	/ˈpɚpəl/
+purple	/ˈpɝpəl/
 purport	/pɚˈport/
-purpose	/ˈpɚpəs/
-purposeful	/ˈpɚpəsfəl/
-purposely	/ˈpɚpəsli/
-purr	/ˈpɚ/
-purse	/ˈpɚs/
+purpose	/ˈpɝpəs/
+purposeful	/ˈpɝpəsfəl/
+purposely	/ˈpɝpəsli/
+purr	/ˈpɝ/
+purse	/ˈpɝs/
 pursue	/pɚˈsuː/
 pursuer	/pɚˈsuːɚ/
 pursuit	/pɚˈsuːt/
@@ -9980,7 +9980,7 @@ quiet	/ˈkwaɪət/
 quilt	/ˈkwɪlt/
 quintet	/kwɪnˈtεt/
 quip	/ˈkwɪp/
-quirk	/ˈkwɚk/
+quirk	/ˈkwɝk/
 quit	/ˈkwɪt/
 quite	/ˈkwaɪt/
 quits	/ˈkwɪts/
