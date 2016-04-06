@@ -1008,8 +1008,8 @@ bases	/ˈbeɪˌsiːz/
 bask	/ˈbæsk/
 basket	/ˈbæskət/
 basketball	/ˈbæskətˌbɔl/
-bass 1	/ˈbæs/
-bass 2	/ˈbeɪs/
+bass (fish)	/ˈbæs/
+bass (music)	/ˈbeɪs/
 bassoon	/bəˈsuːn, bæˈsuːn/
 bastard	/ˈbæstɚd/
 baste	/ˈbeɪst/
@@ -1391,10 +1391,8 @@ boundless	/ˈbaʊndləs/
 bouquet	/boːˈkeɪ, buː-/
 bourgeois	/ˈbʊrʒˌwɑ, bʊrʒˈwɑ/
 bout	/ˈbaʊt/
-bow 1	/ˈbaʊ/
-~	/ˈbaʊː/
-bow 2	/ˈboː/
-bow 3	/ˈbaʊ/
+bow (curtsy)	/ˈbaʊ/
+bow (weapon)	/ˈboː/
 bowels	/ˈbaʊəls/
 bowl	/ˈboːl/
 bowling	/ˈboːlɪŋ/
