@@ -1676,9 +1676,8 @@ camp	/ˈkæmp/
 campaign	/kæmˈpeɪn/
 camping	/ˈkæmpɪŋ/
 campus	/ˈkæmpəs/
-can 1	/ˈkæn/
-could	/ˈkʊd/
-can 2	/ˈkæn/
+can (v.)	/ˈkæn, kən/
+can (n.)	/ˈkæn/
 can't	/ˈkænt, ˈkant/
 Canadian	/kəˈneɪdiən/
 canal	/kəˈnæl/
@@ -2127,8 +2126,8 @@ clockwise	/ˈklɑkˌwaɪz/
 clockwork	/ˈklɑkˌwɝk/
 clog	/ˈklɑg/
 cloister	/ˈklɔɪstɚ/
-close 1	/ˈkloːz/
-close 2	/ˈkloːs/
+close (v.)	/ˈkloːz/
+close (adj.)	/ˈkloːs/
 closely	/ˈkloːsli/
 closeness	/ˈkloːsnəs/
 closet	/ˈklɑzət/
@@ -2288,9 +2287,9 @@ common	/ˈkɑmən/
 commonly	/ˈkɑmənli/
 commonplace	/ˈkɑmənˌpleɪs/
 commotion	/kəˈmoːʃən/
-commune 1	/ˈkɑˌmjuːn, kəˈmjuːn/
 communal	/kəˈmjuːnəl/
-commune 2	/kəˈmjuːn/
+commune (n.)	/ˈkɑˌmjuːn, kəˈmjuːn/
+commune (v.)	/kəˈmjuːn/
 communicate	/kəˈmjuːnəˌkeɪt/
 communicable	/kəˈmjuːnɪkəbəl/
 communication	/kəˌmjuːnəˈkeɪʃən/
@@ -2301,7 +2300,6 @@ Communist	/ˈkɑmjəˌnɪst/
 community	/kəˈmjuːnət̬i/
 commute	/kəˈmjuːt/
 compact	/kəmˈpækt, ˈkɑmˌpækt/
-~	/ˈkɑmˌpækt/
 compact disc	/ˈkɑmˌpæktˈdɪsk/
 companion	/kəmˈpænjən/
 companionship	/kəmˈpænjənˌʃɪp/
@@ -2352,10 +2350,8 @@ compose	/kəmˈpoːz/
 composer	/kəmˈpoːzɚ/
 composition	/ˌkɑmpəˈzɪʃən/
 composure	/kəmˈpoːʒɚ/
-compound 1	/kɑmˈpaʊnd, kəm-; ˈkɑmˌpaʊnd/
-~	/ˈkɑmˌpaʊnd; kɑmˈpaʊnd, kəm-/
-~	/ˈkɑmˌpaʊnd/
-compound 2	/ˈkɑmˌpaʊnd/
+compound (v., adj.)	/kɑmˈpaʊnd, kəm-; ˈkɑmˌpaʊnd/
+compound (n.)	/ˈkɑmˌpaʊnd/
 comprehend	/ˌkɑmprɪˈhεnd/
 comprehension	/ˌkɑmprɪˈhεnʃən/
 comprehensive	/ˌkɑmprɪˈhεnsɪv/
@@ -2540,8 +2536,8 @@ contemptible	/kənˈtεmptəbəl/
 contemptuous	/kənˈtεmptʃʊəs/
 contend	/kənˈtεnd/
 contender	/kənˈtεndɚ/
-content 1	/ˈkɑnˌtεnt/
-content 2	/kənˈtεnt/
+content (n.)	/ˈkɑnˌtεnt/
+content (v., adj.)	/kənˈtεnt/
 contented	/kənˈtεntəd/
 contention	/kənˈtεnʃən/
 contentment	/kənˈtεntmənt/
@@ -2980,7 +2976,7 @@ dashboard	/ˈdæʃˌbord/
 dashing	/ˈdæʃɪŋ/
 data	/ˈdeɪt̬ə, ˈdæ-, ˈdɑ-/
 database	/ˈdeɪt̬əˌbeɪs, ˈdæ-, ˈdɑ-/
-date 1	/ˈdeɪt/
+date	/ˈdeɪt/
 dated	/ˈdeɪt̬əd/
 daub	/ˈdɔb/
 daughter	/ˈdɔt̬ɚ/
@@ -4371,7 +4367,7 @@ failure	/ˈfeɪljɚ/
 faint	/ˈfeɪnt/
 fainthearted	/ˈfeɪntˈhɑrt̬əd/
 faintly	/ˈfeɪntli/
-fair 1	/ˈfεər/
+fair	/ˈfεər/
 fairly	/ˈfεərli/
 fairness	/ˈfεərnəs/
 fairy	/ˈfεəri/
@@ -4436,7 +4432,7 @@ fascism	/ˈfæʃˌɪzəm/
 fascist	/ˈfæʃɪst/
 fashion	/ˈfæʃən/
 fashionable	/ˈfæʃənəbəl/
-fast 1	/ˈfæst/
+fast	/ˈfæst/
 fasten	/ˈfæsən/
 fastener	/ˈfæsənɚ/
 fat	/ˈfæt/
@@ -4461,7 +4457,7 @@ favor	/ˈfeɪvɚ/
 favorable	/ˈfeɪvɚəbəl/
 favorite	/ˈfeɪvɚət/
 favoritism	/ˈfeɪvɚəˌtɪzəm/
-fawn 1	/ˈfɔn/
+fawn	/ˈfɔn/
 fax	/ˈfæks/
 fear	/ˈfɪr/
 fearful	/ˈfɪrfəl/
@@ -4565,7 +4561,7 @@ figment	/ˈfɪgmənt/
 figurative	/ˈfɪgjɚət̬ɪv, -gə-/
 figure	/ˈfɪgjɚ, -gɚ/
 figurehead	/ˈfɪgjɚˌhεd, -gɚ/
-file 1	/ˈfaɪl/
+file	/ˈfaɪl/
 fill	/ˈfɪl/
 fillet	/ˈfɪlət, fɪˈleɪ, ˈfɪˌleɪ/
 filling	/ˈfɪlɪŋ/
@@ -4585,7 +4581,7 @@ financially	/fəˈnænʃəli, faɪ-/
 find	/ˈfaɪnd/
 found	/ˈfaʊnd/
 finding	/ˈfaɪndɪŋ/
-fine 1	/ˈfaɪn/
+fine	/ˈfaɪn/
 finely	/ˈfaɪnli/
 finger	/ˈfɪŋgɚ/
 fingernail	/ˈfɪŋgɚˌneɪl/
@@ -4623,7 +4619,7 @@ fishhook	/ˈfɪʃˌhʊk/
 fishing	/ˈfɪʃɪŋ/
 fishy	/ˈfɪʃi/
 fist	/ˈfɪst/
-fit 1	/ˈfɪt/
+fit	/ˈfɪt/
 fitful	/ˈfɪtfəl/
 fitness	/ˈfɪtnəs/
 fitting	/ˈfɪt̬ɪŋ/
@@ -4636,7 +4632,7 @@ fizzle	/ˈfɪzəl/
 flabbergasted	/ˈflæbɚˌgæstəd/
 flabby	/ˈflæbi/
 flaccid	/ˈflæksəd, ˈflæsəd/
-flag 1	/ˈflæg/
+flag	/ˈflæg/
 flagpole	/ˈflægˌpoːl/
 flagrant	/ˈfleɪgrənt/
 flair	/ˈflεər/
@@ -4685,7 +4681,7 @@ flexible	/ˈflεksəbəl/
 flick	/ˈflɪk/
 flicker	/ˈflɪkɚ/
 flier	/ˈflaɪɚ/
-flight 1	/ˈflaɪt/
+flight	/ˈflaɪt/
 flimsy	/flɪmzi/
 flinch	/ˈflɪntʃ/
 fling	/ˈflɪŋ/
@@ -4711,7 +4707,7 @@ floral	/ˈflorəl/
 florid	/ˈflorɪd/
 florist	/ˈflorɪst/
 floss	/ˈflɔs/
-flounder 1	/ˈflaʊndɚ/
+flounder	/ˈflaʊndɚ/
 flour	/ˈflaʊɚ/
 flourish	/ˈflɝɪʃ/
 flourishing	/ˈflɝɪʃɪŋ/
@@ -4739,7 +4735,7 @@ fluster	/ˈflʌstɚ/
 flute	/ˈfluːt/
 flutter	/ˈflʌt̬ɚ/
 flux	/ˈflʌks/
-fly 1	/ˈflaɪ/
+fly	/ˈflaɪ/
 flew	/ˈfluː/
 flown	/ˈfloːn/
 flyswatter	/ˈflaɪˌswɑt̬ɚ/
@@ -4747,14 +4743,14 @@ foal	/ˈfoːl/
 foam	/ˈfoːm/
 foamy	/ˈfoːmi/
 focus	/ˈfoːkəs/
-ci	/ˈfoːˌsaɪ, -ˌkaɪ/
+foci	/ˈfoːˌsaɪ, -ˌkaɪ/
 fodder	/ˈfɑdɚ/
 foe	/ˈfoː/
 fog	/ˈfɔg, ˈfɑg/
 foggy	/ˈfɔgi, ˈfɑ-/
 foghorn	/ˈfɔgˌhɔrn, ˈfɑg-/
-foil 1	/ˈfɔɪl/
-fold 1	/ˈfoːld/
+foil	/ˈfɔɪl/
+fold	/ˈfoːld/
 folder	/ˈfoːldɚ/
 foliage	/ˈfoːliɪdƷ, -lɪdƷ/
 folk	/ˈfoːk/
@@ -4881,9 +4877,9 @@ forwards	/ˈfɔrwɚdz/
 fossil	/ˈfɑsəl/
 foster	/ˈfɔstɚ/
 foul	/ˈfaʊl/
-found 1	/ˈfaʊnd/
+found	/ˈfaʊnd/
 foundation	/faʊnˈdeɪʃən/
-founder 1	/ˈfaʊndɚ/
+founder	/ˈfaʊndɚ/
 fountain	/ˈfaʊntən/
 four	/ˈfor/
 fourfold	/ˈforˌfoːld, -ˈfoːld/
@@ -4913,7 +4909,7 @@ fraternize	/ˈfræt̬ɚˌnaɪz/
 fraud	/ˈfrɔd/
 fraudulent	/ˈfrɔdƷələnt/
 fraught	/ˈfrɔt/
-fray 1	/ˈfreɪ/
+fray	/ˈfreɪ/
 freak	/ˈfriːk/
 freakish	/ˈfriːkɪʃ/
 freckle	/ˈfrεkəl/
@@ -5295,7 +5291,7 @@ gooey	/ˈguːi/
 goose	/ˈguːs/
 geese	/ˈgiːs/
 gopher	/ˈgoːfɚ/
-gore 1	/ˈgor/
+gore	/ˈgor/
 gorge	/ˈgɔrdƷ/
 gorgeous	/ˈgɔrdƷəs/
 gorilla	/gəˈrɪlə/
@@ -5348,7 +5344,7 @@ grasp	/ˈgræsp/
 grass	/ˈgræs/
 grasshopper	/ˈgræsˌhɑpɚ/
 grassy	/ˈgræsi/
-grate 1	/ˈgreɪt/
+grate	/ˈgreɪt/
 grateful	/ˈgreɪtfəl/
 gratefully	/ˈgreɪtfəli/
 gratefulness	/ˈgreɪtfəlnəs/
@@ -5357,14 +5353,14 @@ gratify	/ˈgræt̬əˌfaɪ/
 grating	/ˈgreɪt̬ɪŋ/
 gratitude	/ˈgræt̬əˌtuːd, -ˌtjuːd/
 gratuitous	/grəˈtuːət̬əs/
-grave 1	/ˈgreɪv/
+grave	/ˈgreɪv/
 gravel	/ˈgrævəl/
 gravestone	/ˈgreɪvˌstoːn/
 graveyard	/ˈgreɪvˌjɑrd/
 gravity	/ˈgrævət̬i/
 gravy	/ˈgreɪvi/
 gray	/ˈgreɪ/
-graze 1	/ˈgreɪz/
+graze	/ˈgreɪz/
 grease	/ˈgriːs/
 ~	/ˈgriːs, ˈgriːz/
 greasy	/ˈgriːsi, -zi/
@@ -5421,7 +5417,7 @@ grossly	/ˈgroːsli/
 grotesque	/groːˈtεsk/
 grouch	/ˈgraʊtʃ/
 grouchy	/ˈgraʊtʃi/
-ground 1	/ˈgraʊnd/
+ground	/ˈgraʊnd/
 groundhog	/ˈgraʊndˌhɔg/
 groundless	/ˈgraʊndləs/
 groundwork	/ˈgraʊndˌwɝk/
@@ -5468,7 +5464,7 @@ gullet	/ˈgʌlət/
 gullible	/ˈgʌlɪbəl/
 gully	/ˈgʌli/
 gulp	/ˈgʌlp/
-gum 1	/ˈgʌm/
+gum	/ˈgʌm/
 gumption	/ˈgʌmpʃən/
 gun	/ˈgʌn/
 gunboat	/ˈgʌnˌboːt/
