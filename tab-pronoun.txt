@@ -2588,9 +2588,9 @@ convention	/kənˈvεnʃən/
 conventional	/kənˈvεnʃənəl/
 converge	/kənˈvɝdƷ/
 converse 1	/kənˈvɝs/
+converse 2	/kənˈvɝs, ˈkɑnˌvɝs/
 conversation	/ˌkɑnvɚˈseɪʃən/
 conversational	/ˌkɑnvɚˈseɪʃənəl/
-converse 2	/kənˈvɝs, ˈkɑnˌvɝs/
 conversely	/kənˈvɝsli, ˈkɑnˌvɝs-/
 conversion	/kənˈvɝʒən/
 convert	/kənˈvɝt/
@@ -3298,10 +3298,9 @@ dictation	/dɪkˈteɪʃən/
 dictator	/ˈdɪkˌteɪt̬ɚ/
 dictatorship	/dɪkˈteɪt̬ɚˌʃɪp, ˈdɪkˌ-/
 dictionary	/ˈdɪkʃəˌnεri/
-die 1	/ˈdaɪ/
+die	/ˈdaɪ/
 died	/ˈdaɪd/
 dying	/ˈdaɪɪŋ/
-die 2	/ˈdaɪ/
 dice	/ˈdaɪs/
 dies	/ˈdaɪz/
 diesel	/ˈdiːzəl, -səl/
@@ -5497,7 +5496,7 @@ hs	/ˈeɪtʃəz/
 habit	/ˈhæbɪt/
 habitat	/ˈhæbɪˌtæt/
 habitual	/həˈbɪtʃʊəl/
-hack 1	/ˈhæk/
+hack	/ˈhæk/
 hackneyed	/ˈhæknid/
 hacksaw	/ˈhækˌsɔ/
 haddock	/ˈhædək/
@@ -5505,7 +5504,7 @@ hadn't	/ˈhædənt/
 hag	/ˈhæg/
 haggard	/ˈhægɚd/
 haggle	/ˈhægəl/
-hail 1	/ˈheɪl/
+hail	/ˈheɪl/
 hailstone	/ˈheɪlˌstoːn/
 hair	/ˈhεər/
 hairbrush	/ˈhεərˌbrʌʃ/
@@ -5536,7 +5535,7 @@ hamburger	/ˈhæmˌbɝgɚ/
 hamburg	/ˈhæmˌbɝg/
 hammer	/ˈhæmɚ/
 hammock	/ˈhæmək/
-hamper 1	/ˈhæmpɚ/
+hamper	/ˈhæmpɚ/
 hamster	/ˈhæmstɚ/
 hand	/ˈhænd/
 handbag	/ˈhændˌbæg/
@@ -5625,7 +5624,7 @@ had	/ˈhæd/
 having; has	/ˈhæz/, as an auxiliary verb usu /ˈhæs/
 haven	/ˈheɪvən/
 havoc	/ˈhævək/
-hawk 1	/ˈhɔk/
+hawk	/ˈhɔk/
 hay	/ˈheɪ/
 haystack	/ˈheɪˌstæk/
 haywire	/ˈheɪˌwaɪr/
@@ -5764,7 +5763,7 @@ heyday	/ˈheɪˌdeɪ/
 hi	/ˈhaɪ/
 hibernate	/ˈhaɪbɚˌneɪt/
 hiccup	/ˈhɪkəp/
-hide 1	/ˈhaɪd/
+hide	/ˈhaɪd/
 hid	/ˈhɪd/
 hidden	/ˈhɪdən/
 hide–and–seek	/ˈhaɪdəndˈsiːk/
@@ -5827,7 +5826,7 @@ hockey	/ˈhɑki/
 hoe	/ˈhoː/
 hog	/ˈhɔg, ˈhɑg/
 hoist	/ˈhɔɪst/
-hold 1	/ˈhoːld/
+hold	/ˈhoːld/
 held	/ˈhεld/
 holder	/ˈhoːldɚ/
 holdup	/ˈhoːldˌʌp/
@@ -5873,7 +5872,7 @@ hook	/ˈhʊk/
 hoop	/ˈhuːp/
 hooray	/hʊˈreɪ/
 hoot	/ˈhuːt/
-hop 1	/ˈhɑp/
+hop	/ˈhɑp/
 hope	/ˈhoːp/
 hopeful	/ˈhoːpfəl/
 hopeless	/ˈhoːpləs/
@@ -5911,7 +5910,7 @@ hospital	/ˈhɑsˌpɪt̬əl/
 hospitable	/hɑˈspɪt̬əbəl, ˈhɑsˌpɪ-/
 hospitality	/ˌhɑspəˈtælət̬i/
 hospitalize	/ˈhɑsˌpɪt̬əlˌaɪz/
-host 1	/ˈhoːst/
+host	/ˈhoːst/
 hostage	/ˈhɑstɪdƷ/
 hostel	/ˈhɑstəl/
 hostess	/ˈhoːstɪs/
@@ -5989,7 +5988,7 @@ hurtle	/ˈhɝt̬əl/
 husband	/ˈhʌzbənd/
 hush	/ˈhʌʃ/
 husk	/ˈhʌsk/
-husky 1	/ˈhʌski/
+husky	/ˈhʌski/
 hustle	/ˈhəsəl/
 hut	/ˈhʌt/
 hutch	/ˈhʌtʃ/
@@ -6786,12 +6785,12 @@ jagged	/ˈdƷægəd/
 jail	/ˈdƷeɪl/
 jailor	/ˈdƷeɪlɚ/
 jalapeño	/ˌhɑləˈpeɪnjo, ˌhæ-, -ˈpiːno/
-jam 1	/ˈdƷæm/
+jam	/ˈdƷæm/
 jangle	/ˈdƷæŋgəl/
 janitor	/ˈdƷænət̬ɚ/
 January	/ˈdƷænjʊˌεri/
 Japanese	/ˌdƷæpəˈniːz, -ˈniːs/
-jar 1	/ˈdƷɑr/
+jar	/ˈdƷɑr/
 jargon	/ˈdƷɑrgən/
 jaundice	/ˈdƷɔndɪs/
 jaunt	/ˈdƷɔnt/
@@ -7083,7 +7082,7 @@ lawsuit	/ˈlɔˌsuːt/
 lawyer	/ˈlɔɪɚ, ˈlɔjɚ/
 lax	/ˈlæks/
 laxative	/ˈlæksət̬ɪv/
-lay 1	/ˈleɪ/
+lay	/ˈleɪ/
 laid	/ˈleɪd/
 layer	/ˈleɪɚ/
 layman	/ˈleɪmən/
@@ -7102,7 +7101,7 @@ leaflet	/ˈliːflət/
 league	/ˈliːg/
 leak	/ˈliːk/
 leaky	/ˈliːki/
-lean 1	/ˈliːn/
+lean	/ˈliːn/
 leant	/ˈlεnt/
 leaning	/ˈliːnɪŋ/
 leanness	/ˈliːnnəs/
@@ -7202,11 +7201,10 @@ licence	/ˈlaɪsəns/
 lick	/ˈlɪk/
 licorice	/ˈlɪkɚɪʃ, -rəs/
 lid	/ˈlɪd/
-lie 1	/ˈlaɪ/
+lie	/ˈlaɪ/
 lay	/ˈleɪ/
 lain	/ˈleɪn/
 lying	/ˈlaɪɪŋ/
-lied; lying	/ˈlaɪɪŋ/
 lieutenant	/luːˈtεnənt/
 life	/ˈlaɪf/
 lives	/ˈlaɪvz/
@@ -7219,7 +7217,7 @@ lifestyle	/ˈlaɪfˌstaɪl/
 lifetime	/ˈlaɪfˌtaɪm/
 lift	/ˈlɪft/
 liftoff	/ˈlɪftˌɔf/
-light 1	/ˈlaɪt/
+light	/ˈlaɪt/
 lit	/ˈlɪt/
 lightbulb	/ˈlaɪtˌbʌlb/
 lighten	/ˈlaɪtən/
@@ -7232,7 +7230,7 @@ lighten	/ˈlaɪtən/
 lightly	/ˈlaɪtli/
 lightness	/ˈlaɪtnəs/
 lightweight	/ˈlaɪtˈweɪt/
-like 1	/ˈlaɪk/
+like	/ˈlaɪk/
 likeable	/ˈlaɪkəbəl/
 likelihood	/ˈlaɪkliˌhʊd/
 likely	/ˈlaɪkli/
@@ -7254,7 +7252,7 @@ limit	/ˈlɪmət/
 limitation	/ˌlɪməˈteɪʃən/
 limited	/ˈlɪmət̬əd/
 limousine	/ˈlɪməˌziːn, ˌlɪməˈ-/
-limp 1	/ˈlɪmp/
+limp	/ˈlɪmp/
 line	/ˈlaɪn/
 lineage	/ˈlɪniɪdƷ/
 linear	/ˈlɪniɚ/
@@ -7281,7 +7279,7 @@ liquidate	/ˈlɪkwəˌdeɪt/
 liquidation	/ˌlɪkwəˈdeɪʃən/
 liquor	/ˈlɪkɚ/
 lisp	/ˈlɪsp/
-list 1	/ˈlɪst/
+list	/ˈlɪst/
 listen	/ˈlɪsən/
 listener	/ˈlɪsənɚ/
 listless	/ˈlɪstləs/
@@ -7316,7 +7314,7 @@ living	/ˈlɪvɪŋ/
 lizard	/ˈlɪzɚd/
 llama	/ˈlɑmə, ˈjɑ-/
 load	/ˈloːd/
-loaf 1	/ˈloːf/
+loaf	/ˈloːf/
 loaves	/ˈloːvz/
 loafer	/ˈloːfɚ/
 loan	/ˈloːn/
@@ -7330,7 +7328,7 @@ locale	/loˈkæl/
 locality	/loˈkælət̬i/
 locate	/ˈloːˌkeɪt, loˈkeɪt/
 location	/loˈkeɪʃən/
-lock 1	/ˈlɑk/
+lock	/ˈlɑk/
 locker	/ˈlɑkɚ/
 locket	/ˈlɑkət/
 locksmith	/ˈlɑkˌsmɪθ/
@@ -7356,7 +7354,7 @@ loneliness	/ˈloːnlinəs/
 lonely	/ˈloːnli/
 loner	/ˈloːnɚ/
 lonesome	/ˈloːnsəm/
-long 1	/ˈlɔŋ/
+long	/ˈlɔŋ/
 longer	/ˈlɔngɚ/
 longest	/ˈlɔŋgəst/
 longevity	/lɑnˈdƷεvət̬i/
@@ -7364,7 +7362,7 @@ longing	/lɔŋɪŋ/
 longitude	/ˈlɑndƷəˌtuːd, -ˌtjuːd/
 look	/ˈlʊk/
 lookout	/ˈlʊkˌaʊt/
-loom 1	/ˈluːm/
+loom	/ˈluːm/
 loop	/ˈluːp/
 loophole	/ˈluːpˌhoːl/
 loose	/ˈluːs/
@@ -7432,7 +7430,7 @@ lunch	/ˈlʌntʃ/
 luncheon	/ˈlʌntʃən/
 lung	/ˈlʌŋ/
 lunge	/ˈlʌndƷ/
-lurch 1	/ˈlɝtʃ/
+lurch	/ˈlɝtʃ/
 lure	/ˈlʊr/
 lurid	/ˈlʊrəd/
 lurk	/ˈlɝk/
