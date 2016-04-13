@@ -6061,11 +6061,11 @@ igloo	/ˈɪˌgluː/
 ignite	/ɪgˈnaɪt/
 ignition	/ɪgˈnɪʃən/
 ignore	/ɪgˈnor/
-ignorance	/ˌɪgnɚəns/
+ignorance	/ˈɪgnɚəns/
 ignorant	/ˈɪgnɚənt/
 ilk	/ˈɪlk/
 ill	/ˈɪl/
-ill–advised	/ˌɪlædˈvaɪzd, -əd-/
+ill–advised	/ˌɪlædˈvaɪzd, ˌɪlədˈvaɪzd/
 illegal	/ɪˈliːgəl/
 illegible	/ɪˈlεdƷəbəl/
 illegitimate	/ˌɪlɪˈdƷɪt̬əmət/
@@ -6078,7 +6078,7 @@ illogical	/ɪˈlɑdƷɪkəl/
 illuminate	/ɪˈluːməˌneɪt/
 illumination	/ɪˌluːməˈneɪʃən/
 illusion	/ɪˈluːƷən/
-illusory	/ɪˈluːsɚi, -zɚi/
+illusory	/ɪˈluːsɚi, ɪˈluːzɚi/
 illustrate	/ˈɪləsˌtreɪt/
 illustration	/ˌɪləˈstreɪʃən/
 illustrative	/ɪˈlʌstrət̬ɪv, ˈɪləˌstreɪ-t̬ɪv/
