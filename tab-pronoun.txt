@@ -9955,7 +9955,7 @@ queen	/ˈkwiːn/
 queer	/ˈkwɪr/
 quell	/ˈkwεl/
 quench	/ˈkwεntʃ/
-query	/ˈkwɪri, ˈkwεr-/
+query	/ˈkwɪri, ˈkwεri/
 quest	/ˈkwεst/
 question	/ˈkwεstʃən/
 questionable	/ˈkwεstʃənəbəl/
@@ -12677,8 +12677,8 @@ the	/ðə/, before vowel sounds usu /ðiː/
 theatre	/ˈθiːət̬ɚ/
 theatrical	/θiˈætrɪkəl/
 theft	/ˈθεft/
-their	/ˈðεr/
-theirs	/ˈðεrz/
+their	/ˈðεər/
+theirs	/ˈðεərz/
 them	/ˈðεm/
 theme	/ˈθiːm/
 themselves	/ðəmˈsεlvz, ðεm-/
@@ -12709,7 +12709,7 @@ theses	/ˈθiːˌsiːz/
 they	/ˈðeɪ/
 they'd	/ˈðeɪd/
 they'll	/ˈðeɪl, ˈðεl/
-they're	/ˈðεr/
+they're	/ˈðεər/
 they've	/ˈðeɪv/
 thick	/ˈθɪk/
 thicken	/ˈθɪkən/
@@ -13586,16 +13586,16 @@ vanish	/ˈvænɪʃ/
 vanity	/ˈvænət̬i/
 vantage point	/ˈvæntɪdƷ/
 vapor	/ˈveɪpɚ/
-variable	/ˈvεriəbəl/
-variance	/ˈvεriəns/
-variant	/ˈvεriənt/
-variation	/ˌvεriˈeɪʃən/
-varied	/ˈvεrid/
-variegated	/ˈvεriəˌgeɪt̬εd/
+variable	/ˈvεəriəbəl/
+variance	/ˈvεəriəns/
+variant	/ˈvεəriənt/
+variation	/ˌvεəriˈeɪʃən/
+varied	/ˈvεərid/
+variegated	/ˈvεəriəˌgeɪt̬εd/
 variety	/vəˈraɪət̬i/
-various	/ˈvεriəs/
+various	/ˈvεəriəs/
 varnish	/ˈvɑrnɪʃ/
-vary	/ˈvεri/
+vary	/ˈvεəri/
 vase	/ˈveɪs, ˈveɪz, ˈvɑz/
 vast	/ˈvæst/
 vastness	/ˈvæstnəs/
@@ -13990,9 +13990,9 @@ wheelchair	/ˈhwiːlˌtʃεər/
 wheeze	/ˈhwiːz/
 when	/ˈhwεn/
 whenever	/hwεnˈεvɚ/
-where	/ˈhwεr/
-whereabouts	/ˈhwεrəˌbaʊts/
-wherever	/hwεrˈεvɚ/
+where	/ˈhwεər/
+whereabouts	/ˈhwεərəˌbaʊts/
+wherever	/hwεərˈεvɚ/
 whet	/ˈhwεt/
 whether	/ˈhwεðɚ/
 which	/ˈhwɪtʃ/
