@@ -5027,7 +5027,7 @@ furthest	/ˈfɝðəst/
 furtive	/ˈfɝt̬ɪv/
 fury	/ˈfjʊri/
 fuze	/ˈfjuːz/
-fusion	/ˈfjuːƷən/
+fusion	/ˈfjuːʒən/
 fuss	/ˈfʌs/
 fussy	/ˈfʌsi/
 futile	/ˈfjuːt̬əl, ˈfjuːˌtaɪl/
@@ -5073,7 +5073,7 @@ gangster	/ˈgæŋstɚ/
 gangway	/ˈgæŋˌweɪ/
 gap	/ˈgæp/
 gape	/ˈgeɪp/
-garage	/gəˈrɑƷ, -ˈrɑdƷ/
+garage	/gəˈrɑʒ, -ˈrɑdƷ/
 garb	/ˈgɑrb/
 garbage	/ˈgɑrbɪdƷ/
 garble	/ˈgɑrbəl/
@@ -5482,8 +5482,8 @@ gutter	/ˈgʌt̬ɚ/
 guy	/ˈgaɪ/
 guzzle	/ˈgʌzəl/
 gym	/ˈdƷɪm/
-gymnasium	/dƷɪmˈneɪziəm, -Ʒəm/
-sia	/-ziːə, -Ʒə/
+gymnasium	/dƷɪmˈneɪziəm, -ʒəm/
+gymnasia	/dƷɪmˈneɪziːə, dƷɪmˈneɪʒə/
 gymnast	/ˈdƷɪmnəst, ˌnæst/
 gymnastics	/dƷɪmˈnæstɪks/
 gynecology	/ˌgaɪnəˈkɑlədƷi, ˌdƷɪnə-/
@@ -5904,7 +5904,7 @@ horsewoman	/ˈhɔrsˌwʊmən/
 horsewomen	/-ˌwɪmən/
 horticulture	/ˈhɔrt̬əˌkʌltʃɚ/
 hose	/ˈhoːz/
-hosiery	/ˈhoːƷɚi, ˈhoːzə-/
+hosiery	/ˈhoːʒɚi, ˈhoːzə-/
 hospice	/ˈhɑspəs/
 hospital	/ˈhɑsˌpɪt̬əl/
 hospitable	/hɑˈspɪt̬əbəl, ˈhɑsˌpɪ-/
@@ -6077,7 +6077,7 @@ illness	/ˈɪlnəs/
 illogical	/ɪˈlɑdƷɪkəl/
 illuminate	/ɪˈluːməˌneɪt/
 illumination	/ɪˌluːməˈneɪʃən/
-illusion	/ɪˈluːƷən/
+illusion	/ɪˈluːʒən/
 illusory	/ɪˈluːsɚi, ɪˈluːzɚi/
 illustrate	/ˈɪləsˌtreɪt/
 illustration	/ˌɪləˈstreɪʃən/
@@ -6106,7 +6106,7 @@ immediately	/ɪˈmiːdiətli/
 immense	/ɪˈmεns/
 immensity	/ɪˈmεnsət̬i/
 immerse	/ɪˈmɝs/
-immersion	/ɪˈmɝƷən/
+immersion	/ɪˈmɝʒən/
 immigrate	/ˈɪməˌgreɪt/
 immigrant	/ˈɪmɪgrənt/
 immigration	/ˌɪməˈgreɪʃən/
@@ -6187,7 +6187,7 @@ impoverished	/ɪmˈpɑvɚɪʃt/
 impracticable	/ɪmˈpræktɪkəbəl/
 impractical	/ɪmˈpræktɪkəl/
 imprecise	/ˌɪmprɪˈsaɪs/
-imprecision	/ˌɪmprɪˈsɪƷən/
+imprecision	/ˌɪmprɪˈsɪʒən/
 impregnable	/ɪmˈprεgnəbəl/
 impregnate	/ɪmˈprεgˌneɪt/
 impress	/ɪmˈprεs/
@@ -6258,12 +6258,12 @@ incidental	/ˌɪnsəˈdεntəl/
 incidentally	/ˌɪnsəˈdεntəli, -ˈdεntli/
 incinerate	/ɪnˈsɪnəˌreɪt/
 incinerator	/ɪnˈsɪnə-ˌreɪt̬ɚ/
-incision	/ɪnˈsɪƷən/
+incision	/ɪnˈsɪʒən/
 incite	/ɪnˈsaɪt/
 incline	/ɪnˈklaɪn/
 inclination	/ˌɪnkləˈneɪʃən/
 include	/ɪnˈkluːd/
-inclusion	/ɪnˈkluːƷən/
+inclusion	/ɪnˈkluːʒən/
 inclusive	/ɪnˈkluːsɪv/
 incognito	/ˌɪnˌkɑgˈniːt̬o, ɪnˈkɑgnəˌtoː/
 incoherent	/ˌɪnkoˈhɪrənt, -ˈhεr-/
@@ -6426,7 +6426,7 @@ infringement	/ɪnˈfrɪndƷmənt/
 infuriate	/ɪnˈfjʊriˌeɪt/
 infuriating	/ɪnˈfjʊriˌeɪt̬ɪŋ/
 infuse	/ɪnˈfjuːz/
-infusion	/ɪnˈfjuːƷən/
+infusion	/ɪnˈfjuːʒən/
 ingenious	/ɪnˈdƷiːnjəs/
 ingenuity	/ˌɪndƷəˈnuːət̬i, -ˈnjuː-/
 ingenuous	/ɪnˈdƷεnjʊəs/
@@ -6663,7 +6663,7 @@ introvert	/ˈɪntrəˌvɝt/
 introverted	/ˈɪntrəˌvɝt̬əd/
 intrude	/ɪnˈtruːd/
 intruder	/ɪnˈtruːdɚ/
-intrusion	/ɪnˈtruːƷən/
+intrusion	/ɪnˈtruːʒən/
 intrusive	/ɪnˈtruːsɪv/
 intuition	/ˌɪntʊˈɪʃən, -tjʊ-/
 intuitive	/ɪnˈtuːət̬ɪv, -ˈtjuː-/
@@ -6673,7 +6673,7 @@ invalid 1	/ɪnˈvæləd/
 invalid 2	/ˈɪnvələd/
 invaluable	/ɪnˈvæljəbəl, -ˈvæljʊə-/
 invariable	/ɪnˈvεəriəbəl/
-invasion	/ɪnˈveɪƷən/
+invasion	/ɪnˈveɪʒən/
 invent	/ɪnˈvεnt/
 invention	/ɪnˈvεnʃən/
 inventive	/ɪnˈvεntɪv/
