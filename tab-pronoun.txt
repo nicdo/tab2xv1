@@ -7144,8 +7144,8 @@ legislative	/ˈlεdƷəsˌleɪt̬ɪv/
 legislature	/ˈlεdƷəsˌleɪtʃɚ/
 legitimate	/lɪˈdƷɪt̬əmət/
 legitimacy	/lɪˈdƷɪt̬əməsi/
-leisure	/ˈliːƷɚ, ˈlε-/
-leisurely	/ˈliːƷɚli, ˈlε-/
+leisure	/ˈliːʒɚ, ˈlεʒɚ/
+leisurely	/ˈliːʒɚli, ˈlεʒɚli/
 lemon	/ˈlεmən/
 lemonade	/ˌlεməˈneɪd/
 lend	/ˈlεnd/
@@ -7260,7 +7260,7 @@ linen	/ˈlɪnən/
 liner	/ˈlaɪnɚ/
 lineup	/ˈlaɪnˌəp/
 linger	/ˈlɪŋgɚ/
-lingerie	/ˌlɑndƷəˈreɪ, ˌlænƷəˈriː/
+lingerie	/ˌlɑndƷəˈreɪ, ˌlænʒəˈriː/
 lingo	/ˈlɪŋgo/
 linguistics	/lɪŋˈgwɪstɪks/
 linguist	/ˈlɪŋgwɪst/
@@ -7439,8 +7439,8 @@ lush	/ˈlʌʃ/
 lust	/ˈlʌst/
 lustre	/ˈlʌstɚ/
 lusty	/ˈlʌsti/
-luxurious	/ˌlʌgˈƷʊriəs, ˌlʌkˈʃʊr-/
-luxury	/ˈlʌkʃɚi, ˈlʌgƷə-/
+luxurious	/ˌlʌgˈʒʊriəs, ˌlʌkˈʃʊriəs/
+luxury	/ˈlʌkʃɚi, ˈlʌgʒɚi/
 lye	/ˈlaɪ/
 lynch	/ˈlɪntʃ/
 lynx	/ˈlɪŋks/
@@ -7633,7 +7633,7 @@ masquerade	/ˌmæskəˈreɪd/
 mass	/ˈmæs/
 Mass	/ˈmæs/
 massacre	/ˈmæsɪkɚ/
-massage	/məˈsɑƷ, -ˈsɑdƷ/
+massage	/məˈsɑʒ, -ˈsɑdƷ/
 masseur	/mæˈsɝ/
 masseuse	/mæˈsəz, mæˈsɝz, mæˈsuːz/
 massive	/ˈmæsɪv/
@@ -7699,9 +7699,9 @@ meantime	/ˈmiːnˌtaɪm/
 meanwhile	/ˈmiːnˌhwaɪl/
 measles	/ˈmiːzəlz/
 measly	/ˈmiːzli/
-measure	/ˈmεƷɚ, ˈmeɪ-/
-measurable	/ˈmεƷɚəbəl, ˈmeɪ-/
-measurement	/ˈmεƷɚmənt, ˈmeɪ-/
+measure	/ˈmεʒɚ, ˈmeɪʒɚ/
+measurable	/ˈmεʒɚəbəl, ˈmeɪʒɚəbəl/
+measurement	/ˈmεʒɚmənt, ˈmeɪʒɚmənt/
 meat	/ˈmiːt/
 meatball	/ˈmiːtˌbɔl/
 meaty	/ˈmiːt̬i/
@@ -7890,7 +7890,7 @@ minute 1	/maɪˈnuːt, mɪ-, -ˈnjuːt/
 minute 2	/ˈmɪnət/
 miracle	/ˈmɪrɪkəl/
 miraculous	/məˈrækjələs/
-mirage	/mɪˈrɑƷ, ˈmɪrˌɑƷ/
+mirage	/mɪˈrɑʒ, ˈmɪrˌɑʒ/
 mire	/ˈmaɪr/
 mirror	/ˈmɪrɚ/
 mirth	/ˈmɝθ/
@@ -8256,7 +8256,7 @@ needn't	/ˈniːdənt/
 needy	/ˈniːdi/
 negative	/ˈnεgət̬ɪv/
 neglect	/nɪˈglεkt/
-negligee	/ˌnεgləˈƷeɪ/
+negligee	/ˌnεgləˈʒeɪ/
 negligence	/ˈnεglɪdƷəns/
 negligent	/ˈnεglɪdƷənt/
 negligible	/ˈnεglɪdƷəbəl/
@@ -8523,9 +8523,9 @@ obtrusive	/əbˈtruːsɪv/
 obtuse	/ɑbˈtuːs, əb-, -ˈtjuːs/
 obvious	/ˈɑbviəs/
 obviously	/ˈɑbviəsli/
-occasion	/əˈkeɪƷən/
-occasional	/əˈkeɪƷənəl/
-occasionally	/əˈkeɪƷənəli/
+occasion	/əˈkeɪʒən/
+occasional	/əˈkeɪʒənəl/
+occasionally	/əˈkeɪʒənəli/
 occult	/əˈkʌlt, ˈɑˌkʌlt/
 occupy	/ˈɑkjəˌpaɪ/
 occupancy	/ˈɑkjəpənsi/
@@ -9200,7 +9200,7 @@ perspective	/pɚˈspεktɪv/
 perspiration	/ˌpɝspəˈreɪʃən/
 perspire	/pɚˈspaɪr/
 persuade	/pɚˈsweɪd/
-persuasion	/pɚˈsweɪƷən/
+persuasion	/pɚˈsweɪʒən/
 pertain	/pɚˈteɪn/
 pertinent	/ˈpɝtənənt/
 perturb	/pɚˈtɝb/
@@ -9375,7 +9375,7 @@ pleasant	/ˈplεzənt/
 please	/ˈpliːz/
 pleased	/ˈpliːzd/
 pleasing	/ˈpliːzɪŋ/
-pleasure	/ˈplεƷɚ/
+pleasure	/ˈplεʒɚ/
 pleat	/ˈpliːt/
 pledge	/ˈplεdƷ/
 plenty	/ˈplεnti/
@@ -9564,7 +9564,7 @@ precipitate	(v., n.) /prɪˈsɪpəˌteɪt/
 precipitate (adj.) /prɪˈsɪpətɪt/
 precipitation	/prɪˌsɪpəˈteɪʃən/
 precise	/prɪˈsaɪs/
-precision	/prɪˈsɪƷən/
+precision	/prɪˈsɪʒən/
 preclude	/prɪˈkluːd/
 precocious	/prɪˈkoːʃəs/
 preconceived	/ˌpriːkənˈsiːv/
@@ -9627,7 +9627,7 @@ presidential	/ˌprεzəˈdεnʃəl/
 press	/ˈprεs/
 pressing	/ˈprεsɪŋ/
 pressure	/ˈprεʃɚ/
-prestige	/prεˈstiːƷ, -ˈstiːdƷ/
+prestige	/prεˈstiːʒ, -ˈstiːdƷ/
 prestigious	/prεˈstɪdƷəs/
 presume	/prɪˈzuːm/
 presumably	/prɪˈzuːməbli/
@@ -9721,7 +9721,7 @@ profit	/ˈprɑfət/
 profitable	/ˈprɑfət̬əbəl/
 profound	/prəˈfaʊnd/
 profuse	/prəˈfjuːs/
-profusion	/prəˈfjuːƷən/
+profusion	/prəˈfjuːʒən/
 prognosis	/prɑgˈnoːsɪs/
 prognoses	/-ˌsiːz/
 program	/ˈproːˌgræm, -grəm/
@@ -9817,8 +9817,8 @@ provided	/prəˈvaɪdəd/
 providence	/ˈprɑvədəns/
 province	/ˈprɑvɪns/
 provincial	/prəˈvɪnʃəl/
-provision	/prəˈvɪƷən/
-provisional	/prəˈvɪƷənəl/
+provision	/prəˈvɪʒən/
+provisional	/prəˈvɪʒənəl/
 proviso	/prəˈvaɪˌzoː/
 provoke	/prəˈvoːk/
 provocation	/ˌprɑvəˈkeɪʃən/
@@ -10269,7 +10269,7 @@ regard	/riˈgɑrd/
 regarding	/riˈgɑrdɪŋ/
 regardless	/riˈgɑrdləs/
 regent	/ˈriːdƷənt/
-regime	/reɪˈƷiːm, rɪ-/
+regime	/reɪˈʒiːm, rɪ-/
 regimen	/ˈrεdƷəmən/
 regiment	/ˈrεdƷəmənt/
 region	/ˈriːdƷən/
@@ -10562,7 +10562,7 @@ review	/riˈvjuː/
 reviewer	/riˈvjuːɚ/
 revile	/riˈvaɪl/
 revise	/riˈvaɪz/
-revision	/riˈvɪƷən/
+revision	/riˈvɪʒən/
 revive	/riˈvaɪv/
 revival	/riˈvaɪvəl/
 revoke	/riˈvoːk/
@@ -10717,7 +10717,7 @@ rotation	/roˈteɪʃən/
 rote	/ˈroːt/
 rotor	/ˈroːt̬ɚ/
 rotten	/ˈrɑtən/
-rouge	/ˈruːƷ, ˈruːdƷ/
+rouge	/ˈruːʒ, ˈruːdƷ/
 rough	/ˈrʌf/
 roughage	/ˈrʌfɪdƷ/
 roughen	/ˈrʌfən/
