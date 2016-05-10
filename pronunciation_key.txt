@@ -26,5 +26,9 @@ letter  /ɚ/
 price /aɪ/
 mouth /aʊ/
 choice  /ɔɪ/
+
+judge /dƷ/ (it should be /dʒ/)
+church /tʃ/
 which /hw/
 witch /w/
+pleasure /ʒ/ (originally /Ʒ/)
