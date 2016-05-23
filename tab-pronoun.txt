@@ -11137,7 +11137,7 @@ sensitive	/ˈsεnsət̬ɪv/
 sensitivity	/ˌsεnsəˈtɪvət̬i/
 sensual	/ˈsεnʃʊəl/
 sensuous	/ˈsεnʃʊəs/
-sentence	/ˈsεntəns, -ənz/
+sentence	/ˈsεntəns/
 sentiment	/ˈsεntəmənt/
 sentimental	/ˌsεntəˈmεntəl/
 sentimentality	/ˌsεntəˌmεnˈtælət̬i/
@@ -12623,7 +12623,7 @@ tendon	/ˈtεndən/
 tenet	/ˈtεnət/
 tennis	/ˈtεnəs/
 tenor	/ˈtεnɚ/
-tense 1	/ˈtεns/
+tense	/ˈtεns/
 tension	/ˈtεnʃən/
 tent	/ˈtεnt/
 tentacle	/ˈtεntɪkəl/
