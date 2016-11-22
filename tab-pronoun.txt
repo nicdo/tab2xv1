@@ -12592,7 +12592,7 @@ telegraph	/ˈtεləˌgræf/
 telephone	/ˈtεləˌfoːn/
 telescope	/ˈtεləˌskoːp/
 televise	/ˈtεləˌvaɪz/
-television	/ˈtεləˌvɪƷən/
+television	/ˈtεləˌvɪʒən/
 tell	/ˈtεl/
 told	/ˈtoːld/
 teller	/ˈtεlɚ/
@@ -12963,7 +12963,7 @@ transfer	/trænsˈfɚ, ˈtrænsˌfɚ/
 ~	/ˈtrænsˌfɚ/
 transform	/trænsˈfɔrm/
 transformation	/ˌtrænsfɚˈmeɪʃən/
-transfusion	/trænsˈfjuːƷən/
+transfusion	/trænsˈfjuːʒən/
 transgression	/trænsˈgrεʃən, trænz-/
 transgress	/trænsˈgrεs, trænz-/
 transient	/ˈtrænʃənt, ˈtrænsiənt/
@@ -13008,9 +13008,9 @@ trod	/ˈtrɑd/
 trodden	/ˈtrɑdən/
 treadmill	/ˈtrεdˌmɪl/
 treason	/ˈtriːzən/
-treasure	/ˈtrεƷɚ, ˈtreɪ-/
-treasurer	/ˈtrεƷɚɚ, ˈtreɪ-/
-treasury	/ˈtrεƷɚi, ˈtreɪ-/
+treasure	/ˈtrεʒɚ, ˈtreɪ-/
+treasurer	/ˈtrεʒɚɚ, ˈtreɪ-/
+treasury	/ˈtrεʒɚi, ˈtreɪ-/
 treat	/ˈtriːt/
 treatise	/ˈtriːt̬ɪs/
 treatment	/ˈtriːtmənt/
