@@ -1604,11 +1604,11 @@ bush	/ˈbʊʃ/
 bushel	/ˈbʊʃəl/
 bushy	/ˈbʊʃi/
 busily	/ˈbɪzəli/
-business	/ˈbɪznəs, -nəz/
-businessman	/ˈbɪznəsˌmæn, -nəz-/
-businessmen	/-mən, -ˌmεn/
-businesswoman	/ˈbɪznəsˌwʊmən, -nəz-/
-businesswomen	/-ˌwɪmən/
+business	/ˈbɪznəs/
+businessman	/ˈbɪznəsˌmæn/
+businessmen	/ˈbɪznəsmən, ˈbɪznəsˌmεn/
+businesswoman	/ˈbɪznəsˌwʊmən/
+businesswomen	/ˈbɪznəsˌwɪmən/
 bust	/ˈbʌst/
 bustle	/ˈbʌsəl/
 busy	/ˈbɪzi/
