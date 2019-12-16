@@ -9806,7 +9806,7 @@ protocol	/ˈproːt̬əˌkɔl/
 prototype	/ˈproːt̬əˌtaɪp/
 protract	/proˈtrækt/
 protrude	/proˈtruːd/
-protégé	/ˈproːt̬əˌƷeɪ/
+protégé	/ˈproːt̬əˌʒeɪ/
 proud	/ˈpraʊd/
 prove	/ˈpruːv/
 proven	/ˈpruːvən/
@@ -10796,7 +10796,7 @@ resumé	/ˈrεzəˌmeɪ, ˌrεzəˈ-/
 s	/ˈεs/
 ss	/ˈεsəz/
 Sabbath	/ˈsæbəθ/
-sabotage	/ˈsæbəˌtɑƷ/
+sabotage	/ˈsæbəˌtɑʒ/
 saccharin	/ˈsækɚən/
 sack	/ˈsæk/
 sacrament	/ˈsækrəmənt/
@@ -11035,7 +11035,7 @@ seat	/ˈsiːt/
 seaweed	/ˈsiːˌwiːd/
 secede	/sɪˈsiːd/
 secluded	/sɪˈkluːdəd/
-seclusion	/sɪˈkluːƷən/
+seclusion	/sɪˈkluːʒən/
 second	/ˈsεkənd/
 secondly	/ˈsεkəndli/
 secondary	/ˈsεkənˌdεri/
@@ -11077,7 +11077,7 @@ segment	/ˈsεgmənt/
 segregate	/ˈsεgrɪˌgeɪt/
 segregation	/ˌsεgrɪˈgeɪʃən/
 seize	/ˈsiːz/
-seizure	/ˈsiːƷɚ/
+seizure	/ˈsiːʒɚ/
 seldom	/ˈsεldəm/
 select	/səˈlεkt/
 selection	/səˈlεkʃən/
@@ -11364,7 +11364,7 @@ sidetrack	/ˈsaɪdˌtræk/
 sidewalk	/ˈsaɪdˌwɔk/
 sideways	/ˈsaɪdˌweɪz/
 siding	/ˈsaɪdɪŋ/
-siege	/ˈsiːdƷ, ˈsiːƷ/
+siege	/ˈsiːdƷ, ˈsiːʒ/
 sieve	/ˈsɪv/
 sift	/ˈsɪft/
 sigh	/ˈsaɪ/
@@ -12193,7 +12193,7 @@ suave	/ˈswɑv/
 sub	/ˈsʌb/
 subconscious	/səbˈkɑnʃəs/
 subdivide	/ˌsʌbdəˈvaɪd, ˈsʌbdəˌvaɪd/
-subdivision	/ˈsʌbdəˌvɪƷən/
+subdivision	/ˈsʌbdəˌvɪʒən/
 subdue	/səbˈduː, -ˈdjuː/
 subject	/ˈsʌbdƷɪkt/
 ~	/səbˈdƷεkt/
@@ -12234,7 +12234,7 @@ subtraction	/səbˈtrækʃən/
 subtract	/səbˈtrækt/
 suburb	/ˈsʌˌbɝb/
 suburban	/səˈbɝbən/
-subversion	/səbˈvɝƷən/
+subversion	/səbˈvɝʒən/
 subversive	/səbˈvɝsɪv/
 subway	/ˈsʌbˌweɪ/
 succeed	/səkˈsiːd/
@@ -12324,7 +12324,7 @@ superstition	/ˌsuːpɚˈstɪʃən/
 superstitious	/ˌsuːpɚˈstɪʃəs/
 supervisor	/ˈsuːpɚˌvaɪzɚ/
 supervise	/ˈsuːpɚˌvaɪz/
-supervision	/ˌsuːpɚˈvɪƷən/
+supervision	/ˌsuːpɚˈvɪʒən/
 supervisory	/ˌsuːpɚˈvaɪzɚi/
 supper	/ˈsʌpɚ/
 supplant	/səˈplænt/
@@ -13466,8 +13466,8 @@ untoward	/ˌʌnˈtɔrd, -ˈtoːɚd, -təˈwɔrd/
 untroubled	/ˌʌnˈtrʌbəld/
 untrue	/ˌʌnˈtruː/
 unused	/ˌʌnˈjuːzd/, in sense 2 usually /-ˈjuːst/
-unusual	/ˌʌnˈjuːƷʊəl/
-unusually	/ˌʌnˈjuːƷʊəl, -ˈjuːƷəli/
+unusual	/ˌʌnˈjuːʒʊəl/
+unusually	/ˌʌnˈjuːʒʊəli, ˌʌnˈjuːʒəli/
 unveil	/ˌʌnˈveɪl/
 unwanted	/ˌʌnˈwɑntəd/
 unwarranted	/ˌʌnˈwɔrəntəd/
@@ -13535,8 +13535,8 @@ usefulness	/ˈjuːsfəlnəs/
 useless	/ˈjuːsləs/
 user	/ˈjuːzɚ/
 usher	/ˈʌʃɚ/
-usual	/ˈjuːƷʊəl/
-usually	/ˈjuːƷʊəli, ˈjuːƷəli/
+usual	/ˈjuːʒʊəl/
+usually	/ˈjuːʒʊəli, ˈjuːʒəli/
 usurp	/jʊˈsɚp, -ˈzɚp/
 utensil	/jʊˈtεnsəl/
 uterus	/ˈjuːt̬ɚəs/
@@ -13652,7 +13652,7 @@ versatile	/ˈvɚsət̬əl/
 versatility	/ˌvɚsəˈtɪlət̬i/
 verse	/ˈvɚs/
 versed	/ˈvɚst/
-version	/ˈvɚƷən/
+version	/ˈvɚʒən/
 versus	/ˈvɚsəs/
 vertebra	/ˈvɚtəbrə/
 verterbrae	/ˈvɚtəbreɪ, -ˌbriː/
@@ -13743,14 +13743,14 @@ viscous	/ˈvɪskəs/
 vise	/ˈvaɪs/
 visible	/ˈvɪzəbəl/
 visibility	/ˌvɪzəˈbɪlət̬i/
-vision	/ˈvɪƷən/
-visionary	/ˈvɪƷəˌnεri/
+vision	/ˈvɪʒən/
+visionary	/ˈvɪʒəˌnεri/
 visit	/ˈvɪzət/
 visitor	/ˈvɪzət̬ɚ/
 visor	/ˈvaɪzɚ/
 vista	/ˈvɪstə/
-visual	/ˈvɪƷʊəl/
-visualize	/ˈvɪƷʊəˌlaɪz/
+visual	/ˈvɪʒʊəl/
+visualize	/ˈvɪʒʊəˌlaɪz/
 vis–à–vis	/ˌviːzəˈviː, -sə-/
 vital	/ˈvaɪt̬əl/
 vitality	/vaɪˈtælət̬i/
