@@ -27,7 +27,7 @@ abhor	/əbˈhɔr, æbˈhɔr/
 abide	/əˈbaɪd/
 abode	/əˈboːd/
 ability	/əˈbɪlət̬i/
-abject	/ˈæbˌdƷεkt, æbˈdƷεkt/
+abject	/ˈæbˌdʒεkt, æbˈdʒεkt/
 ablaze	/əˈbleɪz/
 able	/ˈeɪbəl/
 abnormal	/æbˈnɔrməl/
@@ -37,7 +37,7 @@ abolish	/əˈbɑlɪʃ/
 abolition	/ˌæbəˈlɪʃən/
 abominable	/əˈbɑmənəbəl/
 abomination	/əˌbɑməˈneɪʃən/
-aborigine	/ˌæbəˈrɪdƷəni/
+aborigine	/ˌæbəˈrɪdʒəni/
 abort	/əˈbɔrt/
 abortion	/əˈbɔrʃən/
 abortive	/əˈbɔrt̬ɪv/
@@ -46,7 +46,7 @@ about	/əˈbaʊt/
 above	/əˈbʌv/
 abrasive	/əˈbreɪsɪv/
 abreast	/əˈbrεst/
-abridge	/əˈbrɪdƷ/
+abridge	/əˈbrɪdʒ/
 abroad	/əˈbrɔd/
 abrupt	/əˈbrʌpt/
 abscess	/ˈæbˌsεs/
@@ -120,8 +120,8 @@ ache	/ˈeɪk/
 achieve	/əˈtʃiːv/
 achievement	/əˈtʃiːvmənt/
 acid	/ˈæsəd/
-acknowledge	/ɪkˈnɑlɪdƷ, ækˈnɑlɪdƷ/
-acknowledgment	/ɪkˈnɑlɪdƷmənt, ækˈnɑlɪdƷmənt/
+acknowledge	/ɪkˈnɑlɪdʒ, ækˈnɑlɪdʒ/
+acknowledgment	/ɪkˈnɑlɪdʒmənt, ækˈnɑlɪdʒmənt/
 acne	/ˈækni/
 acorn	/ˈeɪˌkɔrn, ˈeɪkɚn/
 acoustic	/əˈkuːstɪk/
@@ -133,7 +133,7 @@ acquire	/əˈkwaɪr/
 acquisition	/ˌækwəˈzɪʃən/
 acquit	/əˈkwɪt/
 acre	/ˈeɪkɚ/
-acreage	/ˈeɪkɚɪdƷ/
+acreage	/ˈeɪkɚɪdʒ/
 acrid	/ˈækrəd/
 acrobat	/ˈækrəˌbæt/
 acrobatic	/ˌækrəˈbæt̬ɪk/
@@ -170,13 +170,13 @@ adequate	/ˈædɪkwət/
 adhere	/ædˈhɪr, ədˈhɪr/
 adherence	/ædˈhɪrəns, ədˈhɪrəns/
 adhesive	/ædˈhiːsɪv, ədˈhiːsɪv, ædˈhiːzɪv, ədˈhiːzɪv/
-adjacent	/əˈdƷeɪsənt/
-adjective	/ˈædƷɪktɪv/
-adjoining	/əˈdƷɔɪnɪŋ/
-adjourn	/əˈdƷɝn/
-adjust	/əˈdƷʌst/
-adjustable	/əˈdƷʌstəbəl/
-adjustment	/əˈdƷʌstmənt/
+adjacent	/əˈdʒeɪsənt/
+adjective	/ˈædʒɪktɪv/
+adjoining	/əˈdʒɔɪnɪŋ/
+adjourn	/əˈdʒɝn/
+adjust	/əˈdʒʌst/
+adjustable	/əˈdʒʌstəbəl/
+adjustment	/əˈdʒʌstmənt/
 administer	/ædˈmɪnəstɚ, ədˈmɪnəstɚ/
 administration	/ædˌmɪnəˈstreɪʃən, ədˌmɪnəˈstreɪʃən/
 administrative	/ædˈmɪnəˌstreɪt̬ɪv, əd-/
@@ -206,8 +206,8 @@ adult	/əˈdʌlt, ˈæˌdʌlt/
 adultery	/əˈdʌltɚi/
 advance	/ædˈvæns, ədˈvæns/
 advancement	/ædˈvænsmənt, ədˈvænsmənt/
-advantage	/ədˈvæntɪdƷ, ædˈvæntɪdƷ/
-advantageous	/ˌædˌvænˈteɪdƷəs, ˌædvənˈteɪdƷəs/
+advantage	/ədˈvæntɪdʒ, ædˈvæntɪdʒ/
+advantageous	/ˌædˌvænˈteɪdʒəs, ˌædvənˈteɪdʒəs/
 advent	/ˈædˌvεnt/
 adventure	/ædˈvεntʃɚ, ədˈvεntʃɚ/
 adventurous	/ædˈvεntʃɚəs, ədˈvεntʃɚəs/
@@ -259,20 +259,20 @@ afterward	/ˈæftɚwɚd/
 afterwards	/-wɚdz/
 again	/əˈgεn, -ˈgɪn/
 against	/əˈgεnst, -ˈgɪnst/
-age	/ˈeɪdƷ/
-agency	/ˈeɪdƷənsi/
-agenda	/əˈdƷεndə/
-agent	/ˈeɪdƷənt/
+age	/ˈeɪdʒ/
+agency	/ˈeɪdʒənsi/
+agenda	/əˈdʒεndə/
+agent	/ˈeɪdʒənt/
 aggravate	/ˈægrəˌveɪt/
 aggregate	/ˈægrɪgət/
 aggression	/əˈgrεʃən/
 aggressive	/əˈgrεsɪv/
 aggressor	/əˈgrεsɚ/
 aghast	/əˈgæst/
-agile	/ˈædƷəl/
-agility	/əˈdƷɪlət̬i/
-agitate	/ˈædƷəˌteɪt/
-agitation	/ˌædƷəˈteɪʃən/
+agile	/ˈædʒəl/
+agility	/əˈdʒɪlət̬i/
+agitate	/ˈædʒəˌteɪt/
+agitation	/ˌædʒəˈteɪʃən/
 agnostic	/ægˈnɑstɪk/
 ago	/əˈgoː/
 agony	/ˈægəni/
@@ -304,7 +304,7 @@ airtight	/ˈεərˈtaɪt/
 airy	/ˈεəri/
 airier	/-iɚ/
 aisle	/ˈaɪl/
-ajar	/əˈdƷɑr/
+ajar	/əˈdʒɑr/
 akin	/əˈkɪn/
 alarm	/əˈlɑrm/
 alas	/əˈlæs/
@@ -317,8 +317,8 @@ ale	/ˈeɪl/
 alert	/əˈlɝt/
 alfalfa	/ælˈfælfə/
 alga	/ˈælgə/
-algae	/ˈælˌdƷiː/
-algebra	/ˈældƷəbrə/
+algae	/ˈælˌdʒiː/
+algebra	/ˈældʒəbrə/
 alias	/ˈeɪliəs/
 alibi	/ˈæləˌbaɪ/
 alien	/ˈeɪliən/
@@ -333,15 +333,15 @@ alive	/əˈlaɪv/
 all	/ˈɔl/
 all–around	/ˌɔləˈraʊnd/
 allay	/əˈleɪ/
-allege	/əˈlεdƷ/
+allege	/əˈlεdʒ/
 allegation	/ˌælɪˈgeɪʃən/
-alleged	/əˈlεdƷd, əˈlεdƷəd/
-allegedly	/əˈlεdƷədli/
-allegiance	/əˈliːdƷəns/
+alleged	/əˈlεdʒd, əˈlεdʒəd/
+allegedly	/əˈlεdʒədli/
+allegiance	/əˈliːdʒəns/
 allegory	/ˈæləˌgori/
 allegorical	/ˌæləˈgɔrɪkəl/
-allergy	/ˈælɚdƷi/
-allergic	/əˈlɝdƷɪk/
+allergy	/ˈælɚdʒi/
+allergic	/əˈlɝdʒɪk/
 alleviate	/əˈliːviˌeɪt/
 alley	/ˈæli/
 alliance	/əˈlaɪəns/
@@ -431,7 +431,7 @@ amputate	/ˈæmpjəˌteɪt/
 amputation	/ˌæmpjəˈteɪʃən/
 amuse	/əˈmjuːz/
 amusement	/əˈmjuːzmənt/
-analogy	/əˈnælədƷi/
+analogy	/əˈnælədʒi/
 analogous	/əˈnæləgəs/
 analysis	/əˈnæləsəs/
 analyses	/əˈnæləˌsiːz/
@@ -455,8 +455,8 @@ anemic	/əˈniːmɪk/
 anesthesia	/ˌænəsˈθiːʒə/
 anesthetic	/ˌænəsˈθεt̬ɪk/
 anew	/əˈnuː, -ˈnjuː/
-angel	/ˈeɪndƷəl/
-angelic	/ænˈdƷεlɪk/
+angel	/ˈeɪndʒəl/
+angelic	/ænˈdʒεlɪk/
 angelical	/-lɪkəl/
 anger	/ˈæŋgɚ/
 angler	/ˈæŋglɚ/
@@ -503,8 +503,8 @@ antelope	/ˈæntəlˌoːp/
 antenna	/ænˈtεnə/
 antennae	/-ˌniː, -ˌnaɪ/
 anthem	/ˈænθəm/
-anthology	/ænˈθɑlədƷi/
-anthropology	/ˌænθrəˈpɑlədƷi/
+anthology	/ænˈθɑlədʒi/
+anthropology	/ˌænθrəˈpɑlədʒi/
 antibiotic	/ˌæntibaɪˈɑt̬ɪk, ˌæntaɪ-, -bi-/
 antibody	/ˈæntiˌbɑdi/
 anticipate	/ænˈtɪsəˌpeɪt/
@@ -547,9 +547,9 @@ apex	/ˈeɪˌpεks/
 apices	/ˈeɪpəˌsiːz, ˈæ-/
 apiece	/əˈpiːs/
 aplomb	/əˈplɑm, -ˈplʌm/
-apology	/əˈpɑlədƷi/
-apologetic	/əˌpɑləˈdƷεt̬ɪk/
-apologize	/əˈpɑləˌdƷaɪz/
+apology	/əˈpɑlədʒi/
+apologetic	/əˌpɑləˈdʒεt̬ɪk/
+apologize	/əˈpɑləˌdʒaɪz/
 apostle	/əˈpɑsəl/
 apostrophe	/əˈpɑstrəˌfiː/
 appall	/əˈpɔl/
@@ -617,9 +617,9 @@ arbitration	/ˌɑrbəˈtreɪʃən/
 arc	/ˈɑrk/
 arcade	/ɑrˈkeɪd/
 arch	/ˈɑrtʃ/
-archeology	/ˌɑrkiˈɑlədƷi/
-archaeological	/ˌɑrkiəˈlɑdƷɪkəl/
-archaeologist	/ˌɑrkiˈɑlədƷɪst/
+archeology	/ˌɑrkiˈɑlədʒi/
+archaeological	/ˌɑrkiəˈlɑdʒɪkəl/
+archaeologist	/ˌɑrkiˈɑlədʒɪst/
 archaic	/ɑrˈkeɪɪk/
 archbishop	/ɑrtʃˈbɪʃəp/
 archery	/ˈɑrtʃɚi/
@@ -632,13 +632,13 @@ archway	/ˈɑrtʃˌweɪ/
 arctic	/ˈɑrktɪk, ˈɑrt̬-/
 ardent	/ˈɑrdənt/
 ardor	/ˈɑrdɚ/
-arduous	/ˈɑrdƷʊəs/
+arduous	/ˈɑrdʒʊəs/
 are	/ˈɑr/
 area	/ˈεəriə/
 aren't	/ˈɑrnt, ˈɑrənt/
 arena	/əˈriːnə/
-Argentine	/ˈɑrdƷənˌtaɪn, -ˌtiːn/
-Argentinian	/ˌɑrdƷənˈtɪniən/
+Argentine	/ˈɑrdʒənˌtaɪn, -ˌtiːn/
+Argentinian	/ˌɑrdʒənˈtɪniən/
 argue	/ˈɑrˌgjuː/
 argument	/ˈɑrgjəmənt/
 arid	/ˈærəd/
@@ -666,8 +666,8 @@ aroma	/əˈroːmə/
 aromatic	/ˌærəˈmæt̬ɪk/
 around	/əˈraʊnd/
 arouse	/əˈraʊz/
-arrange	/əˈreɪndƷ/
-arrangement	/əˈreɪndƷmənt/
+arrange	/əˈreɪndʒ/
+arrangement	/əˈreɪndʒmənt/
 array	/əˈreɪ/
 arrears	/əˈrɪrz/
 arrest	/əˈrεst/
@@ -735,7 +735,7 @@ assertive	/əˈsɝt̬ɪv/
 assess	/əˈsεs/
 assessment	/əˈsεsmənt/
 asset	/ˈæˌsεt/
-assiduous	/əˈsɪdƷʊəs/
+assiduous	/əˈsɪdʒʊəs/
 assign	/əˈsaɪn/
 assignment	/əˈsaɪnmənt/
 assimilate	/əˈsɪməˌleɪt/
@@ -759,7 +759,7 @@ astonishment	/əˈstɑnɪʃmənt/
 astound	/əˈstaʊnd/
 astounding	/əˈstaʊndɪŋ/
 astray	/əˈstreɪ/
-astrology	/əˈstrɑlədƷi/
+astrology	/əˈstrɑlədʒi/
 astronaut	/ˈæstrəˌnɔt/
 astronomy	/əˈstrɑnəmi/
 astronomer	/əˈstrɑnəmɚ/
@@ -848,9 +848,9 @@ available	/əˈveɪləbəl/
 availability	/əˌveɪləˈbɪlət̬i/
 avalanche	/ˈævəˌlæntʃ/
 avarice	/ˈævɚəs/
-avenge	/əˈvεndƷ/
+avenge	/əˈvεndʒ/
 avenue	/ˈævəˌnuː, ˈævəˌnjuː/
-average	/ˈævrɪdƷ, ˈævərɪdƷ/
+average	/ˈævrɪdʒ, ˈævərɪdʒ/
 averse	/əˈvɝs/
 aversion	/əˈvɝʒən/
 avert	/əˈvɝt/
@@ -902,7 +902,7 @@ backing	/ˈbækɪŋ/
 backlash	/ˈbækˌlæʃ/
 backlog	/ˈbækˌlɔg/
 backpack	/ˈbækˌpæk/
-backstage	/ˌbækˈsteɪdƷ, ˈbækˌsteɪdƷ/
+backstage	/ˌbækˈsteɪdʒ, ˈbækˌsteɪdʒ/
 backtrack	/ˈbækˌtræk/
 backup	/ˈbækˌʌp/
 backward	/ˈbækwɚd/
@@ -912,12 +912,12 @@ bacteria	/bækˈtɪriə/
 bad	/ˈbæd/
 worse	/ˈwɝs/
 worst	/ˈwɝst/
-badge	/ˈbædƷ/
-badger	/ˈbædƷɚ/
+badge	/ˈbædʒ/
+badger	/ˈbædʒɚ/
 badly	/ˈbædli/
 baffle	/ˈbæfəl/
 bag	/ˈbæg/
-baggage	/ˈbægɪdƷ/
+baggage	/ˈbægɪdʒ/
 baggy	/ˈbægi/
 bail	/ˈbeɪl/
 bailiff	/ˈbeɪləf/
@@ -946,7 +946,7 @@ ban	/ˈbæn/
 banal	/bəˈnɑl, bəˈnæl, ˈbeɪnəl/
 banana	/bəˈnænə/
 band	/ˈbænd/
-bandage	/ˈbændɪdƷ/
+bandage	/ˈbændɪdʒ/
 bandit	/ˈbændət/
 bandy	/ˈbændi/
 bang	/ˈbæŋ/
@@ -975,7 +975,7 @@ barefoot	/ˈbεərˌfʊt/
 barefooted	/ˈbεərˌfʊt̬əd/
 barely	/ˈbεərli/
 bargain	/ˈbɑrgən/
-barge	/ˈbɑrdƷ/
+barge	/ˈbɑrdʒ/
 baritone	/ˈbærəˌtoːn/
 bark	/ˈbɑrk/
 barley	/ˈbɑrli/
@@ -985,7 +985,7 @@ barometer	/bəˈrɑmət̬ɚ/
 baron	/ˈbærən/
 baroness	/ˈbærənɪs, ˈbærənəs, ˈbærəˌnεs/
 barracks	/ˈbærəks/
-barrage	/bəˈrɑʒ, bəˈrɑdƷ/
+barrage	/bəˈrɑʒ, bəˈrɑdʒ/
 barrel	/ˈbærəl/
 barren	/ˈbærən/
 barricade	/ˈbærəˌkeɪd, ˌbærəˈkeɪd/
@@ -1090,7 +1090,7 @@ gan	/-ˈgæn/
 gun	/-ˈgʌn/
 beginner	/bɪˈgɪnɚ/
 beginning	/bɪˈgɪnɪŋ/
-begrudge	/bɪˈgrʌdƷ/
+begrudge	/bɪˈgrʌdʒ/
 behalf	/bɪˈhæf, -ˈhaf/
 behave	/bɪˈheɪv/
 behavior	/bɪˈheɪvjɚ/
@@ -1100,7 +1100,7 @@ beige	/ˈbeɪʒ/
 being	/ˈbiːɪŋ/
 belated	/bɪˈleɪt̬əd/
 belch	/ˈbεltʃ/
-Belgian	/ˈbεldƷən/
+Belgian	/ˈbεldʒən/
 belie	/bɪˈlaɪ/
 belief	/bəˈliːf/
 believable	/bəˈliːvəbəl/
@@ -1109,7 +1109,7 @@ believer	/bəˈliːvɚ/
 belittle	/bɪˈlɪt̬əl/
 Belizean	/bəˈliːziən/
 bell	/ˈbεl/
-belligerent	/bəˈlɪdƷɚənt/
+belligerent	/bəˈlɪdʒɚənt/
 bellow	/ˈbεˌloː/
 bellows	/ˈbεˌloːz/
 belly	/ˈbεli/
@@ -1143,7 +1143,7 @@ bisought	/-ˈsɔt/
 beset	/bɪˈsεt/
 beside	/bɪˈsaɪd/
 besides	/bɪˈsaɪdz/
-besiege	/bɪˈsiːdƷ/
+besiege	/bɪˈsiːdʒ/
 best	/ˈbεst/
 bestow	/bɪˈstoː/
 bet	/ˈbεt/
@@ -1151,7 +1151,7 @@ betray	/bɪˈtreɪ/
 betrayal	/bɪˈtreɪəl/
 better	/ˈbεt̬ɚ/
 between	/bɪˈtwiːn/
-beverage	/ˈbεvrɪdƷ, ˈbεvə-/
+beverage	/ˈbεvrɪdʒ, ˈbεvə-/
 beware	/bɪˈwεər/
 bewilder	/bɪˈwɪldɚ/
 bewilderment	/bɪˈwɪldɚmənt/
@@ -1194,16 +1194,16 @@ bind	/ˈbaɪnd/
 bound	/ˈbaʊnd/
 binder	/ˈbaɪndɚ/
 binding	/ˈbaɪndɪŋ/
-binge	/ˈbɪndƷ/
+binge	/ˈbɪndʒ/
 bingo	/ˈbɪŋˌgoː/
 binoculars	/bəˈnɑkjəlɚz, baɪ-/
 biochemistry	/ˌbaɪoˈkεmɪstri/
 biography	/baɪˈɑgrəfi, biː-/
 biographer	/baɪˈɑgrəfɚ/
 biographical	/ˌbaɪəˈgræfɪkəl/
-biology	/baɪˈɑlədƷi/
-biological	/-dƷɪkəl/
-biologist	/baɪˈɑlədƷɪst/
+biology	/baɪˈɑlədʒi/
+biological	/-dʒɪkəl/
+biologist	/baɪˈɑlədʒɪst/
 birch	/ˈbɝtʃ/
 bird	/ˈbɝd/
 birth	/ˈbɝθ/
@@ -1278,7 +1278,7 @@ bloated	/ˈbloːt̬əd/
 blob	/ˈblɑb/
 block	/ˈblɑk/
 blockade	/blɑˈkeɪd/
-blockage	/ˈblɑkɪdƷ/
+blockage	/ˈblɑkɪdʒ/
 blonde	/ˈblɑnd/
 blood	/ˈblʌd/
 bloodhound	/ˈblʌdˌhaʊnd/
@@ -1298,7 +1298,7 @@ blew	/ˈbluː/
 blown	/ˈbloːn/
 blowout	/ˈbloːˌaʊt/
 blubber	/ˈblʌbɚ/
-bludgeon	/ˈblʌdƷən/
+bludgeon	/ˈblʌdʒən/
 blue	/ˈbluː/
 blueberry	/ˈbluːˌbεri/
 bluebird	/ˈbluːˌbɝd/
@@ -1338,7 +1338,7 @@ bombard	/bɑmˈbɑrd, bəm-/
 bombardment	/bɑmˈbɑrdmənt/
 bomber	/ˈbɑmɚ/
 bond	/ˈbɑnd/
-bondage	/ˈbɑndɪdƷ/
+bondage	/ˈbɑndɪdʒ/
 bone	/ˈboːn/
 bonfire	/ˈbɑnˌfaɪr/
 bonus	/ˈboːnəs/
@@ -1464,7 +1464,7 @@ bride	/ˈbraɪd/
 bridal	/ˈbraɪdəl/
 bridegroom	/ˈbraɪdˌgruːm/
 bridesmaid	/ˈbraɪdzˌmeɪd/
-bridge	/ˈbrɪdƷ/
+bridge	/ˈbrɪdʒ/
 bridle	/ˈbraɪdəl/
 brief	/ˈbriːf/
 briefcase	/ˈbriːfˌkeɪs/
@@ -1530,9 +1530,9 @@ bud	/ˈbʌd/
 Buddhism	/ˈbuːˌdɪzəm, ˈbʊ-/
 Buddhist	/ˈbuːdɪst, ˈbʊ-/
 buddy	/ˈbʌdi/
-budge	/ˈbʌdƷ/
-budget	/ˈbʌdƷət/
-budgetary	/ˈbʌdƷəˌtεri/
+budge	/ˈbʌdʒ/
+budget	/ˈbʌdʒət/
+budgetary	/ˈbʌdʒəˌtεri/
 buff	/ˈbʌf/
 buffalo	/ˈbʌfəˌloː/
 buffet	/ˌbʌˈfeɪ, ˌbuː-/
@@ -1545,7 +1545,7 @@ builder	/ˈbɪldɚ/
 building	/ˈbɪldɪŋ/
 built–in	/ˈbɪltˈɪn/
 bulb	/ˈbʌlb/
-bulge	/ˈbʌldƷ/
+bulge	/ˈbʌldʒ/
 bulk	/ˈbʌlk/
 bulky	/ˈbʌlki/
 bull	/ˈbʊl/
@@ -1637,7 +1637,7 @@ byword	/ˈbaɪˌwɝd/
 by–product	/ˈbaɪˌprɑdəkt/
 c	/ˈsiː/
 cab	/ˈkæb/
-cabbage	/ˈkæbɪdƷ/
+cabbage	/ˈkæbɪdʒ/
 cabin	/ˈkæbən/
 cabinet	/ˈkæbnət/
 cable	/ˈkeɪbəl/
@@ -1649,8 +1649,8 @@ cadet	/kəˈdεt/
 caffeine	/kæˈfiːn/
 café	/kæˈfeɪ, kə-/
 cafeteria	/ˌkæfəˈtɪriə/
-cage	/ˈkeɪdƷ/
-cajole	/kəˈdƷoːl/
+cage	/ˈkeɪdʒ/
+cajole	/kəˈdʒoːl/
 cake	/ˈkeɪk/
 caked	/ˈkeɪkt/
 calamity	/kəˈlæmət̬i/
@@ -1671,7 +1671,7 @@ calmly	/ˈkɑmli, ˈkɑlm-/
 calorie	/ˈkælɚi/
 camel	/ˈkæməl/
 camera	/ˈkæmrə, ˈkæmɚə/
-camouflage	/ˈkæməˌflɑʒ, ˈkæməˌflɑdƷ/
+camouflage	/ˈkæməˌflɑʒ, ˈkæməˌflɑdʒ/
 camp	/ˈkæmp/
 campaign	/kæmˈpeɪn/
 camping	/ˈkæmpɪŋ/
@@ -1758,7 +1758,7 @@ caress	/kəˈrεs/
 cargo	/ˈkɑrˌgoː/
 caricature	/ˈkærɪkəˌtʃʊr/
 caring	/ˈkεərɪŋ/
-carnage	/ˈkɑrnɪdƷ/
+carnage	/ˈkɑrnɪdʒ/
 carnal	/ˈkɑrnəl/
 carnation	/kɑrˈneɪʃən/
 carnival	/ˈkɑrnəvəl/
@@ -1767,15 +1767,15 @@ carp	/ˈkɑrp/
 carpenter	/ˈkɑrpəntɚ/
 carpentry	/ˈkɑrpəntri/
 carpet	/ˈkɑrpət/
-carriage	/ˈkærɪdƷ/
+carriage	/ˈkærɪdʒ/
 carrier	/ˈkæriɚ/
 carrot	/ˈkærət/
 carry	/ˈkæri/
 cart	/ˈkɑrt/
-cartilage	/ˈkɑrt̬əlɪdƷ/
+cartilage	/ˈkɑrt̬əlɪdʒ/
 carton	/ˈkɑrtən/
 cartoon	/kɑrˈtuːn/
-cartridge	/ˈkɑrtrɪdƷ/
+cartridge	/ˈkɑrtrɪdʒ/
 carve	/ˈkɑrv/
 cash	/ˈkæʃ/
 cashew	/ˈkæˌʃuː, kəˈʃuː/
@@ -1874,8 +1874,8 @@ chairman	/ˈtʃεərmən/
 chairmen	/-mən, -ˌmεn/
 chairperson	/ˈtʃεərˌpɝsən/
 chalk	/ˈtʃɔk/
-challenge	/ˈtʃælɪndƷ/
-challenging	/ˈtʃæ-lɪndƷɪŋ/
+challenge	/ˈtʃælɪndʒ/
+challenging	/ˈtʃæ-lɪndʒɪŋ/
 chamber	/ˈtʃeɪmbɚ/
 chambermaid	/ˈtʃeɪmbɚˌmeɪd/
 champagne	/ʃæmˈpeɪn/
@@ -1883,8 +1883,8 @@ champion	/ˈtʃæmpiən/
 championship	/ˈtʃæmpiənˌʃɪp/
 chance	/ˈtʃæns/
 chandelier	/ˌʃændəˈlɪr/
-change	/ˈtʃeɪndƷ/
-changeable	/ˈtʃeɪndƷəbəl/
+change	/ˈtʃeɪndʒ/
+changeable	/ˈtʃeɪndʒəbəl/
 channel	/ˈtʃænəl/
 chant	/ˈtʃænt/
 chaos	/ˈkeɪˌɑs/
@@ -1899,7 +1899,7 @@ character	/ˈkærɪktɚ/
 characteristic	/ˌkærɪktəˈrɪstɪk/
 characterize	/ˈkærɪktəˌraɪz/
 charcoal	/ˈtʃɑrˌkoːl/
-charge	/ˈtʃɑrdƷ/
+charge	/ˈtʃɑrdʒ/
 charisma	/kəˈrɪzmə/
 charismatic	/ˌkærəzˈmætɪk/
 charity	/ˈtʃærət̬i/
@@ -2006,8 +2006,8 @@ Christmas	/ˈkrɪsməs/
 chrome	/ˈkroːm/
 chronic	/ˈkrɑnɪk/
 chronicle	/ˈkrɑnɪkəl/
-chronology	/krəˈnɑlədƷi/
-chronological	/ˌkrɑnəlˈɑdƷɪkəl/
+chronology	/krəˈnɑlədʒi/
+chronological	/ˌkrɑnəlˈɑdʒɪkəl/
 chrysanthemum	/krɪˈsænθəməm/
 chubby	/ˈtʃʌbi/
 chuck	/ˈtʃʌk/
@@ -2096,8 +2096,8 @@ cleft	/ˈklεft/
 clement	/ˈklεmənt/
 clemency	/ˈklεmənsi/
 clench	/ˈklεntʃ/
-clergy	/ˈklɝdƷi/
-clergyman	/ˈklɝdƷimən/
+clergy	/ˈklɝdʒi/
+clergyman	/ˈklɝdʒimən/
 clergymen	/-mən, -ˌmεn/
 clerical	/ˈklεrɪkəl/
 clerk	/ˈklɝk/, Brit /ˈklɑrk/
@@ -2185,7 +2185,7 @@ cocoon	/kəˈkuːn/
 cod	/ˈkɑd/
 coddle	/ˈkɑdəl/
 code	/ˈkoːd/
-coeducational	/ˌkoːˌεdƷəˈkeɪʃənəl/
+coeducational	/ˌkoːˌεdʒəˈkeɪʃənəl/
 coerce	/koˈɝs/
 coercion	/koˈɝʒən, -ʃən/
 coffee	/ˈkɔfi/
@@ -2193,7 +2193,7 @@ coffeepot	/ˈkɔfiˌpɑt/
 coffer	/ˈkɔfɚ/
 coffin	/ˈkɔfən/
 cog	/ˈkɑg/
-cogent	/ˈkoːdƷənt/
+cogent	/ˈkoːdʒənt/
 cognac	/ˈkoːnˌjæk/
 cogwheel	/ˈkɑgˌhwiːl/
 coherent	/koˈhɪrənt/
@@ -2219,7 +2219,7 @@ collect	/kəˈlεkt/
 collection	/kəˈlεkʃən/
 collective	/kəˈlεktɪv/
 collector	/kəˈlεktɚ/
-college	/ˈkɑlɪdƷ/
+college	/ˈkɑlɪdʒ/
 collide	/kəˈlaɪd/
 collision	/kəˈlɪʒən/
 colloquial	/kəˈloːkwiəl/
@@ -2438,24 +2438,24 @@ confrontation	/ˌkɑnfrənˈteɪʃən/
 confuse	/kənˈfjuːz/
 confusing	/kənˈfjuːzɪŋ/
 confusion	/kənˈfjuːʒən/
-congeal	/kənˈdƷiːl/
-congenial	/kənˈdƷiːniəl/
-congested	/kənˈdƷεstəd/
-congestion	/kənˈdƷεstʃən/
-congratulate	/kənˈgrædƷəˌleɪt, -ˈgrætʃə-/
-congratulations	/kənˌgrædƷəˈleɪʃən, -ˌgrætʃə-/
+congeal	/kənˈdʒiːl/
+congenial	/kənˈdʒiːniəl/
+congested	/kənˈdʒεstəd/
+congestion	/kənˈdʒεstʃən/
+congratulate	/kənˈgrædʒəˌleɪt, -ˈgrætʃə-/
+congratulations	/kənˌgrædʒəˈleɪʃən, -ˌgrætʃə-/
 congregate	/ˈkɑŋgrɪˌgeɪt/
 congregation	/ˌkɑŋgrɪˈgeɪʃən/
 congress	/ˈkɑŋgrəs/
 congressional	/kənˈgrεʃənəl, kɑn-/
 congressman	/ˈkɑŋgrəsmən/
 congressmen	/-mən, -ˌmεn/
-conjecture	/kənˈdƷεktʃɚ/
-conjugal	/ˈkɑndƷɪgəl, kənˈdƷuː-/
-conjugate	/ˈkɑndƷəˌgeɪt/
-conjugation	/ˌkɑndƷəˈgeɪʃən/
-conjunction	/kənˈdƷʌŋkʃən/
-conjure	/ˈkɑndƷɚ, ˈkʌn-/
+conjecture	/kənˈdʒεktʃɚ/
+conjugal	/ˈkɑndʒɪgəl, kənˈdʒuː-/
+conjugate	/ˈkɑndʒəˌgeɪt/
+conjugation	/ˌkɑndʒəˈgeɪʃən/
+conjunction	/kənˈdʒʌŋkʃən/
+conjure	/ˈkɑndʒɚ, ˈkʌn-/
 connect	/kəˈnεkt/
 connection	/kəˈnεkʃən/
 connoisseur	/ˌkɑnəˈsɝ, -ˈsʊr/
@@ -2523,7 +2523,7 @@ consumption	/kənˈsʌmpʃən/
 contact	/ˈkɑnˌtækt/
 ~	/ˈkɑnˌtækt, kənˈ-/
 contact lens	/ˈkɑnˌtæktˈlεnz/
-contagious	/kənˈteɪdƷəs/
+contagious	/kənˈteɪdʒəs/
 contain	/kənˈteɪn/
 container	/kənˈteɪnɚ/
 contaminate	/kənˈtæməˌneɪt/
@@ -2547,7 +2547,7 @@ contestant	/kənˈtεstənt/
 context	/ˈkɑnˌtεkst/
 continent	/ˈkɑntənənt/
 continental	/ˌkɑntənˈεntəl/
-contingency	/kənˈtɪndƷənsi/
+contingency	/kənˈtɪndʒənsi/
 continue	/kənˈtɪnjuː/
 continual	/kənˈtɪnjʊəl/
 continuation	/kənˌtɪnjʊˈeɪʃən/
@@ -2586,7 +2586,7 @@ convenient	/kənˈviːnjənt/
 convent	/ˈkɑnvənt, -ˌvεnt/
 convention	/kənˈvεnʃən/
 conventional	/kənˈvεnʃənəl/
-converge	/kənˈvɝdƷ/
+converge	/kənˈvɝdʒ/
 converse 1	/kənˈvɝs/
 converse 2	/kənˈvɝs, ˈkɑnˌvɝs/
 conversation	/ˌkɑnvɚˈseɪʃən/
@@ -2627,7 +2627,7 @@ copy	/ˈkɑpi/
 copyright	/ˈkɑpiˌraɪt/
 coral	/ˈkɔrəl/
 cord	/ˈkɔrd/
-cordial	/ˈkɔrdƷəl/
+cordial	/ˈkɔrdʒəl/
 corduroy	/ˈkɔrdəˌrɔɪ/
 core	/ˈkor/
 cork	/ˈkɔrk/
@@ -2673,7 +2673,7 @@ Costa Rican	/ˌkɔstəˈriːkən/
 costly	/ˈkɔstli/
 costume	/ˈkɑsˌtuːm, -ˌtjuːm/
 cot	/ˈkɑt/
-cottage	/ˈkɑt̬ɪdƷ/
+cottage	/ˈkɑt̬ɪdʒ/
 cotton	/ˈkɑtən/
 couch	/ˈkaʊtʃ/
 cough	/ˈkɔf/
@@ -2701,8 +2701,8 @@ coup	/ˈkuː/
 coups	/ˈkuːz/
 couple	/ˈkʌpəl/
 coupon	/ˈkuːˌpɑn, ˈkjuː-/
-courage	/ˈkɝɪdƷ/
-courageous	/kəˈreɪdƷəs/
+courage	/ˈkɝɪdʒ/
+courageous	/kəˈreɪdʒəs/
 courier	/ˈkʊriɚ, ˈkɝiɚ/
 course	/ˈkors/
 court	/ˈkort/
@@ -2716,7 +2716,7 @@ cousin	/ˈkʌzən/
 cove	/ˈkoːv/
 covenant	/ˈkʌvənənt/
 cover	/ˈkʌvɚ/
-coverage	/ˈkʌvɚɪdƷ/
+coverage	/ˈkʌvɚɪdʒ/
 covert	/ˈkoːˌvɝt, ˈkʌvɚt/
 cover–up	/ˈkʌvɚˌʌp/
 covet	/ˈkʌvət/
@@ -2772,7 +2772,7 @@ credentials	/krɪˈdεnʃəlz/
 credible	/ˈkrεdəbəl/
 credibility	/ˌkrεdə ˈbɪlət̬i/
 credit	/ˈkrεdɪt/
-credulous	/ˈkrεdƷələs/
+credulous	/ˈkrεdʒələs/
 creed	/ˈkriːd/
 creek	/ˈkriːk, ˈkrɪk/
 creep	/ˈkriːp/
@@ -2790,7 +2790,7 @@ crime	/ˈkraɪm/
 criminal	/ˈkrɪmənəl/
 crimp	/ˈkrɪmp/
 crimson	/ˈkrɪmzən/
-cringe	/ˈkrɪndƷ/
+cringe	/ˈkrɪndʒ/
 crinkle	/ˈkrɪŋkəl/
 cripple	/ˈkrɪpəl/
 crisis	/ˈkraɪsɪs/
@@ -2859,7 +2859,7 @@ cubicle	/ˈkjuːbɪkəl/
 cuckoo	/ˈkuːˌkuː, ˈkʊ-/
 cucumber	/ˈkjuːˌkʌmbɚ/
 cuddle	/ˈkʌdəl/
-cudgel	/ˈkʌdƷəl/
+cudgel	/ˈkʌdʒəl/
 cue	/ˈkjuː/
 cuff	/ˈkʌf/
 cuisine	/kwɪˈziːn/
@@ -2946,7 +2946,7 @@ dainty	/ˈdeɪnti/
 dairy	/ˈdεəri/
 daisy	/ˈdeɪzi/
 dam	/ˈdæm/
-damage	/ˈdæmɪdƷ/
+damage	/ˈdæmɪdʒ/
 damn	/ˈdæm/
 damned	/ˈdæmd/
 damp	/ˈdæmp/
@@ -2957,8 +2957,8 @@ dancer	/ˈdænsɚ/
 dandelion	/ˈdændəlˌaɪən/
 dandruff	/ˈdændrəf/
 dandy	/ˈdændi/
-danger	/ˈdeɪndƷɚ/
-dangerous	/ˈdeɪndƷɚəs/
+danger	/ˈdeɪndʒɚ/
+dangerous	/ˈdeɪndʒɚəs/
 dangle	/ˈdæŋgəl/
 Danish	/ˈdeɪnɪʃ/
 dank	/ˈdæŋk/
@@ -3044,7 +3044,7 @@ declaration	/ˌdεkləˈreɪʃən/
 decline	/dɪˈklaɪn/
 decode	/dɪˈkoːd/
 decompose	/ˌdiːkəmˈpoːz/
-decongestant	/ˌdiːkənˈdƷεstənt/
+decongestant	/ˌdiːkənˈdʒεstənt/
 decorate	/ˈdεkəˌreɪt/
 décor	/deɪˈkɔr, ˈdeɪˌkɔr/
 decoration	/ˌdεkəˈreɪʃən/
@@ -3096,15 +3096,15 @@ defraud	/dɪˈfrɔd/
 defrost	/diˈfrɔst/
 deft	/ˈdεft/
 defy	/dɪˈfaɪ/
-degenerate	/dɪˈdƷεnəˌreɪt/
-~	/diˈdƷεnəˌrət/
+degenerate	/dɪˈdʒεnəˌreɪt/
+~	/diˈdʒεnəˌrət/
 degrade	/dɪˈgreɪd/
 degree	/dɪˈgriː/
 dehydrate	/diˈhaɪˌdreɪt/
 deign	/ˈdeɪn/
 deity	/ˈdiːət̬i, ˈdeɪ-/
-dejected	/dɪˈdƷεktəd/
-dejection	/dɪˈdƷεkʃən/
+dejected	/dɪˈdʒεktəd/
+dejection	/dɪˈdʒεkʃən/
 delay	/dɪˈleɪ/
 delectable	/dɪˈlεktəbəl/
 delegate	/ˈdεlɪgət, -ˌgeɪt/
@@ -3127,7 +3127,7 @@ delirium	/dɪˈlɪriəm/
 deliver	/dɪˈlɪvɚ/
 delivery	/dɪˈlɪvɚi/
 delude	/dɪˈluːd/
-deluge	/ˈdεlˌjuːdƷ, -ˌjuːʒ/
+deluge	/ˈdεlˌjuːdʒ, -ˌjuːʒ/
 delusion	/dɪˈluːʒən/
 deluxe	/dɪˈlʌks, -ˈlʊks/
 delve	/ˈdεlv/
@@ -3189,7 +3189,7 @@ depth	/ˈdεpθ/
 depths	/ˈdεpθs, ˈdεps/
 deputy	/ˈdεpjʊt̬i/
 derail	/dɪˈreɪl/
-deranged	/dɪˈreɪndƷd/
+deranged	/dɪˈreɪndʒd/
 derelict	/ˈdεrəˌlɪkt/
 deride	/dɪˈraɪd/
 derision	/dɪˈrɪʒən/
@@ -3238,7 +3238,7 @@ detection	/dɪˈtεkʃən/
 detective	/dɪˈtεktɪv/
 detention	/dɪˈtεnʃən/
 deter	/dɪˈtɝ/
-detergent	/dɪˈtɝdƷənt/
+detergent	/dɪˈtɝdʒənt/
 deteriorate	/diˈtɪriəˌreɪt/
 deterioration	/diˌtɪriəˈreɪʃən/
 determine	/dɪˈtɝmən/
@@ -3315,13 +3315,13 @@ difficulty	/ˈdɪfɪˌkʌlti/
 diffident	/ˈdɪfədənt/
 dig	/ˈdɪg/
 dug	/ˈdʌg/
-digest	/ˈdaɪˌdƷεst/
-~	/daɪˈdƷεst/
-digestible	/daɪˈdƷεstəbəl, dɪ-/
-digestion	/daɪˈdƷεstʃən, dɪ-/
-digestive	/daɪˈdƷεstɪv, dɪ-/
-digit	/ˈdɪdƷət/
-digital	/ˈdɪdƷət̬əl/
+digest	/ˈdaɪˌdʒεst/
+~	/daɪˈdʒεst/
+digestible	/daɪˈdʒεstəbəl, dɪ-/
+digestion	/daɪˈdʒεstʃən, dɪ-/
+digestive	/daɪˈdʒεstɪv, dɪ-/
+digit	/ˈdɪdʒət/
+digital	/ˈdɪdʒət̬əl/
 dignity	/ˈdɪgnət̬i/
 dignified	/ˈdɪgnəˌfaɪd/
 digress	/daɪˈgrεs, də-/
@@ -3330,8 +3330,8 @@ dike	/ˈdaɪk/
 dilapidated	/dəˈlæpəˌdeɪt̬əd/
 dilate	/daɪˈleɪt, ˈdaɪˌleɪt/
 dilemma	/dɪˈlεmə/
-diligence	/ˈdɪlədƷəns/
-diligent	/ˈdɪlədƷənt/
+diligence	/ˈdɪlədʒəns/
+diligent	/ˈdɪlədʒənt/
 dilute	/daɪˈluːt, də-/
 dim	/ˈdɪm/
 dime	/ˈdaɪm/
@@ -3342,7 +3342,7 @@ dimple	/ˈdɪmpəl/
 din	/ˈdɪn/
 dine	/ˈdaɪn/
 diner	/ˈdaɪnɚ/
-dingy	/ˈdɪndƷi/
+dingy	/ˈdɪndʒi/
 dinner	/ˈdɪnɚ/
 dinosaur	/ˈdaɪnəˌsɔr/
 dint	/ˈdɪnt/
@@ -3362,7 +3362,7 @@ dirty	/ˈdɝt̬i/
 disability	/ˌdɪsəˈbɪlət̬i/
 disable	/dɪsˈeɪbəl/
 disabled	/dɪsˈeɪbəld/
-disadvantage	/ˌdɪsədˈvæntɪdƷ/
+disadvantage	/ˌdɪsədˈvæntɪdʒ/
 disagree	/ˌdɪsəˈgriː/
 disagreeable	/ˌdɪsəˈgriːəbəl/
 disagreement	/ˌdɪsəˈgriːmənt/
@@ -3381,8 +3381,8 @@ disbelief	/ˌdɪsbɪˈliːf/
 discard	/dɪsˈkɑrd, ˈdɪsˌkɑrd/
 discern	/dɪˈsɝn, dɪˈzɝn/
 discernible	/dɪˈsɝnəbəl, dɪˈzɝnəbəl/
-discharge	/dɪsˈtʃɑrdƷ, ˈdɪsˌ-/
-~	/ˈdɪsˌtʃɑrdƷ, dɪsˈ-/
+discharge	/dɪsˈtʃɑrdʒ, ˈdɪsˌ-/
+~	/ˈdɪsˌtʃɑrdʒ, dɪsˈ-/
 disciple	/dɪˈsaɪpəl/
 discipline	/ˈdɪsəplən/
 disclaim	/dɪsˈkleɪm/
@@ -3395,8 +3395,8 @@ disconsolate	/dɪsˈkɑnsələt/
 discontented	/ˌdɪskənˈtεntəd/
 discontinue	/ˌdɪskənˈtɪnˌjuː/
 discount	/ˈdɪsˌkaʊnt, dɪsˈ-/
-discourage	/dɪsˈkɝɪdƷ/
-discouragement	/dɪsˈkɝɪdƷmənt/
+discourage	/dɪsˈkɝɪdʒ/
+discouragement	/dɪsˈkɝɪdʒmənt/
 discover	/dɪsˈkʌvɚ/
 discovery	/dɪsˈkʌvɚi/
 discredit	/dɪsˈkrεdət/
@@ -3411,7 +3411,7 @@ disdain	/dɪsˈdeɪn/
 disease	/dɪˈziːz/
 diseased	/dɪˈziːzd/
 disembark	/ˌdɪsɪmˈbɑrk/
-disengage	/ˌdɪsɪnˈgeɪdƷ/
+disengage	/ˌdɪsɪnˈgeɪdʒ/
 disentangle	/ˌdɪsɪnˈtæŋgəl/
 disfavor	/dɪsˈfeɪvɚ/
 disfigure	/dɪsˈfɪgjɚ/
@@ -3439,7 +3439,7 @@ disinterested	/dɪsˈɪntɚəstəd, -ˌrεs-/
 disc	/ˈdɪsk/
 dislike	/dɪsˈlaɪk/
 dislocate	/ˈdɪsloˌkeɪt, dɪsˈloː-/
-dislodge	/dɪsˈlɑdƷ/
+dislodge	/dɪsˈlɑdʒ/
 disloyal	/dɪsˈlɔɪəl/
 disloyalty	/dɪsˈlɔɪəlti/
 dismal	/ˈdɪzməl/
@@ -3523,7 +3523,7 @@ ditto	/ˈdɪt̬oː/
 dive	/ˈdaɪv/
 dove	/ˈdoːv/
 diver	/ˈdaɪvɚ/
-diverge	/dəˈvɝdƷ, daɪˈvɝdƷ/
+diverge	/dəˈvɝdʒ, daɪˈvɝdʒ/
 diverse	/daɪˈvɝs, də-, ˈdaɪˌvɝs/
 diversify	/daɪˈvɝsəˌfaɪ, də-/
 diversion	/daɪˈvɝʒən, də-/
@@ -3536,7 +3536,7 @@ divinity	/dəˈvɪnət̬i/
 division	/dɪˈvɪʒən/
 divorce	/dəˈvors/
 divorcée	/dɪˌvorˈseɪ, -ˈsiː; -ˈvorˌ-/
-divulge	/dəˈvʌldƷ, daɪ-/
+divulge	/dəˈvʌldʒ, daɪ-/
 dizzy	/ˈdɪzi/
 dizziness	/ˈdɪzinəs/
 DNA	/ˌdiːˌεnˈeɪ/
@@ -3551,7 +3551,7 @@ doctrine	/ˈdɑktrɪn/
 document	/ˈdɑkjʊmənt/
 ~	/ˈdɑkjʊˌmεnt/
 documentary	/ˌdɑkjʊˈmεntɚi/
-dodge	/ˈdɑdƷ/
+dodge	/ˈdɑdʒ/
 doe	/ˈdoː/
 dog	/ˈdɔg, ˈdɑg/
 dogged	/ˈdɔgəd/
@@ -3594,7 +3594,7 @@ dope	/ˈdoːp/
 dormant	/ˈdɔrmənt/
 dormitory	/ˈdɔrməˌtori/
 dose	/ˈdoːs/
-dosage	/ˈdoːsɪdƷ/
+dosage	/ˈdoːsɪdʒ/
 dot	/ˈdɑt/
 dote	/ˈdoːt/
 double	/ˈdʌbəl/
@@ -3634,7 +3634,7 @@ drag	/ˈdræg/
 dragon	/ˈdrægən/
 dragonfly	/ˈdrægənˌflaɪ/
 drain	/ˈdreɪn/
-drainage	/ˈdreɪnɪdƷ/
+drainage	/ˈdreɪnɪdʒ/
 drainpipe	/ˈdreɪnˌpaɪp/
 drama	/ˈdrɑmə, ˈdræ-/
 dramatic	/drəˈmæt̬ɪk/
@@ -3659,7 +3659,7 @@ dreamt	/ˈdrεmt/
 dreamer	/ˈdriːmɚ/
 dreamy	/ˈdriːmi/
 dreary	/ˈdrɪri/
-dredge	/ˈdrεdƷ/
+dredge	/ˈdrεdʒ/
 dregs	/ˈdrεgz/
 drench	/ˈdrεntʃ/
 dress	/ˈdrεs/
@@ -3689,7 +3689,7 @@ drought	/ˈdraʊt/
 droves	/ˈdroːvz/
 drown	/ˈdraʊn/
 drowsy	/ˈdraʊzi/
-drudgery	/ˈdrʌdƷɚi/
+drudgery	/ˈdrʌdʒɚi/
 drug	/ˈdrʌg/
 drugstore	/ˈdrʌgˌstor/
 drum	/ˈdrʌm/
@@ -3723,7 +3723,7 @@ dunce	/ˈdʌns/
 dune	/ˈduːn, ˈdjuːn/
 dung	/ˈdʌŋ/
 dungarees	/ˌdʌŋgəˈriː/
-dungeon	/ˈdʌndƷən/
+dungeon	/ˈdʌndʒən/
 dunk	/ˈdʌŋk/
 duo	/ˈduːoː, ˈdjuː-/
 dupe	/ˈduːp, djuːp/
@@ -3800,7 +3800,7 @@ eccentric	/ɪkˈsεntrɪk/
 eccentricity	/ˌεkˌsεnˈtrɪsət̬i/
 echo	/ˈεˌkoː/
 eclipse	/ɪˈklɪps/
-ecology	/iˈkɑlədƷi, ε-/
+ecology	/iˈkɑlədʒi, ε-/
 economy	/iˈkɑnəmi/
 economic	/ˌiːkəˈnɑmɪk, ˌεkə-/
 economical	/ˌiːkəˈnɑmɪkəl, ˌεkə-/
@@ -3811,18 +3811,18 @@ ecstasy	/ˈεkstəsi/
 ecstatic	/εkˈstæt̬ɪk, ɪk-/
 Ecuadoran	/ˌεkwəˈdorən/
 Ecuadorian	/ˌεkwəˈdoriən/
-edge	/ˈεdƷ/
-edgewise	/ˈεdƷˌwaɪz/
-edgy	/ˈεdƷi/
+edge	/ˈεdʒ/
+edgewise	/ˈεdʒˌwaɪz/
+edgy	/ˈεdʒi/
 edible	/ˈεdəbəl/
 edit	/ˈεdɪt/
 edition	/ɪˈdɪʃən/
 editor	/ˈεdɪt̬ɚ/
 editorial	/ˌεdɪˈtoriəl/
-educate	/ˈεdƷəˌkeɪt/
-education	/ˌεdƷəˈkeɪʃən/
-educational	/ˌεdƷəˈkeɪʃənəl/
-educator	/ˈεdƷəˌkeɪt̬ɚ/
+educate	/ˈεdʒəˌkeɪt/
+education	/ˌεdʒəˈkeɪʃən/
+educational	/ˌεdʒəˈkeɪʃənəl/
+educator	/ˈεdʒəˌkeɪt̬ɚ/
 eel	/ˈiːl/
 eerie	/ˈɪri/
 effect	/ɪˈfεkt/
@@ -3849,7 +3849,7 @@ eighteenth	/eɪtˈtiːnθ/
 eighth	/ˈeɪtθ/
 eighty	/ˈeɪt̬i/
 either	/ˈiːðɚ, ˈaɪ-/
-eject	/iˈdƷεkt/
+eject	/iˈdʒεkt/
 eke	/ˈiːk/
 elaborate	/iˈlæbɚət/
 ~	/iˈlæbəˌreɪt/
@@ -3885,7 +3885,7 @@ eleventh	/ɪˈlεvənθ/
 elf	/ˈεlf/
 elves	/ˈεlvz/
 elicit	/ɪˈlɪsət/
-eligible	/ˈεlədƷəbəl/
+eligible	/ˈεlədʒəbəl/
 eliminate	/ɪˈlɪməˌneɪt/
 elimination	/ɪˌlɪməˈneɪʃən/
 elite	/eɪˈliːt, i-/
@@ -3929,9 +3929,9 @@ embroider	/ɪmˈbrɔɪdɚ, εm-/
 embroidery	/ɪmˈbrɔɪdɚi, εm-/
 embryo	/ˈεmbriˌoː/
 emerald	/ˈεmrəld, ˈεmə-/
-emerge	/iˈmɝdƷ/
-emergence	/iˈmɝdƷəns/
-emergency	/iˈmɝdƷənsi/
+emerge	/iˈmɝdʒ/
+emergence	/iˈmɝdʒəns/
+emergency	/iˈmɝdʒənsi/
 emery	/ˈεmɚi/
 emigrant	/ˈεmɪgrənt/
 emigrate	/ˈεməˌgreɪt/
@@ -3971,12 +3971,12 @@ enclosure	/ɪnˈkloːʒɚ, εn-/
 encompass	/ɪnˈkʌmpəs, εn-, -ˈkɑm-/
 encore	/ˈɑnˌkor/
 encounter	/ɪnˈkaʊntɚ, εn-/
-encourage	/ɪnˈkɝɪdƷ, εn-/
-encouragement	/ɪnˈkɝɪdƷmənt, εn-/
+encourage	/ɪnˈkɝɪdʒ, εn-/
+encouragement	/ɪnˈkɝɪdʒmənt, εn-/
 encroach	/ɪnˈkroːtʃ, εn-/
 encyclopedia	/ɪnˌsaɪkləˈpiːdiə, εn-/
 end	/ˈεnd/
-endanger	/ɪnˈdeɪndƷɚ, εn-/
+endanger	/ɪnˈdeɪndʒɚ, εn-/
 endearing	/ɪnˈdɪrɪŋ, εn-/
 endeavour	/ɪnˈdεvɚ, εn-/
 ending	/ˈεndɪŋ/
@@ -3988,16 +3988,16 @@ endow	/ɪnˈdaʊ, εn-/
 endure	/ɪnˈdʊr, εn-, -ˈdjʊr/
 endurance	/ɪnˈdʊrəns, εn-, -ˈdjʊr-/
 enemy	/ˈεnəmi/
-energy	/ˈεnɚdƷi/
-energetic	/ˌεnɚˈdƷεt̬ɪk/
+energy	/ˈεnɚdʒi/
+energetic	/ˌεnɚˈdʒεt̬ɪk/
 enforce	/ɪnˈfors, εn-/
 enforcement	/ɪnˈforsmənt, εn-/
-engage	/ɪnˈgeɪdƷ, εn-/
-engagement	/ɪnˈgeɪdƷmənt, εn-/
-engaging	/ɪnˈgeɪdƷɪŋ, εn-/
-engine	/ˈεndƷən/
-engineer	/ˌεndƷəˈnɪr/
-engineering	/ˌεndƷəˈnɪrɪŋ/
+engage	/ɪnˈgeɪdʒ, εn-/
+engagement	/ɪnˈgeɪdʒmənt, εn-/
+engaging	/ɪnˈgeɪdʒɪŋ, εn-/
+engine	/ˈεndʒən/
+engineer	/ˌεndʒəˈnɪr/
+engineering	/ˌεndʒəˈnɪrɪŋ/
 English	/ˈɪŋglɪʃ, ˈɪŋlɪʃ/
 Englishman	/ˈɪŋglɪʃmən, ˈɪŋlɪʃ-/
 Englishwoman	/ˈɪŋglɪʃˌwʊmən, ˈɪŋlɪʃ-/
@@ -4006,11 +4006,11 @@ engraving	/ɪnˈgreɪvɪŋ, εn-/
 engross	/ɪnˈgroːs, εn-/
 engulf	/ɪnˈgʌlf, εn-/
 enhance	/ɪnˈhæns, εn-/
-enjoy	/ɪnˈdƷɔɪ, εn-/
-enjoyable	/ɪnˈdƷɔɪəbəl, εn-/
-enjoyment	/ɪnˈdƷɔɪmənt, εn-/
-enlarge	/ɪnˈlɑrdƷ, εn-/
-enlargement	/ɪnˈlɑrdƷmənt, εn-/
+enjoy	/ɪnˈdʒɔɪ, εn-/
+enjoyable	/ɪnˈdʒɔɪəbəl, εn-/
+enjoyment	/ɪnˈdʒɔɪmənt, εn-/
+enlarge	/ɪnˈlɑrdʒ, εn-/
+enlargement	/ɪnˈlɑrdʒmənt, εn-/
 enlighten	/ɪnˈlaɪtən, εn-/
 enlist	/ɪnˈlɪst, εn-/
 enliven	/ɪnˈlaɪvən, εn-/
@@ -4019,7 +4019,7 @@ enormous	/ɪˈnɔrməs/
 enough	/ɪˈnʌf/
 enquire	/ɪnˈkwaɪr, εn-/
 enquiry	/ˈɪnˌkwaɪri, ˈεn-, -kwɚi; ɪnˈkwaɪri, εnˈ-/
-enrage	/ɪnˈreɪdƷ, εn-/
+enrage	/ɪnˈreɪdʒ, εn-/
 enrich	/ɪnˈrɪtʃ, εn-/
 enrol	/ɪnˈroːl, εn-/
 ensemble	/ɑnˈsɑmbəl/
@@ -4115,7 +4115,7 @@ escort	/ˈεsˌkɔrt/
 ~	/ɪˈskɔrt, ε-/
 Eskimo	/ˈεskəˌmoː/
 especially	/ɪˈspεʃəli/
-espionage	/ˈεspiəˌnɑʒ, -ˌnɑdƷ/
+espionage	/ˈεspiəˌnɑʒ, -ˌnɑdʒ/
 espresso	/εˈsprεˌsoː/
 essay	/ˈεˌseɪ/
 essence	/ˈεsəns/
@@ -4137,7 +4137,7 @@ ethics	/ˈεθɪks/
 ethnic	/ˈεθnɪk/
 etiquette	/ˈεt̬ɪkət, -ˌkεt/
 Eucharist	/ˈjuːkɚɪst/
-eulogy	/ˈjuːlədƷi/
+eulogy	/ˈjuːlədʒi/
 euphemism	/ˈjuːfəˌmɪzəm/
 euphoria	/jʊˈforiə/
 European	/ˌjuːrəˈpiːən, -piːn/
@@ -4177,8 +4177,8 @@ evolve	/iˈvɑlv/
 exact	/ɪgˈzækt, εg-/
 exacting	/ɪgˈzæktɪŋ, εg-/
 exactly	/ɪgˈzæktli, εg-/
-exaggerate	/ɪgˈzædƷəˌreɪt, εg-/
-exaggeration	/ɪgˌzædƷəˈreɪʃən, εg-/
+exaggerate	/ɪgˈzædʒəˌreɪt, εg-/
+exaggeration	/ɪgˌzædʒəˈreɪʃən, εg-/
 examine	/ɪgˈzæmən, εg-/
 exam	/ɪgˈzæm, εg-/
 examination	/ɪgˌzæməˈneɪʃən, εg-/
@@ -4199,7 +4199,7 @@ excerpt	/ˈεkˌsɝpt, ˈεgˌzɝpt/
 excess	/ɪkˈsεs, ˈεkˌsεs/
 ~	/ˈεkˌsεs, ɪkˈsεs/
 excessive	/ɪkˈsεsɪv, εk-/
-exchange	/ɪksˈtʃeɪndƷ, εks-; ˈεksˌtʃeɪndƷ/
+exchange	/ɪksˈtʃeɪndʒ, εks-; ˈεksˌtʃeɪndʒ/
 excise	/ɪkˈsaɪz, εk-/
 excite	/ɪkˈsaɪt, εk-/
 excited	/ɪk-ˈsaɪt̬əd, εk-/
@@ -4537,8 +4537,8 @@ fictional	/ˈfɪkʃənəl/
 fictitious	/fɪkˈtɪʃəs/
 fiddle	/ˈfɪdəl/
 fidelity	/fəˈdεlət̬i, faɪ-/
-fidget	/ˈfɪdƷət/
-fidgety	/ˈfɪdƷət̬i/
+fidget	/ˈfɪdʒət/
+fidgety	/ˈfɪdʒət̬i/
 field	/ˈfiːld/
 fiend	/ˈfiːnd/
 fiendish	/ˈfiːndɪʃ/
@@ -4643,7 +4643,7 @@ flammable	/ˈflæməbəl/
 flank	/ˈflæŋk/
 flannel	/ˈflænəl/
 flap	/ˈflæp/
-flapjack	/ˈflæpˌdƷæk/
+flapjack	/ˈflæpˌdʒæk/
 flare	/ˈflεər/
 flash	/ˈflæʃ/
 flashlight	/ˈflæʃˌlaɪt/
@@ -4751,7 +4751,7 @@ foghorn	/ˈfɔgˌhɔrn, ˈfɑg-/
 foil	/ˈfɔɪl/
 fold	/ˈfoːld/
 folder	/ˈfoːldɚ/
-foliage	/ˈfoːliɪdƷ, -lɪdƷ/
+foliage	/ˈfoːliɪdʒ, -lɪdʒ/
 folk	/ˈfoːk/
 folklore	/ˈfoːkˌlor/
 follow	/ˈfɑlo/
@@ -4770,9 +4770,9 @@ foolishness	/ˈfuːlɪʃnəs/
 foolproof	/ˈfuːlˌpruːf/
 foot	/ˈfʊt/
 feet	/ˈfiːt/
-footage	/ˈfʊt̬ɪdƷ/
+footage	/ˈfʊt̬ɪdʒ/
 football	/ˈfʊtˌbɔl/
-footbridge	/ˈfʊtˌbrɪdƷ/
+footbridge	/ˈfʊtˌbrɪdʒ/
 foothills	/ˈfʊtˌhɪlz/
 foothold	/ˈfʊtˌhoːld/
 footing	/ˈfʊt̬ɪŋ/
@@ -4784,7 +4784,7 @@ footstep	/ˈfʊtˌstεp/
 footstool	/ˈfʊtˌstuːl/
 footwear	/ˈfʊtˌwεər/
 for	/ˈfɔr/
-forage	/ˈfɔrɪdƷ/
+forage	/ˈfɔrɪdʒ/
 foray	/ˈfɔrˌeɪ/
 forbid	/fɚˈbɪd/
 bade	/-ˈbæd, -ˈbeɪd/
@@ -4828,9 +4828,9 @@ forever	/fɔrˈεvɚ/
 forewarn	/forˈwɔrn/
 foreword	/ˈforwɚd/
 forfeit	/ˈfɔrfət/
-forge	/ˈfordƷ/
-forger	/ˈfordƷɚ/
-forgery	/ˈfordƷɚi/
+forge	/ˈfordʒ/
+forger	/ˈfordʒɚ/
+forgery	/ˈfordʒɚi/
 forget	/fɚˈgεt/
 got	/-ˈgɑt/
 gotten	/-ˈgɑtən/
@@ -4891,7 +4891,7 @@ foxy	/ˈfɑksi/
 foyer	/ˈfɔɪɚ, ˈfɔɪˌjeɪ/
 fraction	/ˈfrækʃən/
 fracture	/ˈfræktʃɚ/
-fragile	/ˈfrædƷəl, -ˌdƷaɪl/
+fragile	/ˈfrædʒəl, -ˌdʒaɪl/
 fragment	/ˈfrægmənt/
 fragrant	/ˈfreɪgrənt/
 fragrance	/ˈfreɪgrəns/
@@ -4906,7 +4906,7 @@ fraternal	/frəˈtɝnəl/
 fraternity	/frəˈtɝnət̬i/
 fraternize	/ˈfræt̬ɚˌnaɪz/
 fraud	/ˈfrɔd/
-fraudulent	/ˈfrɔdƷələnt/
+fraudulent	/ˈfrɔdʒələnt/
 fraught	/ˈfrɔt/
 fray	/ˈfreɪ/
 freak	/ˈfriːk/
@@ -4956,9 +4956,9 @@ frighten	/ˈfraɪtən/
 frightened	/ˈfraɪtənd/
 frightening	/ˈfraɪtənɪŋ/
 frightful	/ˈfraɪtfəl/
-frigid	/ˈfrɪdƷɪd/
+frigid	/ˈfrɪdʒɪd/
 frill	/ˈfrɪl/
-fringe	/ˈfrɪndƷ/
+fringe	/ˈfrɪndʒ/
 frisk	/ˈfrɪsk/
 frisky	/ˈfrɪski/
 fritter	/ˈfrɪt̬ɚ/
@@ -4991,13 +4991,13 @@ frustrate	/ˈfrʌsˌtreɪt/
 frustrating	/ˈfrʌsˌtreɪt̬ɪŋ/
 frustration	/ˌfrʌsˈtreɪʃən/
 fry	/ˈfraɪ/
-fudge	/ˈfʌdƷ/
+fudge	/ˈfʌdʒ/
 fuel	/ˈfjuːəl/
-fugitive	/ˈfjuːdƷət̬ɪv/
+fugitive	/ˈfjuːdʒət̬ɪv/
 fulfil	/fʊlˈfɪl/
 fulfillment	/fʊlˈfɪlmənt/
 full	/ˈfʊl, ˈfʌl/
-full–fledged	/ˈfʊlˈflεdƷd/
+full–fledged	/ˈfʊlˈflεdʒd/
 fully	/ˈfʊli/
 fumble	/ˈfʌmbəl/
 fume	/ˈfjuːm/
@@ -5009,7 +5009,7 @@ fund	/ˈfʌnd/
 fundamental	/ˌfʌndəˈmεntəl/
 funeral	/ˈfjuːnɚəl/
 fungus	/ˈfʌŋgəs/
-fungi	/ˈfʌnˌdƷaɪ, ˈfʌŋˌgaɪ/
+fungi	/ˈfʌnˌdʒaɪ, ˈfʌŋˌgaɪ/
 funnel	/ˈfʌnəl/
 funny	/ˈfʌni/
 funnies	/ˈfʌniz/
@@ -5036,11 +5036,11 @@ future	/ˈfjuːtʃɚ/
 fuzz	/ˈfʌz/
 fuzzy	/ˈfʌzi/
 fête	/ˈfeɪt, ˈfεt/
-g	/ˈdƷiː/
-gs	/ˈdƷiːz/
+g	/ˈdʒiː/
+gs	/ˈdʒiːz/
 gab	/ˈgæb/
 gable	/ˈgeɪbəl/
-gadget	/ˈgædƷət/
+gadget	/ˈgædʒət/
 gag	/ˈgæg/
 gaiety	/ˈgeɪət̬i/
 gaily	/ˈgeɪli/
@@ -5073,9 +5073,9 @@ gangster	/ˈgæŋstɚ/
 gangway	/ˈgæŋˌweɪ/
 gap	/ˈgæp/
 gape	/ˈgeɪp/
-garage	/gəˈrɑʒ, -ˈrɑdƷ/
+garage	/gəˈrɑʒ, -ˈrɑdʒ/
 garb	/ˈgɑrb/
-garbage	/ˈgɑrbɪdƷ/
+garbage	/ˈgɑrbɪdʒ/
 garble	/ˈgɑrbəl/
 garbled	/ˈgɑrbəld/
 garden	/ˈgɑrdən/
@@ -5104,7 +5104,7 @@ gateway	/ˈgeɪtˌweɪ/
 gather	/ˈgæðɚ/
 gathering	/ˈgæðɚɪŋ/
 gaudy	/ˈgɔdi/
-gauge	/ˈgeɪdƷ/
+gauge	/ˈgeɪdʒ/
 gaunt	/ˈgɔnt/
 gauze	/ˈgɔz/
 gawky	/ˈgɔki/
@@ -5114,50 +5114,50 @@ gazelle	/gəˈzεl/
 gazette	/gəˈzεt/
 gear	/ˈgɪr/
 gearshift	/ˈgɪrˌʃɪft/
-gelatin	/ˈdƷεlətən/
-gem	/ˈdƷεm/
-gemstone	/ˈdƷεmˌstoːn/
-gender	/ˈdƷεndɚ/
-gene	/ˈdƷiːn/
-genealogy	/ˌdƷiːniˈɑlədƷi, ˌdƷε-, -ˈæ-/
-general	/ˈdƷεnrəl, ˈdƷεnə-/
-generalize	/ˈdƷεnrəˌlaɪz, ˈdƷεnɚə-/
-generally	/ˈdƷεnrəli, ˈdƷεnɚə-/
-generate	/ˈdƷεnəˌreɪt/
-generation	/ˌdƷεnəˈreɪʃən/
-generator	/ˈdƷεnəˌreɪt̬ɚ/
-generous	/ˈdƷεnɚəs/
-generosity	/ˌdƷεnəˈrɑsət̬i/
-genetic	/dƷəˈnεt̬ɪk/
-genetics	/dƷəˈnεt̬ɪks/
-genial	/ˈdƷiːniəl/
-genital	/ˈdƷεnət̬əl/
-genitals	/ˈdƷεnət̬əlz/
-genius	/ˈdƷiːnjəs/
-genocide	/ˈdƷεnəˌsaɪd/
-genteel	/dƷεnˈtiːl/
-gentle	/ˈdƷεntəl/
-gentleman	/ˈdƷεntəlmən/
+gelatin	/ˈdʒεlətən/
+gem	/ˈdʒεm/
+gemstone	/ˈdʒεmˌstoːn/
+gender	/ˈdʒεndɚ/
+gene	/ˈdʒiːn/
+genealogy	/ˌdʒiːniˈɑlədʒi, ˌdʒε-, -ˈæ-/
+general	/ˈdʒεnrəl, ˈdʒεnə-/
+generalize	/ˈdʒεnrəˌlaɪz, ˈdʒεnɚə-/
+generally	/ˈdʒεnrəli, ˈdʒεnɚə-/
+generate	/ˈdʒεnəˌreɪt/
+generation	/ˌdʒεnəˈreɪʃən/
+generator	/ˈdʒεnəˌreɪt̬ɚ/
+generous	/ˈdʒεnɚəs/
+generosity	/ˌdʒεnəˈrɑsət̬i/
+genetic	/dʒəˈnεt̬ɪk/
+genetics	/dʒəˈnεt̬ɪks/
+genial	/ˈdʒiːniəl/
+genital	/ˈdʒεnət̬əl/
+genitals	/ˈdʒεnət̬əlz/
+genius	/ˈdʒiːnjəs/
+genocide	/ˈdʒεnəˌsaɪd/
+genteel	/dʒεnˈtiːl/
+gentle	/ˈdʒεntəl/
+gentleman	/ˈdʒεntəlmən/
 gentlemen	/-mən, -ˌmεn/
-gentleness	/ˈdƷεntəlnəs/
-genuine	/ˈdƷεnjʊwən/
-geography	/dƷiˈɑgrəfi/
-geographic	/ˌdƷiːəˈgræfɪk/
+gentleness	/ˈdʒεntəlnəs/
+genuine	/ˈdʒεnjʊwən/
+geography	/dʒiˈɑgrəfi/
+geographic	/ˌdʒiːəˈgræfɪk/
 geographical	/-fɪkəl/
-geology	/dƷiˈɑlədƷi/
-geologic	/ˌdƷiːəˈlɑdƷɪk/
-geological	/-dƷɪkəl/
-geometry	/dƷiˈɑmətri/
-geometric	/ˌdƷiːəˈmεtrɪk/
+geology	/dʒiˈɑlədʒi/
+geologic	/ˌdʒiːəˈlɑdʒɪk/
+geological	/-dʒɪkəl/
+geometry	/dʒiˈɑmətri/
+geometric	/ˌdʒiːəˈmεtrɪk/
 geometrical	/-trɪkəl/
-geranium	/dƷəˈreɪniəm/
-geriatric	/ˌdƷεriˈætrɪk/
-geriatrics	/ˌdƷεriˈætrɪks/
-germ	/ˈdƷɝm/
-German	/ˈdƷɝmən/
-germinate	/ˈdƷɝməˌneɪt/
-gestation	/dƷεˈsteɪʃən/
-gesture	/ˈdƷεstʃɚ/
+geranium	/dʒəˈreɪniəm/
+geriatric	/ˌdʒεriˈætrɪk/
+geriatrics	/ˌdʒεriˈætrɪks/
+germ	/ˈdʒɝm/
+German	/ˈdʒɝmən/
+germinate	/ˈdʒɝməˌneɪt/
+gestation	/dʒεˈsteɪʃən/
+gesture	/ˈdʒεstʃɚ/
 get	/ˈgεt/
 got	/ˈgɑt/
 gotten	/ˈgɑtən/
@@ -5167,15 +5167,15 @@ ghastly	/ˈgæstli/
 ghetto	/ˈgεt̬oː/
 ghost	/ˈgoːst/
 ghostly	/ˈgoːstli/
-giant	/ˈdƷaɪənt/
-gibberish	/ˈdƷɪbɚɪʃ/
-gibe	/ˈdƷaɪb/
-giblets	/ˈdƷɪbləts/
+giant	/ˈdʒaɪənt/
+gibberish	/ˈdʒɪbɚɪʃ/
+gibe	/ˈdʒaɪb/
+giblets	/ˈdʒɪbləts/
 giddy	/ˈgɪdi/
 giddiness	/ˈgɪdinəs/
 gift	/ˈgɪft/
 gifted	/ˈgɪftəd/
-gigantic	/dƷaɪˈgæntɪk/
+gigantic	/dʒaɪˈgæntɪk/
 giggle	/ˈgɪgəl/
 gild	/ˈgɪld/
 gilded	/ˈgɪldəd/
@@ -5183,17 +5183,17 @@ gilt	/ˈgɪlt/
 gill	/ˈgɪl/
 gilt	/ˈgɪlt/
 gimmick	/ˈgɪmɪk/
-gin	/ˈdƷɪn/
-ginger	/ˈdƷɪndƷɚ/
-gingerbread	/ˈdƷɪndƷɚˌbrεd/
-gingerly	/ˈdƷɪndƷɚli/
-giraffe	/dƷəˈræf/
+gin	/ˈdʒɪn/
+ginger	/ˈdʒɪndʒɚ/
+gingerbread	/ˈdʒɪndʒɚˌbrεd/
+gingerly	/ˈdʒɪndʒɚli/
+giraffe	/dʒəˈræf/
 girder	/ˈgɝdɚ/
 girdle	/ˈgɝdəl/
 girl	/ˈgɝl/
 girlfriend	/ˈgɝlˌfrεnd/
 girth	/ˈgɝθ/
-gist	/ˈdƷɪst/
+gist	/ˈdʒɪst/
 give	/ˈgɪv/
 gave	/ˈgeɪv/
 given	/ˈgɪvən/
@@ -5291,8 +5291,8 @@ goose	/ˈguːs/
 geese	/ˈgiːs/
 gopher	/ˈgoːfɚ/
 gore	/ˈgor/
-gorge	/ˈgɔrdƷ/
-gorgeous	/ˈgɔrdƷəs/
+gorge	/ˈgɔrdʒ/
+gorgeous	/ˈgɔrdʒəs/
 gorilla	/gəˈrɪlə/
 gory	/ˈgori/
 gospel	/ˈgɑspəl/
@@ -5311,11 +5311,11 @@ grace	/ˈgreɪs/
 graceful	/ˈgreɪsfəl/
 gracious	/ˈgreɪʃəs/
 grade	/ˈgreɪd/
-gradual	/ˈgrædƷʊəl/
-gradually	/ˈgrædƷʊəli, ˈgrædƷəli/
-graduate	/ˈgrædƷʊət/
-~	/ˈgrædƷʊˌeɪt/
-graduation	/ˌgrædƷʊˈeɪʃən/
+gradual	/ˈgrædʒʊəl/
+gradually	/ˈgrædʒʊəli, ˈgrædʒəli/
+graduate	/ˈgrædʒʊət/
+~	/ˈgrædʒʊˌeɪt/
+graduation	/ˌgrædʒʊˈeɪʃən/
 graffiti	/grəˈfiːt̬i, græ-/
 graft	/ˈgræft/
 grain	/ˈgreɪn/
@@ -5324,7 +5324,7 @@ grammar	/ˈgræmɚ/
 grand	/ˈgrænd/
 grandchild	/ˈgrændˌtʃaɪld/
 granddaughter	/ˈgrændˌdɔt̬ɚ/
-grandeur	/ˈgrændƷɚ/
+grandeur	/ˈgrændʒɚ/
 grandfather	/ˈgrændˌfɑðɚ/
 grandiose	/ˈgrændiˌoːs, ˌgrændiˈ-/
 grandmother	/ˈgrændˌmʌðɚ/
@@ -5432,7 +5432,7 @@ grown–up	/ˈgroːnˌəp/
 growth	/ˈgroːθ/
 grub	/ˈgrʌb/
 grubby	/ˈgrʌbi/
-grudge	/ˈgrʌdƷ/
+grudge	/ˈgrʌdʒ/
 gruelling	/ˈgruːlɪŋ, ˈgruːə-/
 gruesome	/ˈgruːsəm/
 gruff	/ˈgrʌf/
@@ -5481,16 +5481,16 @@ gut	/ˈgʌt/
 gutter	/ˈgʌt̬ɚ/
 guy	/ˈgaɪ/
 guzzle	/ˈgʌzəl/
-gym	/ˈdƷɪm/
-gymnasium	/dƷɪmˈneɪziəm, -ʒəm/
-gymnasia	/dƷɪmˈneɪziːə, dƷɪmˈneɪʒə/
-gymnast	/ˈdƷɪmnəst, ˌnæst/
-gymnastics	/dƷɪmˈnæstɪks/
-gynecology	/ˌgaɪnəˈkɑlədƷi, ˌdƷɪnə-/
-gynecologist	/ˌgaɪnəˈkɑlədƷɪst, ˌdƷɪnə-/
-gyp	/ˈdƷɪp/
-Gypsy	/ˈdƷɪpsi/
-gyrate	/ˈdƷaɪˌreɪt/
+gym	/ˈdʒɪm/
+gymnasium	/dʒɪmˈneɪziəm, -ʒəm/
+gymnasia	/dʒɪmˈneɪziːə, dʒɪmˈneɪʒə/
+gymnast	/ˈdʒɪmnəst, ˌnæst/
+gymnastics	/dʒɪmˈnæstɪks/
+gynecology	/ˌgaɪnəˈkɑlədʒi, ˌdʒɪnə-/
+gynecologist	/ˌgaɪnəˈkɑlədʒɪst, ˌdʒɪnə-/
+gyp	/ˈdʒɪp/
+Gypsy	/ˈdʒɪpsi/
+gyrate	/ˈdʒaɪˌreɪt/
 h	/ˈeɪtʃ/
 hs	/ˈeɪtʃəz/
 habit	/ˈhæbɪt/
@@ -5693,8 +5693,8 @@ heavyweight	/ˈhεviˌweɪt/
 Hebrew	/ˈhiːˌbruː/
 heckle	/ˈhεkəl/
 hectic	/ˈhεktɪk/
-hedge	/ˈhεdƷ/
-hedgehog	/ˈhεdƷˌhɔg, -hɑg/
+hedge	/ˈhεdʒ/
+hedgehog	/ˈhεdʒˌhɔg, -hɑg/
 heed	/ˈhiːd/
 heedless	/ˈhiːdləs/
 heel	/ˈhiːl/
@@ -5718,7 +5718,7 @@ helping	/ˈhεlpɪŋ/
 helpless	/ˈhεlpləs/
 hem	/ˈhεm/
 hemisphere	/ˈhεməˌsfɪr/
-hemorrhage	/ˈhεmɚɪdƷ/
+hemorrhage	/ˈhεmɚɪdʒ/
 hemorrhoids	/ˈhεməˌrɔɪdz, ˈhεmˌrɔɪdz/
 hemp	/ˈhεmp/
 hen	/ˈhεn/
@@ -5741,7 +5741,7 @@ hereditary	/həˈrεdəˌtεri/
 heredity	/həˈrεdət̬i/
 heresy	/ˈhεrəsi/
 herewith	/hɪrˈwɪθ/
-heritage	/ˈhεrət̬ɪdƷ/
+heritage	/ˈhεrət̬ɪdʒ/
 hermit	/ˈhɝmət/
 hernia	/ˈhɝniə/
 herniae	/-niˌiː, -niˌaɪ/
@@ -5778,8 +5778,8 @@ highly	/ˈhaɪli/
 Highness	/ˈhaɪnəs/
 high–strung	/ˌhaɪˈstrʌŋ/
 highway	/ˈhaɪˌweɪ/
-hijack	/ˈhaɪˌdƷæk/
-hijacker	/ˈhaɪˌdƷækɚ/
+hijack	/ˈhaɪˌdʒæk/
+hijacker	/ˈhaɪˌdʒækɚ/
 hike	/ˈhaɪk/
 hiker	/ˈhaɪkɚ/
 hilarious	/hɪˈlεəriəs, haɪˈ-/
@@ -5795,7 +5795,7 @@ hinder	/ˈhɪndɚ/
 hindrance	/ˈhɪndrəns/
 hindsight	/ˈhaɪndˌsaɪt/
 Hindu	/ˈhɪnˌduː/
-hinge	/ˈhɪndƷ/
+hinge	/ˈhɪndʒ/
 hint	/ˈhɪnt/
 hip	/ˈhɪp/
 hippopotamus	/ˌhɪpəˈpɑt̬əməs/
@@ -5839,7 +5839,7 @@ holly	/ˈhɑli/
 holocaust	/ˈhɑləˌkɔst, ˈhoː-, ˈhɔ-/
 holster	/ˈhoːlstɚ/
 holy	/ˈhoːli/
-homage	/ˈɑmɪdƷ, ˈhɑ-/
+homage	/ˈɑmɪdʒ, ˈhɑ-/
 home	/ˈhoːm/
 homeland	/ˈhoːmˌlænd/
 homeless	/ˈhoːmləs/
@@ -5851,7 +5851,7 @@ homeward	/ˈhoːmwɚd/
 homework	/ˈhoːmˌwɝk/
 homey	/ˈhoːmi/
 homicide	/ˈhɑməˌsaɪd, ˈhoː-/
-homogeneous	/ˌhoːməˈdƷiːniəs, -njəs/
+homogeneous	/ˌhoːməˈdʒiːniəs, -njəs/
 homosexual	/ˌhoːməˈsεkʃʊəl/
 homosexuality	/ˌhoːməˌsεkʃʊˈælət̬i/
 honest	/ˈɑnəst/
@@ -5911,7 +5911,7 @@ hospitable	/hɑˈspɪt̬əbəl, ˈhɑsˌpɪ-/
 hospitality	/ˌhɑspəˈtælət̬i/
 hospitalize	/ˈhɑsˌpɪt̬əlˌaɪz/
 host	/ˈhoːst/
-hostage	/ˈhɑstɪdƷ/
+hostage	/ˈhɑstɪdʒ/
 hostel	/ˈhɑstəl/
 hostess	/ˈhoːstɪs/
 hostile	/ˈhɑstəl, -ˌtaɪl/
@@ -5947,7 +5947,7 @@ huddle	/ˈhʌdəl/
 hue	/ˈhjuː/
 huff	/ˈhʌf/
 hug	/ˈhʌg/
-huge	/ˈhjuːdƷ/
+huge	/ˈhjuːdʒ/
 hull	/ˈhʌl/
 hum	/ˈhʌm/
 human	/ˈhjuːmən, ˈjuː-/
@@ -5997,10 +5997,10 @@ hybrid	/ˈhaɪbrɪd/
 hydrant	/ˈhaɪdrənt/
 hydraulic	/haɪˈdrɔlɪk/
 hydroelectric	/ˌhaɪdroɪˈlεktrɪk/
-hydrogen	/ˈhaɪdrədƷən/
+hydrogen	/ˈhaɪdrədʒən/
 hyena	/haɪˈiːnə/
-hygiene	/ˈhaɪˌdƷiːn/
-hygienic	/haɪˈdƷεnɪk, -ˈdƷiː-; ˌhaɪdƷiˈεnɪk/
+hygiene	/ˈhaɪˌdʒiːn/
+hygienic	/haɪˈdʒεnɪk, -ˈdʒiː-; ˌhaɪdʒiˈεnɪk/
 hymn	/ˈhɪm/
 hyperactive	/ˌhaɪpɚˈæktɪv/
 hyphen	/ˈhaɪfən/
@@ -6043,8 +6043,8 @@ identity	/aɪˈdεntət̬i/
 identical	/aɪˈdεntɪkəl/
 identify	/aɪˈdεntəˌfaɪ/
 identification	/aɪˌdεntəfəˈkeɪʃən/
-ideology	/ˌaɪdiˈɑlədƷi, ˌɪ-/
-ideological	/ˌaɪdiəˈlɑdƷɪkəl, ˌɪ-/
+ideology	/ˌaɪdiˈɑlədʒi, ˌɪ-/
+ideological	/ˌaɪdiəˈlɑdʒɪkəl, ˌɪ-/
 idiocy	/ˈɪdiəsi/
 idiom	/ˈɪdiəm/
 idiomatic	/ˌɪdiəˈmæt̬ɪk/
@@ -6067,14 +6067,14 @@ ilk	/ˈɪlk/
 ill	/ˈɪl/
 ill–advised	/ˌɪlædˈvaɪzd, ˌɪlədˈvaɪzd/
 illegal	/ɪˈliːgəl/
-illegible	/ɪˈlεdƷəbəl/
-illegitimate	/ˌɪlɪˈdƷɪt̬əmət/
-illegitimacy	/ˌɪlɪˈdƷɪt̬əməsi/
+illegible	/ɪˈlεdʒəbəl/
+illegitimate	/ˌɪlɪˈdʒɪt̬əmət/
+illegitimacy	/ˌɪlɪˈdʒɪt̬əməsi/
 illicit	/ɪˈlɪsət/
 illiterate	/ɪˈlɪt̬ɚət/
 illiteracy	/ɪˈlɪt̬ɚəsi/
 illness	/ˈɪlnəs/
-illogical	/ɪˈlɑdƷɪkəl/
+illogical	/ɪˈlɑdʒɪkəl/
 illuminate	/ɪˈluːməˌneɪt/
 illumination	/ɪˌluːməˈneɪʃən/
 illusion	/ɪˈluːʒən/
@@ -6086,11 +6086,11 @@ illustrious	/ɪˈlʌstriəs/
 ill–mannered	/ˌɪlˈmænɚd/
 ill–natured	/ˌɪlˈneɪtʃɚd/
 ill–treat	/ˌɪlˈtriːt/
-image	/ˈɪmɪdƷ/
-imaginary	/ɪˈmædƷəˌnεri/
-imagination	/ɪˌmædƷəˈneɪʃən/
-imaginative	/ɪˈmædƷənət̬ɪv, -əˌneɪt̬ɪv/
-imagine	/ɪˈmædƷən/
+image	/ˈɪmɪdʒ/
+imaginary	/ɪˈmædʒəˌnεri/
+imagination	/ɪˌmædʒəˈneɪʃən/
+imaginative	/ɪˈmædʒənət̬ɪv, -əˌneɪt̬ɪv/
+imagine	/ɪˈmædʒən/
 imbalance	/ɪmˈbæləns/
 imbecile	/ˈɪmbəsəl, -ˌsɪl/
 imbue	/ɪmˈbjuː/
@@ -6157,7 +6157,7 @@ impertinence	/ɪmˈpɝtənəns/
 impervious	/ɪmˈpɝviəs/
 impetuous	/ɪmˈpεtʃʊəs/
 impetus	/ˈɪmpət̬əs/
-impinge	/ɪmˈpɪndƷ/
+impinge	/ɪmˈpɪndʒ/
 impish	/ˈɪmpɪʃ/
 implant	/ɪmˈplænt/
 implausible	/ɪmˈplɔzəbəl/
@@ -6290,7 +6290,7 @@ increase	/ˈɪnˌkriːs, ɪnˈkriːs/
 ~	/ɪnˈkriːs, ˈɪnˌkriːs/
 increasingly	/ɪnˈkriːsɪŋli/
 incredible	/ɪnˈkrεdəbəl/
-incredulous	/ɪnˈkrεdƷələs/
+incredulous	/ɪnˈkrεdʒələs/
 incriminate	/ɪnˈkrɪməˌneɪt/
 incubator	/ˈɪŋkjʊˌbeɪt̬ɚ, ˈɪn-/
 incumbent	/ɪnˈkʌmbənt/
@@ -6321,9 +6321,9 @@ indict	/ɪnˈdaɪt/
 indictment	/ɪnˈdaɪtmənt/
 indifferent	/ɪnˈdɪfrənt, -ˈdɪfə-/
 indifference	/ɪnˈdɪfrəns, -ˈdɪfə-/
-indigenous	/ɪnˈdɪdƷənəs/
-indigestion	/ˌɪndaɪˈdƷεstʃən, -dɪ-/
-indigestible	/ˌɪndaɪˈdƷεstəbəl, -dɪ-/
+indigenous	/ɪnˈdɪdʒənəs/
+indigestion	/ˌɪndaɪˈdʒεstʃən, -dɪ-/
+indigestible	/ˌɪndaɪˈdʒεstəbəl, -dɪ-/
 indignation	/ˌɪndɪgˈneɪʃən/
 indignant	/ɪnˈdɪgnənt/
 indignity	/ɪnˈdɪgnət̬i/
@@ -6335,18 +6335,18 @@ indiscriminate	/ˌɪndɪˈskrɪmənət/
 indispensable	/ˌɪndɪˈspεnsəbəl/
 indisputable	/ˌɪndɪˈspjuːt̬əbəl, ɪnˈdɪspjʊ-t̬ə-/
 indistinct	/ˌɪndɪˈstɪŋkt/
-individual	/ˌɪndəˈvɪdƷʊəl/
-individuality	/ˌɪndəˌvɪdƷʊˈælət̬i/
-individually	/ˌɪndəˈvɪdƷʊəli, -dƷəli/
+individual	/ˌɪndəˈvɪdʒʊəl/
+individuality	/ˌɪndəˌvɪdʒʊˈælət̬i/
+individually	/ˌɪndəˈvɪdʒʊəli, -dʒəli/
 indoctrinate	/ɪnˈdɑktrəˌneɪt/
 indoctrination	/ɪnˌdɑktrəˈneɪʃən/
 indoor	/ˈɪnˈdor/
 indoors	/ˈɪnˈdorz/
 induce	/ɪnˈduːs, -ˈdjuːs/
 inducement	/ɪnˈduːsmənt, -ˈdjuːs-/
-indulge	/ɪnˈdʌldƷ/
-indulgence	/ɪnˈdʌldƷəns/
-indulgent	/ɪnˈdʌldƷənt/
+indulge	/ɪnˈdʌldʒ/
+indulgence	/ɪnˈdʌldʒəns/
+indulgent	/ɪnˈdʌldʒənt/
 industry	/ˈɪndəstri/
 industrial	/ɪnˈdʌstriəl/
 industrialize	/ɪnˈdʌstriəˌlaɪz/
@@ -6357,7 +6357,7 @@ ineffective	/ˌɪnɪˈfεktɪv/
 ineffectual	/ˌɪnɪˈfεktʃʊəl/
 inefficient	/ˌɪnɪˈfɪʃənt/
 inefficiency	/ˌɪnɪˈfɪʃənsi/
-ineligible	/ɪˈnεlədƷəbəl/
+ineligible	/ɪˈnεlədʒəbəl/
 inept	/ɪˈnεpt/
 inequality	/ˌɪnɪˈkwɑlət̬i/
 inert	/ɪˈnɝt/
@@ -6421,16 +6421,16 @@ infrared	/ˌɪnfrəˈrεd/
 infrastructure	/ˈɪnfrəˌstrʌktʃɚ/
 infrequent	/ɪnˈfriːkwənt/
 infrequently	/ɪnˈfriːkwəntli/
-infringe	/ɪnˈfrɪndƷ/
-infringement	/ɪnˈfrɪndƷmənt/
+infringe	/ɪnˈfrɪndʒ/
+infringement	/ɪnˈfrɪndʒmənt/
 infuriate	/ɪnˈfjʊriˌeɪt/
 infuriating	/ɪnˈfjʊriˌeɪt̬ɪŋ/
 infuse	/ɪnˈfjuːz/
 infusion	/ɪnˈfjuːʒən/
-ingenious	/ɪnˈdƷiːnjəs/
-ingenuity	/ˌɪndƷəˈnuːət̬i, -ˈnjuː-/
-ingenuous	/ɪnˈdƷεnjʊəs/
-ingest	/ɪnˈdƷεst/
+ingenious	/ɪnˈdʒiːnjəs/
+ingenuity	/ˌɪndʒəˈnuːət̬i, -ˈnjuː-/
+ingenuous	/ɪnˈdʒεnjʊəs/
+ingest	/ɪnˈdʒεst/
 ingot	/ˈɪŋgət/
 ingrained	/ɪnˈgreɪnd/
 ingratiate	/ɪnˈgreɪʃiˌeɪt/
@@ -6453,12 +6453,12 @@ initial	/ɪˈnɪʃəl/
 initiate	/ɪˈnɪʃiˌeɪt/
 initiation	/ɪˌnɪʃiˈeɪʃən/
 initiative	/ɪˈnɪʃət̬ɪv/
-inject	/ɪnˈdƷεkt/
-injection	/ɪnˈdƷεkʃən/
-injure	/ˈɪndƷɚ/
-injurious	/ɪnˈdƷʊriəs/
-injury	/ˈɪndƷɚi/
-injustice	/ɪnˈdƷʌstəs/
+inject	/ɪnˈdʒεkt/
+injection	/ɪnˈdʒεkʃən/
+injure	/ˈɪndʒɚ/
+injurious	/ɪnˈdʒʊriəs/
+injury	/ˈɪndʒɚi/
+injustice	/ɪnˈdʒʌstəs/
 ink	/ˈɪŋk/
 inkwell	/ˈɪŋkˌwεl/
 inland	/ˈɪnˌlænd, -lənd/
@@ -6566,15 +6566,15 @@ insurance	/ɪnˈʃʊrəns, ˈɪnˌʃʊr-/
 insurmountable	/ˌɪnsɚˈmaʊntəbəl/
 intact	/ɪnˈtækt/
 intake	/ˈɪnˌteɪk/
-intangible	/ɪnˈtændƷəbəl/
+intangible	/ɪnˈtændʒəbəl/
 integral	/ˈɪntɪgrəl/
 integrate	/ˈɪntəˌgreɪt/
 integrity	/ɪnˈtεgrət̬i/
 intellect	/ˈɪntəlˌεkt/
 intellectual	/ˌɪntəˈlεktʃʊəl/
-intelligence	/ɪnˈtεlədƷəns/
-intelligent	/ɪnˈtεlədƷənt/
-intelligible	/ɪnˈtεlədƷəbəl/
+intelligence	/ɪnˈtεlədʒəns/
+intelligent	/ɪnˈtεlədʒənt/
+intelligible	/ɪnˈtεlədʒəbəl/
 intend	/ɪnˈtεnd/
 intended	/ɪnˈtεndəd/
 intense	/ɪnˈtεns/
@@ -6591,9 +6591,9 @@ interaction	/ˌɪntɚˈækʃən/
 interactive	/ˌɪntɚˈæktɪv/
 intercede	/ˌɪntɚˈsiːd/
 intercept	/ˌɪntɚˈsεpt/
-interchange	/ˌɪntɚˈtʃeɪndƷ/
-~	/ˈɪntɚˌtʃeɪndƷ/
-interchangeable	/ˌɪntɚˈtʃeɪndƷəbəl/
+interchange	/ˌɪntɚˈtʃeɪndʒ/
+~	/ˈɪntɚˌtʃeɪndʒ/
+interchangeable	/ˌɪntɚˈtʃeɪndʒəbəl/
 intercourse	/ˈɪntɚˌkors/
 interest	/ˈɪntrəst, -təˌrεst/
 interested	/-əd/
@@ -6603,7 +6603,7 @@ interfere	/ˌɪntɚˈfɪr/
 interference	/ˌɪntɚˈfɪrəns/
 interim	/ˈɪntɚəm/
 interior	/ɪnˈtɪriɚ/
-interjection	/ˌɪntɚˈdƷεkʃən/
+interjection	/ˌɪntɚˈdʒεkʃən/
 interlock	/ˌɪntɚˈlɑk/
 interloper	/ˌɪntɚˈloːpɚ/
 interlude	/ˈɪntɚˌluːd/
@@ -6768,126 +6768,126 @@ its	/ˈɪts/
 itself	/ɪtˈsεlf/
 ivory	/ˈaɪvɚi/
 ivy	/ˈaɪvi/
-j	/ˈdƷeɪ/
-js	/ˈdƷeɪz/
-jab	/ˈdƷæb/
-jabber	/ˈdƷæbɚ/
-jack	/ˈdƷæk/
-jackal	/ˈdƷækəl/
-jackass	/ˈdƷækˌæs/
-jacket	/ˈdƷækət/
-jackhammer	/ˈdƷækˌhæmɚ/
-jackknife	/ˈdƷækˌnaɪf/
-jackpot	/ˈdƷækˌpɑt/
-jack–o'–lantern	/ˈdƷækəˌlæntɚn/
-jaded	/ˈdƷeɪdəd/
-jagged	/ˈdƷægəd/
-jail	/ˈdƷeɪl/
-jailor	/ˈdƷeɪlɚ/
+j	/ˈdʒeɪ/
+js	/ˈdʒeɪz/
+jab	/ˈdʒæb/
+jabber	/ˈdʒæbɚ/
+jack	/ˈdʒæk/
+jackal	/ˈdʒækəl/
+jackass	/ˈdʒækˌæs/
+jacket	/ˈdʒækət/
+jackhammer	/ˈdʒækˌhæmɚ/
+jackknife	/ˈdʒækˌnaɪf/
+jackpot	/ˈdʒækˌpɑt/
+jack–o'–lantern	/ˈdʒækəˌlæntɚn/
+jaded	/ˈdʒeɪdəd/
+jagged	/ˈdʒægəd/
+jail	/ˈdʒeɪl/
+jailor	/ˈdʒeɪlɚ/
 jalapeño	/ˌhɑləˈpeɪnjo, ˌhæ-, -ˈpiːno/
-jam	/ˈdƷæm/
-jangle	/ˈdƷæŋgəl/
-janitor	/ˈdƷænət̬ɚ/
-January	/ˈdƷænjʊˌεri/
-Japanese	/ˌdƷæpəˈniːz, -ˈniːs/
-jar	/ˈdƷɑr/
-jargon	/ˈdƷɑrgən/
-jaundice	/ˈdƷɔndɪs/
-jaunt	/ˈdƷɔnt/
-jaunty	/ˈdƷɔnti/
-jaw	/ˈdƷɔ/
-jawbone	/ˈdƷɔˌboːn/
-jay	/ˈdƷeɪ/
-jazz	/ˈdƷæz/
-jazzy	/ˈdƷæzi/
-jealous	/ˈdƷεləs/
-jealousy	/ˈdƷεləsi/
-jeans	/ˈdƷiːnz/
-jeer	/ˈdƷɪr/
-jell	/ˈdƷεl/
-jelly	/ˈdƷεli/
-jellyfish	/ˈdƷεliˌfɪʃ/
-jeopardy	/ˈdƷεpɚdi/
-jeopardize	/ˈdƷεpɚˌdaɪz/
-jerk	/ˈdƷɝk/
-jersey	/ˈdƷɝzi/
-jest	/ˈdƷεst/
-jester	/ˈdƷεstɚ/
-Jesus	/ˈdƷiːzəs, -zəz/
-jet	/ˈdƷεt/
-jettison	/ˈdƷεt̬əsən/
-jetty	/ˈdƷεt̬i/
-jewel	/ˈdƷuːəl/
-jeweller	/ˈdƷuːəlɚ/
-jewelry	/ˈdƷuːəlri/
-Jewish	/ˈdƷuːɪʃ/
-jibe	/ˈdƷaɪb/
-jiffy	/ˈdƷɪfi/
-jig	/ˈdƷɪg/
-jiggle	/ˈdƷɪgəl/
-jigsaw	/ˈdƷɪgˌsɔ/
-jilt	/ˈdƷɪlt/
-jingle	/ˈdƷɪŋgəl/
-jinx	/ˈdƷɪŋks/
-jitters	/ˈdƷɪt̬ɚz/
-jittery	/ˈdƷɪt̬ɚi/
-job	/ˈdƷɑb/
-jockey	/ˈdƷɑki/
-jog	/ˈdƷɑg/
-join	/ˈdƷɔɪn/
-joint	/ˈdƷɔɪnt/
-jointly	/ˈdƷɔɪntli/
-joke	/ˈdƷoːk/
-joker	/ˈdƷoːkɚ/
-jolly	/ˈdƷɑli/
-jolt	/ˈdƷoːlt/
-jostle	/ˈdƷɑsəl/
-jot	/ˈdƷɑt/
-journal	/ˈdƷɝnəl/
-journalism	/ˈdƷɝnəlˌɪzəm/
-journalist	/ˈdƷɝnəlɪst/
-journey	/ˈdƷɝni/
-jovial	/ˈdƷoːviəl/
-joy	/ˈdƷɔɪ/
-joyful	/ˈdƷɔɪfəl/
-joyous	/ˈdƷɔɪəs/
-jubilant	/ˈdƷuːbələnt/
-jubilee	/ˈdƷuːbəˌliː/
-Judaism	/ˈdƷuːdəˌɪzəm, ˈdƷuːdi-, ˈdƷuːˌdeɪ-/
-judge	/ˈdƷʌdƷ/
-judgement	/ˈdƷʌdƷmənt/
-judicial	/dƷʊˈdɪʃəl/
-judicious	/dƷʊˈdɪʃəs/
-jug	/ˈdƷʌg/
-juggle	/ˈdƷʌgəl/
-juggler	/ˈdƷʌgəlɚ/
-vein	/ˈdƷʌgjʊlɚ-/
-juice	/ˈdƷuːs/
-juicy	/ˈdƷuːsi/
-jukebox	/ˈdƷuːkˌbɑks/
-July	/dƷʊˈlaɪ/
-jumble	/ˈdƷʌmbəl/
-jumbo	/ˈdƷʌmˌboː/
-jump	/ˈdƷʌmp/
-jumper	/ˈdƷʌmpɚ/
-jumpy	/ˈdƷʌmpi/
-junction	/ˈdƷʌŋkʃən/
-juncture	/ˈdƷʌŋktʃɚ/
-June	/ˈdƷuːn/
-jungle	/ˈdƷʌŋgəl/
-junior	/ˈdƷuːnjɚ/
-junk	/ˈdƷʌŋk/
-junta	/ˈhʊntə, ˈdƷʌn-, ˈhʌn-/
-jurisdiction	/ˌdƷʊrəsˈdɪkʃən/
-jury	/ˈdƷʊri/
-juror	/ˈdƷʊrɚ/
-just	/ˈdƷʌst/
-justice	/ˈdƷʌstɪs/
-justify	/ˈdƷʌstəˌfaɪ/
-justification	/ˌdƷʌstəfəˈkeɪʃən/
-jut	/ˈdƷʌt/
-juvenile	/ˈdƷuːvəˌnaɪl, -vənəl/
-juxtapose	/ˈdƷʌkstəˌpoːz/
+jam	/ˈdʒæm/
+jangle	/ˈdʒæŋgəl/
+janitor	/ˈdʒænət̬ɚ/
+January	/ˈdʒænjʊˌεri/
+Japanese	/ˌdʒæpəˈniːz, -ˈniːs/
+jar	/ˈdʒɑr/
+jargon	/ˈdʒɑrgən/
+jaundice	/ˈdʒɔndɪs/
+jaunt	/ˈdʒɔnt/
+jaunty	/ˈdʒɔnti/
+jaw	/ˈdʒɔ/
+jawbone	/ˈdʒɔˌboːn/
+jay	/ˈdʒeɪ/
+jazz	/ˈdʒæz/
+jazzy	/ˈdʒæzi/
+jealous	/ˈdʒεləs/
+jealousy	/ˈdʒεləsi/
+jeans	/ˈdʒiːnz/
+jeer	/ˈdʒɪr/
+jell	/ˈdʒεl/
+jelly	/ˈdʒεli/
+jellyfish	/ˈdʒεliˌfɪʃ/
+jeopardy	/ˈdʒεpɚdi/
+jeopardize	/ˈdʒεpɚˌdaɪz/
+jerk	/ˈdʒɝk/
+jersey	/ˈdʒɝzi/
+jest	/ˈdʒεst/
+jester	/ˈdʒεstɚ/
+Jesus	/ˈdʒiːzəs, -zəz/
+jet	/ˈdʒεt/
+jettison	/ˈdʒεt̬əsən/
+jetty	/ˈdʒεt̬i/
+jewel	/ˈdʒuːəl/
+jeweller	/ˈdʒuːəlɚ/
+jewelry	/ˈdʒuːəlri/
+Jewish	/ˈdʒuːɪʃ/
+jibe	/ˈdʒaɪb/
+jiffy	/ˈdʒɪfi/
+jig	/ˈdʒɪg/
+jiggle	/ˈdʒɪgəl/
+jigsaw	/ˈdʒɪgˌsɔ/
+jilt	/ˈdʒɪlt/
+jingle	/ˈdʒɪŋgəl/
+jinx	/ˈdʒɪŋks/
+jitters	/ˈdʒɪt̬ɚz/
+jittery	/ˈdʒɪt̬ɚi/
+job	/ˈdʒɑb/
+jockey	/ˈdʒɑki/
+jog	/ˈdʒɑg/
+join	/ˈdʒɔɪn/
+joint	/ˈdʒɔɪnt/
+jointly	/ˈdʒɔɪntli/
+joke	/ˈdʒoːk/
+joker	/ˈdʒoːkɚ/
+jolly	/ˈdʒɑli/
+jolt	/ˈdʒoːlt/
+jostle	/ˈdʒɑsəl/
+jot	/ˈdʒɑt/
+journal	/ˈdʒɝnəl/
+journalism	/ˈdʒɝnəlˌɪzəm/
+journalist	/ˈdʒɝnəlɪst/
+journey	/ˈdʒɝni/
+jovial	/ˈdʒoːviəl/
+joy	/ˈdʒɔɪ/
+joyful	/ˈdʒɔɪfəl/
+joyous	/ˈdʒɔɪəs/
+jubilant	/ˈdʒuːbələnt/
+jubilee	/ˈdʒuːbəˌliː/
+Judaism	/ˈdʒuːdəˌɪzəm, ˈdʒuːdi-, ˈdʒuːˌdeɪ-/
+judge	/ˈdʒʌdʒ/
+judgement	/ˈdʒʌdʒmənt/
+judicial	/dʒʊˈdɪʃəl/
+judicious	/dʒʊˈdɪʃəs/
+jug	/ˈdʒʌg/
+juggle	/ˈdʒʌgəl/
+juggler	/ˈdʒʌgəlɚ/
+vein	/ˈdʒʌgjʊlɚ-/
+juice	/ˈdʒuːs/
+juicy	/ˈdʒuːsi/
+jukebox	/ˈdʒuːkˌbɑks/
+July	/dʒʊˈlaɪ/
+jumble	/ˈdʒʌmbəl/
+jumbo	/ˈdʒʌmˌboː/
+jump	/ˈdʒʌmp/
+jumper	/ˈdʒʌmpɚ/
+jumpy	/ˈdʒʌmpi/
+junction	/ˈdʒʌŋkʃən/
+juncture	/ˈdʒʌŋktʃɚ/
+June	/ˈdʒuːn/
+jungle	/ˈdʒʌŋgəl/
+junior	/ˈdʒuːnjɚ/
+junk	/ˈdʒʌŋk/
+junta	/ˈhʊntə, ˈdʒʌn-, ˈhʌn-/
+jurisdiction	/ˌdʒʊrəsˈdɪkʃən/
+jury	/ˈdʒʊri/
+juror	/ˈdʒʊrɚ/
+just	/ˈdʒʌst/
+justice	/ˈdʒʌstɪs/
+justify	/ˈdʒʌstəˌfaɪ/
+justification	/ˌdʒʌstəfəˈkeɪʃən/
+jut	/ˈdʒʌt/
+juvenile	/ˈdʒuːvəˌnaɪl, -vənəl/
+juxtapose	/ˈdʒʌkstəˌpoːz/
 k	/ˈkeɪ/
 ks	/ˈkeɪz/
 kaleidoscope	/kəˈlaɪdəˌskoːp/
@@ -6971,8 +6971,8 @@ known	/ˈnoːn/
 knowing	/ˈnoːɪŋ/
 knowingly	/ˈnoːɪŋli/
 know–it–all	/ˈnoːɪt̬ˌɔl/
-knowledge	/ˈnɑlɪdƷ/
-knowledgeable	/ˈnɑlɪdƷəbəl/
+knowledge	/ˈnɑlɪdʒ/
+knowledgeable	/ˈnɑlɪdʒəbəl/
 knuckle	/ˈnʌkəl/
 Koran	/kəˈrɑn, -ˈræn/
 Korean	/kəˈriːən/
@@ -7024,7 +7024,7 @@ landowner	/ˈlændˌoːnɚ/
 landscape	/ˈlændˌskeɪp/
 landslide	/ˈlændˌslaɪd/
 lane	/ˈleɪn/
-language	/ˈlæŋgwɪdƷ/
+language	/ˈlæŋgwɪdʒ/
 languid	/ˈlæŋgwɪd/
 languish	/ˈlæŋgwɪʃ/
 lanky	/ˈlæŋki/
@@ -7035,15 +7035,15 @@ lapse	/ˈlæps/
 laptop	/ˈlæpˌtɑp/
 larceny	/ˈlɑrsəni/
 lard	/ˈlɑrd/
-large	/ˈlɑrdƷ/
-largely	/ˈlɑrdƷli/
+large	/ˈlɑrdʒ/
+largely	/ˈlɑrdʒli/
 lark	/ˈlɑrk/
 larva	/ˈlɑrvə/
 larvae	/-ˌviː, -ˌvaɪ/
 larynx	/ˈlærɪŋks/
-larynges	/ləˈrɪnˌdƷiːz/
+larynges	/ləˈrɪnˌdʒiːz/
 larynxes	/ˈlærɪŋksəz/
-laryngitis	/ˌlærənˈdƷaɪt̬əs/
+laryngitis	/ˌlærənˈdʒaɪt̬əs/
 lasagna	/ləˈzɑnjə/
 laser	/ˈleɪzɚ/
 lash	/ˈlæʃ/
@@ -7120,7 +7120,7 @@ leather	/ˈlεðɚ/
 leave	/ˈliːv/
 left	/ˈlεft/
 lecture	/ˈlεktʃɚ/
-ledge	/ˈlεdƷ/
+ledge	/ˈlεdʒ/
 leech	/ˈliːtʃ/
 leek	/ˈliːk/
 leer	/ˈlɪr/
@@ -7134,16 +7134,16 @@ legacy	/ˈlεgəsi/
 legal	/ˈliːgəl/
 legality	/liˈgælət̬i/
 legalize	/ˈliːgəˌlaɪz/
-legend	/ˈlεdƷənd/
-legendary	/ˈlεdƷənˌdεri/
-legible	/ˈlεdƷəbəl/
-legion	/ˈliːdƷən/
-legislate	/ˈlεdƷəsˌleɪt/
-legislation	/ˌlεdƷəsˈleɪʃən/
-legislative	/ˈlεdƷəsˌleɪt̬ɪv/
-legislature	/ˈlεdƷəsˌleɪtʃɚ/
-legitimate	/lɪˈdƷɪt̬əmət/
-legitimacy	/lɪˈdƷɪt̬əməsi/
+legend	/ˈlεdʒənd/
+legendary	/ˈlεdʒənˌdεri/
+legible	/ˈlεdʒəbəl/
+legion	/ˈliːdʒən/
+legislate	/ˈlεdʒəsˌleɪt/
+legislation	/ˌlεdʒəsˈleɪʃən/
+legislative	/ˈlεdʒəsˌleɪt̬ɪv/
+legislature	/ˈlεdʒəsˌleɪtʃɚ/
+legitimate	/lɪˈdʒɪt̬əmət/
+legitimacy	/lɪˈdʒɪt̬əməsi/
 leisure	/ˈliːʒɚ, ˈlεʒɚ/
 leisurely	/ˈliːʒɚli, ˈlεʒɚli/
 lemon	/ˈlεmən/
@@ -7172,7 +7172,7 @@ let	/ˈlεt/
 let's	/ˈlεts/
 letdown	/ˈlεtˌdaʊn/
 lethal	/ˈliːθəl/
-lethargic	/lɪˈθɑrdƷɪk/
+lethargic	/lɪˈθɑrdʒɪk/
 letter	/ˈlεt̬ɚ/
 lettuce	/ˈlεt̬əs/
 letup	/ˈlεtˌəp/
@@ -7180,7 +7180,7 @@ leukemia	/luːˈkiːmiə/
 level	/ˈlεvəl/
 levelheaded	/ˈlεvəlˈhεdəd/
 lever	/ˈlεvɚ, ˈliː-/
-leverage	/ˈlεvɚɪdƷ, ˈliː-/
+leverage	/ˈlεvɚɪdʒ, ˈliː-/
 levity	/ˈlεvət̬i/
 levy	/ˈlεvi/
 lewd	/ˈluːd/
@@ -7254,13 +7254,13 @@ limited	/ˈlɪmət̬əd/
 limousine	/ˈlɪməˌziːn, ˌlɪməˈ-/
 limp	/ˈlɪmp/
 line	/ˈlaɪn/
-lineage	/ˈlɪniɪdƷ/
+lineage	/ˈlɪniɪdʒ/
 linear	/ˈlɪniɚ/
 linen	/ˈlɪnən/
 liner	/ˈlaɪnɚ/
 lineup	/ˈlaɪnˌəp/
 linger	/ˈlɪŋgɚ/
-lingerie	/ˌlɑndƷəˈreɪ, ˌlænʒəˈriː/
+lingerie	/ˌlɑndʒəˈreɪ, ˌlænʒəˈriː/
 lingo	/ˈlɪŋgo/
 linguistics	/lɪŋˈgwɪstɪks/
 linguist	/ˈlɪŋgwɪst/
@@ -7300,8 +7300,8 @@ lesser	/ˈlεsɚ/
 least	/ˈliːst/
 less	/ˈlεs/
 least	/ˈliːst/
-liturgy	/ˈlɪt̬ɚdƷi/
-liturgical	/ləˈtɝdƷɪkəl/
+liturgy	/ˈlɪt̬ɚdʒi/
+liturgical	/ləˈtɝdʒɪkəl/
 live	/ˈlɪv/
 ~	/ˈlaɪv/
 livelihood	/ˈlaɪvliˌhʊd/
@@ -7334,16 +7334,16 @@ locket	/ˈlɑkət/
 locksmith	/ˈlɑkˌsmɪθ/
 locomotive	/ˌloːkəˈmoːt̬ɪv/
 locust	/ˈloːkəst/
-lodge	/ˈlɑdƷ/
-lodger	/ˈlɑdƷɚ/
-lodging	/ˈlɑdƷɪŋ/
+lodge	/ˈlɑdʒ/
+lodger	/ˈlɑdʒɚ/
+lodging	/ˈlɑdʒɪŋ/
 loft	/ˈlɔft/
 lofty	/ˈlɔfti/
 log	/ˈlɔg, ˈlɑg/
 logger	/ˈlɔgɚ, ˈlɑ-/
-logic	/ˈlɑdƷɪk/
-logical	/ˈlɑdƷɪkəl/
-logistics	/ləˈdƷɪstɪks, lo-/
+logic	/ˈlɑdʒɪk/
+logical	/ˈlɑdʒɪkəl/
+logistics	/ləˈdʒɪstɪks, lo-/
 logo	/ˈloːˌgoː/
 logos	/-ˌgoːz/
 loin	/ˈlɔɪn/
@@ -7357,9 +7357,9 @@ lonesome	/ˈloːnsəm/
 long	/ˈlɔŋ/
 longer	/ˈlɔngɚ/
 longest	/ˈlɔŋgəst/
-longevity	/lɑnˈdƷεvət̬i/
+longevity	/lɑnˈdʒεvət̬i/
 longing	/lɔŋɪŋ/
-longitude	/ˈlɑndƷəˌtuːd, -ˌtjuːd/
+longitude	/ˈlɑndʒəˌtuːd, -ˌtjuːd/
 look	/ˈlʊk/
 lookout	/ˈlʊkˌaʊt/
 loom	/ˈluːm/
@@ -7387,7 +7387,7 @@ lottery	/ˈlɑt̬ɚi/
 loud	/ˈlaʊd/
 loudly	/ˈlaʊdli/
 loudspeaker	/ˈlaʊdˌspiːkɚ/
-lounge	/ˈlaʊndƷ/
+lounge	/ˈlaʊndʒ/
 louse	/ˈlaʊs/
 lice	/ˈlaɪs/
 lousy	/ˈlaʊzi/
@@ -7402,7 +7402,7 @@ lower	/ˈloːɚ/
 lowly	/ˈloːli/
 loyal	/ˈlɔɪəl/
 loyalty	/ˈlɔɪəlti/
-lozenge	/ˈlɑzəndƷ/
+lozenge	/ˈlɑzəndʒ/
 lubricate	/ˈluːbrɪˌkeɪt/
 lubricant	/ˈluːbrɪkənt/
 lubrication	/ˌluːbrɪˈkeɪʃən/
@@ -7414,12 +7414,12 @@ lucky	/ˈlʌki/
 lucrative	/ˈluːkrət̬ɪv/
 ludicrous	/ˈluːdəkrəs/
 lug	/ˈlʌg/
-luggage	/ˈlʌgɪdƷ/
+luggage	/ˈlʌgɪdʒ/
 lukewarm	/ˈluːkˈwɔrm/
 lull	/ˈlʌl/
 lullaby	/ˈlʌləˌbaɪ/
 lumber	/ˈlʌmbɚ/
-lumberjack	/ˈlʌmbɚˌdƷæk/
+lumberjack	/ˈlʌmbɚˌdʒæk/
 luminous	/ˈluːmənəs/
 lump	/ˈlʌmp/
 lumpy	/ˈlʌmpi/
@@ -7429,7 +7429,7 @@ lunatic	/ˈluːnəˌtɪk/
 lunch	/ˈlʌntʃ/
 luncheon	/ˈlʌntʃən/
 lung	/ˈlʌŋ/
-lunge	/ˈlʌndƷ/
+lunge	/ˈlʌndʒ/
 lurch	/ˈlɝtʃ/
 lure	/ˈlʊr/
 lurid	/ˈlʊrəd/
@@ -7466,10 +7466,10 @@ madness	/ˈmædnəs/
 Mafia	/ˈmɑfiə/
 magazine	/ˈmægəˌziːn/
 maggot	/ˈmægət/
-magic	/ˈmædƷɪk/
-magical	/ˈmædƷɪkəl/
-magician	/məˈdƷɪʃən/
-magistrate	/ˈmædƷəˌstreɪt/
+magic	/ˈmædʒɪk/
+magical	/ˈmædʒɪkəl/
+magician	/məˈdʒɪʃən/
+magistrate	/ˈmædʒəˌstreɪt/
 magnanimous	/mægˈnænəməs/
 magnate	/ˈmægˌneɪt, -nət/
 magnet	/ˈmægnət/
@@ -7498,17 +7498,17 @@ mainstream	/ˈmeɪnˌstriːm/
 maintain	/meɪnˈteɪn/
 maintenance	/ˈmeɪntənəns/
 maize	/ˈmeɪz/
-majestic	/məˈdƷεstɪk/
-majesty	/ˈmædƷəsti/
-major	/ˈmeɪdƷɚ/
-majority	/məˈdƷɔrət̬i/
+majestic	/məˈdʒεstɪk/
+majesty	/ˈmædʒəsti/
+major	/ˈmeɪdʒɚ/
+majority	/məˈdʒɔrət̬i/
 make	/ˈmeɪk/
 made	/ˈmeɪd/
 make–believe	/ˌmeɪkbəˈliːv/
 maker	/ˈmeɪkɚ/
 makeshift	/ˈmeɪkˌʃɪft/
 makeup	/ˈmeɪkˌʌp/
-maladjusted	/ˌmæləˈdƷʌstəd/
+maladjusted	/ˌmæləˈdʒʌstəd/
 malaria	/məˈlεəriə/
 male	/ˈmeɪl/
 malevolent	/məˈlεvələnt/
@@ -7529,11 +7529,11 @@ mammogram	/ˈmæməˌgræm/
 mammoth	/ˈmæməθ/
 man	/ˈmæn/
 men	/ˈmεn/
-manage	/ˈmænɪdƷ/
-manageable	/ˈmænɪdƷəbəl/
-management	/ˈmænɪdƷmənt/
-manager	/ˈmænɪdƷɚ/
-managerial	/ˌmænəˈdƷɪriəl/
+manage	/ˈmænɪdʒ/
+manageable	/ˈmænɪdʒəbəl/
+management	/ˈmænɪdʒmənt/
+manager	/ˈmænɪdʒɚ/
+managerial	/ˌmænəˈdʒɪriəl/
 mandarin	/ˈmændɚən/
 mandate	/ˈmænˌdeɪt/
 mandatory	/ˈmændəˌtori/
@@ -7541,7 +7541,7 @@ mane	/ˈmeɪn/
 maneuver	/məˈnuːvɚ, -ˈnjuː-/
 mangle	/ˈmæŋgəl/
 mango	/ˈmæŋˌgoː/
-mangy	/ˈmeɪndƷi/
+mangy	/ˈmeɪndʒi/
 manhandle	/ˈmænˌhændəl/
 manhole	/ˈmænˌhoːl/
 manhood	/ˈmænˌhʊd/
@@ -7581,9 +7581,9 @@ marble	/ˈmɑrbəl/
 march	/ˈmɑrtʃ/
 March	/ˈmɑrtʃ/
 mare	/ˈmεər/
-margarine	/ˈmɑrdƷɚən/
-margin	/ˈmɑrdƷən/
-marginal	/ˈmɑrdƷənəl/
+margarine	/ˈmɑrdʒɚən/
+margin	/ˈmɑrdʒən/
+marginal	/ˈmɑrdʒənəl/
 marigold	/ˈmærəˌgoːld/
 marijuana	/ˌmærəˈhwɑnə/
 marinate	/ˈmærəˌneɪt/
@@ -7604,7 +7604,7 @@ marksmanship	/ˈmɑrksmənˌʃɪp/
 marmalade	/ˈmɑrməˌleɪd/
 maroon 1	/məˈruːn/
 marquee	/mɑrˈkiː/
-marriage	/ˈmærɪdƷ/
+marriage	/ˈmærɪdʒ/
 married	/ˈmærid/
 marrow	/ˈmæroː/
 marry	/ˈmæri/
@@ -7633,7 +7633,7 @@ masquerade	/ˌmæskəˈreɪd/
 mass	/ˈmæs/
 Mass	/ˈmæs/
 massacre	/ˈmæsɪkɚ/
-massage	/məˈsɑʒ, -ˈsɑdƷ/
+massage	/məˈsɑʒ, -ˈsɑdʒ/
 masseur	/mæˈsɝ/
 masseuse	/mæˈsəz, mæˈsɝz, mæˈsuːz/
 massive	/ˈmæsɪv/
@@ -7758,8 +7758,8 @@ menace	/ˈmεnəs/
 menacing	/ˈmεnəsɪŋ/
 mend	/ˈmεnd/
 menial	/ˈmiːniəl/
-meningitis	/ˌmεnənˈdƷaɪt̬əs/
-gitides	/-ˈdƷɪt̬əˌdiːz/
+meningitis	/ˌmεnənˈdʒaɪt̬əs/
+gitides	/-ˈdʒɪt̬əˌdiːz/
 menopause	/ˈmεnəˌpɔz/
 menstruate	/ˈmεnstrʊˌeɪt/
 menstruation	/ˌmεnstrʊˈeɪʃən/
@@ -7777,8 +7777,8 @@ mercury	/ˈmɝkjɚi/
 mercy	/ˈmɝsi/
 mere	/ˈmɪr/
 merely	/ˈmɪrli/
-merge	/ˈmɝdƷ/
-merger	/ˈmɝdƷɚ/
+merge	/ˈmɝdʒ/
+merger	/ˈmɝdʒɚ/
 merit	/ˈmεrət/
 mermaid	/ˈmɝˌmeɪd/
 merry	/ˈmεri/
@@ -7787,8 +7787,8 @@ mesa	/ˈmeɪsə/
 mesh	/ˈmεʃ/
 mesmerize	/ˈmεzməˌraɪz/
 mess	/ˈmεs/
-message	/ˈmεsɪdƷ/
-messenger	/ˈmεsəndƷɚ/
+message	/ˈmεsɪdʒ/
+messenger	/ˈmεsəndʒɚ/
 messy	/ˈmεsi/
 metabolism	/məˈtæbəˌlɪzəm/
 metal	/ˈmεt̬əl/
@@ -7797,9 +7797,9 @@ metamorphosis	/ˌmεt̬əˈmɔrfəsɪs/
 metamorphoses	/-ˌsiːz/
 metaphor	/ˈmεt̬əˌfɔr, -fɚ/
 meteor	/ˈmiːt̬iɚ, -t̬iːˌɔr/
-meteorological	/ˌmiːt̬iˌɔrəˈlɑdƷɪkəl/
-meteorologist	/ˌmiːt̬iəˈrɑlədƷɪst/
-meteorology	/ˌmiːt̬iəˈrɑlədƷi/
+meteorological	/ˌmiːt̬iˌɔrəˈlɑdʒɪkəl/
+meteorologist	/ˌmiːt̬iəˈrɑlədʒɪst/
+meteorology	/ˌmiːt̬iəˈrɑlədʒi/
 metre	/ˈmiːt̬ɚ/
 method	/ˈmεθəd/
 methodical	/məˈθɑdɪkəl/
@@ -7819,10 +7819,10 @@ mid	/ˈmɪd/
 midair	/ˈmɪdˈεər/
 midday	/ˈmɪdˈdeɪ/
 middle	/ˈmɪdəl/
-middle–aged	/ˌmɪdəlˈeɪdƷd/
+middle–aged	/ˌmɪdəlˈeɪdʒd/
 middleman	/ˈmɪdəlˌmæn/
 middlemen	/-mən, -ˌmεn/
-midget	/ˈmɪdƷət/
+midget	/ˈmɪdʒət/
 midnight	/ˈmɪdˌnaɪt/
 midriff	/ˈmɪdˌrɪf/
 midst	/ˈmɪdst/
@@ -7842,7 +7842,7 @@ mildew	/ˈmɪlˌduː, -ˌdjuː/
 mildly	/ˈmaɪldli/
 mildness	/ˈmaɪldnəs/
 mile	/ˈmaɪl/
-mileage	/ˈmaɪlɪdƷ/
+mileage	/ˈmaɪlɪdʒ/
 milestone	/ˈmaɪlˌstoːn/
 military	/ˈmɪləˌtεri/
 militant	/ˈmɪlətənt/
@@ -7898,7 +7898,7 @@ misapprehension	/ˌmɪsˌæprəˈhεnʃən/
 misbehave	/ˌmɪsbiˈheɪv/
 misbehavior	/ˌmɪsbiˈheɪvjɚ/
 miscalculate	/mɪsˈkælkjəˌleɪt/
-miscarriage	/ˌmɪsˈkærɪdƷ, ˈmɪsˌkærɪdƷ/
+miscarriage	/ˌmɪsˈkærɪdʒ, ˈmɪsˌkærɪdʒ/
 miscellaneous	/ˌmɪsəˈleɪniəs/
 mischief	/ˈmɪstʃəf/
 mischievous	/ˈmɪstʃəvəs/
@@ -7918,7 +7918,7 @@ misguided	/mɪsˈgaɪdəd/
 mishap	/ˈmɪsˌhæp/
 misinform	/ˌmɪsɪnˈfɔrm/
 misinterpret	/ˌmɪsɪnˈtɝprət/
-misjudge	/mɪsˈdƷʌdƷ/
+misjudge	/mɪsˈdʒʌdʒ/
 mislay	/mɪsˈleɪ/
 laid	/-leɪd/
 mislead	/mɪsˈliːd/
@@ -8047,7 +8047,7 @@ morsel	/ˈmɔrsəl/
 mortal	/ˈmɔrt̬əl/
 mortality	/mɔrˈtælət̬i/
 mortar	/ˈmɔrt̬ɚ/
-mortgage	/ˈmɔrgɪdƷ/
+mortgage	/ˈmɔrgɪdʒ/
 mortify	/ˈmɔrt̬əˌfaɪ/
 mosaic	/moˈzeɪɪk/
 Moslem	/ˈmɑzləm/
@@ -8257,9 +8257,9 @@ needy	/ˈniːdi/
 negative	/ˈnεgət̬ɪv/
 neglect	/nɪˈglεkt/
 negligee	/ˌnεgləˈʒeɪ/
-negligence	/ˈnεglɪdƷəns/
-negligent	/ˈnεglɪdƷənt/
-negligible	/ˈnεglɪdƷəbəl/
+negligence	/ˈnεglɪdʒəns/
+negligent	/ˈnεglɪdʒənt/
+negligible	/ˈnεglɪdʒəbəl/
 negotiate	/nɪˈgoːʃiˌeɪt/
 negotiable	/nɪˈgoːʃəbəl, -ʃiə-/
 negotiation	/nɪˌgoːʃiˈeɪʃən, -siˈeɪ-/
@@ -8282,7 +8282,7 @@ nestle	/ˈnεsəl/
 net 1	/ˈnεt/
 nettle	/ˈnεt̬əl/
 network	/ˈnεtˌwɝk/
-neurology	/nʊˈrɑlədƷi, njʊ-/
+neurology	/nʊˈrɑlədʒi, njʊ-/
 neurosis	/nʊˈroːsɪs, njʊ-/
 neuroses	/-ˌsiːz/
 neurotic	/nʊ-ˈrɑt̬ɪk, njʊ-/
@@ -8339,7 +8339,7 @@ ninety	/ˈnaɪnt̬i/
 ninth	/ˈnaɪnθ/
 nip	/ˈnɪp/
 nipple	/ˈnɪpəl/
-nitrogen	/ˈnaɪtrədƷən/
+nitrogen	/ˈnaɪtrədʒən/
 nitwit	/ˈnɪtˌwɪt/
 no	/ˈnoː/
 nos	/ˈnoːz/
@@ -8387,12 +8387,12 @@ northerly	/ˈnɔrðɚli/
 northern	/ˈnɔrðɚn/
 northwest	/ˌnɔrθˈwεst/
 northwestern	/ˌnɔrθˈwεstɚn/
-Norwegian	/nɔrˈwiːdƷən/
+Norwegian	/nɔrˈwiːdʒən/
 nose	/ˈnoːz/
 nosebleed	/ˈnoːzˌbliːd/
 nosedive	/ˈnoːzˌdaɪv/
-nostalgia	/nɑˈstældƷə, nə-/
-nostalgic	/nɑˈstældƷɪk, nə-/
+nostalgia	/nɑˈstældʒə, nə-/
+nostalgic	/nɑˈstældʒɪk, nə-/
 nostril	/ˈnɑstrəl/
 nosey	/ˈnoːzi/
 not	/ˈnɑt/
@@ -8434,7 +8434,7 @@ nucleus	/ˈnuːkliəs, ˈnjuː-/
 clei	/-kliˌaɪ/
 nuclear	/ˈnuːkliɚ, ˈnjuː-/
 nude	/ˈnuːd, ˈnjuːd/
-nudge	/ˈnʌdƷ/
+nudge	/ˈnʌdʒ/
 nudity	/ˈnuːdət̬i, ˈnjuː-/
 nugget	/ˈnʌgət/
 nuisance	/ˈnuːsəns, ˈnjuː-/
@@ -8483,15 +8483,15 @@ obese	/oˈbiːs/
 obesity	/oˈbiːsət̬i/
 obey	/oˈbeɪ/
 obituary	/əˈbɪtʃʊˌεri/
-object	/ˈɑbdƷɪkt/
-~	/əbˈdƷεkt/
-objection	/əbˈdƷεkʃən/
-objectionable	/əbˈdƷεkʃənəbəl/
-objective	/əbˈdƷεktɪv/
-oblige	/əˈblaɪdƷ/
+object	/ˈɑbdʒɪkt/
+~	/əbˈdʒεkt/
+objection	/əbˈdʒεkʃən/
+objectionable	/əbˈdʒεkʃənəbəl/
+objective	/əbˈdʒεktɪv/
+oblige	/əˈblaɪdʒ/
 obligation	/ˌɑbləˈgeɪʃən/
 obligatory	/əˈblɪgəˌtori/
-obliging	/əˈblaɪdƷɪŋ/
+obliging	/əˈblaɪdʒɪŋ/
 oblique	/oˈbliːk/
 obliterate	/əˈblɪt̬əˌreɪt/
 oblivion	/əˈblɪviən/
@@ -8651,7 +8651,7 @@ opulent	/ˈɑpjələnt/
 or	/ˈɔr/
 oracle	/ˈɔrəkəl/
 oral	/ˈorəl/
-orange	/ˈɔrɪndƷ/
+orange	/ˈɔrɪndʒ/
 orator	/ˈɔrət̬ɚ/
 orbit	/ˈɔrbət/
 orchard	/ˈɔrtʃɚd/
@@ -8673,23 +8673,23 @@ organize	/ˈɔrgəˌnaɪz/
 organization	/ˌɔrgənəˈzeɪʃən/
 organizer	/ˈɔrgəˌnaɪzɚ/
 orgasm	/ˈɔrˌgæzəm/
-orgy	/ˈɔrdƷi/
+orgy	/ˈɔrdʒi/
 Orient	/ˈoriˌεnt/
 oriental	/ˌoriˈεntəl/
 orientation	/ˌoriənˈteɪʃən/
 orifice	/ˈɔrəfəs/
-origin	/ˈɔrədƷən/
-original	/əˈrɪdƷənəl/
-originality	/əˌrɪdƷəˈnælət̬i/
-originally	/əˈrɪdƷənəli/
-originate	/əˈrɪdƷəˌneɪt/
-originator	/əˈrɪdƷəˌneɪt̬ɚ/
+origin	/ˈɔrədʒən/
+original	/əˈrɪdʒənəl/
+originality	/əˌrɪdʒəˈnælət̬i/
+originally	/əˈrɪdʒənəli/
+originate	/əˈrɪdʒəˌneɪt/
+originator	/əˈrɪdʒəˌneɪt̬ɚ/
 ornament	/ˈɔrnəmənt/
 ornamental	/ˌɔrnəˈmεntəl/
 ornate	/ɔrˈneɪt/
-ornithology	/ˌɔrnəˈθɑlədƷi/
+ornithology	/ˌɔrnəˈθɑlədʒi/
 orphan	/ˈɔrfən/
-orphanage	/ˈɔrfənɪdƷ/
+orphanage	/ˈɔrfənɪdʒ/
 orthodox	/ˈɔrθəˌdɑks/
 orthodoxy	/ˈɔrθəˌdɑksi/
 orthopedic	/ˌɔrθəˈpiːdɪk/
@@ -8749,8 +8749,8 @@ outnumber	/ˌaʊtˈnʌmbɚ/
 outpatient	/ˈaʊtˌpeɪʃənt/
 outpost	/ˈaʊtˌpoːst/
 output	/ˈaʊtˌpʊt/
-outrage	/ˈaʊtˌreɪdƷ/
-outrageous	/ˌaʊtˈreɪdƷəs/
+outrage	/ˈaʊtˌreɪdʒ/
+outrageous	/ˌaʊtˈreɪdʒəs/
 outright	/ˌaʊtˈraɪt/
 ~	/ˈaʊtˌraɪt/
 outset	/ˈaʊtˌsεt/
@@ -8778,7 +8778,7 @@ overbearing	/ˌoːvɚˈbεərɪŋ/
 overboard	/ˈoːvɚˌbord/
 overburden	/ˌoːvɚˈbɝdən/
 overcast	/ˌoːvɚˌkæst/
-overcharge	/ˌoːvɚˈtʃɑrdƷ/
+overcharge	/ˌoːvɚˈtʃɑrdʒ/
 overcoat	/ˈoːvɚˌkoːt/
 overcome	/ˌoːvɚˈkʌm/
 came	/-ˈkeɪm/
@@ -8811,7 +8811,7 @@ overhead	/ˌoːvɚˈhεd/
 ~	/ˈoːvɚˌhεd/
 overhear	/ˌoːvɚˈhɪr/
 overheat	/ˌoːvɚˈhiːt/
-overjoyed	/ˌoːvɚˈdƷɔɪd/
+overjoyed	/ˌoːvɚˈdʒɔɪd/
 overland	/ˈoːvɚˌlænd, -lənd/
 overlap	/ˌoːvɚˈlæp/
 overload	/ˌoːvɚˈloːd/
@@ -8862,7 +8862,7 @@ owner	/ˈoːnɚ/
 ownership	/ˈoːnɚˌʃɪp/
 ox	/ˈɑks/
 oxen	/ˈɑksən/
-oxygen	/ˈɑksɪdƷən/
+oxygen	/ˈɑksɪdʒən/
 oyster	/ˈɔɪstɚ/
 ozone	/ˈoːˌzoːn/
 p	/ˈpiː/
@@ -8872,7 +8872,7 @@ pacify	/ˈpæsəˌfaɪ/
 pacifier	/ˈpæsəˌfaɪɚ/
 pacifist	/ˈpæsəfɪst/
 pack	/ˈpæk/
-package	/ˈpækɪdƷ/
+package	/ˈpækɪdʒ/
 packet	/ˈpækət/
 pact	/ˈpækt/
 pad	/ˈpæd/
@@ -8880,9 +8880,9 @@ padding	/ˈpædɪŋ/
 paddle	/ˈpædəl/
 padlock	/ˈpædˌlɑk/
 pagan	/ˈpeɪgən/
-page 1	/ˈpeɪdƷ/
-pageant	/ˈpædƷənt/
-pageantry	/ˈpædƷəntri/
+page 1	/ˈpeɪdʒ/
+pageant	/ˈpædʒənt/
+pageantry	/ˈpædʒəntri/
 pail	/ˈpeɪl/
 pain	/ˈpeɪn/
 painful	/ˈpeɪnfəl/
@@ -8894,7 +8894,7 @@ paintbrush	/ˈpeɪntˌbrʌʃ/
 painter	/ˈpeɪntɚ/
 painting	/ˈpeɪntɪŋ/
 pair	/ˈpεər/
-pajamas	/pəˈdƷɑməz, -ˈdƷæ-/
+pajamas	/pəˈdʒɑməz, -ˈdʒæ-/
 Pakistani	/ˌpækɪˈstæni, ˌpɑkɪˈstɑni/
 pal	/ˈpæl/
 palace	/ˈpæləs/
@@ -8962,7 +8962,7 @@ paranoia	/ˌpærəˈnɔɪə/
 paranoid	/ˈpærəˌnɔɪd/
 paraphernalia	/ˌpærəfəˈneɪljə, -fɚ-/
 paraphrase	/ˈpærəˌfreɪz/
-paraplegic	/ˌpærəˈpliːdƷɪk/
+paraplegic	/ˌpærəˈpliːdʒɪk/
 parasite	/ˈpærəˌsaɪt/
 paratrooper	/ˈpærəˌtruːpɚ/
 parcel	/ˈpɑrsəl/
@@ -9007,9 +9007,9 @@ partnership	/ˈpɑrtnɚˌʃɪp/
 party	/ˈpɑrt̬i/
 pass	/ˈpæs/
 passable	/ˈpæsəbəl/
-passage	/ˈpæsɪdƷ/
-passageway	/ˈpæsɪdƷˌweɪ/
-passenger	/ˈpæsəndƷɚ/
+passage	/ˈpæsɪdʒ/
+passageway	/ˈpæsɪdʒˌweɪ/
+passenger	/ˈpæsəndʒɚ/
 passerby	/ˌpæsɚˈbaɪ, ˈpæsɚˌ-/
 passion	/ˈpæʃən/
 passionate	/ˈpæʃənət/
@@ -9037,7 +9037,7 @@ paternal	/pəˈtɝnəl/
 paternity	/pəˈtɝnət̬i/
 path	/ˈpæθ, ˈpaθ/
 pathetic	/pəˈθεt̬ɪk/
-pathology	/pəˈθɑlədƷi/
+pathology	/pəˈθɑlədʒi/
 pathway	/ˈpæθˌweɪ/
 patience	/ˈpeɪʃəns/
 patient	/ˈpeɪʃənt/
@@ -9046,7 +9046,7 @@ patriot	/ˈpeɪtriət/
 patriotic	/ˌpeɪtriˈɑt̬ɪk/
 patrol	/pəˈtroːl/
 patron	/ˈpeɪtrən/
-patronage	/ˈpeɪtrənɪdƷ, ˈpæ-/
+patronage	/ˈpeɪtrənɪdʒ, ˈpæ-/
 patronize	/ˈpeɪtrəˌnaɪz, ˈpæ-/
 patter	/ˈpæt̬ɚ/
 pattern	/ˈpæt̬ɚn/
@@ -9137,7 +9137,7 @@ peppermint	/ˈpεpɚˌmɪnt/
 per	/ˈpɝ/
 perceive	/pɚˈsiːv/
 percent	/pɚˈsεnt/
-percentage	/pɚˈsεntɪdƷ/
+percentage	/pɚˈsεntɪdʒ/
 perception	/pɚˈsεpʃən/
 perceptive	/pɚˈsεptɪv/
 perch 1	/ˈpɝtʃ/
@@ -9165,7 +9165,7 @@ peripheral	/pəˈrɪfɚəl/
 perish	/ˈpεrɪʃ/
 perishable	/ˈpεrɪʃəbəl/
 perishables	/ˈpεrɪʃəbəlz/
-perjury	/ˈpɝdƷɚi/
+perjury	/ˈpɝdʒɚi/
 perk	/ˈpɝk/
 perky	/ˈpɝki/
 permanence	/ˈpɝmənəns/
@@ -9258,7 +9258,7 @@ physical	/ˈfɪzɪkəl/
 physician	/fəˈzɪʃən/
 physics	/ˈfɪzɪks/
 physicist	/ˈfɪzəsɪst/
-physiology	/ˌfɪziˈɑlədƷi/
+physiology	/ˌfɪziˈɑlədʒi/
 physique	/fəˈziːk/
 piano	/piˈænoː/
 pianist	/piˈænɪst, ˈpiːənɪst/
@@ -9278,8 +9278,8 @@ pier	/ˈpɪr/
 pierce	/ˈpɪrs/
 piety	/ˈpaɪət̬i/
 pig	/ˈpɪg/
-pigeon	/ˈpɪdƷən/
-pigeonhole	/ˈpɪdƷənˌhoːl/
+pigeon	/ˈpɪdʒən/
+pigeonhole	/ˈpɪdʒənˌhoːl/
 piggyback	/ˈpɪgiˌbæk/
 pigment	/ˈpɪgmənt/
 pigpen	/ˈpɪgˌpεn/
@@ -9287,9 +9287,9 @@ pigtail	/ˈpɪgˌteɪl/
 pile 1	/ˈpaɪl/
 pilfer	/ˈpɪlfɚ/
 pilgrim	/ˈpɪlgrəm/
-pilgrimage	/ˈpɪlgrəmɪdƷ/
+pilgrimage	/ˈpɪlgrəmɪdʒ/
 pill	/ˈpɪl/
-pillage	/ˈpɪlɪdƷ/
+pillage	/ˈpɪlɪdʒ/
 pillar	/ˈpɪlɚ/
 pillow	/ˈpɪˌloː/
 pillowcase	/ˈpɪˌloːˌkeɪs/
@@ -9332,8 +9332,8 @@ placate	/ˈpleɪˌkeɪt, ˈplæ-/
 place	/ˈpleɪs/
 placement	/ˈpleɪsmənt/
 placid	/ˈplæsəd/
-plagiarism	/ˈpleɪdƷəˌrɪzəm/
-plagiarize	/ˈpleɪdƷəˌraɪz/
+plagiarism	/ˈpleɪdʒəˌrɪzəm/
+plagiarize	/ˈpleɪdʒəˌraɪz/
 plague	/ˈpleɪg/
 plaid	/ˈplæd/
 plain	/ˈpleɪn/
@@ -9377,7 +9377,7 @@ pleased	/ˈpliːzd/
 pleasing	/ˈpliːzɪŋ/
 pleasure	/ˈplεʒɚ/
 pleat	/ˈpliːt/
-pledge	/ˈplεdƷ/
+pledge	/ˈplεdʒ/
 plenty	/ˈplεnti/
 plentiful	/ˈplεntɪfəl/
 pliable	/ˈplaɪəbəl/
@@ -9397,7 +9397,7 @@ plume	/ˈpluːm/
 plummet	/ˈplʌmət/
 plump	/ˈplʌmp/
 plunder	/ˈplʌndɚ/
-plunge	/ˈplʌndƷ/
+plunge	/ˈplʌndʒ/
 plural	/ˈplʊrəl/
 plus	/ˈplʌs/
 plush	/ˈplʌʃ/
@@ -9483,7 +9483,7 @@ pornography	/pɔrˈnɑgrəfi/
 pornographic	/ˌpɔrnəˈgræfɪk/
 porous	/ˈporəs/
 porpoise	/ˈpɔrpəs/
-porridge	/ˈpɔrɪdƷ/
+porridge	/ˈpɔrɪdʒ/
 port 1	/ˈport/
 portable	/ˈport̬əbəl/
 portent	/ˈpɔrˌtεnt/
@@ -9505,7 +9505,7 @@ possible	/ˈpɑsəbəl/
 possibility	/ˌpɑsəˈbɪlət̬i/
 possibly	/ˈpɑsəbli/
 post 1	/ˈpoːst/
-postage	/ˈpoːstɪdƷ/
+postage	/ˈpoːstɪdʒ/
 postal	/ˈpoːstəl/
 postcard	/ˈpoːstˌkɑrd/
 poster	/ˈpoːstɚ/
@@ -9590,8 +9590,8 @@ pregnancy	/ˈprεgnənsi/
 pregnant	/ˈprεgnənt/
 prehistoric	/ˌpriːhɪsˈtɔrɪk/
 prehistorical	/-ɪkəl/
-prejudice	/ˈprεdƷədəs/
-prejudiced	/ˈprεdƷədəst/
+prejudice	/ˈprεdʒədəs/
+prejudiced	/ˈprεdʒədəst/
 preliminary	/prɪˈlɪməˌnεri/
 prelude	/ˈprεˌluːd, ˈprεlˌjuːd; ˈpreɪˌluːd, ˈpriː-/
 premarital	/ˌpriːˈmærət̬əl/
@@ -9627,8 +9627,8 @@ presidential	/ˌprεzəˈdεnʃəl/
 press	/ˈprεs/
 pressing	/ˈprεsɪŋ/
 pressure	/ˈprεʃɚ/
-prestige	/prεˈstiːʒ, -ˈstiːdƷ/
-prestigious	/prεˈstɪdƷəs/
+prestige	/prεˈstiːʒ, -ˈstiːdʒ/
+prestigious	/prεˈstɪdʒəs/
 presume	/prɪˈzuːm/
 presumably	/prɪˈzuːməbli/
 presumption	/prɪˈzʌmpʃən/
@@ -9677,8 +9677,8 @@ prisoner	/ˈprɪzənɚ/
 privacy	/ˈpraɪvəsi/
 private	/ˈpraɪvət/
 privately	/ˈpraɪvətli/
-privilege	/ˈprɪvlɪdƷ, ˈprɪvə-/
-privileged	/ˈprɪvlɪdƷd, ˈprɪvə-/
+privilege	/ˈprɪvlɪdʒ, ˈprɪvə-/
+privileged	/ˈprɪvlɪdʒd, ˈprɪvə-/
 prize	/ˈpraɪz/
 prizefighter	/ˈpraɪzˌfaɪt̬ɚ/
 prizewinning	/ˈpraɪzˌwɪnɪŋ/
@@ -9689,7 +9689,7 @@ probably	/-bli/
 probation	/proˈbeɪʃən/
 probe	/ˈproːb/
 problem	/ˈprɑbləm/
-procedure	/prəˈsiːdƷɚ/
+procedure	/prəˈsiːdʒɚ/
 proceed	/proˈsiːd/
 proceedings	/proˈsiːdɪŋz/
 proceeds	/ˈproːˌsiːdz/
@@ -9702,7 +9702,7 @@ procrastinate	/prəˈkræstəˌneɪt/
 procure	/prəˈkjʊr/
 prod	/ˈprɑd/
 prodigal	/ˈprɑdɪgəl/
-prodigy	/ˈprɑdədƷi/
+prodigy	/ˈprɑdədʒi/
 produce	/prəˈduːs, -ˈdjuːs/
 ~	/ˈprɑˌduːs, ˈproː-, -ˌdjuːs/
 producer	/prəˈduːsɚ, -ˈdjuː-/
@@ -9730,11 +9730,11 @@ progress	/ˈprɑgrəs, -ˌgrεs/
 progressive	/prəˈgrεsɪv/
 prohibit	/proˈhɪbət/
 prohibition	/ˌproːəˈbɪʃən, ˌproːhə-/
-project	/ˈprɑˌdƷεkt, -dƷɪkt/
-~	/prəˈdƷεkt/
-projectile	/prəˈdƷεktəl, -ˌtaɪl/
-projection	/prəˈdƷεkʃən/
-projector	/prəˈdƷεktɚ/
+project	/ˈprɑˌdʒεkt, -dʒɪkt/
+~	/prəˈdʒεkt/
+projectile	/prəˈdʒεktəl, -ˌtaɪl/
+projection	/prəˈdʒεkʃən/
+projector	/prəˈdʒεktɚ/
 proliferate	/prəˈlɪfəˌreɪt/
 proliferation	/prəˌlɪfəˈreɪʃən/
 prolific	/prəˈlɪfɪk/
@@ -9843,9 +9843,9 @@ psychic	/ˈsaɪkɪk/
 psychoanalysis	/ˌsaɪkoəˈnæləsɪs/
 psychoanalyst	/ˌsaɪkoˈænəlɪst/
 psychoanalyze	/ˌsaɪkoˈænəlˌaɪz/
-psychology	/saɪˈkɑlədƷi/
-psychological	/ˌsaɪkəˈlɑdƷɪkəl/
-psychologist	/saɪˈkɑlədƷɪst/
+psychology	/saɪˈkɑlədʒi/
+psychological	/ˌsaɪkəˈlɑdʒɪkəl/
+psychologist	/saɪˈkɑlədʒɪst/
 psychopath	/ˈsaɪkəˌpæθ/
 psychotherapy	/ˌsaɪkoˈθεrəpi/
 psychotic	/saɪˈkɑt̬ɪk/
@@ -9860,7 +9860,7 @@ publisher	/ˈpʌblɪʃɚ/
 pucker	/ˈpʌkɚ/
 pudding	/ˈpʊdɪŋ/
 puddle	/ˈpʌdəl/
-pudgy	/ˈpʌdƷi/
+pudgy	/ˈpʌdʒi/
 Puerto Rican	/ˌpwεrt̬əˈriːkən, ˌport̬ə-/
 puff	/ˈpʌf/
 puffy	/ˈpʌfi/
@@ -9883,7 +9883,7 @@ punctuality	/ˌpʌŋktʃʊˈælət̬i/
 punctuate	/ˈpʌŋktʃʊˌeɪt/
 punctuation	/ˌpʌŋktʃʊˈeɪʃən/
 puncture	/ˈpʌŋktʃɚ/
-pungent	/ˈpʌndƷənt/
+pungent	/ˈpʌndʒənt/
 punish	/ˈpʌnɪʃ/
 punishment	/ˈpʌnɪʃmənt/
 punitive	/ˈpjuːnət̬ɪv/
@@ -9897,7 +9897,7 @@ pure	/ˈpjʊr/
 puree	/pjʊˈreɪ, -ˈriː/
 purely	/ˈpjʊrli/
 purgatory	/ˈpɝgəˌtori/
-purge	/ˈpɝdƷ/
+purge	/ˈpɝdʒ/
 purify	/ˈpjʊrəˌfaɪ/
 purification	/ˌpjʊrəfəˈkeɪʃən/
 puritanical	/ˌpjuːrəˈtænɪkəl/
@@ -10015,7 +10015,7 @@ raffle	/ˈræfəl/
 raft	/ˈræft/
 rafter	/ˈræftɚ/
 rag	/ˈræg/
-rage	/ˈreɪdƷ/
+rage	/ˈreɪdʒ/
 ragged	/ˈrægəd/
 raid	/ˈreɪd/
 raider	/ˈreɪdɚ/
@@ -10035,7 +10035,7 @@ rally	/ˈræli/
 RAM	/ˈræm/
 ramble	/ˈræmbəl/
 ramp	/ˈræmp/
-rampage	/ˈræmˌpeɪdƷ, ræmˈpeɪdƷ/
+rampage	/ˈræmˌpeɪdʒ, ræmˈpeɪdʒ/
 rampant	/ˈræmpənt/
 rampart	/ˈræmˌpɑrt/
 ramshackle	/ˈræmˌʃækəl/
@@ -10044,8 +10044,8 @@ rancher	/ˈræntʃɚ/
 rancid	/ˈrænsɪd/
 rancor	/ˈræŋkɚ/
 random	/ˈrændəm/
-range	/ˈreɪndƷ/
-ranger	/ˈreɪndƷɚ/
+range	/ˈreɪndʒ/
+ranger	/ˈreɪndʒɚ/
 rank 1	/ˈræŋk/
 rankle	/ˈræŋkəl/
 ransack	/ˈrænˌsæk/
@@ -10081,8 +10081,8 @@ rationalize	/ˈræʃənəˌlaɪz/
 rattle	/ˈræt̬əl/
 rattlesnake	/ˈræt̬əlˌsneɪk/
 raucous	/ˈrɔkəs/
-ravage	/ˈrævɪdƷ/
-ravages	/ˈrævɪdƷəz/
+ravage	/ˈrævɪdʒ/
+ravages	/ˈrævɪdʒəz/
 rave	/ˈreɪv/
 raven	/ˈreɪvən/
 ravenous	/ˈrævənəs/
@@ -10104,7 +10104,7 @@ readable	/ˈriːdəbəl/
 reader	/ˈriːdɚ/
 readily	/ˈrεdəli/
 reading	/ˈriːdɪŋ/
-readjust	/ˌriːəˈdƷʌst/
+readjust	/ˌriːəˈdʒʌst/
 ready	/ˈrεdi/
 real	/ˈriːl/
 realism	/ˈriːəˌlɪzəm/
@@ -10119,7 +10119,7 @@ ream	/ˈriːm/
 reap	/ˈriːp/
 reappear	/ˌriːəˈpɪr/
 rear 1	/ˈrɪr/
-rearrange	/ˌriːəˈreɪndƷ/
+rearrange	/ˌriːəˈreɪndʒ/
 reason	/ˈriːzən/
 reasonable	/ˈriːzənəbəl/
 reasoning	/ˈriːzənɪŋ/
@@ -10154,8 +10154,8 @@ receptionist	/rɪˈsεpʃənɪst/
 receptive	/riˈsεptɪv/
 recess	/ˈriːˌsεs, rɪˈsεs/
 recession	/riˈsεʃən/
-recharge	/ˌriːˈtʃɑrdƷ/
-rechargeable	/ˌriːˈtʃɑrdƷəbəl/
+recharge	/ˌriːˈtʃɑrdʒ/
+rechargeable	/ˌriːˈtʃɑrdʒəbəl/
 recipe	/ˈrεsəˌpiː/
 recipient	/rɪˈsɪpiənt/
 reciprocal	/rɪˈsɪprəkəl/
@@ -10249,12 +10249,12 @@ reformer	/riˈfɔrmɚ/
 refrain 1	/riˈfreɪn/
 refresh	/riˈfrεʃ/
 refreshments	/riˈfrεʃmənts/
-refrigerate	/riˈfrɪdƷəˌreɪt/
-refrigeration	/riˌfrɪdƷəˈreɪʃən/
-refrigerator	/riˈfrɪdƷəˌreɪt̬ɚ/
+refrigerate	/riˈfrɪdʒəˌreɪt/
+refrigeration	/riˌfrɪdʒəˈreɪʃən/
+refrigerator	/riˈfrɪdʒəˌreɪt̬ɚ/
 refuel	/riːˈfjuːəl/
-refuge	/ˈrεˌfjuːdƷ/
-refugee	/ˌrεfjʊˈdƷiː/
+refuge	/ˈrεˌfjuːdʒ/
+refugee	/ˌrεfjʊˈdʒiː/
 refund	/riˈfʌnd, ˈriːˌfʌnd/
 ~	/ˈriːˌfʌnd/
 refurbish	/riˈfɝbɪʃ/
@@ -10268,16 +10268,16 @@ regalia	/riˈgeɪljə/
 regard	/riˈgɑrd/
 regarding	/riˈgɑrdɪŋ/
 regardless	/riˈgɑrdləs/
-regent	/ˈriːdƷənt/
+regent	/ˈriːdʒənt/
 regime	/reɪˈʒiːm, rɪ-/
-regimen	/ˈrεdƷəmən/
-regiment	/ˈrεdƷəmənt/
-region	/ˈriːdƷən/
-regional	/ˈriːdƷənəl/
-register	/ˈrεdƷəstɚ/
-registrar	/ˈrεdƷəˌstrɑr/
-registration	/ˌrεdƷəˈstreɪʃən/
-registry	/ˈrεdƷəstri/
+regimen	/ˈrεdʒəmən/
+regiment	/ˈrεdʒəmənt/
+region	/ˈriːdʒən/
+regional	/ˈriːdʒənəl/
+register	/ˈrεdʒəstɚ/
+registrar	/ˈrεdʒəˌstrɑr/
+registration	/ˌrεdʒəˈstreɪʃən/
+registry	/ˈrεdʒəstri/
 regret	/riˈgrεt/
 regrettable	/riˈgrεt̬əbəl/
 regular	/ˈrεgjəlɚ/
@@ -10299,10 +10299,10 @@ reinforce	/ˌriːənˈfors/
 reinforcement	/ˌriːənˈforsmənt/
 reinstate	/ˌriːənˈsteɪt/
 reiterate	/riˈɪt̬əˌreɪt/
-reject	/riˈdƷεkt/
-rejection	/riˈdƷεkʃən/
-rejoice	/riˈdƷɔɪs/
-rejuvenate	/riˈdƷuːvəˌneɪt/
+reject	/riˈdʒεkt/
+rejection	/riˈdʒεkʃən/
+rejoice	/riˈdʒɔɪs/
+rejuvenate	/riˈdʒuːvəˌneɪt/
 rekindle	/ˌriːˈkɪndəl/
 relapse	/ˈriːˌlæps, riˈlæps/
 ~	/riˈlæps/
@@ -10328,8 +10328,8 @@ reliant	/riˈlaɪənt/
 relic	/ˈrεlɪk/
 relief	/riˈliːf/
 relieve	/riˈliːv/
-religion	/riˈlɪdƷən/
-religious	/riˈlɪdƷəs/
+religion	/riˈlɪdʒən/
+religious	/riˈlɪdʒəs/
 relinquish	/riˈlɪŋkwɪʃ, -ˈlɪn-/
 relish	/ˈrεlɪʃ/
 relocate	/ˌriːˈloːˌkeɪt, ˌriːloˈkeɪt/
@@ -10506,7 +10506,7 @@ restrictive	/riˈstrɪktɪv/
 result	/riˈzʌlt/
 resume	/riˈzuːm/
 resumption	/riˈzʌmpʃən/
-resurgence	/riˈsɝdƷəns/
+resurgence	/riˈsɝdʒəns/
 resurrection	/ˌrεzəˈrεkʃən/
 resurrect	/ˌrεzəˈrεkt/
 resuscitate	/riˈsʌsəˌteɪt/
@@ -10546,7 +10546,7 @@ reveal	/riˈviːl/
 revel	/ˈrεvəl/
 revelation	/ˌrεvəˈleɪʃən/
 revelry	/ˈrεvəlri/
-revenge	/riˈvεndƷ/
+revenge	/riˈvεndʒ/
 revenue	/ˈrεvəˌnuː, -ˌnjuː/
 reverberate	/riˈvɝbəˌreɪt/
 reverence	/ˈrεvɚəns/
@@ -10608,7 +10608,7 @@ ride	/ˈraɪd/
 rode	/ˈroːd/
 ridden	/ˈrɪdən/
 rider	/ˈraɪdɚ/
-ridge	/ˈrɪdƷ/
+ridge	/ˈrɪdʒ/
 ridiculous	/rəˈdɪkjələs/
 ridicule	/ˈrɪdəˌkjuːl/
 rife	/ˈraɪf/
@@ -10623,7 +10623,7 @@ right–hand	/ˈraɪtˈhænd/
 right–handed	/ˈraɪtˈhændəd/
 rightly	/ˈraɪtli/
 right–wing	/ˈraɪtˈwɪŋ/
-rigid	/ˈrɪdƷɪd/
+rigid	/ˈrɪdʒɪd/
 rigor	/ˈrɪgɚ/
 rigorous	/ˈrɪgɚəs/
 rim	/ˈrɪm/
@@ -10717,9 +10717,9 @@ rotation	/roˈteɪʃən/
 rote	/ˈroːt/
 rotor	/ˈroːt̬ɚ/
 rotten	/ˈrɑtən/
-rouge	/ˈruːʒ, ˈruːdƷ/
+rouge	/ˈruːʒ, ˈruːdʒ/
 rough	/ˈrʌf/
-roughage	/ˈrʌfɪdƷ/
+roughage	/ˈrʌfɪdʒ/
 roughen	/ˈrʌfən/
 roughly	/ˈrʌfli/
 roughness	/ˈrʌfnəs/
@@ -10764,7 +10764,7 @@ ruling	/ˈruːlɪŋ/
 rum	/ˈrʌm/
 Rumanian	/rʊˈmeɪniən/
 rumble	/ˈrʌmbəl/
-rummage	/ˈrʌmɪdƷ/
+rummage	/ˈrʌmɪdʒ/
 rumor	/ˈruːmɚ/
 rump	/ˈrʌmp/
 rumpus	/ˈrʌmpəs/
@@ -10802,8 +10802,8 @@ sack	/ˈsæk/
 sacrament	/ˈsækrəmənt/
 sacred	/ˈseɪkrəd/
 sacrifice	/ˈsækrəˌfaɪs/
-sacrilege	/ˈsækrəlɪdƷ/
-sacrilegious	/ˌsækrəˈlɪdƷəs, -ˈliː-/
+sacrilege	/ˈsækrəlɪdʒ/
+sacrilegious	/ˌsækrəˈlɪdʒəs, -ˈliː-/
 sad	/ˈsæd/
 sadden	/ˈsædən/
 saddle	/ˈsædəl/
@@ -10817,7 +10817,7 @@ safety	/ˈseɪfti/
 saffron	/ˈsæfrən/
 sag	/ˈsæg/
 saga	/ˈsɑgə, ˈsæ-/
-sage 1	/ˈseɪdƷ/
+sage 1	/ˈseɪdʒ/
 sail	/ˈseɪl/
 sailboat	/ˈseɪlˌboːt/
 sailor	/ˈseɪlɚ/
@@ -10844,7 +10844,7 @@ salt	/ˈsɔlt/
 saltwater	/ˈsɔltˌwɔt̬ɚ, -ˌwɑ-/
 salty	/ˈsɔlti/
 salute	/səˈluːt/
-salvage	/ˈsælvɪdƷ/
+salvage	/ˈsælvɪdʒ/
 salvation	/sælˈveɪʃən/
 salve	/ˈsæv, ˈsav/
 same	/ˈseɪm/
@@ -10892,10 +10892,10 @@ saucer	/ˈsɔsɚ/
 saucy	/ˈsɔsi/
 sauna	/ˈsɔnə, ˈsaʊnə/
 saunter	/ˈsɔntɚ, ˈsɑn-/
-sausage	/ˈsɔsɪdƷ/
+sausage	/ˈsɔsɪdʒ/
 sauté	/sɔˈteɪ, soː-/
-savage	/ˈsævɪdƷ/
-savagery	/ˈsævɪdƷri, -dƷɚi/
+savage	/ˈsævɪdʒ/
+savagery	/ˈsævɪdʒri, -dʒɚi/
 save	/ˈseɪv/
 savior	/ˈseɪvjɚ/
 savor	/ˈseɪvɚ/
@@ -10905,7 +10905,7 @@ sawdust	/ˈsɔˌdʌst/
 saxophone	/ˈsæksəˌfoːn/
 say	/ˈseɪ/
 said	/ˈsεd/
-saying; 
+saying;
 says	/ˈsεz/
 says	/ˈseɪz/
 saying	/ˈseɪɪŋ/
@@ -10936,7 +10936,7 @@ scarlet	/ˈskɑrlət/
 scary	/ˈskεəri/
 scathing	/ˈskeɪðɪŋ/
 scatter	/ˈskæt̬ɚ/
-scavenger	/ˈskævəndƷɚ/
+scavenger	/ˈskævəndʒɚ/
 scenario	/sɪˈnεəriˌoː, sɪˈnɑriˌoː/
 scene	/ˈsiːn/
 scenery	/ˈsiːnɚi/
@@ -10944,7 +10944,7 @@ scenic	/ˈsiːnɪk/
 scent	/ˈsεnt/
 scented	/ˈsεntəd/
 sceptic	/ˈskεptɪk/
-schedule	/ˈskεˌdƷuːl, -dƷəl, esp Brit ˈʃεdˌjuːl/
+schedule	/ˈskεˌdʒuːl, -dʒəl, esp Brit ˈʃεdˌjuːl/
 scheme	/ˈskiːm/
 schism	/ˈsɪzəm, ˈskɪ-/
 schizophrenia	/ˌskɪtsəˈfriːniə, ˌskɪzə-, -ˈfrε-/
@@ -10976,7 +10976,7 @@ Scotch	/ˈskɑtʃ/
 Scottish	/ˈskɑt̬ɪʃ/
 scoundrel	/ˈskaʊndrəl/
 scour	/ˈskaʊɚ/
-scourge	/ˈskɝdƷ/
+scourge	/ˈskɝdʒ/
 scout	/ˈskaʊt/
 scowl	/ˈskaʊl/
 scram	/ˈskræm/
@@ -10996,7 +10996,7 @@ scribble	/ˈskrɪbəl/
 script	/ˈskrɪpt/
 scripture	/ˈskrɪptʃɚ/
 scroll	/ˈskroːl/
-scrounge	/ˈskraʊndƷ/
+scrounge	/ˈskraʊndʒ/
 scrub 1	/ˈskrʌb/
 scruff	/ˈskrʌf/
 scruple	/ˈskruːpəl/
@@ -11153,7 +11153,7 @@ Serb	/ˈsɝb/
 Serbian	/ˈsɝbiən/
 serene	/səˈriːn/
 serenity	/səˈrεnət̬i/
-sergeant	/ˈsɑrdƷənt/
+sergeant	/ˈsɑrdʒənt/
 serial	/ˈsɪriəl/
 series	/ˈsɪrˌiːz/
 serious	/ˈsɪriəs/
@@ -11188,7 +11188,7 @@ severity	/səˈvεrət̬i/
 sew	/ˈsoː/
 sewed; sewn	/ˈsoːn/
 sewer	/ˈsuːɚ/
-sewage	/ˈsuːɪdƷ/
+sewage	/ˈsuːɪdʒ/
 sewing	/ˈsoːɪŋ/
 sex	/ˈsεks/
 sexism	/ˈsεkˌsɪzəm/
@@ -11300,7 +11300,7 @@ shoplifter	/ˈʃɑpˌlɪftɚ/
 shopper	/ˈʃɑpɚ/
 shore	/ˈʃor/
 short	/ˈʃɔrt/
-shortage	/ˈʃɔrtɪdƷ/
+shortage	/ˈʃɔrtɪdʒ/
 shortcake	/ˈʃɔrtˌkeɪk/
 shortcoming	/ˈʃɔrtˌkʌmɪŋ/
 shortcut	/ˈʃɔrtˌkʌt/
@@ -11364,7 +11364,7 @@ sidetrack	/ˈsaɪdˌtræk/
 sidewalk	/ˈsaɪdˌwɔk/
 sideways	/ˈsaɪdˌweɪz/
 siding	/ˈsaɪdɪŋ/
-siege	/ˈsiːdƷ, ˈsiːʒ/
+siege	/ˈsiːdʒ, ˈsiːʒ/
 sieve	/ˈsɪv/
 sift	/ˈsɪft/
 sigh	/ˈsaɪ/
@@ -11406,7 +11406,7 @@ sinful	/ˈsɪnfəl/
 sing	/ˈsɪŋ/
 sang	/ˈsæŋ/
 sung	/ˈsʌŋ/
-singe	/ˈsɪndƷ/
+singe	/ˈsɪndʒ/
 singer	/ˈsɪŋɚ/
 single	/ˈsɪŋgəl/
 single–handed	/ˈsɪŋgəlˈhændəd/
@@ -11492,7 +11492,7 @@ slew	/ˈsluː/
 slain	/ˈsleɪn/
 sleazy	/ˈsliːzi/
 sled	/ˈslεd/
-sledgehammer	/ˈslεdƷˌhæmɚ/
+sledgehammer	/ˈslεdʒˌhæmɚ/
 sleek	/ˈsliːk/
 sleep	/ˈsliːp/
 slept	/ˈslεpt/
@@ -11538,7 +11538,7 @@ slovenly	/ˈslɑvənli, ˈslʌv-/
 slow	/ˈsloː/
 slowly	/ˈsloːli/
 slowness	/ˈsloːnəs/
-sludge	/ˈslʌdƷ/
+sludge	/ˈslʌdʒ/
 slug	/ˈslʌg/
 sluggish	/ˈslʌgɪʃ/
 slum	/ˈslʌm/
@@ -11577,7 +11577,7 @@ smooth	/ˈsmuːð/
 smoothly	/ˈsmuːðli/
 smoothness	/ˈsmuːðnəs/
 smother	/ˈsmʌðɚ/
-smudge	/ˈsmʌdƷ/
+smudge	/ˈsmʌdʒ/
 smug	/ˈsmʌg/
 smuggle	/ˈsmʌgəl/
 smuggler	/ˈsmʌgəlɚ/
@@ -11636,7 +11636,7 @@ socialism	/ˈsoːʃəˌlɪzəm/
 socialist	/ˈsoːʃəlɪst/
 socialize	/ˈsoːʃəˌlaɪz/
 society	/sə-ˈsaɪət̬i/
-sociology	/ˌsoːsiˈɑlədƷi/
+sociology	/ˌsoːsiˈɑlədʒi/
 sock 1	/ˈsɑk/
 sox	/ˈsɑks/
 socket	/ˈsɑkət/
@@ -11653,7 +11653,7 @@ soil	/ˈsɔɪl/
 solace	/ˈsɑləs/
 solar	/ˈsoːlɚ/
 solder	/ˈsɑdɚ, ˈsɔ-/
-soldier	/ˈsoːldƷɚ/
+soldier	/ˈsoːldʒɚ/
 sole 1	/ˈsoːl/
 solely	/ˈsoːli/
 solemn	/ˈsɑləm/
@@ -11827,7 +11827,7 @@ splendid	/ˈsplεndəd/
 splint	/ˈsplɪnt/
 splinter	/ˈsplɪntɚ/
 split	/ˈsplɪt/
-splurge	/ˈsplɝdƷ/
+splurge	/ˈsplɝdʒ/
 spoil	/ˈspɔɪl/
 spoilt	/ˈspɔɪlt/
 spoke 1	/ˈspoːk/
@@ -11835,8 +11835,8 @@ spokesman	/ˈspoːksmən/
 spokesmen	/-mən, -ˌmεn/
 spokeswoman	/ˈspoːksˌwʊmən/
 spokeswomen	/-ˌwɪmən/
-sponge	/ˈspʌndƷ/
-spongy	/ˈspʌndƷi/
+sponge	/ˈspʌndʒ/
+spongy	/ˈspʌndʒi/
 sponsor	/ˈspɑnsɚ/
 sponsorship	/ˈspɑnsɚˌʃɪp/
 spontaneity	/ˌspɑntəˈniːət̬i, -ˈneɪ-/
@@ -11915,8 +11915,8 @@ stadium	/ˈsteɪdiəm/
 staff	/ˈstæfs, stævz/
 staves	/ˈstævz, ˈsteɪvz/
 stag	/ˈstæg/
-stage	/ˈsteɪdƷ/
-stagecoach	/ˈsteɪdƷˌkoːtʃ/
+stage	/ˈsteɪdʒ/
+stagecoach	/ˈsteɪdʒˌkoːtʃ/
 stagger	/ˈstægɚ/
 staggering	/ˈstægɚɪŋ/
 stagnant	/ˈstægnənt/
@@ -12045,8 +12045,8 @@ stimuli	/-ˌlaɪ/
 sting	/ˈstɪŋ/
 stung	/ˈstʌŋ/
 stinger	/ˈstɪŋɚ/
-stingy	/ˈstɪndƷi/
-stinginess	/ˈstɪndƷinəs/
+stingy	/ˈstɪndʒi/
+stinginess	/ˈstɪndʒinəs/
 stink	/ˈstɪŋk/
 stank	/ˈstæŋk/
 stunk	/ˈstʌŋk/
@@ -12060,7 +12060,7 @@ stockbroker	/ˈstɑkˌbroːkɚ/
 stockpile	/ˈstɑkˌpaɪl/
 stocky	/ˈstɑki/
 stocking	/ˈstɑkɪŋ/
-stodgy	/ˈstɑdƷi/
+stodgy	/ˈstɑdʒi/
 stoic	/ˈstoːɪk/
 stoical	/-ɪkəl/
 stoicism	/ˈstoːəˌsɪzəm/
@@ -12075,10 +12075,10 @@ stoop	/ˈstuːp/
 stop	/ˈstɑp/
 stopgap	/ˈstɑpˌgæp/
 stoplight	/ˈstɑpˌlaɪt/
-stoppage	/ˈstɑpɪdƷ/
+stoppage	/ˈstɑpɪdʒ/
 stopper	/ˈstɑpɚ/
 store	/ˈstor/
-storage	/ˈstorɪdƷ/
+storage	/ˈstorɪdʒ/
 storehouse	/ˈstorˌhaʊs/
 storekeeper	/ˈstorˌkiːpɚ/
 storeroom	/ˈstorˌruːm, -ˌrʊm/
@@ -12101,16 +12101,16 @@ strain 1	/ˈstreɪn/
 strainer	/ˈstreɪnɚ/
 strait	/ˈstreɪt/
 strand 1	/ˈstrænd/
-strange	/ˈstreɪndƷ/
-strangely	/ˈstreɪndƷli/
-strangeness	/ˈstreɪndƷnəs/
-stranger	/ˈstreɪndƷɚ/
+strange	/ˈstreɪndʒ/
+strangely	/ˈstreɪndʒli/
+strangeness	/ˈstreɪndʒnəs/
+stranger	/ˈstreɪndʒɚ/
 strangle	/ˈstræŋgəl/
 strap	/ˈstræp/
 strapless	/ˈstræpləs/
 strapping	/ˈstræpɪŋ/
-strategy	/ˈstræt̬ədƷi/
-strategic	/strəˈtiːdƷɪk/
+strategy	/ˈstræt̬ədʒi/
+strategic	/strəˈtiːdʒɪk/
 straw	/ˈstrɔ/
 strawberry	/ˈstrɔˌbεri/
 stray	/ˈstreɪ/
@@ -12144,7 +12144,7 @@ striker	/ˈstraɪkɚ/
 striking	/ˈstraɪkɪŋ/
 string	/ˈstrɪŋ/
 strung	/ˈstrʌŋ/
-stringent	/ˈstrɪndƷənt/
+stringent	/ˈstrɪndʒənt/
 strip 1	/ˈstrɪp/
 stripe	/ˈstraɪp/
 striped	/ˈstraɪpt, ˈstraɪpəd/
@@ -12195,13 +12195,13 @@ subconscious	/səbˈkɑnʃəs/
 subdivide	/ˌsʌbdəˈvaɪd, ˈsʌbdəˌvaɪd/
 subdivision	/ˈsʌbdəˌvɪʒən/
 subdue	/səbˈduː, -ˈdjuː/
-subject	/ˈsʌbdƷɪkt/
-~	/səbˈdƷεkt/
-subjective	/səbˈdƷεktɪv/
-subjunctive	/səbˈdƷʌŋktɪv/
+subject	/ˈsʌbdʒɪkt/
+~	/səbˈdʒεkt/
+subjective	/səbˈdʒεktɪv/
+subjunctive	/səbˈdʒʌŋktɪv/
 sublime	/səˈblaɪm/
 submarine	/ˈsʌbməˌriːn, ˌsʌbməˈ-/
-submerge	/səbˈmɝdƷ/
+submerge	/səbˈmɝdʒ/
 submit	/səbˈmɪt/
 submission	/səbˈmɪʃən/
 submissive	/səbˈmɪsɪv/
@@ -12265,12 +12265,12 @@ sufficiently	/səˈfɪʃəntli/
 suffix	/ˈsʌˌfɪks/
 suffocate	/ˈsʌfəˌkeɪt/
 suffocation	/ˌsʌfəˈkeɪʃən/
-suffrage	/ˈsʌfrɪdƷ/
+suffrage	/ˈsʌfrɪdʒ/
 sugar	/ˈʃʊgɚ/
 sugarcane	/ˈʃʊgɚˌkeɪn/
 sugary	/ˈʃʊgɚi/
-suggestion	/səgˈdƷεstʃən, sə-/
-suggest	/səgˈdƷεst, sə-/
+suggestion	/səgˈdʒεstʃən, sə-/
+suggest	/səgˈdʒεst, sə-/
 suicide	/ˈsuːəˌsaɪd/
 suicidal	/ˌsuːəˈsaɪdəl/
 suit	/ˈsuːt/
@@ -12347,10 +12347,10 @@ surf	/ˈsɝf/
 surface	/ˈsɝfəs/
 surfeit	/ˈsɝfət/
 surfing	/ˈsɝfɪŋ/
-surge	/ˈsɝdƷ/
-surgeon	/ˈsɝdƷən/
-surgery	/ˈsɝdƷɚi/
-surgical	/ˈsɝdƷɪkəl/
+surge	/ˈsɝdʒ/
+surgeon	/ˈsɝdʒən/
+surgery	/ˈsɝdʒɚi/
+surgical	/ˈsɝdʒɪkəl/
 surly	/ˈsɝli/
 surmount	/sɚˈmaʊnt/
 surname	/ˈsɝˌneɪm/
@@ -12463,7 +12463,7 @@ synthesize	/ˈsɪnθəˌsaɪz/
 synthetic	/sɪnˈθεt̬ɪk/
 syphilis	/ˈsɪfələs/
 Syrian	/ˈsɪriən/
-syringe	/səˈrɪndƷ, ˈsɪrɪndƷ/
+syringe	/səˈrɪndʒ, ˈsɪrɪndʒ/
 syrup	/ˈsɝəp, ˈsɪrəp/
 system	/ˈsɪstəm/
 systematic	/ˌsɪstəˈmæt̬ɪk/
@@ -12512,9 +12512,9 @@ tamper	/ˈtæmpɚ/
 tampon	/ˈtæmˌpɑn/
 tan	/ˈtæn/
 tang	/ˈtæŋ/
-tangent	/ˈtændƷənt/
-tangerine	/ˈtændƷəˌriːn, ˌtændƷəˈ-/
-tangible	/ˈtændƷəbəl/
+tangent	/ˈtændʒənt/
+tangerine	/ˈtændʒəˌriːn, ˌtændʒəˈ-/
+tangible	/ˈtændʒəbəl/
 tangle	/ˈtæŋgəl/
 tango	/ˈtæŋˌgoː/
 tank	/ˈtæŋk/
@@ -12573,16 +12573,16 @@ technicality	/ˌtεknəˈkælət̬i/
 technically	/-kli/
 technician	/tεkˈnɪʃən/
 technique	/tεkˈniːk/
-technological	/ˌtεknəˈlɑdƷɪkəl/
-technology	/tεkˈnɑlədƷi/
+technological	/ˌtεknəˈlɑdʒɪkəl/
+technology	/tεkˈnɑlədʒi/
 bear	/ˈtεdi/
 tedious	/ˈtiːdiəs/
 tedium	/ˈtiːdiəm/
 tee	/ˈtiː/
 teem	/ˈtiːm/
-teenage	/ˈtiːnˌeɪdƷ/
-teenaged	/-ˌeɪdƷd/
-teenager	/ˈtiːnˌeɪdƷɚ/
+teenage	/ˈtiːnˌeɪdʒ/
+teenaged	/-ˌeɪdʒd/
+teenager	/ˈtiːnˌeɪdʒɚ/
 teens	/ˈtiːnz/
 teeter	/ˈtiːt̬ɚ/
 teethe	/ˈtiːð/
@@ -12684,8 +12684,8 @@ theme	/ˈθiːm/
 themselves	/ðəmˈsεlvz, ðεm-/
 then	/ˈðεn/
 thence	/ˈðεns, ˈθεns/
-theology	/θiˈɑlədƷi/
-theological	/ˌθiːəˈlɑdƷɪkəl/
+theology	/θiˈɑlədʒi/
+theological	/ˌθiːəˈlɑdʒɪkəl/
 theorem	/ˈθiːɚəm, ˈθɪrəm/
 theoretical	/ˌθiːəˈrεt̬ɪkəl/
 theory	/ˈθiːɚi, ˈθɪri/
@@ -12823,8 +12823,8 @@ timetable	/ˈtaɪmˌteɪbəl/
 timid	/ˈtɪmɪd/
 tin	/ˈtɪn/
 tinfoil	/ˈtɪnˌfɔɪl/
-tinge	/ˈtɪndƷ/
-tinging	/ˈtɪndƷɪŋ/
+tinge	/ˈtɪndʒ/
+tinging	/ˈtɪndʒɪŋ/
 tingle	/ˈtɪŋgəl/
 tinker	/ˈtɪŋkɚ/
 tinkle	/ˈtɪŋkəl/
@@ -12938,8 +12938,8 @@ trademark	/ˈtreɪdˌmɑrk/
 tradition	/trəˈdɪʃən/
 traditional	/trəˈdɪʃənəl/
 traffic	/ˈtræfɪk/
-tragedy	/ˈtrædƷədi/
-tragic	/ˈtrædƷɪk/
+tragedy	/ˈtrædʒədi/
+tragic	/ˈtrædʒɪk/
 trail	/ˈtreɪl/
 trailer	/ˈtreɪlɚ/
 train	/ˈtreɪn/
@@ -13046,7 +13046,7 @@ trifling	/ˈtraɪflɪŋ/
 trigger	/ˈtrɪgɚ/
 trill	/ˈtrɪl/
 trillion	/ˈtrɪljən/
-trilogy	/ˈtrɪlədƷi/
+trilogy	/ˈtrɪlədʒi/
 trim	/ˈtrɪm/
 trimming	/ˈtrɪmɪŋ/
 Trinity	/ˈtrɪnət̬i/
@@ -13086,7 +13086,7 @@ truant	/ˈtruːənt/
 truce	/ˈtruːs/
 truck	/ˈtrʌk/
 trucker	/ˈtrʌkɚ/
-trudge	/ˈtrʌdƷ/
+trudge	/ˈtrʌdʒ/
 true	/ˈtruː/
 truffle	/ˈtrʌfəl/
 truly	/ˈtruːli/
@@ -13134,7 +13134,7 @@ turbine	/ˈtɚbən, -ˌbaɪn/
 turbulent	/ˈtɚbjələnt/
 turbulence	/ˈtɚbjələns/
 turf	/ˈtɚf/
-turgid	/ˈtɚdƷɪd/
+turgid	/ˈtɚdʒɪd/
 turkey	/ˈtɚki/
 turmoil	/ˈtɚˌmɔɪl/
 turn	/ˈtɚn/
@@ -13167,7 +13167,7 @@ twig	/ˈtwɪg/
 twilight	/ˈtwaɪˌlaɪt/
 twin	/ˈtwɪn/
 twine	/ˈtwaɪn/
-twinge	/ˈtwɪndƷ/
+twinge	/ˈtwɪndʒ/
 twinkle	/ˈtwɪŋkəl/
 twirl	/ˈtwɚl/
 twist	/ˈtwɪst/
@@ -13207,7 +13207,7 @@ umbrella	/ˌʌmˈbrεlə/
 umpire	/ˈʌmˌpaɪr/
 umpteenth	/ˌʌmpˈtiːnθ/
 unable	/ˌʌnˈeɪbəl/
-unabridged	/ˌʌnəˈbrɪdƷd/
+unabridged	/ˌʌnəˈbrɪdʒd/
 unacceptable	/ˌʌnɪkˈsεptəbəl/
 unaccountable	/ˌʌnəˈkaʊntəd/
 unaccustomed	/ˌʌnəˈkʌstəmd/
@@ -13242,8 +13242,8 @@ unceasing	/ˌʌnˈsiːsɪŋ/
 unceremonious	/ˌʌnˌsεrəˈmoːniəs/
 uncertain	/ˌʌnˈsɚtən/
 uncertainty	/ˌʌnˈsɚtənti/
-unchanged	/ˌʌnˈtʃeɪndƷd/
-unchanging	/ˌʌnˈtʃeɪdƷɪŋ/
+unchanged	/ˌʌnˈtʃeɪndʒd/
+unchanging	/ˌʌnˈtʃeɪdʒɪŋ/
 uncivilized	/ˌʌnˈsɪvəˌlaɪzd/
 uncle	/ˈʌŋkəl/
 unclear	/ˌʌnˈklɪr/
@@ -13262,7 +13262,7 @@ undecided	/ˌʌndiˈsaɪdəd/
 undeniable	/ˌʌndiˈnaɪəbəl/
 under	/ˈʌndɚ/
 way	/ˌʌndɚˈweɪ/
-underage	/ˌʌndɚˈeɪdƷ/
+underage	/ˌʌndɚˈeɪdʒ/
 underclothes	/ˈʌndɚˌkloːz, -ˌkloːðz/
 undercover	/ˌʌndɚˈkʌvɚ/
 undercurrent	/ˈʌndɚˌkɚənt/
@@ -13270,7 +13270,7 @@ underdeveloped	/ˌʌndɚdɪˈvεləpt/
 underestimate	/ˌʌndɚˈεstəˌmeɪt/
 underfoot	/ˌʌndɚˈfʊt/
 undergo	/ˌʌndɚˈgoː/
-undergraduate	/ˌʌndɚˈgrædƷʊət/
+undergraduate	/ˌʌndɚˈgrædʒʊət/
 underground	/ˌʌndɚˈgraʊnd/
 undergrowth	/ˈʌndɚˈgroːθ/
 underhanded	/ˌʌndɚˈhændəd/
@@ -13280,7 +13280,7 @@ undermine	/ˌʌndɚˈmaɪn/
 underneath	/ˌʌndɚˈniːθ/
 underpants	/ˈʌndɚˌpænts/
 underpass	/ˈʌndɚˌpæs/
-underprivileged	/ˌʌndɚˈprɪvlɪdƷd/
+underprivileged	/ˌʌndɚˈprɪvlɪdʒd/
 underrate	/ˌʌndɚˈreɪt/
 undershirt	/ˈʌndɚˌʃɚt/
 understand	/ˌʌndɚˈstænd/
@@ -13310,7 +13310,7 @@ undone	/-ˈdʌn/
 undoubtedly	/ˌʌnˈdaʊt̬ədli/
 undress	/ˌʌnˈdrεs/
 undue	/ˌʌnˈduː, -ˈdjuː/
-undulate	/ˈʌndƷəˌleɪt/
+undulate	/ˈʌndʒəˌleɪt/
 unduly	/ˌʌnˈduːli, -ˈdjuː-/
 undying	/ˌʌnˈdaɪɪŋ/
 unearth	/ˌʌnˈɚθ/
@@ -13318,7 +13318,7 @@ unearthly	/ˌʌnˈɚθli/
 uneasy	/ˌʌnˈiːzi/
 uneasily	/ˌʌnˈiːzəli/
 uneasiness	/ˌʌnˈiːzinəs/
-uneducated	/ˌʌnˈεdƷəˌkeɪt̬əd/
+uneducated	/ˌʌnˈεdʒəˌkeɪt̬əd/
 unemployed	/ˌʌnɪmˈplɔɪd/
 unemployment	/ˌʌnɪmˈplɔɪmənt/
 unerring	/ˌʌnˈεrɪŋ, -ˈɚ-/
@@ -13364,10 +13364,10 @@ uniform	/ˈjuːnəˌfɔrm/
 uniformity	/ˌjuːnəˈfɔrmət̬i/
 unify	/ˈjuːnəˌfaɪ/
 unilateral	/ˌjuːnəˈlæt̬ɚəl/
-unimaginable	/ˌʌnɪˈmædƷənəbəl/
+unimaginable	/ˌʌnɪˈmædʒənəbəl/
 unimportant	/ˌʌnɪmˈpɔrtənt/
 uninhabited	/ˌʌnɪnˈhæbət̬əd/
-uninjured	/ˌʌnˈindƷɚd/
+uninjured	/ˌʌnˈindʒɚd/
 unintentional	/ˌʌnɪnˈtεnʃənəl/
 union	/ˈjuːnjən/
 unique	/jʊˈniːk/
@@ -13379,8 +13379,8 @@ unity	/ˈjuːnət̬i/
 universe	/ˈjuːnəˌvɚs/
 universal	/ˌjuːnəˈvɚsəl/
 university	/ˌjuːnəˈvɚsət̬i/
-unjust	/ˌʌnˈdƷʌst/
-unjustified	/ˌʌnˈdƷʌstəˌfaɪd/
+unjust	/ˌʌnˈdʒʌst/
+unjustified	/ˌʌnˈdʒʌstəˌfaɪd/
 unkempt	/ˌʌnˈkεmpt/
 unkind	/ˌʌnˈkaɪnd/
 unkindness	/ˌʌnˈkaɪndnəs/
@@ -13517,15 +13517,15 @@ up–to–date	/ˌʌptəˈdeɪt/
 uranium	/jʊˈreɪniəm/
 urban	/ˈɚbən/
 urbane	/ˌɚˈbeɪn/
-urge	/ˈɚdƷ/
-urgency	/ˈɚdƷənsi/
-urgent	/ˈɚdƷənt/
+urge	/ˈɚdʒ/
+urgency	/ˈɚdʒənsi/
+urgent	/ˈɚdʒənt/
 urine	/ˈjʊrən/
 urinate	/ˈjʊrəˌneɪt/
 urn	/ˈɚn/
 Uruguayan	/ˌʊrəˈgwaɪən, ˌjʊr-, -ˈgweɪ-/
 us	/ˈʌs/
-usage	/ˈjuːsɪdƷ, -zɪdƷ/
+usage	/ˈjuːsɪdʒ, -zɪdʒ/
 use	/ˈjuːz/
 used	/ˈjuːzd/
 used to /ˈjuːstuː/
@@ -13559,7 +13559,7 @@ vaccination	/ˌvæksəˈneɪʃən/
 vaccinate	/ˈvæksəˌneɪt/
 vaccine	/vækˈsiːn, ˈvækˌ-/
 vacuum	/ˈvæˌkjuːm, -kjəm/
-vagina	/vəˈdƷaɪnə/
+vagina	/vəˈdʒaɪnə/
 vaginae	/-ˌniː, -ˌnaɪ/
 vagrant	/ˈveɪgrənt/
 vague	/ˈveɪg/
@@ -13584,7 +13584,7 @@ vanguard	/ˈvænˌgɑrd/
 vanilla	/vəˈnɪlə, -ˈnε-/
 vanish	/ˈvænɪʃ/
 vanity	/ˈvænət̬i/
-vantage point	/ˈvæntɪdƷ/
+vantage point	/ˈvæntɪdʒ/
 vapor	/ˈveɪpɚ/
 variable	/ˈvεəriəbəl/
 variance	/ˈvεəriəns/
@@ -13604,9 +13604,9 @@ vault 1	/ˈvɔlt/
 VCR	/ˌviːˌsiːˈɑr/
 veal	/ˈviːl/
 veer	/ˈvɪr/
-vegetable	/ˈvεdƷtəbəl, ˈvεdƷət̬ə-/
-vegetarian	/ˌvεdƷəˈtεəriən/
-vegetation	/ˌvεdƷəˈteɪʃən/
+vegetable	/ˈvεdʒtəbəl, ˈvεdʒət̬ə-/
+vegetarian	/ˌvεdʒəˈtεəriən/
+vegetation	/ˌvεdʒəˈteɪʃən/
 vehemence	/ˈviːəməns/
 vehement	/ˈviːəmənt/
 vehicle	/ˈviːəkəl, ˈviːˌhɪkəl/
@@ -13624,8 +13624,8 @@ veneration	/ˌvεnəˈreɪʃən/
 venereal	/vəˈnɪriəl/
 venetian blind	/vəˌniːʃən ˈblaɪnd/
 Venezuelan	/ˌvεnəˈzweɪlən, -zʊˈeɪ-/
-vengeance	/ˈvεndƷəns/
-vengeful	/ˈvεndƷfəl/
+vengeance	/ˈvεndʒəns/
+vengeful	/ˈvεndʒfəl/
 venison	/ˈvεnəsən, -zən/
 venom	/ˈvεnəm/
 venomous	/ˈvεnəməs/
@@ -13643,7 +13643,7 @@ verbal	/ˈvɚbəl/
 verbatim	/vɚˈbeɪt̬əm/
 verbose	/vɚˈboːs/
 verdict	/ˈvɚdɪkt/
-verge	/ˈvɚdƷ/
+verge	/ˈvɚdʒ/
 verify	/ˈvεrəˌfaɪ/
 verification	/ˌvεrəfəˈkeɪʃən/
 vermin	/ˈvɚmən/
@@ -13663,7 +13663,7 @@ very	/ˈvεri/
 vessel	/ˈvεsəl/
 vest	/ˈvεst/
 vestibule	/ˈvεstəˌbjuːl/
-vestige	/ˈvεstɪdƷ/
+vestige	/ˈvεstɪdʒ/
 vet	/ˈvεt/
 veteran	/ˈvεt̬ɚən, ˈvεtrən/
 veterinarian	/ˌvεt̬ɚəˈnεriən, ˌvεt̬əˈnεr-/
@@ -13696,23 +13696,23 @@ Vietnamese	/viˌεtnəˈmiːz, -ˈmiːs/
 view	/ˈvjuː/
 viewer	/ˈvjuːɚ/
 viewpoint	/ˈvjuːˌpɔɪnt/
-vigil	/ˈvɪdƷəl/
-vigilance	/ˈvɪdƷələns/
-vigilant	/ˈvɪdƷələnt/
+vigil	/ˈvɪdʒəl/
+vigilance	/ˈvɪdʒələns/
+vigilant	/ˈvɪdʒələnt/
 vigor	/ˈvɪgɚ/
 vigorous	/ˈvɪgɚəs/
 Viking	/ˈvaɪkɪŋ/
 vile	/ˈvaɪl/
 villa	/ˈvɪlə/
-village	/ˈvɪlɪdƷ/
-villager	/ˈvɪlɪdƷɚ/
+village	/ˈvɪlɪdʒ/
+villager	/ˈvɪlɪdʒɚ/
 villain	/ˈvɪlən/
 vindicate	/ˈvɪndəˌkeɪt/
 vindictive	/vɪnˈdɪktɪv/
 vine	/ˈvaɪn/
 vinegar	/ˈvɪnɪgɚ/
 vineyard	/ˈvɪnjɚd/
-vintage	/ˈvɪntɪdƷ/
+vintage	/ˈvɪntɪdʒ/
 vinyl	/ˈvaɪnəl/
 viola	/viːˈoːlə/
 violate	/ˈvaɪəˌleɪt/
@@ -13726,8 +13726,8 @@ violoncello	/ˌvaɪələnˈtʃεloː, ˌviː-/
 VIP	/ˌviːˌaɪˈpiː/
 VIPs	/-ˈpiːz/
 viper	/ˈvaɪpɚ/
-virgin	/ˈvɚdƷən/
-virginity	/vɚˈdƷɪnət̬i/
+virgin	/ˈvɚdʒən/
+virginity	/vɚˈdʒɪnət̬i/
 virile	/ˈvɪrəl, -ˌaɪl/
 virility	/vəˈrɪlət̬i/
 virtual	/ˈvɚtʃʊəl/
@@ -13775,7 +13775,7 @@ volition	/voˈlɪʃən/
 volley	/ˈvɑli/
 volleyball	/ˈvɑliˌbɔl/
 volt	/ˈvoːlt/
-voltage	/ˈvoːltɪdƷ/
+voltage	/ˈvoːltɪdʒ/
 voluble	/ˈvɑljəbəl/
 volume	/ˈvɑljəm, -ˌjuːm/
 voluminous	/vəˈluːmənəs/
@@ -13791,7 +13791,7 @@ vouch	/ˈvaʊtʃ/
 voucher	/ˈvaʊtʃɚ/
 vow	/vaʊ/
 vowel	/ˈvaʊəl/
-voyage	/ˈvɔɪɪdƷ/
+voyage	/ˈvɔɪɪdʒ/
 vulgar	/ˈvʌlgɚ/
 vulgarity	/ˌvʌlˈgærət̬i/
 vulnerable	/ˈvʌlnɚəbəl/
@@ -13806,8 +13806,8 @@ wafer	/ˈweɪfɚ/
 waffle	/ˈwɑfəl/
 waft	/ˈwɑft, ˈwæft/
 wag	/ˈwæg/
-wage	/ˈweɪdƷ/
-wager	/ˈweɪdƷɚ/
+wage	/ˈweɪdʒ/
+wager	/ˈweɪdʒɚ/
 wagon	/ˈwægən/
 waif	/ˈweɪf/
 wail	/ˈweɪl/
@@ -13901,7 +13901,7 @@ waterway	/ˈwɔt̬ɚˌweɪ, ˈwɑ-/
 waterworks	/ˈwɔt̬ɚˌwɚks, ˈwɑ-/
 watery	/ˈwɔt̬ɚi, ˈwɑ-/
 watt	/ˈwɑt/
-wattage	/ˈwɑt̬ɪdƷ/
+wattage	/ˈwɑt̬ɪdʒ/
 wave	/ˈweɪv/
 wavelength	/ˈweɪvˌlεŋkθ/
 waver	/ˈweɪvɚ/
@@ -13940,7 +13940,7 @@ weaver	/ˈwiːvɚ/
 web	/ˈwεb/
 wed	/ˈwεd/
 wedding	/ˈwεdɪŋ/
-wedge	/ˈwεdƷ/
+wedge	/ˈwεdʒ/
 Wednesday	/ˈwεnzˌdeɪ, -di/
 wee	/ˈwiː/
 weed	/ˈwiːd/
@@ -14203,7 +14203,7 @@ wrathful	/ˈræθfəl/
 wreath	/ˈriːθ/
 wreaths	/ˈriːðz, ˈriːθs/
 wreck	/ˈrεk/
-wreckage	/ˈrεkɪdƷ/
+wreckage	/ˈrεkɪdʒ/
 wren	/ˈrεn/
 wrench	/ˈrεntʃ/
 wrestle	/ˈrεsəl/
@@ -14304,6 +14304,6 @@ zipper	/ˈzɪpɚ/
 zodiac	/ˈzoːdiˌæk/
 zone	/ˈzoːn/
 zoo	/ˈzuː/
-zoology	/zoˈɑlədƷi, zuː-/
+zoology	/zoˈɑlədʒi, zuː-/
 zoom	/ˈzuːm/
 zucchini	/zuˈkiːni/
